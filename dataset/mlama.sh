@@ -1,4 +1,4 @@
-WORKDIR="/mounts/work/philipp/tmp/mlama"
+WORKDIR="./"
 
 # 1. Download TREx and GoogleRE
 wget https://dl.fbaipublicfiles.com/LAMA/data.zip -P ${WORKDIR}
