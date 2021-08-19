@@ -34,7 +34,6 @@ def download_from_wikidata() -> None:
     entities = t.get_all_entities(["obj_uri", "sub_uri"])
     base_url = "https://www.wikidata.org/wiki/Special:EntityData/{}.json"
     for i, entity in enumerate(tqdm.tqdm(entities)):
-        if i % 1000 == 0:
         download_entity(base_url.format(entity), os.path.join(
             args.outpath, entity + ".json"))
 
