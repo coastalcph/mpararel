@@ -1,4 +1,5 @@
-WORKDIR="./"
+export PYTHONPATH=$(pwd)
+WORKDIR="/home/wsr217/mpararel"
 
 # 1. Download TREx and GoogleRE
 wget https://dl.fbaipublicfiles.com/LAMA/data.zip -P ${WORKDIR}

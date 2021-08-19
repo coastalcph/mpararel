@@ -1,4 +1,5 @@
 import argparse
+from logging import warning
 from relations import Relations
 from typing import Text
 import tqdm
@@ -11,10 +12,20 @@ LOG = get_logger(__name__)
 
 
 def get_entity_surface(basepath: Text, uri: Text, language: Text) -> Text:
+    filename = os.path.join(basepath, uri + ".json")
+    if not os.path.isfile(filename):
+        LOG.info("File {} not found, skipping entity.")
+        return ""
     try:
-        with open(os.path.join(basepath, uri + ".json")) as fp:
+        with open(filename) as fp:
             data = json.load(fp)
-
+        if uri not in data['entities']:
+            LOG.info("File '{}' doesn't contain uri '{}', going to use the uri "
+                     "found instead '{}'".format(filename, uri,
+                                                 data['entities'].keys()))
+            if len(data['entities'].keys()) > 1:
+                LOG.warning("Defaulting to first uri from the list available.")
+            uri = list(data['entities'].keys())[0]
         surfaces = data['entities'][uri]['labels']
         if language in surfaces:
             if surfaces[language]["language"] != language:
@@ -23,16 +34,20 @@ def get_entity_surface(basepath: Text, uri: Text, language: Text) -> Text:
         else:
             return ""
     except Exception as e:
-        print("Exception: {} (probably entity file does not exist).".format(e))
+        LOG.info("Catched exception: {} {}".format(type(e), e))
         return ""
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data", default=None, type=str, required=True, help="")
-    parser.add_argument("--entities", default=None, type=str, required=True, help="")
-    parser.add_argument("--outpath", default=None, type=str, required=True, help="")
-    parser.add_argument("--languagemapping", default=None, type=str, required=True, help="")
+    parser.add_argument("--data", default=None,
+                        type=str, required=True, help="")
+    parser.add_argument("--entities", default=None,
+                        type=str, required=True, help="")
+    parser.add_argument("--outpath", default=None,
+                        type=str, required=True, help="")
+    parser.add_argument("--languagemapping", default=None,
+                        type=str, required=True, help="")
     args = parser.parse_args()
     lang2translateid = load_languagemapping(args.languagemapping)
 
@@ -54,8 +69,10 @@ def main():
                         obj_uri = relation["obj_uri"]
                         sub_uri = relation["sub_uri"]
                         # load entitiy information
-                        obj_surface = get_entity_surface(args.entities, obj_uri, lang)
-                        sub_surface = get_entity_surface(args.entities, sub_uri, lang)
+                        obj_surface = get_entity_surface(
+                            args.entities, obj_uri, lang)
+                        sub_surface = get_entity_surface(
+                            args.entities, sub_uri, lang)
                         # write out
                         if obj_surface and sub_surface:
                             count["converted"] += 1
@@ -66,7 +83,8 @@ def main():
                             to_write = {"sub_uri": sub_uri, "obj_uri": obj_uri,
                                         "obj_label": relation["obj_label"], "sub_label": relation["sub_label"], "from_english": True}
                         fout.write(json.dumps(to_write) + "\n")
-            summary = "{}|{}|{}|(converted/available/in_file)".format(count["converted"], count["available"], count["in_file"])
+            summary = "{}|{}|{}|(converted/available/in_file)".format(
+                count["converted"], count["available"], count["in_file"])
             LOG.info(summary)
             logfile.write("{}|{}\n".format(filename, summary))
         logfile.close()
