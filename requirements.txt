@@ -166,3 +166,4 @@ widgetsnbextension==3.5.1
 zc.lockfile==2.0
 tqdm
 requests
+googletrans==4.0.0rc1
