@@ -16,10 +16,14 @@ def fix_template(template, lang):
         template = template.replace("[Y ]", "[Y] ", 1)
 
     if lang == "tl":
-        template = template.replace("Naglalaro ang [X] sa posisyon.", "Naglalaro si [X] sa posisyon na [Y]", 1)
-        template = template.replace("Sumali sa [X] ang [X].", "Sumali ang [X] sa [Y].", 1)
-        template = template.replace("Naglalaro ang [X] ng musika.", "Naglalaro si [X] ng [Y] musika.", 1)
-        template = template.replace("Naglalaro ang [X].", "Ginawa ni [X] ang [Y].", 1)
+        template = template.replace(
+            "Naglalaro ang [X] sa posisyon.", "Naglalaro si [X] sa posisyon na [Y]", 1)
+        template = template.replace(
+            "Sumali sa [X] ang [X].", "Sumali ang [X] sa [Y].", 1)
+        template = template.replace(
+            "Naglalaro ang [X] ng musika.", "Naglalaro si [X] ng [Y] musika.", 1)
+        template = template.replace(
+            "Naglalaro ang [X].", "Ginawa ni [X] ang [Y].", 1)
     if lang == "el":
         template = template.replace("[Χ]", "[X]", 1)
         template = template.replace("[Υ]", "[Y]", 1)
@@ -29,8 +33,10 @@ def fix_template(template, lang):
             template = template.replace("[Ο]", "[Y]", 1)
     if lang == "ceb":
         # to be checked
-        template = template.replace("Natawo sa [Y].", "Natawo ang [X] sa [Y].", 1)
-        template = template.replace("Nag-apil sa [X] ang [X].", "Ang [X] miapil sa [Y].", 1)
+        template = template.replace(
+            "Natawo sa [Y].", "Natawo ang [X] sa [Y].", 1)
+        template = template.replace(
+            "Nag-apil sa [X] ang [X].", "Ang [X] miapil sa [Y].", 1)
 
     if lang == "pa":
         template = template.replace("[ਐਕਸ]", "[X]", 1)
@@ -51,10 +57,13 @@ def fix_template(template, lang):
     if lang == "sr":
         template = template.replace("[Кс]", "[X]", 1)
         template = template.replace("[И]", "[Y]", 1)
-        template = template.replace("[X] је рођен у И.", "[X] је рођен у [Y].", 1)
+        template = template.replace(
+            "[X] је рођен у И.", "[X] је рођен у [Y].", 1)
     if lang == "kk":
-        template = template.replace("[Х] университетте білім алған.", "[X] [Y] университетінде білім алған.", 1)
-        template = template.replace("Ана тілі [Х] болып табылады.", "[Х] -дің ана тілі - [Y].", 1)
+        template = template.replace(
+            "[Х] университетте білім алған.", "[X] [Y] университетінде білім алған.", 1)
+        template = template.replace(
+            "Ана тілі [Х] болып табылады.", "[Х] -дің ана тілі - [Y].", 1)
         template = template.replace("[Х]", "[X]", 1)
         template = template.replace("[Y]", "[Y]", 1)
     if lang == "kn":
@@ -67,10 +76,13 @@ def fix_template(template, lang):
         template = template.replace("[X]", "[X]", 1)
         template = template.replace("[Յ]", "[Y]", 1)
     if lang == "uz":
-        template = template.replace("[X] universitetida tahsil olgan.", "[X] [Y] universitetida tahsil olgan.", 1)
-        template = template.replace("[X] din bilan bog'liq.", "[X] [Y] diniga mansub.", 1)
+        template = template.replace(
+            "[X] universitetida tahsil olgan.", "[X] [Y] universitetida tahsil olgan.", 1)
+        template = template.replace(
+            "[X] din bilan bog'liq.", "[X] [Y] diniga mansub.", 1)
     if lang == "tg":
-        template = template.replace("[X] аз рӯи касб аст.", "[X] аз рӯи касб [Y] аст.", 1)
+        template = template.replace(
+            "[X] аз рӯи касб аст.", "[X] аз рӯи касб [Y] аст.", 1)
         template = template.replace("[Ю]", "[Y]", 1)
         template = template.replace("[Х]", "[X]", 1)
         template = template.replace("[Y]", "[Y]", 1)
@@ -106,11 +118,13 @@ def clean(args):
                     #lang = file.replace(".jsonl", "").split("_")[-1]
                     #template["template"] = fix_template(template["template"], lang)
                     if template["template"].count("[X]") != 1 or template["template"].count("[Y]") != 1:
-                        LOG.warning("Broken Template {} {} {}".format(file, template["relation"], template["template"]))
+                        LOG.warning("Broken Template {} {} {}".format(
+                            file, template["relation"], template["template"]))
                         to_fix.append(file)
                         broken += 1
     to_fix = set(to_fix)
-    LOG.info("Fixing {} broken templates across {} languages.".format(broken, len(to_fix)))
+    LOG.info("Fixing {} broken templates across {} languages.".format(
+        broken, len(to_fix)))
     for file in to_fix:
         with open(os.path.join(args.templates, file), "r") as fp:
             fixed_templates = []
@@ -119,16 +133,17 @@ def clean(args):
                     template = json.loads(line)
                     lang = file.replace(".jsonl", "").split("_")[-1]
                     if template["template"].count("[X]") != 1 or template["template"].count("[Y]") != 1:
-                        template["template"] = fix_template(template["template"], lang)
+                        template["template"] = fix_template(
+                            template["template"], lang)
                     fixed_templates.append(template)
         with open(os.path.join(args.templates, file), "w") as fp:
             for line in fixed_templates:
                 fp.write(json.dumps(line) + "\n")
 
 
-def translate(args):
+def get_language_mapping(language_mapping_filename):
     lang2translateid = {}
-    with open(args.languagemapping) as fp:
+    with open(language_mapping_filename) as fp:
         next(fp)
         for line in fp:
             if line:
@@ -137,21 +152,30 @@ def translate(args):
                     # try the other id and see what comes out of goole translate
                     googleid = wikiid
                 lang2translateid[wikiid.strip()] = googleid.strip()
+    return lang2translateid
 
+
+def get_templates(templates_filename):
     templates = []
-    with open(args.templates) as fp:
+    with open(templates_filename) as fp:
         for line in fp:
             if line:
                 templates.append(json.loads(line))
+    return templates
 
-    # get translations
+
+def translate(args):
+    lang2translateid = get_language_mapping(args.languagemapping)
+    templates = get_templates(args.templates)
+    print("lang2translateid", lang2translateid)
     for wikiid, googleid in lang2translateid.items():
         LOG.info("TRANSLATING {}".format(wikiid))
         translated = []
         for template in templates:
             try:
                 translator = Translator()
-                result = translator.translate(template["template"], src="en", dest=googleid)
+                result = translator.translate(
+                    template["template"], src="en", dest=googleid)
                 translated_template = template.copy()
                 translated_template["template"] = result.text
                 translated.append(translated_template)
@@ -160,26 +184,37 @@ def translate(args):
         if len(translated) != len(templates):
             LOG.warning("Not all translations succesful!")
             LOG.warning("Skipping language")
+            print(len(translated), "!=", len(templates))
         else:
             # write out
+            print("opening:", os.path.join(args.outfile,
+                  "relations_{}.jsonl".format(wikiid)))
             with open(os.path.join(args.outfile, "relations_{}.jsonl".format(wikiid)), "w") as fout:
                 for template in translated:
                     fout.write("{}\n".format(json.dumps(template)))
 
 
-if __name__ == '__main__':
+def create_parser():
     parser = argparse.ArgumentParser()
     subparsers = parser.add_subparsers()
 
     parser_translate = subparsers.add_parser('translate')
     parser_translate.set_defaults(func=translate)
-    parser_translate.add_argument("--templates", default=None, type=str, required=True, help="")
-    parser_translate.add_argument("--languagemapping", default=None, type=str, required=True, help="")
-    parser_translate.add_argument("--outfile", default=None, type=str, required=True, help="")
+    parser_translate.add_argument(
+        "--templates", default=None, type=str, required=True, help="")
+    parser_translate.add_argument(
+        "--languagemapping", default=None, type=str, required=True, help="")
+    parser_translate.add_argument(
+        "--outfile", default=None, type=str, required=True, help="")
 
     parser_clean = subparsers.add_parser('clean')
     parser_clean.set_defaults(func=clean)
-    parser_clean.add_argument("--templates", default=None, type=str, required=True, help="")
+    parser_clean.add_argument(
+        "--templates", default=None, type=str, required=True, help="")
+    return parser
 
+
+if __name__ == '__main__':
+    parser = create_parser()
     args = parser.parse_args()
     args.func(args)
