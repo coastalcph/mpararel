@@ -7,6 +7,7 @@ LOG = get_logger(__name__)
 
 
 def clean_triple(line):
+    """Keeps only relevant keys from the entities."""
     data = json.loads(line)
     relevant_keys = {"obj_label", "sub_label", "obj_uri", "sub_uri"}
     result = {k: v for k, v in data.items(
@@ -15,22 +16,33 @@ def clean_triple(line):
 
 
 def clean_relation(line):
+    """Keeps only relevant keys from the template."""
     data = json.loads(line)
     relevant_keys = {"relation", "template"}
     result = {k: v for k, v in data.items() if k in relevant_keys}
     return result
 
 
+def get_languages(templates_folder):
+    langs = []
+    for filename in os.listdir(templates_folder):
+        if "relations_" in filename:
+            langs.append(filename[len("relations_"):-len(".jsonl")])
+    return langs
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--infolder", default=None,
+                        type=str, required=True, help="")
+    parser.add_argument("--templates_folder_name", default="templates",
                         type=str, required=True, help="")
     parser.add_argument("--outfolder", default=None,
                         type=str, required=True, help="")
     args = parser.parse_args()
 
-    langs = [x[len("relations_"):-len(".jsonl")] for x in os.listdir(
-        os.path.join(args.infolder, "templates")) if "relations_" in x]
+    langs = get_languages(os.path.join(
+        args.infolder, args.templates_folder_name))
     relations = [x.replace(".jsonl", "")
                  for x in os.listdir(os.path.join(args.infolder, "en"))]
 
@@ -41,31 +53,38 @@ def main():
     LOG.info("relations: {}".format(relations))
     for lang in langs:
         LOG.info(lang)
-        # transfer triples
+        # Copy subject-object file to the output folder.
         for relation in relations:
-            current_path = os.path.join(
+            entities_filename = os.path.join(
                 args.infolder, lang, relation + ".jsonl")
-            if os.path.exists(current_path):
-                with open(current_path) as fin:
-                    with open(os.path.join(args.outfolder, lang, relation + ".jsonl"), "w") as fout:
-                        for i, line in enumerate(fin):
-                            triple = clean_triple(line)
-                            if triple:
-                                triple["lineid"] = i
-                                fout.write("{}\n".format(json.dumps(triple)))
+            output_entities_filename = os.path.join(
+                args.outfolder, lang, relation + ".jsonl")
+            if os.path.exists(entities_filename):
+                with open(entities_filename) as fin, \
+                        open(output_entities_filename, "w") as fout:
+                    for i, line in enumerate(fin):
+                        triple = clean_triple(line)
+                        if triple:
+                            triple["lineid"] = i
+                            fout.write("{}\n".format(json.dumps(triple)))
             else:
-                LOG.debug("The file doesn't exists: {}".format(current_path))
-        # transfer templates
-        with open(os.path.join(args.outfolder, lang, "templates.jsonl"), "a") as fout:
-            f = os.path.join(args.infolder, "templates",
-                             "relations_{}.jsonl".format(lang))
-            if os.path.exists(f):
-                with open(os.path.join(args.infolder, "templates", "relations_{}.jsonl".format(lang))) as fin:
-                    for line in fin:
-                        template = clean_relation(line)
-                        fout.write("{}\n".format(json.dumps(template)))
-            else:
-                LOG.debug("The file doesn't exists: {}".format(f))
+                LOG.debug("The file doesn't exists: {}".format(
+                    entities_filename))
+        # Copy templates files to the output dir.
+        templates_filename = os.path.join(
+            args.infolder, args.templates_folder_name,
+            "relations_{}.jsonl".format(lang))
+        output_templates_filename = os.path.join(
+            args.outfolder, lang, "templates.jsonl")
+        if os.path.exists(templates_filename):
+            with open(templates_filename) as fin, \
+                    open(output_templates_filename, "a") as fout:
+                for line in fin:
+                    template = clean_relation(line)
+                    fout.write("{}\n".format(json.dumps(template)))
+        else:
+            LOG.debug("The file doesn't exists: {}".format(
+                templates_filename))
 
 
 if __name__ == '__main__':
