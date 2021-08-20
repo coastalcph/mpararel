@@ -167,7 +167,6 @@ def get_templates(templates_filename):
 def translate(args):
     lang2translateid = get_language_mapping(args.languagemapping)
     templates = get_templates(args.templates)
-    print("lang2translateid", lang2translateid)
     for wikiid, googleid in lang2translateid.items():
         LOG.info("TRANSLATING {}".format(wikiid))
         translated = []
@@ -184,11 +183,8 @@ def translate(args):
         if len(translated) != len(templates):
             LOG.warning("Not all translations succesful!")
             LOG.warning("Skipping language")
-            print(len(translated), "!=", len(templates))
         else:
             # write out
-            print("opening:", os.path.join(args.outfile,
-                  "relations_{}.jsonl".format(wikiid)))
             with open(os.path.join(args.outfile, "relations_{}.jsonl".format(wikiid)), "w") as fout:
                 for template in translated:
                     fout.write("{}\n".format(json.dumps(template)))
