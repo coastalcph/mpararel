@@ -1,3 +1,4 @@
+import collections
 from googletrans import Translator
 import json
 import os
@@ -164,30 +165,56 @@ def get_templates(templates_filename):
     return templates
 
 
-def translate(args):
-    lang2translateid = get_language_mapping(args.languagemapping)
-    templates = get_templates(args.templates)
+def translate_templates(templates, lang2translateid, template_key):
+    translated_templates = {}
     for wikiid, googleid in lang2translateid.items():
-        LOG.info("TRANSLATING {}".format(wikiid))
-        translated = []
+        LOG.info("Translating {}".format(wikiid))
+        translated_templates[wikiid] = []
         for template in templates:
             try:
                 translator = Translator()
                 result = translator.translate(
-                    template["template"], src="en", dest=googleid)
+                    template[template_key], src="en", dest=googleid)
                 translated_template = template.copy()
-                translated_template["template"] = result.text
-                translated.append(translated_template)
+                translated_template[template_key] = result.text
             except Exception as e:
                 LOG.info("Exception: {}".format(e))
-        if len(translated) != len(templates):
-            LOG.warning("Not all translations succesful!")
-            LOG.warning("Skipping language")
-        else:
-            # write out
-            with open(os.path.join(args.outfile, "relations_{}.jsonl".format(wikiid)), "w") as fout:
-                for template in translated:
+                break
+            translated_templates[wikiid].append(translated_template)
+        if len(translated_templates[wikiid]) != len(templates):
+            LOG.warning("Skipping language, not all translations succesful!")
+            continue
+    return translated_templates
+
+
+def translate_folder(args):
+    lang2translateid = get_language_mapping(args.languagemapping)
+    wikiid_to_filename_to_templates = collections.defaultdict(dict)
+    for filename in os.listdir(args.templates_folder):
+        LOG.info("Translating file: {}".format(filename))
+        templates = get_templates(os.path.join(
+            args.templates_folder, filename))
+        for wikiid, this_file_templates in translate_templates(
+                templates, lang2translateid, "pattern").items():
+            wikiid_to_filename_to_templates[wikiid][filename] = this_file_templates
+    for wikiid, filename_to_templates in wikiid_to_filename_to_templates.items():
+        os.makedirs(os.path.join(args.out_folder, wikiid))
+        for filename, templates in filename_to_templates.items():
+            output_filename = os.path.join(args.out_folder, wikiid, filename)
+            with open(output_filename, "w") as fout:
+                for template in templates:
                     fout.write("{}\n".format(json.dumps(template)))
+
+
+def translate(args):
+    lang2translateid = get_language_mapping(args.languagemapping)
+    templates = get_templates(args.templates)
+    wikiid_to_translated = translate_templates(
+        templates, lang2translateid, "template")
+    for wikiid, translated in wikiid_to_translated.items():
+        with open(os.path.join(args.outfile, "relations_{}.jsonl".format(wikiid)), "w") as fout:
+            for template in translated:
+                fout.write("{}\n".format(json.dumps(template)))
 
 
 def create_parser():
@@ -202,6 +229,15 @@ def create_parser():
         "--languagemapping", default=None, type=str, required=True, help="")
     parser_translate.add_argument(
         "--outfile", default=None, type=str, required=True, help="")
+
+    parser_translate = subparsers.add_parser('translate_folder')
+    parser_translate.set_defaults(func=translate_folder)
+    parser_translate.add_argument(
+        "--templates_folder", default=None, type=str, required=True, help="")
+    parser_translate.add_argument(
+        "--languagemapping", default=None, type=str, required=True, help="")
+    parser_translate.add_argument(
+        "--out_folder", default=None, type=str, required=True, help="")
 
     parser_clean = subparsers.add_parser('clean')
     parser_clean.set_defaults(func=clean)
