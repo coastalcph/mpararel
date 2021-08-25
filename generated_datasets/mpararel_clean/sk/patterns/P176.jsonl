@@ -1,0 +1,12 @@
+{"pattern": "[X] sa vyr\u00e1ba [Y] ."}
+{"pattern": "[X] je vyvinut\u00fd [Y] ."}
+{"pattern": "[X] , vyvinut\u00fd [Y]"}
+{"pattern": "[X] , vyroben\u00e9 [Y]"}
+{"pattern": "[X] je vytvoren\u00fd [Y] ."}
+{"pattern": "[X] , vytvoren\u00e9 [Y] ."}
+{"pattern": "[X] je produkt [Y] ."}
+{"pattern": "[X] , produkt [Y] ,"}
+{"pattern": "[X] , produkt vytvoren\u00fd [Y] ,"}
+{"pattern": "[X] , produkt vyvinut\u00fd [Y] ,"}
+{"pattern": "[Y] , tvorca [X]"}
+{"pattern": "[Y] a jeho produkt [X]"}

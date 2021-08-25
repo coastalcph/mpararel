@@ -36,7 +36,7 @@ def main():
     parser.add_argument("--infolder", default=None,
                         type=str, required=True, help="")
     parser.add_argument("--templates_folder_name", default="templates",
-                        type=str, required=True, help="")
+                        type=str, help="")
     parser.add_argument("--outfolder", default=None,
                         type=str, required=True, help="")
     args = parser.parse_args()
@@ -52,7 +52,7 @@ def main():
     LOG.info("langs: {}".format(langs))
     LOG.info("relations: {}".format(relations))
     for lang in langs:
-        LOG.info(lang)
+        LOG.info("Copying data for language: {}".format(lang))
         # Copy subject-object file to the output folder.
         for relation in relations:
             entities_filename = os.path.join(

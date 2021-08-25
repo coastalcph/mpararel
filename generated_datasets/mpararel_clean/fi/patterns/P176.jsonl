@@ -1,0 +1,12 @@
+{"pattern": "[X] tuottaa [Y]."}
+{"pattern": "[X] kehitt\u00e4\u00e4 [Y]."}
+{"pattern": "[X] , jota kehitti [Y]"}
+{"pattern": "[X], jonka tuotti [Y]"}
+{"pattern": "[X] luodaan [Y]."}
+{"pattern": "[X] , jonka olet luonut [Y] ."}
+{"pattern": "[X] on [Y]: n tuote."}
+{"pattern": "[X], [Y]: n tuote,"}
+{"pattern": "[X], [Y]: n luoma tuote,"}
+{"pattern": "[X], [Y]: n kehitt\u00e4m\u00e4 tuote"}
+{"pattern": "[Y], [X]: n luoja"}
+{"pattern": "[Y] ja sen tuote [X]"}

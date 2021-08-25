@@ -56,16 +56,16 @@ python translate_templates.py translate \
 # 4.3. Clean Templates in place
 cp -r ${WORKDIR}/data/multilingual/templates_original ${WORKDIR}/data/multilingual/templates
 python translate_templates.py clean \
-	--templates ${WORKDIR}/data/multilingual/templates
+	--templates_folder ${WORKDIR}/data/multilingual/templates
 
 # 5. Copy each template json into the language folder
-mkdir -p ${WORKDIR}/data_clean
+mkdir -p ${WORKDIR}/generated_datasets/mlama_clean
 python cleanup.py \
     --infolder ${WORKDIR}/data/multilingual \
-    --outfolder ${WORKDIR}/data_clean
+    --outfolder ${WORKDIR}/generated_datasets/mlama_clean
 
 # 6. Load mLAMA
-python reader.py --path ${WORKDIR}/data_clean/
+python reader.py --path ${WORKDIR}/generated_datasets/mlama_clean
 
 
 

@@ -1,0 +1,14 @@
+{"pattern": "[X] \u00e9 a capital de [Y] ."}
+{"pattern": "A capital de [Y] \u00e9 [X] ."}
+{"pattern": "A cidade capital de [Y] \u00e9 [X] ."}
+{"pattern": "[X] \u00e9 a cidade capital de [Y] ."}
+{"pattern": "Capital [Y] , [X] ."}
+{"pattern": "Cidade Capital [Y], [X]."}
+{"pattern": "A capital [Y] \u00e9 [X]."}
+{"pattern": "A cidade capital [Y] \u00e9 [X] ."}
+{"pattern": "[X] , a capital de [Y] ."}
+{"pattern": "[X] , a capital de [Y] ."}
+{"pattern": "[X] , esa \u00e9 a capital de [Y] ."}
+{"pattern": "[X] , esa \u00e9 a capital de [Y] ."}
+{"pattern": "[Y], que ten a capital [X]."}
+{"pattern": "[Y], que ten a cidade capital [X]."}

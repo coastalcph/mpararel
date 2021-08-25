@@ -1,0 +1,4 @@
+{"pattern": "[X] ir [Y] yra \"Twin\" miestai."}
+{"pattern": "[Y] ir [X] yra \"Twin\" miestai."}
+{"pattern": "[Y] yra dvigubas miestas [X] ."}
+{"pattern": "[X] yra dvigubas [Y]."}

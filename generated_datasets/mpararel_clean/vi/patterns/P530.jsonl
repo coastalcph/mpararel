@@ -1,0 +1,9 @@
+{"pattern": "[X] Duy tr\u00ec c\u00e1c m\u1ed1i quan h\u1ec7 ngo\u1ea1i giao v\u1edbi [Y]."}
+{"pattern": "[Y] Duy tr\u00ec c\u00e1c m\u1ed1i quan h\u1ec7 ngo\u1ea1i giao v\u1edbi [X]."}
+{"pattern": "[X] Ties quan h\u1ec7 ngo\u1ea1i giao v\u1edbi [Y] ."}
+{"pattern": "[Y] Ties quan h\u1ec7 ngo\u1ea1i giao v\u1edbi [X]."}
+{"pattern": "[X] c\u00f3 quan h\u1ec7 ngo\u1ea1i giao v\u1edbi [Y] ."}
+{"pattern": "[Y] c\u00f3 quan h\u1ec7 ngo\u1ea1i giao v\u1edbi [X] ."}
+{"pattern": "[X] , c\u00f3 quan h\u1ec7 ngo\u1ea1i giao v\u1edbi [Y]"}
+{"pattern": "[Y] , c\u00f3 quan h\u1ec7 ngo\u1ea1i giao v\u1edbi [X]"}
+{"pattern": "[Y], quan h\u1ec7 ngo\u1ea1i giao n\u00e0o v\u1edbi [X]"}

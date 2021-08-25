@@ -1,0 +1,9 @@
+{"pattern": "[X] is [Y] citizen."}
+{"pattern": "[X] is a citizen of [Y]."}
+{"pattern": "[X], a citizen of [Y]."}
+{"pattern": "[X], who is a citizen of [Y]."}
+{"pattern": "[X] holds a citizenship of [Y]."}
+{"pattern": "[X] has a citizenship of [Y]."}
+{"pattern": "[X], who holds a citizenship of [Y]."}
+{"pattern": "[X], who has a citizenship of [Y]."}
+{"pattern": "as a citizen of [Y], [X]"}

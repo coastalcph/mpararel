@@ -1,0 +1,16 @@
+{"pattern": "[X] razvija [Y] ."}
+{"pattern": "[X] razvio je [Y] ."}
+{"pattern": "[X] , razvijeno [Y] ."}
+{"pattern": "[X] kreira [Y]"}
+{"pattern": "[X] je kreirao [Y]"}
+{"pattern": "[X] , kreirao [Y] ."}
+{"pattern": "[X] je proizvod [Y]"}
+{"pattern": "[X] bio je proizvod [Y]"}
+{"pattern": "[X] , proizvod [Y]"}
+{"pattern": "[X] , proizvod kreiran od [Y]"}
+{"pattern": "[X] , proizvod proizveden [Y]"}
+{"pattern": "[X], proizvod koji je [Y] razvio proizvod"}
+{"pattern": "[Y] , to razvijeno [X]"}
+{"pattern": "[Y] , to je stvoreno [X]"}
+{"pattern": "[Y] , tvorac [X]"}
+{"pattern": "[Y] i njegov proizvod [X]"}

@@ -1,0 +1,776 @@
+{"sub_uri": "Q8818", "obj_uri": "Q1720", "obj_label": "Magonsa", "sub_label": "Valensia", "lineid": 0}
+{"sub_uri": "Q406", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Istanbul", "lineid": 1}
+{"sub_uri": "Q1899", "obj_uri": "Q1781", "obj_label": "B\u00f9dapest", "sub_label": "Kijv", "lineid": 3}
+{"sub_uri": "Q1781", "obj_uri": "Q1794", "obj_label": "Franchfort s\u00ebl Men", "sub_label": "B\u00f9dapest", "lineid": 4}
+{"sub_uri": "Q3561", "obj_uri": "Q1533", "obj_label": "Caracas", "sub_label": "Algeri", "lineid": 6}
+{"sub_uri": "Q8686", "obj_uri": "Q38283", "obj_label": "Yokohama", "sub_label": "Shanghai", "lineid": 8}
+{"sub_uri": "Q585", "obj_uri": "Q270", "obj_label": "Varsavia", "sub_label": "\u00d2slo", "lineid": 9}
+{"sub_uri": "Q65", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_label": "Los Angeles", "lineid": 10}
+{"sub_uri": "Q62", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "San Francisco", "lineid": 11}
+{"sub_uri": "Q13369", "obj_uri": "Q641", "obj_label": "Venessia", "sub_label": "R\u00ecmin", "lineid": 12}
+{"sub_uri": "Q365", "obj_uri": "Q1492", "obj_label": "Barslon-a", "sub_label": "Col\u00f2nia", "lineid": 13}
+{"sub_uri": "Q3935", "obj_uri": "Q1563", "obj_label": "L'Avan-a", "sub_label": "Windhoek", "lineid": 14}
+{"sub_uri": "Q216", "obj_uri": "Q270", "obj_label": "Varsavia", "sub_label": "Vilnius", "lineid": 15}
+{"sub_uri": "Q585", "obj_uri": "Q1754", "obj_label": "Stoc\u00f2lma", "sub_label": "\u00d2slo", "lineid": 16}
+{"sub_uri": "Q7903", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_label": "Casablanca", "lineid": 17}
+{"sub_uri": "Q37320", "obj_uri": "Q1867", "obj_label": "Taipei", "sub_label": "Cleveland", "lineid": 18}
+{"sub_uri": "Q60", "obj_uri": "Q3630", "obj_label": "Giacarta", "sub_label": "New York", "lineid": 19}
+{"sub_uri": "Q34600", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Kyoto", "lineid": 20}
+{"sub_uri": "Q2807", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "Madrid", "lineid": 21}
+{"sub_uri": "Q23438", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Ashgabat", "lineid": 22}
+{"sub_uri": "Q270", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Varsavia", "lineid": 24}
+{"sub_uri": "Q956", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Pechin", "lineid": 25}
+{"sub_uri": "Q656", "obj_uri": "Q495", "obj_label": "Turin", "sub_label": "San Peroborgh", "lineid": 26}
+{"sub_uri": "Q33935", "obj_uri": "Q1794", "obj_label": "Franchfort s\u00ebl Men", "sub_label": "Tel Aviv", "lineid": 27}
+{"sub_uri": "Q1486", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Buenos Aires", "lineid": 28}
+{"sub_uri": "Q1297", "obj_uri": "Q270", "obj_label": "Varsavia", "sub_label": "Chicago", "lineid": 29}
+{"sub_uri": "Q1858", "obj_uri": "Q270", "obj_label": "Varsavia", "sub_label": "Hanoi", "lineid": 30}
+{"sub_uri": "Q1867", "obj_uri": "Q16555", "obj_label": "Houston", "sub_label": "Taipei", "lineid": 31}
+{"sub_uri": "Q456", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_label": "Lion", "lineid": 32}
+{"sub_uri": "Q1486", "obj_uri": "Q1492", "obj_label": "Barslon-a", "sub_label": "Buenos Aires", "lineid": 33}
+{"sub_uri": "Q1297", "obj_uri": "Q3711", "obj_label": "Belgrad", "sub_label": "Chicago", "lineid": 34}
+{"sub_uri": "Q456", "obj_uri": "Q1794", "obj_label": "Franchfort s\u00ebl Men", "sub_label": "Lion", "lineid": 35}
+{"sub_uri": "Q1055", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Amborgh", "lineid": 36}
+{"sub_uri": "Q23564", "obj_uri": "Q3711", "obj_label": "Belgrad", "sub_label": "Podgorica", "lineid": 37}
+{"sub_uri": "Q35765", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Osaka", "lineid": 38}
+{"sub_uri": "Q437", "obj_uri": "Q994", "obj_label": "Tbilisi", "sub_label": "Lubian-a", "lineid": 39}
+{"sub_uri": "Q3640", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "Ankara", "lineid": 40}
+{"sub_uri": "Q270", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Varsavia", "lineid": 42}
+{"sub_uri": "Q1953", "obj_uri": "Q456", "obj_label": "Lion", "sub_label": "Erevan", "lineid": 43}
+{"sub_uri": "Q3711", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Belgrad", "lineid": 44}
+{"sub_uri": "Q3551", "obj_uri": "Q1530", "obj_label": "Baghdad", "sub_label": "Rabat", "lineid": 46}
+{"sub_uri": "Q656", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "San Peroborgh", "lineid": 47}
+{"sub_uri": "Q11194", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Sarajevo", "lineid": 48}
+{"sub_uri": "Q1461", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_label": "Manila", "lineid": 49}
+{"sub_uri": "Q2807", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Madrid", "lineid": 50}
+{"sub_uri": "Q8678", "obj_uri": "Q5112", "obj_label": "Adelaide", "sub_label": "Rio de Janeiro", "lineid": 51}
+{"sub_uri": "Q84", "obj_uri": "Q1435", "obj_label": "Zagabria", "sub_label": "Londra", "lineid": 52}
+{"sub_uri": "Q1899", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Kijv", "lineid": 53}
+{"sub_uri": "Q1867", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Taipei", "lineid": 55}
+{"sub_uri": "Q1085", "obj_uri": "Q472", "obj_label": "S\u00f2fia", "sub_label": "Praga", "lineid": 56}
+{"sub_uri": "Q437", "obj_uri": "Q2683", "obj_label": "Parma", "sub_label": "Lubian-a", "lineid": 60}
+{"sub_uri": "Q1524", "obj_uri": "Q1563", "obj_label": "L'Avan-a", "sub_label": "Atene", "lineid": 61}
+{"sub_uri": "Q656", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "San Peroborgh", "lineid": 62}
+{"sub_uri": "Q1761", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Dublin", "lineid": 63}
+{"sub_uri": "Q1754", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Stoc\u00f2lma", "lineid": 65}
+{"sub_uri": "Q2044", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Firense", "lineid": 67}
+{"sub_uri": "Q994", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Tbilisi", "lineid": 68}
+{"sub_uri": "Q6602", "obj_uri": "Q1022", "obj_label": "Stocarda", "sub_label": "Strasborgh", "lineid": 69}
+{"sub_uri": "Q1491", "obj_uri": "Q1533", "obj_label": "Caracas", "sub_label": "La Paz", "lineid": 71}
+{"sub_uri": "Q3766", "obj_uri": "Q85", "obj_label": "\u00cbl C\u00e0iro", "sub_label": "Damasch", "lineid": 72}
+{"sub_uri": "Q1867", "obj_uri": "Q270", "obj_label": "Varsavia", "sub_label": "Taipei", "lineid": 73}
+{"sub_uri": "Q472", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "S\u00f2fia", "lineid": 74}
+{"sub_uri": "Q1489", "obj_uri": "Q1754", "obj_label": "Stoc\u00f2lma", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 75}
+{"sub_uri": "Q1757", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Helsinki", "lineid": 76}
+{"sub_uri": "Q1085", "obj_uri": "Q2634", "obj_label": "N\u00e0poli", "sub_label": "Praga", "lineid": 77}
+{"sub_uri": "Q23154", "obj_uri": "Q1479", "obj_label": "Bord\u00f2", "sub_label": "Bristol", "lineid": 78}
+{"sub_uri": "Q1858", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Hanoi", "lineid": 79}
+{"sub_uri": "Q19660", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "B\u00f9carest", "lineid": 82}
+{"sub_uri": "Q3820", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Beirut", "lineid": 83}
+{"sub_uri": "Q1850", "obj_uri": "Q84", "obj_label": "Londra", "sub_label": "Phnom Penh", "lineid": 84}
+{"sub_uri": "Q8660", "obj_uri": "Q1348", "obj_label": "Kolkata", "sub_label": "Karachi", "lineid": 85}
+{"sub_uri": "Q2807", "obj_uri": "Q1479", "obj_label": "Bord\u00f2", "sub_label": "Madrid", "lineid": 86}
+{"sub_uri": "Q1022", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_label": "Stocarda", "lineid": 87}
+{"sub_uri": "Q1761", "obj_uri": "Q1781", "obj_label": "B\u00f9dapest", "sub_label": "Dublin", "lineid": 92}
+{"sub_uri": "Q1829", "obj_uri": "Q1953", "obj_label": "Erevan", "sub_label": "Kaliningrad", "lineid": 93}
+{"sub_uri": "Q33935", "obj_uri": "Q641", "obj_label": "Venessia", "sub_label": "Tel Aviv", "lineid": 94}
+{"sub_uri": "Q656", "obj_uri": "Q1335", "obj_label": "Montevideo", "sub_label": "San Peroborgh", "lineid": 95}
+{"sub_uri": "Q11194", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Sarajevo", "lineid": 98}
+{"sub_uri": "Q1754", "obj_uri": "Q1748", "obj_label": "Copen\u00e0ghen", "sub_label": "Stoc\u00f2lma", "lineid": 99}
+{"sub_uri": "Q8673", "obj_uri": "Q994", "obj_label": "Tbilisi", "sub_label": "Lagos", "lineid": 100}
+{"sub_uri": "Q3437", "obj_uri": "Q1780", "obj_label": "Bratislava", "sub_label": "Perugia", "lineid": 101}
+{"sub_uri": "Q270", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Varsavia", "lineid": 102}
+{"sub_uri": "Q3820", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Beirut", "lineid": 103}
+{"sub_uri": "Q3306", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Sit\u00e0 \u00ebd Panam\u00e0", "lineid": 104}
+{"sub_uri": "Q649", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_label": "Mosca", "lineid": 105}
+{"sub_uri": "Q3572", "obj_uri": "Q340", "obj_label": "Montr\u00e9al", "sub_label": "T\u00f9nis", "lineid": 106}
+{"sub_uri": "Q2256", "obj_uri": "Q2079", "obj_label": "Lipsia", "sub_label": "Birmingham", "lineid": 107}
+{"sub_uri": "Q270", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Varsavia", "lineid": 108}
+{"sub_uri": "Q85", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "\u00cbl C\u00e0iro", "lineid": 109}
+{"sub_uri": "Q1780", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Bratislava", "lineid": 110}
+{"sub_uri": "Q1156", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_label": "Mumbai", "lineid": 111}
+{"sub_uri": "Q216", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "Vilnius", "lineid": 112}
+{"sub_uri": "Q8660", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Karachi", "lineid": 113}
+{"sub_uri": "Q23556", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Atlanta", "lineid": 114}
+{"sub_uri": "Q65", "obj_uri": "Q3616", "obj_label": "Teheran", "sub_label": "Los Angeles", "lineid": 115}
+{"sub_uri": "Q3630", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Giacarta", "lineid": 116}
+{"sub_uri": "Q16010", "obj_uri": "Q365", "obj_label": "Col\u00f2nia", "sub_label": "Esch-sur-Alzette", "lineid": 118}
+{"sub_uri": "Q1794", "obj_uri": "Q2079", "obj_label": "Lipsia", "sub_label": "Franchfort s\u00ebl Men", "lineid": 119}
+{"sub_uri": "Q1461", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Manila", "lineid": 120}
+{"sub_uri": "Q23436", "obj_uri": "Q2044", "obj_label": "Firense", "sub_label": "Edimborgh", "lineid": 121}
+{"sub_uri": "Q33959", "obj_uri": "Q1461", "obj_label": "Manila", "sub_label": "Nissa Mar\u00ectima", "lineid": 122}
+{"sub_uri": "Q1861", "obj_uri": "Q3630", "obj_label": "Giacarta", "sub_label": "Bangkok", "lineid": 123}
+{"sub_uri": "Q1715", "obj_uri": "Q2079", "obj_label": "Lipsia", "sub_label": "Hannover", "lineid": 124}
+{"sub_uri": "Q1489", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 125}
+{"sub_uri": "Q1899", "obj_uri": "Q1770", "obj_label": "Tallin", "sub_label": "Kijv", "lineid": 126}
+{"sub_uri": "Q1899", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Kijv", "lineid": 127}
+{"sub_uri": "Q406", "obj_uri": "Q727", "obj_label": "\u00c0msterdam", "sub_label": "Istanbul", "lineid": 128}
+{"sub_uri": "Q1519", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Abu Dhabi", "lineid": 129}
+{"sub_uri": "Q1794", "obj_uri": "Q85", "obj_label": "\u00cbl C\u00e0iro", "sub_label": "Franchfort s\u00ebl Men", "lineid": 130}
+{"sub_uri": "Q23661", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_label": "Wellington", "lineid": 131}
+{"sub_uri": "Q2807", "obj_uri": "Q1533", "obj_label": "Caracas", "sub_label": "Madrid", "lineid": 132}
+{"sub_uri": "Q597", "obj_uri": "Q1335", "obj_label": "Montevideo", "sub_label": "Lisbon-a", "lineid": 133}
+{"sub_uri": "Q6225", "obj_uri": "Q1731", "obj_label": "Dresda", "sub_label": "Coventry", "lineid": 136}
+{"sub_uri": "Q23482", "obj_uri": "Q1953", "obj_label": "Erevan", "sub_label": "Mars\u00e8ja", "lineid": 137}
+{"sub_uri": "Q129610", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Galway", "lineid": 138}
+{"sub_uri": "Q3630", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_label": "Giacarta", "lineid": 139}
+{"sub_uri": "Q340", "obj_uri": "Q1461", "obj_label": "Manila", "sub_label": "Montr\u00e9al", "lineid": 140}
+{"sub_uri": "Q7903", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_label": "Casablanca", "lineid": 144}
+{"sub_uri": "Q649", "obj_uri": "Q1773", "obj_label": "Riga", "sub_label": "Mosca", "lineid": 145}
+{"sub_uri": "Q3616", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Teheran", "lineid": 147}
+{"sub_uri": "Q384", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "Skopje", "lineid": 149}
+{"sub_uri": "Q6602", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Strasborgh", "lineid": 150}
+{"sub_uri": "Q495", "obj_uri": "Q365", "obj_label": "Col\u00f2nia", "sub_label": "Turin", "lineid": 151}
+{"sub_uri": "Q656", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "San Peroborgh", "lineid": 154}
+{"sub_uri": "Q727", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "\u00c0msterdam", "lineid": 155}
+{"sub_uri": "Q1748", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Copen\u00e0ghen", "lineid": 156}
+{"sub_uri": "Q216", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Vilnius", "lineid": 157}
+{"sub_uri": "Q1362", "obj_uri": "Q3630", "obj_label": "Giacarta", "sub_label": "Islamabad", "lineid": 159}
+{"sub_uri": "Q11194", "obj_uri": "Q19689", "obj_label": "Tiran-a", "sub_label": "Sarajevo", "lineid": 160}
+{"sub_uri": "Q8678", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_label": "Rio de Janeiro", "lineid": 162}
+{"sub_uri": "Q406", "obj_uri": "Q2044", "obj_label": "Firense", "sub_label": "Istanbul", "lineid": 163}
+{"sub_uri": "Q1461", "obj_uri": "Q340", "obj_label": "Montr\u00e9al", "sub_label": "Manila", "lineid": 164}
+{"sub_uri": "Q3616", "obj_uri": "Q5838", "obj_label": "Kabul", "sub_label": "Teheran", "lineid": 166}
+{"sub_uri": "Q406", "obj_uri": "Q19660", "obj_label": "B\u00f9carest", "sub_label": "Istanbul", "lineid": 167}
+{"sub_uri": "Q1520", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Nur-Sultan", "lineid": 168}
+{"sub_uri": "Q216", "obj_uri": "Q1754", "obj_label": "Stoc\u00f2lma", "sub_label": "Vilnius", "lineid": 169}
+{"sub_uri": "Q60", "obj_uri": "Q1218", "obj_label": "Gerusalem", "sub_label": "New York", "lineid": 170}
+{"sub_uri": "Q656", "obj_uri": "Q2280", "obj_label": "Minsk", "sub_label": "San Peroborgh", "lineid": 171}
+{"sub_uri": "Q1486", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Buenos Aires", "lineid": 172}
+{"sub_uri": "Q490", "obj_uri": "Q340", "obj_label": "Montr\u00e9al", "sub_label": "Milan", "lineid": 173}
+{"sub_uri": "Q216", "obj_uri": "Q1773", "obj_label": "Riga", "sub_label": "Vilnius", "lineid": 174}
+{"sub_uri": "Q1524", "obj_uri": "Q1492", "obj_label": "Barslon-a", "sub_label": "Atene", "lineid": 175}
+{"sub_uri": "Q1773", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Riga", "lineid": 177}
+{"sub_uri": "Q65", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_label": "Los Angeles", "lineid": 178}
+{"sub_uri": "Q956", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "Pechin", "lineid": 179}
+{"sub_uri": "Q71724", "obj_uri": "Q129610", "obj_label": "Galway", "sub_label": "Lorient", "lineid": 181}
+{"sub_uri": "Q1781", "obj_uri": "Q36036", "obj_label": "Lviv", "sub_label": "B\u00f9dapest", "lineid": 182}
+{"sub_uri": "Q641", "obj_uri": "Q33959", "obj_label": "Nissa Mar\u00ectima", "sub_label": "Venessia", "lineid": 183}
+{"sub_uri": "Q1953", "obj_uri": "Q641", "obj_label": "Venessia", "sub_label": "Erevan", "lineid": 185}
+{"sub_uri": "Q1085", "obj_uri": "Q34600", "obj_label": "Kyoto", "sub_label": "Praga", "lineid": 186}
+{"sub_uri": "Q33935", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Tel Aviv", "lineid": 187}
+{"sub_uri": "Q1953", "obj_uri": "Q340", "obj_label": "Montr\u00e9al", "sub_label": "Erevan", "lineid": 188}
+{"sub_uri": "Q8678", "obj_uri": "Q8673", "obj_label": "Lagos", "sub_label": "Rio de Janeiro", "lineid": 190}
+{"sub_uri": "Q1524", "obj_uri": "Q1085", "obj_label": "Praga", "sub_label": "Atene", "lineid": 191}
+{"sub_uri": "Q3711", "obj_uri": "Q437", "obj_label": "Lubian-a", "sub_label": "Belgrad", "lineid": 194}
+{"sub_uri": "Q1085", "obj_uri": "Q2090", "obj_label": "Norimberga", "sub_label": "Praga", "lineid": 196}
+{"sub_uri": "Q1055", "obj_uri": "Q23482", "obj_label": "Mars\u00e8ja", "sub_label": "Amborgh", "lineid": 198}
+{"sub_uri": "Q3805", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Amman", "lineid": 199}
+{"sub_uri": "Q13298", "obj_uri": "Q437", "obj_label": "Lubian-a", "sub_label": "Graz", "lineid": 205}
+{"sub_uri": "Q641", "obj_uri": "Q19689", "obj_label": "Tiran-a", "sub_label": "Venessia", "lineid": 206}
+{"sub_uri": "Q649", "obj_uri": "Q85", "obj_label": "\u00cbl C\u00e0iro", "sub_label": "Mosca", "lineid": 208}
+{"sub_uri": "Q8678", "obj_uri": "Q3870", "obj_label": "Nair\u00f2bi", "sub_label": "Rio de Janeiro", "lineid": 209}
+{"sub_uri": "Q84", "obj_uri": "Q19660", "obj_label": "B\u00f9carest", "sub_label": "Londra", "lineid": 212}
+{"sub_uri": "Q1479", "obj_uri": "Q7903", "obj_label": "Casablanca", "sub_label": "Bord\u00f2", "lineid": 216}
+{"sub_uri": "Q1748", "obj_uri": "Q23482", "obj_label": "Mars\u00e8ja", "sub_label": "Copen\u00e0ghen", "lineid": 217}
+{"sub_uri": "Q994", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Tbilisi", "lineid": 218}
+{"sub_uri": "Q656", "obj_uri": "Q1492", "obj_label": "Barslon-a", "sub_label": "San Peroborgh", "lineid": 219}
+{"sub_uri": "Q1865", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Kuala Lumpur", "lineid": 220}
+{"sub_uri": "Q956", "obj_uri": "Q3616", "obj_label": "Teheran", "sub_label": "Pechin", "lineid": 221}
+{"sub_uri": "Q8684", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_label": "Seoul", "lineid": 224}
+{"sub_uri": "Q1425428", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "Newcastle-upon-Tyne", "lineid": 225}
+{"sub_uri": "Q1490", "obj_uri": "Q220", "obj_label": "Roma", "sub_label": "Tokyo", "lineid": 227}
+{"sub_uri": "Q1362", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_label": "Islamabad", "lineid": 228}
+{"sub_uri": "Q2807", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Madrid", "lineid": 229}
+{"sub_uri": "Q3616", "obj_uri": "Q1461", "obj_label": "Manila", "sub_label": "Teheran", "lineid": 230}
+{"sub_uri": "Q956", "obj_uri": "Q2887", "obj_label": "Santiago d\u00ebl Cile", "sub_label": "Pechin", "lineid": 232}
+{"sub_uri": "Q2865", "obj_uri": "Q2044", "obj_label": "Firense", "sub_label": "Kassel", "lineid": 234}
+{"sub_uri": "Q1741", "obj_uri": "Q1781", "obj_label": "B\u00f9dapest", "sub_label": "Vien-a", "lineid": 235}
+{"sub_uri": "Q70", "obj_uri": "Q1741", "obj_label": "Vien-a", "sub_label": "Berna", "lineid": 236}
+{"sub_uri": "Q1524", "obj_uri": "Q727", "obj_label": "\u00c0msterdam", "sub_label": "Atene", "lineid": 237}
+{"sub_uri": "Q52535", "obj_uri": "Q1335", "obj_label": "Montevideo", "sub_label": "Rosario", "lineid": 238}
+{"sub_uri": "Q1741", "obj_uri": "Q437", "obj_label": "Lubian-a", "sub_label": "Vien-a", "lineid": 239}
+{"sub_uri": "Q1741", "obj_uri": "Q3711", "obj_label": "Belgrad", "sub_label": "Vien-a", "lineid": 240}
+{"sub_uri": "Q3766", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Damasch", "lineid": 241}
+{"sub_uri": "Q340", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Montr\u00e9al", "lineid": 242}
+{"sub_uri": "Q172", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Toronto", "lineid": 243}
+{"sub_uri": "Q172", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Toronto", "lineid": 244}
+{"sub_uri": "Q3856", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Nicos\u00eca", "lineid": 245}
+{"sub_uri": "Q597", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Lisbon-a", "lineid": 246}
+{"sub_uri": "Q406", "obj_uri": "Q85", "obj_label": "\u00cbl C\u00e0iro", "sub_label": "Istanbul", "lineid": 247}
+{"sub_uri": "Q1490", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Tokyo", "lineid": 248}
+{"sub_uri": "Q1486", "obj_uri": "Q2887", "obj_label": "Santiago d\u00ebl Cile", "sub_label": "Buenos Aires", "lineid": 249}
+{"sub_uri": "Q1489", "obj_uri": "Q16555", "obj_label": "Houston", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 250}
+{"sub_uri": "Q81398", "obj_uri": "Q1461", "obj_label": "Manila", "sub_label": "Acapulco", "lineid": 251}
+{"sub_uri": "Q437", "obj_uri": "Q1435", "obj_label": "Zagabria", "sub_label": "Lubian-a", "lineid": 252}
+{"sub_uri": "Q2449", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Mogadiss", "lineid": 255}
+{"sub_uri": "Q2090", "obj_uri": "Q641", "obj_label": "Venessia", "sub_label": "Norimberga", "lineid": 256}
+{"sub_uri": "Q34713", "obj_uri": "Q1731", "obj_label": "Dresda", "sub_label": "Salisborgh", "lineid": 257}
+{"sub_uri": "Q1953", "obj_uri": "Q1780", "obj_label": "Bratislava", "sub_label": "Erevan", "lineid": 258}
+{"sub_uri": "Q1899", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Kijv", "lineid": 261}
+{"sub_uri": "Q956", "obj_uri": "Q19689", "obj_label": "Tiran-a", "sub_label": "Pechin", "lineid": 263}
+{"sub_uri": "Q2079", "obj_uri": "Q1891", "obj_label": "Bol\u00f2gna", "sub_label": "Lipsia", "lineid": 264}
+{"sub_uri": "Q1757", "obj_uri": "Q472", "obj_label": "S\u00f2fia", "sub_label": "Helsinki", "lineid": 265}
+{"sub_uri": "Q23482", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_label": "Mars\u00e8ja", "lineid": 266}
+{"sub_uri": "Q100", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_label": "Boston", "lineid": 267}
+{"sub_uri": "Q3572", "obj_uri": "Q1741", "obj_label": "Vien-a", "sub_label": "T\u00f9nis", "lineid": 269}
+{"sub_uri": "Q1754", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Stoc\u00f2lma", "lineid": 271}
+{"sub_uri": "Q1486", "obj_uri": "Q3711", "obj_label": "Belgrad", "sub_label": "Buenos Aires", "lineid": 272}
+{"sub_uri": "Q48320", "obj_uri": "Q23482", "obj_label": "Mars\u00e8ja", "sub_label": "Kobe", "lineid": 274}
+{"sub_uri": "Q11736", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_label": "Tianjin", "lineid": 276}
+{"sub_uri": "Q8684", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Seoul", "lineid": 277}
+{"sub_uri": "Q7880", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Tolosa", "lineid": 278}
+{"sub_uri": "Q1022", "obj_uri": "Q85", "obj_label": "\u00cbl C\u00e0iro", "sub_label": "Stocarda", "lineid": 279}
+{"sub_uri": "Q65", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_label": "Los Angeles", "lineid": 281}
+{"sub_uri": "Q80053", "obj_uri": "Q9248", "obj_label": "Baku", "sub_label": "Tabriz", "lineid": 282}
+{"sub_uri": "Q1899", "obj_uri": "Q7880", "obj_label": "Tolosa", "sub_label": "Kijv", "lineid": 283}
+{"sub_uri": "Q25270", "obj_uri": "Q19689", "obj_label": "Tiran-a", "sub_label": "Pr\u00ecstina", "lineid": 284}
+{"sub_uri": "Q3820", "obj_uri": "Q3766", "obj_label": "Damasch", "sub_label": "Beirut", "lineid": 286}
+{"sub_uri": "Q3616", "obj_uri": "Q1218", "obj_label": "Gerusalem", "sub_label": "Teheran", "lineid": 287}
+{"sub_uri": "Q2807", "obj_uri": "Q1563", "obj_label": "L'Avan-a", "sub_label": "Madrid", "lineid": 288}
+{"sub_uri": "Q1563", "obj_uri": "Q1492", "obj_label": "Barslon-a", "sub_label": "L'Avan-a", "lineid": 289}
+{"sub_uri": "Q19689", "obj_uri": "Q495", "obj_label": "Turin", "sub_label": "Tiran-a", "lineid": 290}
+{"sub_uri": "Q12191", "obj_uri": "Q10690", "obj_label": "Cardiff", "sub_label": "Nantes", "lineid": 291}
+{"sub_uri": "Q36091", "obj_uri": "Q2887", "obj_label": "Santiago d\u00ebl Cile", "sub_label": "Minneapolis", "lineid": 292}
+{"sub_uri": "Q1435", "obj_uri": "Q270", "obj_label": "Varsavia", "sub_label": "Zagabria", "lineid": 293}
+{"sub_uri": "Q19689", "obj_uri": "Q2044", "obj_label": "Firense", "sub_label": "Tiran-a", "lineid": 294}
+{"sub_uri": "Q1741", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Vien-a", "lineid": 295}
+{"sub_uri": "Q1085", "obj_uri": "Q1218", "obj_label": "Gerusalem", "sub_label": "Praga", "lineid": 296}
+{"sub_uri": "Q3551", "obj_uri": "Q3766", "obj_label": "Damasch", "sub_label": "Rabat", "lineid": 297}
+{"sub_uri": "Q19689", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Tiran-a", "lineid": 298}
+{"sub_uri": "Q1297", "obj_uri": "Q1085", "obj_label": "Praga", "sub_label": "Chicago", "lineid": 299}
+{"sub_uri": "Q1519", "obj_uri": "Q3630", "obj_label": "Giacarta", "sub_label": "Abu Dhabi", "lineid": 300}
+{"sub_uri": "Q2887", "obj_uri": "Q8652", "obj_label": "Miami", "sub_label": "Santiago d\u00ebl Cile", "lineid": 301}
+{"sub_uri": "Q1490", "obj_uri": "Q3630", "obj_label": "Giacarta", "sub_label": "Tokyo", "lineid": 302}
+{"sub_uri": "Q1524", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Atene", "lineid": 303}
+{"sub_uri": "Q727", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "\u00c0msterdam", "lineid": 305}
+{"sub_uri": "Q956", "obj_uri": "Q23661", "obj_label": "Wellington", "sub_label": "Pechin", "lineid": 307}
+{"sub_uri": "Q33935", "obj_uri": "Q1781", "obj_label": "B\u00f9dapest", "sub_label": "Tel Aviv", "lineid": 308}
+{"sub_uri": "Q1773", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Riga", "lineid": 309}
+{"sub_uri": "Q472", "obj_uri": "Q19660", "obj_label": "B\u00f9carest", "sub_label": "S\u00f2fia", "lineid": 310}
+{"sub_uri": "Q987", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_label": "New Delhi", "lineid": 311}
+{"sub_uri": "Q1707", "obj_uri": "Q1770", "obj_label": "Tallin", "sub_label": "Kiel", "lineid": 312}
+{"sub_uri": "Q3711", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Belgrad", "lineid": 313}
+{"sub_uri": "Q52535", "obj_uri": "Q1492", "obj_label": "Barslon-a", "sub_label": "Rosario", "lineid": 315}
+{"sub_uri": "Q13437", "obj_uri": "Q220", "obj_label": "Roma", "sub_label": "Benevent", "lineid": 317}
+{"sub_uri": "Q8660", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_label": "Karachi", "lineid": 321}
+{"sub_uri": "Q1953", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Erevan", "lineid": 322}
+{"sub_uri": "Q3572", "obj_uri": "Q1754", "obj_label": "Stoc\u00f2lma", "sub_label": "T\u00f9nis", "lineid": 323}
+{"sub_uri": "Q456", "obj_uri": "Q1461", "obj_label": "Manila", "sub_label": "Lion", "lineid": 324}
+{"sub_uri": "Q3519", "obj_uri": "Q1891", "obj_label": "Bol\u00f2gna", "sub_label": "Bari", "lineid": 325}
+{"sub_uri": "Q65", "obj_uri": "Q1953", "obj_label": "Erevan", "sub_label": "Los Angeles", "lineid": 326}
+{"sub_uri": "Q9248", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Baku", "lineid": 327}
+{"sub_uri": "Q1489", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 328}
+{"sub_uri": "Q2807", "obj_uri": "Q270", "obj_label": "Varsavia", "sub_label": "Madrid", "lineid": 329}
+{"sub_uri": "Q35178", "obj_uri": "Q39984", "obj_label": "Cannes", "sub_label": "Sit\u00e0 d\u00ebl Kuwait", "lineid": 330}
+{"sub_uri": "Q1773", "obj_uri": "Q2280", "obj_label": "Minsk", "sub_label": "Riga", "lineid": 331}
+{"sub_uri": "Q84", "obj_uri": "Q472", "obj_label": "S\u00f2fia", "sub_label": "Londra", "lineid": 333}
+{"sub_uri": "Q649", "obj_uri": "Q727", "obj_label": "\u00c0msterdam", "sub_label": "Mosca", "lineid": 337}
+{"sub_uri": "Q2683", "obj_uri": "Q437", "obj_label": "Lubian-a", "sub_label": "Parma", "lineid": 338}
+{"sub_uri": "Q19660", "obj_uri": "Q472", "obj_label": "S\u00f2fia", "sub_label": "B\u00f9carest", "lineid": 339}
+{"sub_uri": "Q35178", "obj_uri": "Q3616", "obj_label": "Teheran", "sub_label": "Sit\u00e0 d\u00ebl Kuwait", "lineid": 340}
+{"sub_uri": "Q84", "obj_uri": "Q3630", "obj_label": "Giacarta", "sub_label": "Londra", "lineid": 341}
+{"sub_uri": "Q85", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "\u00cbl C\u00e0iro", "lineid": 342}
+{"sub_uri": "Q16554", "obj_uri": "Q12193", "obj_label": "Brest", "sub_label": "Denver", "lineid": 343}
+{"sub_uri": "Q1289", "obj_uri": "Q85", "obj_label": "\u00cbl C\u00e0iro", "sub_label": "Grenoble", "lineid": 344}
+{"sub_uri": "Q3141", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Melbourne", "lineid": 346}
+{"sub_uri": "Q62", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_label": "San Francisco", "lineid": 347}
+{"sub_uri": "Q8684", "obj_uri": "Q85", "obj_label": "\u00cbl C\u00e0iro", "sub_label": "Seoul", "lineid": 348}
+{"sub_uri": "Q956", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Pechin", "lineid": 349}
+{"sub_uri": "Q472", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "S\u00f2fia", "lineid": 351}
+{"sub_uri": "Q2145", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_label": "Qu\u00e9bec (sit\u00e0)", "lineid": 352}
+{"sub_uri": "Q406", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "Istanbul", "lineid": 353}
+{"sub_uri": "Q914", "obj_uri": "Q6225", "obj_label": "Coventry", "sub_label": "Volgograd", "lineid": 354}
+{"sub_uri": "Q8684", "obj_uri": "Q19689", "obj_label": "Tiran-a", "sub_label": "Seoul", "lineid": 355}
+{"sub_uri": "Q406", "obj_uri": "Q365", "obj_label": "Col\u00f2nia", "sub_label": "Istanbul", "lineid": 356}
+{"sub_uri": "Q3616", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Teheran", "lineid": 357}
+{"sub_uri": "Q2256", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Birmingham", "lineid": 360}
+{"sub_uri": "Q1085", "obj_uri": "Q1748", "obj_label": "Copen\u00e0ghen", "sub_label": "Praga", "lineid": 361}
+{"sub_uri": "Q270", "obj_uri": "Q585", "obj_label": "\u00d2slo", "sub_label": "Varsavia", "lineid": 363}
+{"sub_uri": "Q1794", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "Franchfort s\u00ebl Men", "lineid": 364}
+{"sub_uri": "Q19660", "obj_uri": "Q84", "obj_label": "Londra", "sub_label": "B\u00f9carest", "lineid": 368}
+{"sub_uri": "Q656", "obj_uri": "Q9248", "obj_label": "Baku", "sub_label": "San Peroborgh", "lineid": 369}
+{"sub_uri": "Q406", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Istanbul", "lineid": 370}
+{"sub_uri": "Q656", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_label": "San Peroborgh", "lineid": 371}
+{"sub_uri": "Q1741", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Vien-a", "lineid": 373}
+{"sub_uri": "Q216", "obj_uri": "Q36036", "obj_label": "Lviv", "sub_label": "Vilnius", "lineid": 374}
+{"sub_uri": "Q3820", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_label": "Beirut", "lineid": 375}
+{"sub_uri": "Q1773", "obj_uri": "Q2887", "obj_label": "Santiago d\u00ebl Cile", "sub_label": "Riga", "lineid": 376}
+{"sub_uri": "Q60", "obj_uri": "Q85", "obj_label": "\u00cbl C\u00e0iro", "sub_label": "New York", "lineid": 377}
+{"sub_uri": "Q1489", "obj_uri": "Q1335", "obj_label": "Montevideo", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 378}
+{"sub_uri": "Q340", "obj_uri": "Q1953", "obj_label": "Erevan", "sub_label": "Montr\u00e9al", "lineid": 380}
+{"sub_uri": "Q1461", "obj_uri": "Q3616", "obj_label": "Teheran", "sub_label": "Manila", "lineid": 381}
+{"sub_uri": "Q1348", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_label": "Kolkata", "lineid": 382}
+{"sub_uri": "Q1524", "obj_uri": "Q3766", "obj_label": "Damasch", "sub_label": "Atene", "lineid": 384}
+{"sub_uri": "Q2807", "obj_uri": "Q1085", "obj_label": "Praga", "sub_label": "Madrid", "lineid": 385}
+{"sub_uri": "Q9248", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "Baku", "lineid": 387}
+{"sub_uri": "Q1524", "obj_uri": "Q2044", "obj_label": "Firense", "sub_label": "Atene", "lineid": 388}
+{"sub_uri": "Q1085", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Praga", "lineid": 389}
+{"sub_uri": "Q956", "obj_uri": "Q1748", "obj_label": "Copen\u00e0ghen", "sub_label": "Pechin", "lineid": 390}
+{"sub_uri": "Q1861", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Bangkok", "lineid": 392}
+{"sub_uri": "Q34820", "obj_uri": "Q1335", "obj_label": "Montevideo", "sub_label": "Santo Domingo", "lineid": 393}
+{"sub_uri": "Q1726", "obj_uri": "Q2028", "obj_label": "Veron-a", "sub_label": "M\u00f9nich \u00ebd Baviera", "lineid": 394}
+{"sub_uri": "Q1435", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_label": "Zagabria", "lineid": 395}
+{"sub_uri": "Q2887", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Santiago d\u00ebl Cile", "lineid": 397}
+{"sub_uri": "Q1761", "obj_uri": "Q24826", "obj_label": "Liverpool", "sub_label": "Dublin", "lineid": 398}
+{"sub_uri": "Q85", "obj_uri": "Q7903", "obj_label": "Casablanca", "sub_label": "\u00cbl C\u00e0iro", "lineid": 399}
+{"sub_uri": "Q1899", "obj_uri": "Q2280", "obj_label": "Minsk", "sub_label": "Kijv", "lineid": 401}
+{"sub_uri": "Q8686", "obj_uri": "Q23482", "obj_label": "Mars\u00e8ja", "sub_label": "Shanghai", "lineid": 402}
+{"sub_uri": "Q1492", "obj_uri": "Q85", "obj_label": "\u00cbl C\u00e0iro", "sub_label": "Barslon-a", "lineid": 404}
+{"sub_uri": "Q3926", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Pretoria", "lineid": 406}
+{"sub_uri": "Q19689", "obj_uri": "Q1492", "obj_label": "Barslon-a", "sub_label": "Tiran-a", "lineid": 407}
+{"sub_uri": "Q2280", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Minsk", "lineid": 408}
+{"sub_uri": "Q3889", "obj_uri": "Q8673", "obj_label": "Lagos", "sub_label": "Maputo", "lineid": 409}
+{"sub_uri": "Q1489", "obj_uri": "Q2868", "obj_label": "Lima", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 410}
+{"sub_uri": "Q6602", "obj_uri": "Q1731", "obj_label": "Dresda", "sub_label": "Strasborgh", "lineid": 411}
+{"sub_uri": "Q84", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Londra", "lineid": 412}
+{"sub_uri": "Q1085", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Praga", "lineid": 413}
+{"sub_uri": "Q270", "obj_uri": "Q1773", "obj_label": "Riga", "sub_label": "Varsavia", "lineid": 414}
+{"sub_uri": "Q1489", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 415}
+{"sub_uri": "Q1520", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Nur-Sultan", "lineid": 416}
+{"sub_uri": "Q956", "obj_uri": "Q3630", "obj_label": "Giacarta", "sub_label": "Pechin", "lineid": 417}
+{"sub_uri": "Q1085", "obj_uri": "Q1794", "obj_label": "Franchfort s\u00ebl Men", "sub_label": "Praga", "lineid": 418}
+{"sub_uri": "Q1953", "obj_uri": "Q994", "obj_label": "Tbilisi", "sub_label": "Erevan", "lineid": 419}
+{"sub_uri": "Q656", "obj_uri": "Q270", "obj_label": "Varsavia", "sub_label": "San Peroborgh", "lineid": 420}
+{"sub_uri": "Q33935", "obj_uri": "Q7880", "obj_label": "Tolosa", "sub_label": "Tel Aviv", "lineid": 421}
+{"sub_uri": "Q1865", "obj_uri": "Q3630", "obj_label": "Giacarta", "sub_label": "Kuala Lumpur", "lineid": 422}
+{"sub_uri": "Q23556", "obj_uri": "Q8673", "obj_label": "Lagos", "sub_label": "Atlanta", "lineid": 423}
+{"sub_uri": "Q43196", "obj_uri": "Q1726", "obj_label": "M\u00f9nich \u00ebd Baviera", "sub_label": "Cincinnati", "lineid": 424}
+{"sub_uri": "Q1850", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_label": "Phnom Penh", "lineid": 425}
+{"sub_uri": "Q8686", "obj_uri": "Q35381", "obj_label": "Colombo", "sub_label": "Shanghai", "lineid": 426}
+{"sub_uri": "Q1297", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_label": "Chicago", "lineid": 427}
+{"sub_uri": "Q34713", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_label": "Salisborgh", "lineid": 428}
+{"sub_uri": "Q406", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "Istanbul", "lineid": 429}
+{"sub_uri": "Q18125", "obj_uri": "Q727", "obj_label": "\u00c0msterdam", "sub_label": "Manchester", "lineid": 431}
+{"sub_uri": "Q8686", "obj_uri": "Q176", "obj_label": "Qu\u00e9bec", "sub_label": "Shanghai", "lineid": 432}
+{"sub_uri": "Q270", "obj_uri": "Q1867", "obj_label": "Taipei", "sub_label": "Varsavia", "lineid": 433}
+{"sub_uri": "Q1867", "obj_uri": "Q1773", "obj_label": "Riga", "sub_label": "Taipei", "lineid": 434}
+{"sub_uri": "Q1729", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Erfurt", "lineid": 435}
+{"sub_uri": "Q34713", "obj_uri": "Q2028", "obj_label": "Veron-a", "sub_label": "Salisborgh", "lineid": 437}
+{"sub_uri": "Q8678", "obj_uri": "Q71", "obj_label": "G\u00ebneva", "sub_label": "Rio de Janeiro", "lineid": 438}
+{"sub_uri": "Q1342", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_label": "Pittsburgh", "lineid": 439}
+{"sub_uri": "Q3630", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Giacarta", "lineid": 441}
+{"sub_uri": "Q1770", "obj_uri": "Q641", "obj_label": "Venessia", "sub_label": "Tallin", "lineid": 442}
+{"sub_uri": "Q1953", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_label": "Erevan", "lineid": 443}
+{"sub_uri": "Q1362", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Islamabad", "lineid": 444}
+{"sub_uri": "Q1858", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Hanoi", "lineid": 446}
+{"sub_uri": "Q340", "obj_uri": "Q727", "obj_label": "\u00c0msterdam", "sub_label": "Montr\u00e9al", "lineid": 447}
+{"sub_uri": "Q490", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_label": "Milan", "lineid": 449}
+{"sub_uri": "Q11194", "obj_uri": "Q1754", "obj_label": "Stoc\u00f2lma", "sub_label": "Sarajevo", "lineid": 451}
+{"sub_uri": "Q1085", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Praga", "lineid": 452}
+{"sub_uri": "Q270", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Varsavia", "lineid": 453}
+{"sub_uri": "Q35765", "obj_uri": "Q1055", "obj_label": "Amborgh", "sub_label": "Osaka", "lineid": 454}
+{"sub_uri": "Q1861", "obj_uri": "Q1781", "obj_label": "B\u00f9dapest", "sub_label": "Bangkok", "lineid": 455}
+{"sub_uri": "Q14960", "obj_uri": "Q1741", "obj_label": "Vien-a", "sub_label": "Brno", "lineid": 456}
+{"sub_uri": "Q1461", "obj_uri": "Q1867", "obj_label": "Taipei", "sub_label": "Manila", "lineid": 457}
+{"sub_uri": "Q1486", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Buenos Aires", "lineid": 458}
+{"sub_uri": "Q956", "obj_uri": "Q3561", "obj_label": "Algeri", "sub_label": "Pechin", "lineid": 459}
+{"sub_uri": "Q3630", "obj_uri": "Q84", "obj_label": "Londra", "sub_label": "Giacarta", "lineid": 460}
+{"sub_uri": "Q100", "obj_uri": "Q1867", "obj_label": "Taipei", "sub_label": "Boston", "lineid": 461}
+{"sub_uri": "Q1492", "obj_uri": "Q1563", "obj_label": "L'Avan-a", "sub_label": "Barslon-a", "lineid": 462}
+{"sub_uri": "Q2256", "obj_uri": "Q1794", "obj_label": "Franchfort s\u00ebl Men", "sub_label": "Birmingham", "lineid": 464}
+{"sub_uri": "Q34820", "obj_uri": "Q597", "obj_label": "Lisbon-a", "sub_label": "Santo Domingo", "lineid": 465}
+{"sub_uri": "Q656", "obj_uri": "Q585", "obj_label": "\u00d2slo", "sub_label": "San Peroborgh", "lineid": 467}
+{"sub_uri": "Q23564", "obj_uri": "Q19689", "obj_label": "Tiran-a", "sub_label": "Podgorica", "lineid": 469}
+{"sub_uri": "Q3711", "obj_uri": "Q1754", "obj_label": "Stoc\u00f2lma", "sub_label": "Belgrad", "lineid": 470}
+{"sub_uri": "Q1492", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_label": "Barslon-a", "lineid": 471}
+{"sub_uri": "Q33935", "obj_uri": "Q1345", "obj_label": "Filadelfia", "sub_label": "Tel Aviv", "lineid": 473}
+{"sub_uri": "Q3561", "obj_uri": "Q727", "obj_label": "\u00c0msterdam", "sub_label": "Algeri", "lineid": 474}
+{"sub_uri": "Q8686", "obj_uri": "Q84", "obj_label": "Londra", "sub_label": "Shanghai", "lineid": 475}
+{"sub_uri": "Q1770", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Tallin", "lineid": 477}
+{"sub_uri": "Q3805", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Amman", "lineid": 478}
+{"sub_uri": "Q84", "obj_uri": "Q3561", "obj_label": "Algeri", "sub_label": "Londra", "lineid": 479}
+{"sub_uri": "Q1492", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_label": "Barslon-a", "lineid": 480}
+{"sub_uri": "Q1297", "obj_uri": "Q1055", "obj_label": "Amborgh", "sub_label": "Chicago", "lineid": 482}
+{"sub_uri": "Q8678", "obj_uri": "Q1492", "obj_label": "Barslon-a", "sub_label": "Rio de Janeiro", "lineid": 483}
+{"sub_uri": "Q472", "obj_uri": "Q1085", "obj_label": "Praga", "sub_label": "S\u00f2fia", "lineid": 486}
+{"sub_uri": "Q1773", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Riga", "lineid": 487}
+{"sub_uri": "Q585", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_label": "\u00d2slo", "lineid": 488}
+{"sub_uri": "Q1794", "obj_uri": "Q456", "obj_label": "Lion", "sub_label": "Franchfort s\u00ebl Men", "lineid": 489}
+{"sub_uri": "Q84", "obj_uri": "Q727", "obj_label": "\u00c0msterdam", "sub_label": "Londra", "lineid": 490}
+{"sub_uri": "Q25287", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_label": "G\u00f6teborg", "lineid": 491}
+{"sub_uri": "Q1867", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_label": "Taipei", "lineid": 492}
+{"sub_uri": "Q365", "obj_uri": "Q648", "obj_label": "Lille", "sub_label": "Col\u00f2nia", "lineid": 493}
+{"sub_uri": "Q4065", "obj_uri": "Q1707", "obj_label": "Kiel", "sub_label": "Stralsund", "lineid": 496}
+{"sub_uri": "Q956", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Pechin", "lineid": 497}
+{"sub_uri": "Q85", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "\u00cbl C\u00e0iro", "lineid": 499}
+{"sub_uri": "Q216", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Vilnius", "lineid": 500}
+{"sub_uri": "Q1520", "obj_uri": "Q270", "obj_label": "Varsavia", "sub_label": "Nur-Sultan", "lineid": 501}
+{"sub_uri": "Q1524", "obj_uri": "Q203263", "obj_label": "Athens (Ge\u00f2rgia)", "sub_label": "Atene", "lineid": 502}
+{"sub_uri": "Q1489", "obj_uri": "Q1563", "obj_label": "L'Avan-a", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 503}
+{"sub_uri": "Q2887", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_label": "Santiago d\u00ebl Cile", "lineid": 505}
+{"sub_uri": "Q472", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "S\u00f2fia", "lineid": 506}
+{"sub_uri": "Q437", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Lubian-a", "lineid": 507}
+{"sub_uri": "Q656", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_label": "San Peroborgh", "lineid": 508}
+{"sub_uri": "Q19660", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "B\u00f9carest", "lineid": 512}
+{"sub_uri": "Q34820", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Santo Domingo", "lineid": 513}
+{"sub_uri": "Q987", "obj_uri": "Q84", "obj_label": "Londra", "sub_label": "New Delhi", "lineid": 514}
+{"sub_uri": "Q23482", "obj_uri": "Q2634", "obj_label": "N\u00e0poli", "sub_label": "Mars\u00e8ja", "lineid": 515}
+{"sub_uri": "Q11194", "obj_uri": "Q2634", "obj_label": "N\u00e0poli", "sub_label": "Sarajevo", "lineid": 516}
+{"sub_uri": "Q3630", "obj_uri": "Q727", "obj_label": "\u00c0msterdam", "sub_label": "Giacarta", "lineid": 517}
+{"sub_uri": "Q3616", "obj_uri": "Q1563", "obj_label": "L'Avan-a", "sub_label": "Teheran", "lineid": 518}
+{"sub_uri": "Q3579", "obj_uri": "Q3561", "obj_label": "Algeri", "sub_label": "Tr\u00ecpoli", "lineid": 519}
+{"sub_uri": "Q1435", "obj_uri": "Q1781", "obj_label": "B\u00f9dapest", "sub_label": "Zagabria", "lineid": 520}
+{"sub_uri": "Q585", "obj_uri": "Q1748", "obj_label": "Copen\u00e0ghen", "sub_label": "\u00d2slo", "lineid": 521}
+{"sub_uri": "Q1492", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Barslon-a", "lineid": 522}
+{"sub_uri": "Q2044", "obj_uri": "Q1781", "obj_label": "B\u00f9dapest", "sub_label": "Firense", "lineid": 523}
+{"sub_uri": "Q8385", "obj_uri": "Q1731", "obj_label": "Dresda", "sub_label": "Ostrava", "lineid": 524}
+{"sub_uri": "Q2079", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Lipsia", "lineid": 527}
+{"sub_uri": "Q987", "obj_uri": "Q1953", "obj_label": "Erevan", "sub_label": "New Delhi", "lineid": 528}
+{"sub_uri": "Q19660", "obj_uri": "Q3766", "obj_label": "Damasch", "sub_label": "B\u00f9carest", "lineid": 529}
+{"sub_uri": "Q597", "obj_uri": "Q641", "obj_label": "Venessia", "sub_label": "Lisbon-a", "lineid": 530}
+{"sub_uri": "Q1754", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "Stoc\u00f2lma", "lineid": 531}
+{"sub_uri": "Q23661", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Wellington", "lineid": 533}
+{"sub_uri": "Q1963", "obj_uri": "Q3616", "obj_label": "Teheran", "sub_label": "Khartoum", "lineid": 534}
+{"sub_uri": "Q3820", "obj_uri": "Q85", "obj_label": "\u00cbl C\u00e0iro", "sub_label": "Beirut", "lineid": 535}
+{"sub_uri": "Q9248", "obj_uri": "Q641", "obj_label": "Venessia", "sub_label": "Baku", "lineid": 537}
+{"sub_uri": "Q1489", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 538}
+{"sub_uri": "Q3130", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "Sydney", "lineid": 539}
+{"sub_uri": "Q85", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "\u00cbl C\u00e0iro", "lineid": 540}
+{"sub_uri": "Q3561", "obj_uri": "Q340", "obj_label": "Montr\u00e9al", "sub_label": "Algeri", "lineid": 541}
+{"sub_uri": "Q1489", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 542}
+{"sub_uri": "Q8686", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Shanghai", "lineid": 543}
+{"sub_uri": "Q1489", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 544}
+{"sub_uri": "Q2807", "obj_uri": "Q1335", "obj_label": "Montevideo", "sub_label": "Madrid", "lineid": 546}
+{"sub_uri": "Q3820", "obj_uri": "Q1530", "obj_label": "Baghdad", "sub_label": "Beirut", "lineid": 547}
+{"sub_uri": "Q1563", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "L'Avan-a", "lineid": 548}
+{"sub_uri": "Q1770", "obj_uri": "Q1754", "obj_label": "Stoc\u00f2lma", "sub_label": "Tallin", "lineid": 549}
+{"sub_uri": "Q1891", "obj_uri": "Q1435", "obj_label": "Zagabria", "sub_label": "Bol\u00f2gna", "lineid": 550}
+{"sub_uri": "Q11194", "obj_uri": "Q1781", "obj_label": "B\u00f9dapest", "sub_label": "Sarajevo", "lineid": 552}
+{"sub_uri": "Q1754", "obj_uri": "Q19689", "obj_label": "Tiran-a", "sub_label": "Stoc\u00f2lma", "lineid": 553}
+{"sub_uri": "Q406", "obj_uri": "Q1754", "obj_label": "Stoc\u00f2lma", "sub_label": "Istanbul", "lineid": 554}
+{"sub_uri": "Q1435", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "Zagabria", "lineid": 555}
+{"sub_uri": "Q1757", "obj_uri": "Q585", "obj_label": "\u00d2slo", "sub_label": "Helsinki", "lineid": 556}
+{"sub_uri": "Q1461", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Manila", "lineid": 557}
+{"sub_uri": "Q1524", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Atene", "lineid": 559}
+{"sub_uri": "Q8686", "obj_uri": "Q7903", "obj_label": "Casablanca", "sub_label": "Shanghai", "lineid": 560}
+{"sub_uri": "Q1342", "obj_uri": "Q1435", "obj_label": "Zagabria", "sub_label": "Pittsburgh", "lineid": 561}
+{"sub_uri": "Q37951", "obj_uri": "Q1726", "obj_label": "M\u00f9nich \u00ebd Baviera", "sub_label": "Sapporo", "lineid": 562}
+{"sub_uri": "Q14960", "obj_uri": "Q1022", "obj_label": "Stocarda", "sub_label": "Brno", "lineid": 563}
+{"sub_uri": "Q19689", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Tiran-a", "lineid": 564}
+{"sub_uri": "Q956", "obj_uri": "Q84", "obj_label": "Londra", "sub_label": "Pechin", "lineid": 565}
+{"sub_uri": "Q65", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_label": "Los Angeles", "lineid": 566}
+{"sub_uri": "Q3640", "obj_uri": "Q3766", "obj_label": "Damasch", "sub_label": "Ankara", "lineid": 567}
+{"sub_uri": "Q35493", "obj_uri": "Q1773", "obj_label": "Riga", "sub_label": "Almaty", "lineid": 569}
+{"sub_uri": "Q406", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_label": "Istanbul", "lineid": 570}
+{"sub_uri": "Q23564", "obj_uri": "Q1953", "obj_label": "Erevan", "sub_label": "Podgorica", "lineid": 572}
+{"sub_uri": "Q1486", "obj_uri": "Q270", "obj_label": "Varsavia", "sub_label": "Buenos Aires", "lineid": 573}
+{"sub_uri": "Q8686", "obj_uri": "Q1492", "obj_label": "Barslon-a", "sub_label": "Shanghai", "lineid": 574}
+{"sub_uri": "Q23002", "obj_uri": "Q472675", "obj_label": "Frederick", "sub_label": "Schifferstadt", "lineid": 575}
+{"sub_uri": "Q8686", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_label": "Shanghai", "lineid": 576}
+{"sub_uri": "Q3572", "obj_uri": "Q3711", "obj_label": "Belgrad", "sub_label": "T\u00f9nis", "lineid": 577}
+{"sub_uri": "Q3711", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Belgrad", "lineid": 578}
+{"sub_uri": "Q1489", "obj_uri": "Q1533", "obj_label": "Caracas", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 579}
+{"sub_uri": "Q490", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Milan", "lineid": 580}
+{"sub_uri": "Q216", "obj_uri": "Q1085", "obj_label": "Praga", "sub_label": "Vilnius", "lineid": 582}
+{"sub_uri": "Q649", "obj_uri": "Q437", "obj_label": "Lubian-a", "sub_label": "Mosca", "lineid": 583}
+{"sub_uri": "Q19660", "obj_uri": "Q1781", "obj_label": "B\u00f9dapest", "sub_label": "B\u00f9carest", "lineid": 585}
+{"sub_uri": "Q84", "obj_uri": "Q3616", "obj_label": "Teheran", "sub_label": "Londra", "lineid": 586}
+{"sub_uri": "Q216", "obj_uri": "Q2280", "obj_label": "Minsk", "sub_label": "Vilnius", "lineid": 588}
+{"sub_uri": "Q1899", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Kijv", "lineid": 589}
+{"sub_uri": "Q1491", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "La Paz", "lineid": 590}
+{"sub_uri": "Q365", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Col\u00f2nia", "lineid": 591}
+{"sub_uri": "Q1780", "obj_uri": "Q437", "obj_label": "Lubian-a", "sub_label": "Bratislava", "lineid": 593}
+{"sub_uri": "Q7003", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_label": "Digion", "lineid": 594}
+{"sub_uri": "Q1899", "obj_uri": "Q1953", "obj_label": "Erevan", "sub_label": "Kijv", "lineid": 596}
+{"sub_uri": "Q61", "obj_uri": "Q585", "obj_label": "\u00d2slo", "sub_label": "Washington", "lineid": 597}
+{"sub_uri": "Q216", "obj_uri": "Q34713", "obj_label": "Salisborgh", "sub_label": "Vilnius", "lineid": 599}
+{"sub_uri": "Q437", "obj_uri": "Q1741", "obj_label": "Vien-a", "sub_label": "Lubian-a", "lineid": 600}
+{"sub_uri": "Q1899", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "Kijv", "lineid": 602}
+{"sub_uri": "Q1461", "obj_uri": "Q33959", "obj_label": "Nissa Mar\u00ectima", "sub_label": "Manila", "lineid": 604}
+{"sub_uri": "Q490", "obj_uri": "Q2634", "obj_label": "N\u00e0poli", "sub_label": "Milan", "lineid": 605}
+{"sub_uri": "Q456", "obj_uri": "Q2079", "obj_label": "Lipsia", "sub_label": "Lion", "lineid": 606}
+{"sub_uri": "Q7880", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_label": "Tolosa", "lineid": 607}
+{"sub_uri": "Q384", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Skopje", "lineid": 608}
+{"sub_uri": "Q8678", "obj_uri": "Q1218", "obj_label": "Gerusalem", "sub_label": "Rio de Janeiro", "lineid": 610}
+{"sub_uri": "Q8684", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Seoul", "lineid": 611}
+{"sub_uri": "Q656", "obj_uri": "Q472", "obj_label": "S\u00f2fia", "sub_label": "San Peroborgh", "lineid": 612}
+{"sub_uri": "Q656", "obj_uri": "Q23436", "obj_label": "Edimborgh", "sub_label": "San Peroborgh", "lineid": 613}
+{"sub_uri": "Q1794", "obj_uri": "Q1781", "obj_label": "B\u00f9dapest", "sub_label": "Franchfort s\u00ebl Men", "lineid": 614}
+{"sub_uri": "Q3110", "obj_uri": "Q1533", "obj_label": "Caracas", "sub_label": "San Salvador", "lineid": 615}
+{"sub_uri": "Q270", "obj_uri": "Q1741", "obj_label": "Vien-a", "sub_label": "Varsavia", "lineid": 616}
+{"sub_uri": "Q1492", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Barslon-a", "lineid": 617}
+{"sub_uri": "Q3718", "obj_uri": "Q3561", "obj_label": "Algeri", "sub_label": "Dakar", "lineid": 618}
+{"sub_uri": "Q19689", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Tiran-a", "lineid": 619}
+{"sub_uri": "Q340", "obj_uri": "Q7903", "obj_label": "Casablanca", "sub_label": "Montr\u00e9al", "lineid": 621}
+{"sub_uri": "Q1085", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Praga", "lineid": 622}
+{"sub_uri": "Q216", "obj_uri": "Q23436", "obj_label": "Edimborgh", "sub_label": "Vilnius", "lineid": 623}
+{"sub_uri": "Q61", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "Washington", "lineid": 624}
+{"sub_uri": "Q384", "obj_uri": "Q1435", "obj_label": "Zagabria", "sub_label": "Skopje", "lineid": 625}
+{"sub_uri": "Q1899", "obj_uri": "Q3711", "obj_label": "Belgrad", "sub_label": "Kijv", "lineid": 626}
+{"sub_uri": "Q8686", "obj_uri": "Q340", "obj_label": "Montr\u00e9al", "sub_label": "Shanghai", "lineid": 628}
+{"sub_uri": "Q160493", "obj_uri": "Q2749", "obj_label": "Augsburg", "sub_label": "Inverness", "lineid": 631}
+{"sub_uri": "Q48320", "obj_uri": "Q34932", "obj_label": "Brisbane", "sub_label": "Kobe", "lineid": 632}
+{"sub_uri": "Q18808", "obj_uri": "Q3630", "obj_label": "Giacarta", "sub_label": "Pyongyang", "lineid": 633}
+{"sub_uri": "Q1461", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Manila", "lineid": 634}
+{"sub_uri": "Q1489", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 635}
+{"sub_uri": "Q1362", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "Islamabad", "lineid": 636}
+{"sub_uri": "Q85", "obj_uri": "Q16555", "obj_label": "Houston", "sub_label": "\u00cbl C\u00e0iro", "lineid": 637}
+{"sub_uri": "Q727", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "\u00c0msterdam", "lineid": 640}
+{"sub_uri": "Q84", "obj_uri": "Q9248", "obj_label": "Baku", "sub_label": "Londra", "lineid": 641}
+{"sub_uri": "Q23154", "obj_uri": "Q7880", "obj_label": "Tolosa", "sub_label": "Bristol", "lineid": 642}
+{"sub_uri": "Q2028", "obj_uri": "Q1726", "obj_label": "M\u00f9nich \u00ebd Baviera", "sub_label": "Veron-a", "lineid": 643}
+{"sub_uri": "Q1781", "obj_uri": "Q1435", "obj_label": "Zagabria", "sub_label": "B\u00f9dapest", "lineid": 644}
+{"sub_uri": "Q472", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "S\u00f2fia", "lineid": 645}
+{"sub_uri": "Q3572", "obj_uri": "Q23482", "obj_label": "Mars\u00e8ja", "sub_label": "T\u00f9nis", "lineid": 646}
+{"sub_uri": "Q495", "obj_uri": "Q648", "obj_label": "Lille", "sub_label": "Turin", "lineid": 647}
+{"sub_uri": "Q3766", "obj_uri": "Q1953", "obj_label": "Erevan", "sub_label": "Damasch", "lineid": 649}
+{"sub_uri": "Q340", "obj_uri": "Q3561", "obj_label": "Algeri", "sub_label": "Montr\u00e9al", "lineid": 650}
+{"sub_uri": "Q1754", "obj_uri": "Q1770", "obj_label": "Tallin", "sub_label": "Stoc\u00f2lma", "lineid": 651}
+{"sub_uri": "Q365", "obj_uri": "Q495", "obj_label": "Turin", "sub_label": "Col\u00f2nia", "lineid": 652}
+{"sub_uri": "Q61", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Washington", "lineid": 653}
+{"sub_uri": "Q84", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_label": "Londra", "lineid": 654}
+{"sub_uri": "Q3561", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Algeri", "lineid": 656}
+{"sub_uri": "Q3616", "obj_uri": "Q84", "obj_label": "Londra", "sub_label": "Teheran", "lineid": 657}
+{"sub_uri": "Q1781", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "B\u00f9dapest", "lineid": 658}
+{"sub_uri": "Q3955", "obj_uri": "Q2751", "obj_label": "Sien-a", "sub_label": "Weimar", "lineid": 659}
+{"sub_uri": "Q3616", "obj_uri": "Q1533", "obj_label": "Caracas", "sub_label": "Teheran", "lineid": 660}
+{"sub_uri": "Q2079", "obj_uri": "Q456", "obj_label": "Lion", "sub_label": "Lipsia", "lineid": 662}
+{"sub_uri": "Q8678", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "Rio de Janeiro", "lineid": 666}
+{"sub_uri": "Q3805", "obj_uri": "Q1530", "obj_label": "Baghdad", "sub_label": "Amman", "lineid": 667}
+{"sub_uri": "Q19660", "obj_uri": "Q8673", "obj_label": "Lagos", "sub_label": "B\u00f9carest", "lineid": 668}
+{"sub_uri": "Q1362", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Islamabad", "lineid": 669}
+{"sub_uri": "Q3897", "obj_uri": "Q16555", "obj_label": "Houston", "sub_label": "Luanda", "lineid": 670}
+{"sub_uri": "Q19689", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Tiran-a", "lineid": 671}
+{"sub_uri": "Q1486", "obj_uri": "Q8652", "obj_label": "Miami", "sub_label": "Buenos Aires", "lineid": 672}
+{"sub_uri": "Q19660", "obj_uri": "Q340", "obj_label": "Montr\u00e9al", "sub_label": "B\u00f9carest", "lineid": 674}
+{"sub_uri": "Q16552", "obj_uri": "Q23436", "obj_label": "Edimborgh", "sub_label": "San Diego", "lineid": 676}
+{"sub_uri": "Q11736", "obj_uri": "Q1345", "obj_label": "Filadelfia", "sub_label": "Tianjin", "lineid": 677}
+{"sub_uri": "Q1486", "obj_uri": "Q1085", "obj_label": "Praga", "sub_label": "Buenos Aires", "lineid": 678}
+{"sub_uri": "Q340", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_label": "Montr\u00e9al", "lineid": 679}
+{"sub_uri": "Q1489", "obj_uri": "Q597", "obj_label": "Lisbon-a", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 680}
+{"sub_uri": "Q1754", "obj_uri": "Q3711", "obj_label": "Belgrad", "sub_label": "Stoc\u00f2lma", "lineid": 681}
+{"sub_uri": "Q1461", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_label": "Manila", "lineid": 682}
+{"sub_uri": "Q1297", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "Chicago", "lineid": 683}
+{"sub_uri": "Q656", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_label": "San Peroborgh", "lineid": 684}
+{"sub_uri": "Q987", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "New Delhi", "lineid": 686}
+{"sub_uri": "Q490", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Milan", "lineid": 687}
+{"sub_uri": "Q172", "obj_uri": "Q270", "obj_label": "Varsavia", "sub_label": "Toronto", "lineid": 688}
+{"sub_uri": "Q8684", "obj_uri": "Q3630", "obj_label": "Giacarta", "sub_label": "Seoul", "lineid": 690}
+{"sub_uri": "Q34820", "obj_uri": "Q1492", "obj_label": "Barslon-a", "sub_label": "Santo Domingo", "lineid": 693}
+{"sub_uri": "Q3766", "obj_uri": "Q1781", "obj_label": "B\u00f9dapest", "sub_label": "Damasch", "lineid": 694}
+{"sub_uri": "Q3805", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_label": "Amman", "lineid": 695}
+{"sub_uri": "Q956", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Pechin", "lineid": 696}
+{"sub_uri": "Q1489", "obj_uri": "Q52535", "obj_label": "Rosario", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 697}
+{"sub_uri": "Q62", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_label": "San Francisco", "lineid": 698}
+{"sub_uri": "Q1489", "obj_uri": "Q11751", "obj_label": "Nagoya", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 699}
+{"sub_uri": "Q3856", "obj_uri": "Q727", "obj_label": "\u00c0msterdam", "sub_label": "Nicos\u00eca", "lineid": 700}
+{"sub_uri": "Q406", "obj_uri": "Q1741", "obj_label": "Vien-a", "sub_label": "Istanbul", "lineid": 701}
+{"sub_uri": "Q656", "obj_uri": "Q7903", "obj_label": "Casablanca", "sub_label": "San Peroborgh", "lineid": 703}
+{"sub_uri": "Q3882", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_label": "Manama", "lineid": 704}
+{"sub_uri": "Q1757", "obj_uri": "Q1085", "obj_label": "Praga", "sub_label": "Helsinki", "lineid": 705}
+{"sub_uri": "Q8678", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "Rio de Janeiro", "lineid": 706}
+{"sub_uri": "Q8686", "obj_uri": "Q1055", "obj_label": "Amborgh", "sub_label": "Shanghai", "lineid": 707}
+{"sub_uri": "Q1963", "obj_uri": "Q85", "obj_label": "\u00cbl C\u00e0iro", "sub_label": "Khartoum", "lineid": 708}
+{"sub_uri": "Q406", "obj_uri": "Q994", "obj_label": "Tbilisi", "sub_label": "Istanbul", "lineid": 709}
+{"sub_uri": "Q2807", "obj_uri": "Q472", "obj_label": "S\u00f2fia", "sub_label": "Madrid", "lineid": 710}
+{"sub_uri": "Q956", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_label": "Pechin", "lineid": 711}
+{"sub_uri": "Q16555", "obj_uri": "Q85", "obj_label": "\u00cbl C\u00e0iro", "sub_label": "Houston", "lineid": 712}
+{"sub_uri": "Q23482", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_label": "Mars\u00e8ja", "lineid": 713}
+{"sub_uri": "Q472", "obj_uri": "Q1780", "obj_label": "Bratislava", "sub_label": "S\u00f2fia", "lineid": 714}
+{"sub_uri": "Q406", "obj_uri": "Q19689", "obj_label": "Tiran-a", "sub_label": "Istanbul", "lineid": 715}
+{"sub_uri": "Q8684", "obj_uri": "Q1867", "obj_label": "Taipei", "sub_label": "Seoul", "lineid": 717}
+{"sub_uri": "Q35493", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Almaty", "lineid": 718}
+{"sub_uri": "Q1297", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Chicago", "lineid": 719}
+{"sub_uri": "Q1781", "obj_uri": "Q1741", "obj_label": "Vien-a", "sub_label": "B\u00f9dapest", "lineid": 720}
+{"sub_uri": "Q3551", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Rabat", "lineid": 721}
+{"sub_uri": "Q656", "obj_uri": "Q1770", "obj_label": "Tallin", "sub_label": "San Peroborgh", "lineid": 724}
+{"sub_uri": "Q220", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_label": "Roma", "lineid": 727}
+{"sub_uri": "Q406", "obj_uri": "Q270", "obj_label": "Varsavia", "sub_label": "Istanbul", "lineid": 728}
+{"sub_uri": "Q3561", "obj_uri": "Q84", "obj_label": "Londra", "sub_label": "Algeri", "lineid": 729}
+{"sub_uri": "Q1715", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_label": "Hannover", "lineid": 730}
+{"sub_uri": "Q19689", "obj_uri": "Q19660", "obj_label": "B\u00f9carest", "sub_label": "Tiran-a", "lineid": 731}
+{"sub_uri": "Q3761", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Accra", "lineid": 733}
+{"sub_uri": "Q8678", "obj_uri": "Q19660", "obj_label": "B\u00f9carest", "sub_label": "Rio de Janeiro", "lineid": 734}
+{"sub_uri": "Q1731", "obj_uri": "Q1055", "obj_label": "Amborgh", "sub_label": "Dresda", "lineid": 735}
+{"sub_uri": "Q384", "obj_uri": "Q437", "obj_label": "Lubian-a", "sub_label": "Skopje", "lineid": 737}
+{"sub_uri": "Q3856", "obj_uri": "Q19660", "obj_label": "B\u00f9carest", "sub_label": "Nicos\u00eca", "lineid": 738}
+{"sub_uri": "Q269", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Tashkent", "lineid": 740}
+{"sub_uri": "Q656", "obj_uri": "Q1773", "obj_label": "Riga", "sub_label": "San Peroborgh", "lineid": 741}
+{"sub_uri": "Q33935", "obj_uri": "Q585", "obj_label": "\u00d2slo", "sub_label": "Tel Aviv", "lineid": 743}
+{"sub_uri": "Q1335", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Montevideo", "lineid": 744}
+{"sub_uri": "Q384", "obj_uri": "Q472", "obj_label": "S\u00f2fia", "sub_label": "Skopje", "lineid": 745}
+{"sub_uri": "Q1085", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Praga", "lineid": 749}
+{"sub_uri": "Q1773", "obj_uri": "Q1770", "obj_label": "Tallin", "sub_label": "Riga", "lineid": 750}
+{"sub_uri": "Q270", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Varsavia", "lineid": 752}
+{"sub_uri": "Q3870", "obj_uri": "Q16554", "obj_label": "Denver", "sub_label": "Nair\u00f2bi", "lineid": 753}
+{"sub_uri": "Q472", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "S\u00f2fia", "lineid": 754}
+{"sub_uri": "Q34820", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Santo Domingo", "lineid": 755}
+{"sub_uri": "Q3616", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_label": "Teheran", "lineid": 756}
+{"sub_uri": "Q1754", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Stoc\u00f2lma", "lineid": 758}
+{"sub_uri": "Q24639", "obj_uri": "Q38283", "obj_label": "Yokohama", "sub_label": "Vancouver", "lineid": 759}
+{"sub_uri": "Q1489", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 760}
+{"sub_uri": "Q42448", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_label": "Sheffield", "lineid": 761}
+{"sub_uri": "Q1520", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Nur-Sultan", "lineid": 763}
+{"sub_uri": "Q1741", "obj_uri": "Q1780", "obj_label": "Bratislava", "sub_label": "Vien-a", "lineid": 764}
+{"sub_uri": "Q1726", "obj_uri": "Q1479", "obj_label": "Bord\u00f2", "sub_label": "M\u00f9nich \u00ebd Baviera", "lineid": 765}
+{"sub_uri": "Q8652", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Miami", "lineid": 767}
+{"sub_uri": "Q1486", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Buenos Aires", "lineid": 769}
+{"sub_uri": "Q1085", "obj_uri": "Q1780", "obj_label": "Bratislava", "sub_label": "Praga", "lineid": 770}
+{"sub_uri": "Q33935", "obj_uri": "Q270", "obj_label": "Varsavia", "sub_label": "Tel Aviv", "lineid": 771}
+{"sub_uri": "Q649", "obj_uri": "Q1218", "obj_label": "Gerusalem", "sub_label": "Mosca", "lineid": 772}
+{"sub_uri": "Q203263", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Athens (Ge\u00f2rgia)", "lineid": 774}
+{"sub_uri": "Q23436", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_label": "Edimborgh", "lineid": 775}
+{"sub_uri": "Q656", "obj_uri": "Q994", "obj_label": "Tbilisi", "sub_label": "San Peroborgh", "lineid": 777}
+{"sub_uri": "Q1085", "obj_uri": "Q1867", "obj_label": "Taipei", "sub_label": "Praga", "lineid": 778}
+{"sub_uri": "Q33935", "obj_uri": "Q1492", "obj_label": "Barslon-a", "sub_label": "Tel Aviv", "lineid": 779}
+{"sub_uri": "Q84", "obj_uri": "Q585", "obj_label": "\u00d2slo", "sub_label": "Londra", "lineid": 780}
+{"sub_uri": "Q656", "obj_uri": "Q1563", "obj_label": "L'Avan-a", "sub_label": "San Peroborgh", "lineid": 781}
+{"sub_uri": "Q956", "obj_uri": "Q3114", "obj_label": "Canberra", "sub_label": "Pechin", "lineid": 782}
+{"sub_uri": "Q100", "obj_uri": "Q34600", "obj_label": "Kyoto", "sub_label": "Boston", "lineid": 783}
+{"sub_uri": "Q334", "obj_uri": "Q1410", "obj_label": "Gibilt\u00e8ra", "sub_label": "Singapor", "lineid": 784}
+{"sub_uri": "Q13972", "obj_uri": "Q1773", "obj_label": "Riga", "sub_label": "Tartu", "lineid": 785}
+{"sub_uri": "Q1520", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "Nur-Sultan", "lineid": 786}
+{"sub_uri": "Q656", "obj_uri": "Q1055", "obj_label": "Amborgh", "sub_label": "San Peroborgh", "lineid": 789}
+{"sub_uri": "Q9361", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Bishkek", "lineid": 790}
+{"sub_uri": "Q84", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_label": "Londra", "lineid": 791}
+{"sub_uri": "Q19689", "obj_uri": "Q472", "obj_label": "S\u00f2fia", "sub_label": "Tiran-a", "lineid": 793}
+{"sub_uri": "Q1489", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 794}
+{"sub_uri": "Q8652", "obj_uri": "Q597", "obj_label": "Lisbon-a", "sub_label": "Miami", "lineid": 795}
+{"sub_uri": "Q3624", "obj_uri": "Q1754", "obj_label": "Stoc\u00f2lma", "sub_label": "Addis Abeba", "lineid": 796}
+{"sub_uri": "Q3640", "obj_uri": "Q472", "obj_label": "S\u00f2fia", "sub_label": "Ankara", "lineid": 797}
+{"sub_uri": "Q350", "obj_uri": "Q49111", "obj_label": "Cambridge", "sub_label": "Cambridge", "lineid": 798}
+{"sub_uri": "Q23482", "obj_uri": "Q1748", "obj_label": "Copen\u00e0ghen", "sub_label": "Mars\u00e8ja", "lineid": 800}
+{"sub_uri": "Q34404", "obj_uri": "Q1533", "obj_label": "Caracas", "sub_label": "New Orleans", "lineid": 802}
+{"sub_uri": "Q1899", "obj_uri": "Q1754", "obj_label": "Stoc\u00f2lma", "sub_label": "Kijv", "lineid": 805}
+{"sub_uri": "Q2044", "obj_uri": "Q1731", "obj_label": "Dresda", "sub_label": "Firense", "lineid": 806}
+{"sub_uri": "Q1858", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_label": "Hanoi", "lineid": 808}
+{"sub_uri": "Q8684", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_label": "Seoul", "lineid": 809}
+{"sub_uri": "Q3640", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Ankara", "lineid": 810}
+{"sub_uri": "Q656", "obj_uri": "Q1731", "obj_label": "Dresda", "sub_label": "San Peroborgh", "lineid": 811}
+{"sub_uri": "Q1563", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "L'Avan-a", "lineid": 812}
+{"sub_uri": "Q61", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Washington", "lineid": 814}
+{"sub_uri": "Q2656", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Palerm", "lineid": 815}
+{"sub_uri": "Q62", "obj_uri": "Q597", "obj_label": "Lisbon-a", "sub_label": "San Francisco", "lineid": 816}
+{"sub_uri": "Q495", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_label": "Turin", "lineid": 817}
+{"sub_uri": "Q649", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "Mosca", "lineid": 818}
+{"sub_uri": "Q64", "obj_uri": "Q1781", "obj_label": "B\u00f9dapest", "sub_label": "Berlin", "lineid": 819}
+{"sub_uri": "Q16554", "obj_uri": "Q3870", "obj_label": "Nair\u00f2bi", "sub_label": "Denver", "lineid": 820}
+{"sub_uri": "Q956", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Pechin", "lineid": 821}
+{"sub_uri": "Q365", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Col\u00f2nia", "lineid": 822}
+{"sub_uri": "Q19689", "obj_uri": "Q1435", "obj_label": "Zagabria", "sub_label": "Tiran-a", "lineid": 823}
+{"sub_uri": "Q649", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Mosca", "lineid": 824}
+{"sub_uri": "Q3820", "obj_uri": "Q456", "obj_label": "Lion", "sub_label": "Beirut", "lineid": 825}
+{"sub_uri": "Q3130", "obj_uri": "Q2044", "obj_label": "Firense", "sub_label": "Sydney", "lineid": 826}
+{"sub_uri": "Q656", "obj_uri": "Q1754", "obj_label": "Stoc\u00f2lma", "sub_label": "San Peroborgh", "lineid": 827}
+{"sub_uri": "Q2634", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "N\u00e0poli", "lineid": 829}
+{"sub_uri": "Q490", "obj_uri": "Q472", "obj_label": "S\u00f2fia", "sub_label": "Milan", "lineid": 830}
+{"sub_uri": "Q19660", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "B\u00f9carest", "lineid": 831}
+{"sub_uri": "Q270", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "Varsavia", "lineid": 832}
+{"sub_uri": "Q1781", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "B\u00f9dapest", "lineid": 833}
+{"sub_uri": "Q1867", "obj_uri": "Q1085", "obj_label": "Praga", "sub_label": "Taipei", "lineid": 835}
+{"sub_uri": "Q9326", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_label": "Vientiane", "lineid": 836}
+{"sub_uri": "Q19689", "obj_uri": "Q1754", "obj_label": "Stoc\u00f2lma", "sub_label": "Tiran-a", "lineid": 837}
+{"sub_uri": "Q597", "obj_uri": "Q7903", "obj_label": "Casablanca", "sub_label": "Lisbon-a", "lineid": 839}
+{"sub_uri": "Q19660", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "B\u00f9carest", "lineid": 844}
+{"sub_uri": "Q1953", "obj_uri": "Q472", "obj_label": "S\u00f2fia", "sub_label": "Erevan", "lineid": 845}
+{"sub_uri": "Q64", "obj_uri": "Q1085", "obj_label": "Praga", "sub_label": "Berlin", "lineid": 846}
+{"sub_uri": "Q490", "obj_uri": "Q456", "obj_label": "Lion", "sub_label": "Milan", "lineid": 848}
+{"sub_uri": "Q649", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Mosca", "lineid": 849}
+{"sub_uri": "Q3640", "obj_uri": "Q8652", "obj_label": "Miami", "sub_label": "Ankara", "lineid": 850}
+{"sub_uri": "Q1479", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Bord\u00f2", "lineid": 853}
+{"sub_uri": "Q60", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_label": "New York", "lineid": 854}
+{"sub_uri": "Q3805", "obj_uri": "Q8652", "obj_label": "Miami", "sub_label": "Amman", "lineid": 855}
+{"sub_uri": "Q437", "obj_uri": "Q1780", "obj_label": "Bratislava", "sub_label": "Lubian-a", "lineid": 856}
+{"sub_uri": "Q8673", "obj_uri": "Q19660", "obj_label": "B\u00f9carest", "sub_label": "Lagos", "lineid": 857}
+{"sub_uri": "Q6506", "obj_uri": "Q1492", "obj_label": "Barslon-a", "sub_label": "Varna", "lineid": 858}
+{"sub_uri": "Q8684", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_label": "Seoul", "lineid": 860}
+{"sub_uri": "Q34820", "obj_uri": "Q2887", "obj_label": "Santiago d\u00ebl Cile", "sub_label": "Santo Domingo", "lineid": 861}
+{"sub_uri": "Q8686", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Shanghai", "lineid": 862}
+{"sub_uri": "Q2868", "obj_uri": "Q8652", "obj_label": "Miami", "sub_label": "Lima", "lineid": 863}
+{"sub_uri": "Q8652", "obj_uri": "Q2868", "obj_label": "Lima", "sub_label": "Miami", "lineid": 864}
+{"sub_uri": "Q16555", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Houston", "lineid": 865}
+{"sub_uri": "Q2634", "obj_uri": "Q1781", "obj_label": "B\u00f9dapest", "sub_label": "N\u00e0poli", "lineid": 866}
+{"sub_uri": "Q597", "obj_uri": "Q1435", "obj_label": "Zagabria", "sub_label": "Lisbon-a", "lineid": 867}
+{"sub_uri": "Q1085", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Praga", "lineid": 868}
+{"sub_uri": "Q11194", "obj_uri": "Q9248", "obj_label": "Baku", "sub_label": "Sarajevo", "lineid": 869}
+{"sub_uri": "Q2044", "obj_uri": "Q23436", "obj_label": "Edimborgh", "sub_label": "Firense", "lineid": 870}
+{"sub_uri": "Q340", "obj_uri": "Q1715", "obj_label": "Hannover", "sub_label": "Montr\u00e9al", "lineid": 872}
+{"sub_uri": "Q1731", "obj_uri": "Q2044", "obj_label": "Firense", "sub_label": "Dresda", "lineid": 873}
+{"sub_uri": "Q1410", "obj_uri": "Q334", "obj_label": "Singapor", "sub_label": "Gibilt\u00e8ra", "lineid": 874}
+{"sub_uri": "Q437", "obj_uri": "Q3711", "obj_label": "Belgrad", "sub_label": "Lubian-a", "lineid": 875}
+{"sub_uri": "Q649", "obj_uri": "Q3561", "obj_label": "Algeri", "sub_label": "Mosca", "lineid": 876}
+{"sub_uri": "Q1899", "obj_uri": "Q1741", "obj_label": "Vien-a", "sub_label": "Kijv", "lineid": 877}
+{"sub_uri": "Q1489", "obj_uri": "Q3630", "obj_label": "Giacarta", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 878}
+{"sub_uri": "Q649", "obj_uri": "Q19689", "obj_label": "Tiran-a", "sub_label": "Mosca", "lineid": 880}
+{"sub_uri": "Q1524", "obj_uri": "Q1953", "obj_label": "Erevan", "sub_label": "Atene", "lineid": 883}
+{"sub_uri": "Q1297", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Chicago", "lineid": 887}
+{"sub_uri": "Q641", "obj_uri": "Q1953", "obj_label": "Erevan", "sub_label": "Venessia", "lineid": 889}
+{"sub_uri": "Q1773", "obj_uri": "Q727", "obj_label": "\u00c0msterdam", "sub_label": "Riga", "lineid": 890}
+{"sub_uri": "Q1524", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "Atene", "lineid": 891}
+{"sub_uri": "Q19689", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "Tiran-a", "lineid": 892}
+{"sub_uri": "Q7880", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "Tolosa", "lineid": 893}
+{"sub_uri": "Q1533", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Caracas", "lineid": 894}
+{"sub_uri": "Q994", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Tbilisi", "lineid": 895}
+{"sub_uri": "Q8660", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_label": "Karachi", "lineid": 898}
+{"sub_uri": "Q23564", "obj_uri": "Q1435", "obj_label": "Zagabria", "sub_label": "Podgorica", "lineid": 899}
+{"sub_uri": "Q437", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Lubian-a", "lineid": 900}
+{"sub_uri": "Q19689", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Tiran-a", "lineid": 901}
+{"sub_uri": "Q1748", "obj_uri": "Q585", "obj_label": "\u00d2slo", "sub_label": "Copen\u00e0ghen", "lineid": 904}
+{"sub_uri": "Q23436", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Edimborgh", "lineid": 905}
+{"sub_uri": "Q23337", "obj_uri": "Q495", "obj_label": "Turin", "sub_label": "Salt Lake City", "lineid": 906}
+{"sub_uri": "Q23436", "obj_uri": "Q33959", "obj_label": "Nissa Mar\u00ectima", "sub_label": "Edimborgh", "lineid": 907}
+{"sub_uri": "Q1284", "obj_uri": "Q1345", "obj_label": "Filadelfia", "sub_label": "Abruss", "lineid": 909}
+{"sub_uri": "Q1524", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "Atene", "lineid": 910}
+{"sub_uri": "Q1899", "obj_uri": "Q994", "obj_label": "Tbilisi", "sub_label": "Kijv", "lineid": 911}
+{"sub_uri": "Q649", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Mosca", "lineid": 912}
+{"sub_uri": "Q100", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Boston", "lineid": 913}
+{"sub_uri": "Q1781", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "B\u00f9dapest", "lineid": 914}
+{"sub_uri": "Q1486", "obj_uri": "Q85", "obj_label": "\u00cbl C\u00e0iro", "sub_label": "Buenos Aires", "lineid": 915}
+{"sub_uri": "Q1085", "obj_uri": "Q19689", "obj_label": "Tiran-a", "sub_label": "Praga", "lineid": 916}
+{"sub_uri": "Q1865", "obj_uri": "Q84", "obj_label": "Londra", "sub_label": "Kuala Lumpur", "lineid": 917}
+{"sub_uri": "Q19689", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Tiran-a", "lineid": 918}
+{"sub_uri": "Q1867", "obj_uri": "Q1461", "obj_label": "Manila", "sub_label": "Taipei", "lineid": 919}
+{"sub_uri": "Q1729", "obj_uri": "Q1720", "obj_label": "Magonsa", "sub_label": "Erfurt", "lineid": 921}
+{"sub_uri": "Q216", "obj_uri": "Q19689", "obj_label": "Tiran-a", "sub_label": "Vilnius", "lineid": 922}
+{"sub_uri": "Q3630", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "Giacarta", "lineid": 924}
+{"sub_uri": "Q1085", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Praga", "lineid": 925}
+{"sub_uri": "Q1780", "obj_uri": "Q1741", "obj_label": "Vien-a", "sub_label": "Bratislava", "lineid": 926}
+{"sub_uri": "Q18808", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Pyongyang", "lineid": 927}
+{"sub_uri": "Q1156", "obj_uri": "Q84", "obj_label": "Londra", "sub_label": "Mumbai", "lineid": 929}
+{"sub_uri": "Q987", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_label": "New Delhi", "lineid": 930}
+{"sub_uri": "Q34820", "obj_uri": "Q1563", "obj_label": "L'Avan-a", "sub_label": "Santo Domingo", "lineid": 931}
+{"sub_uri": "Q8678", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Rio de Janeiro", "lineid": 932}
+{"sub_uri": "Q26600", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_label": "Fukuoka", "lineid": 933}
+{"sub_uri": "Q11194", "obj_uri": "Q1492", "obj_label": "Barslon-a", "sub_label": "Sarajevo", "lineid": 934}
+{"sub_uri": "Q472", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "S\u00f2fia", "lineid": 936}
+{"sub_uri": "Q1780", "obj_uri": "Q1953", "obj_label": "Erevan", "sub_label": "Bratislava", "lineid": 937}
+{"sub_uri": "Q3766", "obj_uri": "Q2044", "obj_label": "Firense", "sub_label": "Damasch", "lineid": 938}
+{"sub_uri": "Q16557", "obj_uri": "Q1867", "obj_label": "Taipei", "sub_label": "Dallas", "lineid": 939}
+{"sub_uri": "Q1524", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Atene", "lineid": 940}
+{"sub_uri": "Q3640", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "Ankara", "lineid": 942}
+{"sub_uri": "Q914", "obj_uri": "Q34664", "obj_label": "Hiroshima", "sub_label": "Volgograd", "lineid": 943}
+{"sub_uri": "Q80053", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Tabriz", "lineid": 944}
+{"sub_uri": "Q85", "obj_uri": "Q3766", "obj_label": "Damasch", "sub_label": "\u00cbl C\u00e0iro", "lineid": 945}
+{"sub_uri": "Q1524", "obj_uri": "Q2887", "obj_label": "Santiago d\u00ebl Cile", "sub_label": "Atene", "lineid": 946}
+{"sub_uri": "Q472", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "S\u00f2fia", "lineid": 947}
+{"sub_uri": "Q6730", "obj_uri": "Q1492", "obj_label": "Barslon-a", "sub_label": "Perpignan", "lineid": 948}
+{"sub_uri": "Q1489", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_label": "Sit\u00e0 d\u00ebl M\u00e9ssich", "lineid": 949}
+{"sub_uri": "Q406", "obj_uri": "Q9248", "obj_label": "Baku", "sub_label": "Istanbul", "lineid": 950}
+{"sub_uri": "Q956", "obj_uri": "Q2280", "obj_label": "Minsk", "sub_label": "Pechin", "lineid": 951}
+{"sub_uri": "Q1899", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Kijv", "lineid": 953}
+{"sub_uri": "Q1829", "obj_uri": "Q1055", "obj_label": "Amborgh", "sub_label": "Kaliningrad", "lineid": 954}
+{"sub_uri": "Q1449", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "G\u00e9noa", "lineid": 955}
+{"sub_uri": "Q3114", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Canberra", "lineid": 956}
+{"sub_uri": "Q23556", "obj_uri": "Q34713", "obj_label": "Salisborgh", "sub_label": "Atlanta", "lineid": 957}
+{"sub_uri": "Q1861", "obj_uri": "Q956", "obj_label": "Pechin", "sub_label": "Bangkok", "lineid": 959}
+{"sub_uri": "Q33935", "obj_uri": "Q649", "obj_label": "Mosca", "sub_label": "Tel Aviv", "lineid": 961}
+{"sub_uri": "Q62", "obj_uri": "Q2634", "obj_label": "N\u00e0poli", "sub_label": "San Francisco", "lineid": 962}
+{"sub_uri": "Q1524", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Atene", "lineid": 963}
+{"sub_uri": "Q959", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_label": "Vladivostok", "lineid": 964}
+{"sub_uri": "Q35381", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_label": "Colombo", "lineid": 965}
+{"sub_uri": "Q216", "obj_uri": "Q437", "obj_label": "Lubian-a", "sub_label": "Vilnius", "lineid": 966}
+{"sub_uri": "Q1754", "obj_uri": "Q1773", "obj_label": "Riga", "sub_label": "Stoc\u00f2lma", "lineid": 967}
+{"sub_uri": "Q1773", "obj_uri": "Q2044", "obj_label": "Firense", "sub_label": "Riga", "lineid": 969}
+{"sub_uri": "Q3561", "obj_uri": "Q3579", "obj_label": "Tr\u00ecpoli", "sub_label": "Algeri", "lineid": 970}
+{"sub_uri": "Q270", "obj_uri": "Q1781", "obj_label": "B\u00f9dapest", "sub_label": "Varsavia", "lineid": 972}
+{"sub_uri": "Q1770", "obj_uri": "Q1707", "obj_label": "Kiel", "sub_label": "Tallin", "lineid": 974}
+{"sub_uri": "Q1491", "obj_uri": "Q2887", "obj_label": "Santiago d\u00ebl Cile", "sub_label": "La Paz", "lineid": 975}
+{"sub_uri": "Q16555", "obj_uri": "Q36405", "obj_label": "Aberdeen", "sub_label": "Houston", "lineid": 976}
+{"sub_uri": "Q8684", "obj_uri": "Q3616", "obj_label": "Teheran", "sub_label": "Seoul", "lineid": 977}
+{"sub_uri": "Q8660", "obj_uri": "Q1354", "obj_label": "Dacca", "sub_label": "Karachi", "lineid": 978}
+{"sub_uri": "Q65", "obj_uri": "Q1479", "obj_label": "Bord\u00f2", "sub_label": "Los Angeles", "lineid": 979}
+{"sub_uri": "Q8652", "obj_uri": "Q2656", "obj_label": "Palerm", "sub_label": "Miami", "lineid": 980}
+{"sub_uri": "Q65", "obj_uri": "Q11751", "obj_label": "Nagoya", "sub_label": "Los Angeles", "lineid": 981}
+{"sub_uri": "Q3718", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Dakar", "lineid": 982}
+{"sub_uri": "Q1563", "obj_uri": "Q3616", "obj_label": "Teheran", "sub_label": "L'Avan-a", "lineid": 983}
+{"sub_uri": "Q3376", "obj_uri": "Q1085", "obj_label": "Praga", "sub_label": "Trent", "lineid": 984}
+{"sub_uri": "Q8678", "obj_uri": "Q1533", "obj_label": "Caracas", "sub_label": "Rio de Janeiro", "lineid": 985}
+{"sub_uri": "Q33935", "obj_uri": "Q1741", "obj_label": "Vien-a", "sub_label": "Tel Aviv", "lineid": 987}
+{"sub_uri": "Q14960", "obj_uri": "Q2079", "obj_label": "Lipsia", "sub_label": "Brno", "lineid": 988}
+{"sub_uri": "Q1953", "obj_uri": "Q1524", "obj_label": "Atene", "sub_label": "Erevan", "lineid": 989}
+{"sub_uri": "Q2749", "obj_uri": "Q160493", "obj_label": "Inverness", "sub_label": "Augsburg", "lineid": 990}
+{"sub_uri": "Q1780", "obj_uri": "Q1085", "obj_label": "Praga", "sub_label": "Bratislava", "lineid": 991}
+{"sub_uri": "Q172", "obj_uri": "Q1899", "obj_label": "Kijv", "sub_label": "Toronto", "lineid": 992}
+{"sub_uri": "Q1780", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_label": "Bratislava", "lineid": 993}
+{"sub_uri": "Q406", "obj_uri": "Q7903", "obj_label": "Casablanca", "sub_label": "Istanbul", "lineid": 994}

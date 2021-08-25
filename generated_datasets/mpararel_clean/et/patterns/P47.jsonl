@@ -1,0 +1,9 @@
+{"pattern": "[X] Aktsiad [Y]."}
+{"pattern": "[X] Piirid [Y]."}
+{"pattern": "[X] jagab piiri [Y]."}
+{"pattern": "[X] jagab oma piiri [Y]."}
+{"pattern": "[X] jagab \u00fchist piiri [Y]."}
+{"pattern": "[Y] piirid [X] ."}
+{"pattern": "[Y] jagab piiri [X] ."}
+{"pattern": "[Y] jagab oma piiri [X] ."}
+{"pattern": "[Y] jagab \u00fchist piiri [X]."}

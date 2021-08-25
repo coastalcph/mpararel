@@ -1,0 +1,9 @@
+{"pattern": "[X]: n virallinen kieli on [Y]."}
+{"pattern": "[X]: n virallinen kieli on [Y] kieli."}
+{"pattern": "[Y] on [X]: n virallinen kieli."}
+{"pattern": "[Y] kieli on [X]: n virallinen kieli."}
+{"pattern": "[X], [Y] on virallinen kieli."}
+{"pattern": "Virallisesti, [Y] on [X]: n kieli."}
+{"pattern": "[X]: n laki ilmoittaa [Y] virallisella kielell\u00e4."}
+{"pattern": "[X]: n laki m\u00e4\u00e4rittelee [Y] virallisena kielen\u00e4."}
+{"pattern": "[X]: n laki m\u00e4\u00e4rittelee [Y] kielen virallisen kielen."}

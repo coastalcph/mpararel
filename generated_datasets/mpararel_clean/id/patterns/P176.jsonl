@@ -1,0 +1,12 @@
+{"pattern": "[X] diproduksi oleh [Y] ."}
+{"pattern": "[X] dikembangkan oleh [Y] ."}
+{"pattern": "[X] , dikembangkan oleh [Y]"}
+{"pattern": "[X] , diproduksi oleh [Y]"}
+{"pattern": "[X] dibuat oleh [Y] ."}
+{"pattern": "[X] , dibuat oleh [Y] ."}
+{"pattern": "[X] adalah produk dari [Y] ."}
+{"pattern": "[X] , produk [Y] ,"}
+{"pattern": "[X] , suatu produk yang dibuat oleh [Y] ,"}
+{"pattern": "[X] , suatu produk yang dikembangkan oleh [Y] ,"}
+{"pattern": "[Y] , pencipta [X]"}
+{"pattern": "[Y] dan produknya [X]"}

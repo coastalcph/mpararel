@@ -1,0 +1,4 @@
+{"pattern": "[X] dan [Y] adalah kota kembar."}
+{"pattern": "[Y] dan [X] adalah kota kembar."}
+{"pattern": "[Y] adalah kota kembar [X] ."}
+{"pattern": "[X] adalah kota kembar [Y] ."}
