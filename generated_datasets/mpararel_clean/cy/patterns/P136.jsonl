@@ -1,6 +1,6 @@
 {"pattern": "[X] yn chwarae [Y] cerddoriaeth."}
-{"pattern": "[X] , sy'n chwarae [Y] cerddoriaeth"}
-{"pattern": "[X] yn chwarae [Y] ."}
-{"pattern": "[X] , sy'n chwarae [Y] ."}
-{"pattern": "[Y] cerddorion [X] ."}
-{"pattern": "[Y] cerddorion fel [X] ."}
+{"pattern": "[X], sy'n chwarae [Y] cerddoriaeth"}
+{"pattern": "[X] yn chwarae [Y]."}
+{"pattern": "[X], sy'n chwarae [Y]."}
+{"pattern": "[Y] cerddorion [X]."}
+{"pattern": "[Y] cerddorion fel [X]."}

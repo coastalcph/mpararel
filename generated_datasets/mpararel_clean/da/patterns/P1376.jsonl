@@ -3,9 +3,9 @@
 {"pattern": "Hovedstaden af [Y] er [X]."}
 {"pattern": "[X] er hovedstaden af [Y]."}
 {"pattern": "[Y] 's kapital, [X]."}
-{"pattern": "[Y] s hovedstad, [X] ."}
-{"pattern": "[Y] s kapital er [X] ."}
-{"pattern": "[Y] 's hovedstad er [X] ."}
+{"pattern": "[Y] s hovedstad, [X]."}
+{"pattern": "[Y] s kapital er [X]."}
+{"pattern": "[Y] 's hovedstad er [X]."}
 {"pattern": "[X], hovedstaden i [Y]."}
 {"pattern": "[X], hovedstaden af [Y]."}
 {"pattern": "[X], det er hovedstaden i [Y]."}

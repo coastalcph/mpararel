@@ -1,17 +1,17 @@
 {"pattern": "[X] ay kinakatawan ng label ng musika [Y]."}
-{"pattern": "[X] ay kinakatawan ng label ng record [Y] ."}
+{"pattern": "[X] ay kinakatawan ng label ng record [Y]."}
 {"pattern": "[X] ay kinakatawan ng [Y]."}
 {"pattern": "[X], na kinakatawan ng [Y]."}
 {"pattern": "[X], na kinakatawan ng [Y]."}
 {"pattern": "Ang label ng musika na kumakatawan sa [X] ay [Y]."}
 {"pattern": "Ang label ng musika na kumakatawan sa [X] ay [Y]."}
 {"pattern": "[X] Ang label ay [Y]."}
-{"pattern": "Ang label ng rekord ng [X]] ay [Y] ."}
-{"pattern": "Ang kumpanya ng rekord ng [X]] ay [Y] ."}
+{"pattern": "Ang label ng rekord ng [X] ay [Y]."}
+{"pattern": "Ang kumpanya ng rekord ng [X] ay [Y]."}
 {"pattern": "Ang label ng musika ng [X] ay [Y]."}
-{"pattern": "[X] naitala para sa [Y] ."}
-{"pattern": "[X] label: [Y] ."}
-{"pattern": "[X] , inilabas ng [Y] ."}
-{"pattern": "[Y] recording artist [X] ."}
-{"pattern": "[Y] artist tulad ng [X] ."}
-{"pattern": "[Y] artist kabilang ang [X] ."}
+{"pattern": "[X] naitala para sa [Y]."}
+{"pattern": "[X] label: [Y]."}
+{"pattern": "[X], inilabas ng [Y]."}
+{"pattern": "[Y] recording artist [X]."}
+{"pattern": "[Y] artist tulad ng [X]."}
+{"pattern": "[Y] artist kabilang ang [X]."}

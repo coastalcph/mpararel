@@ -1,10 +1,10 @@
-{"pattern": "Ang headquarter ng [X] ay nasa [Y] ."}
-{"pattern": "Ang punong-himpilan ng [X] ay nasa [Y] ."}
-{"pattern": "Ang headquarter ng [X] ay matatagpuan sa [Y] ."}
+{"pattern": "Ang headquarter ng [X] ay nasa [Y]."}
+{"pattern": "Ang punong-himpilan ng [X] ay nasa [Y]."}
+{"pattern": "Ang headquarter ng [X] ay matatagpuan sa [Y]."}
 {"pattern": "Ang [Y] ay naglalaman ng punong-himpilan ng [X]."}
-{"pattern": "[X] ay headquartered sa [Y] ."}
+{"pattern": "[X] ay headquartered sa [Y]."}
 {"pattern": "Ang [Y] ay may punong-himpilan ng [X]."}
 {"pattern": "Ang punong tanggapan ng [X] ay nasa [Y]."}
 {"pattern": "[X], na ang punong-himpilan ay nasa [Y]."}
-{"pattern": "[Y] ay tahanan sa [X] ."}
+{"pattern": "[Y] ay tahanan sa [X]."}
 {"pattern": "[X] ay batay sa [Y]."}

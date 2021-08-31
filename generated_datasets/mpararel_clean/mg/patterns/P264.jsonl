@@ -1,17 +1,17 @@
 {"pattern": "[X] dia asehon'ny mozika mozika [Y]."}
 {"pattern": "[X] dia asehon'ny firaketana an-tsoratra [Y]."}
-{"pattern": "[X] dia asehon'ny [Y] ."}
-{"pattern": "[X] , izay asehon'ny [Y] ."}
+{"pattern": "[X] dia asehon'ny [Y]."}
 {"pattern": "[X], izay asehon'ny [Y]."}
-{"pattern": "Ny marika mozika maneho ny [X] dia [Y] ."}
-{"pattern": "Ny marika mozika izay misolo tena [X] dia [Y] ."}
+{"pattern": "[X], izay asehon'ny [Y]."}
+{"pattern": "Ny marika mozika maneho ny [X] dia [Y]."}
+{"pattern": "Ny marika mozika izay misolo tena [X] dia [Y]."}
 {"pattern": "[X] Label dia [Y]."}
 {"pattern": "[X] Ny marika firaketana dia [Y]."}
 {"pattern": "[X] ny orinasa rakitsoratra dia [Y]."}
 {"pattern": "[X] ny marika mozika mozika dia [Y]."}
 {"pattern": "[X] voarakitra ho an'ny [Y]."}
 {"pattern": "[X] Label: [Y]."}
-{"pattern": "[X] , navoakan'ny [Y] ."}
-{"pattern": "[Y] firaketana mpanakanto [X] ."}
-{"pattern": "[Y] mpanakanto toa [X] ."}
-{"pattern": "[Y] mpanakanto anisan'izany [X] ."}
+{"pattern": "[X], navoakan'ny [Y]."}
+{"pattern": "[Y] firaketana mpanakanto [X]."}
+{"pattern": "[Y] mpanakanto toa [X]."}
+{"pattern": "[Y] mpanakanto anisan'izany [X]."}

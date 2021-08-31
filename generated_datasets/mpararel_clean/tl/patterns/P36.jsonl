@@ -1,14 +1,14 @@
-{"pattern": "Ang kabisera ng [X] ay [Y] ."}
+{"pattern": "Ang kabisera ng [X] ay [Y]."}
 {"pattern": "Ang kabiserang lunsod ng [X] ay [Y]."}
-{"pattern": "[Y] ay ang kabisera ng [X] ."}
-{"pattern": "[Y] ay ang kabiserang lunsod ng [X] ."}
-{"pattern": "[X] capital, [Y] ."}
-{"pattern": "[X] s capital city, [Y] ."}
+{"pattern": "[Y] ay ang kabisera ng [X]."}
+{"pattern": "[Y] ay ang kabiserang lunsod ng [X]."}
+{"pattern": "[X] capital, [Y]."}
+{"pattern": "[X] s capital city, [Y]."}
 {"pattern": "[X] Ang kabisera ay [Y]."}
 {"pattern": "[X] Ang kabisera ng lungsod ay [Y]."}
-{"pattern": "[Y] , ang kabisera ng [X] ."}
-{"pattern": "[Y] , ang kabiserang lunsod ng [X] ."}
-{"pattern": "[Y] , iyon ang kabisera ng [X] ."}
+{"pattern": "[Y], ang kabisera ng [X]."}
+{"pattern": "[Y], ang kabiserang lunsod ng [X]."}
+{"pattern": "[Y], iyon ang kabisera ng [X]."}
 {"pattern": "[Y], iyon ang kabiserang lunsod ng [X]."}
-{"pattern": "[X] , na may kabisera [Y] ."}
-{"pattern": "[X] , na may kabiserang lungsod."}
+{"pattern": "[X], na may kabisera [Y]."}
+{"pattern": "[X], na may kabiserang lungsod."}

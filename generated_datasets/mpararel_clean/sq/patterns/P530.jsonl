@@ -1,9 +1,9 @@
-{"pattern": "[X] mban marr\u00ebdh\u00ebnie diplomatike me [Y] ."}
+{"pattern": "[X] mban marr\u00ebdh\u00ebnie diplomatike me [Y]."}
 {"pattern": "[Y] mban marr\u00ebdh\u00ebnie diplomatike me [X]."}
-{"pattern": "[X] lidh marr\u00ebdh\u00ebniet diplomatike me [Y] ."}
+{"pattern": "[X] lidh marr\u00ebdh\u00ebniet diplomatike me [Y]."}
 {"pattern": "[Y] lidh marr\u00ebdh\u00ebniet diplomatike me [X]."}
 {"pattern": "[X] ka marr\u00ebdh\u00ebnie diplomatike me [Y]."}
 {"pattern": "[Y] ka marr\u00ebdh\u00ebnie diplomatike me [X]."}
-{"pattern": "[X] , e cila ka marr\u00ebdh\u00ebnie diplomatike me [Y]"}
-{"pattern": "[Y] , e cila ka marr\u00ebdh\u00ebnie diplomatike me [X]"}
-{"pattern": "[Y] , e cila lidh marr\u00ebdh\u00ebniet diplomatike me [X]"}
+{"pattern": "[X], e cila ka marr\u00ebdh\u00ebnie diplomatike me [Y]"}
+{"pattern": "[Y], e cila ka marr\u00ebdh\u00ebnie diplomatike me [X]"}
+{"pattern": "[Y], e cila lidh marr\u00ebdh\u00ebniet diplomatike me [X]"}

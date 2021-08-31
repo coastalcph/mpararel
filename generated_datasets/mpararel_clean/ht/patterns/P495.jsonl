@@ -1,17 +1,17 @@
 {"pattern": "[X] te kreye nan [Y]."}
-{"pattern": "[X] , ki te kreye nan [Y] ."}
 {"pattern": "[X], ki te kreye nan [Y]."}
-{"pattern": "[X] , ki soti nan [Y] ."}
-{"pattern": "[X] soti nan [Y] ."}
+{"pattern": "[X], ki te kreye nan [Y]."}
+{"pattern": "[X], ki soti nan [Y]."}
+{"pattern": "[X] soti nan [Y]."}
 {"pattern": "[X] te f\u00f2me nan [Y]."}
-{"pattern": "[X] te f\u00f2me nan [Y] ."}
-{"pattern": "[X] , ki te f\u00f2me nan [Y] ."}
-{"pattern": "[X] te formul nan [Y] ."}
+{"pattern": "[X] te f\u00f2me nan [Y]."}
+{"pattern": "[X], ki te f\u00f2me nan [Y]."}
+{"pattern": "[X] te formul nan [Y]."}
 {"pattern": "[X], formul nan [Y]."}
-{"pattern": "[X] , ki te formul nan [Y] ."}
-{"pattern": "[X] te soti nan [Y] ."}
-{"pattern": "[X] , ki moun ki te soti nan [Y] ."}
-{"pattern": "[X] , ki soti nan [Y] ."}
-{"pattern": "[X] , ki te devlope nan [Y] ."}
-{"pattern": "[X] te devlope nan [Y] ."}
-{"pattern": "[X] , devlope nan [Y] ."}
+{"pattern": "[X], ki te formul nan [Y]."}
+{"pattern": "[X] te soti nan [Y]."}
+{"pattern": "[X], ki moun ki te soti nan [Y]."}
+{"pattern": "[X], ki soti nan [Y]."}
+{"pattern": "[X], ki te devlope nan [Y]."}
+{"pattern": "[X] te devlope nan [Y]."}
+{"pattern": "[X], devlope nan [Y]."}

@@ -1,14 +1,14 @@
-{"pattern": "Capitala [X] este [Y] ."}
-{"pattern": "Capitala [X] este [Y] ."}
-{"pattern": "[Y] este capitala [X] ."}
-{"pattern": "[Y] este capitala [X] ."}
+{"pattern": "Capitala [X] este [Y]."}
+{"pattern": "Capitala [X] este [Y]."}
+{"pattern": "[Y] este capitala [X]."}
+{"pattern": "[Y] este capitala [X]."}
 {"pattern": "[X] capitalul, [Y]."}
-{"pattern": "[X] capitala lui, [Y] ."}
+{"pattern": "[X] capitala lui, [Y]."}
 {"pattern": "[X] este [Y]."}
-{"pattern": "[X] capitala este [Y] ."}
-{"pattern": "[Y] , capitala [X] ."}
-{"pattern": "[Y] , capitala [X] ."}
-{"pattern": "[Y] , acesta este capitala [X] ."}
-{"pattern": "[Y] , acesta este capitala [X] ."}
-{"pattern": "[X] , care are capitala [Y] ."}
-{"pattern": "[X] , care are capitala [Y] ."}
+{"pattern": "[X] capitala este [Y]."}
+{"pattern": "[Y], capitala [X]."}
+{"pattern": "[Y], capitala [X]."}
+{"pattern": "[Y], acesta este capitala [X]."}
+{"pattern": "[Y], acesta este capitala [X]."}
+{"pattern": "[X], care are capitala [Y]."}
+{"pattern": "[X], care are capitala [Y]."}

@@ -1,14 +1,14 @@
-{"pattern": "[X] foi fundado en [Y] ."}
-{"pattern": "[X] , fundado en [Y] ."}
+{"pattern": "[X] foi fundado en [Y]."}
+{"pattern": "[X], fundado en [Y]."}
 {"pattern": "[X] que foi fundado en [Y]."}
 {"pattern": "[X], que foi iniciado en [Y]."}
-{"pattern": "[X] comezou en [Y] ."}
+{"pattern": "[X] comezou en [Y]."}
 {"pattern": "[X] comezou en [Y]"}
-{"pattern": "[X] , que foi creado en [Y] ."}
+{"pattern": "[X], que foi creado en [Y]."}
 {"pattern": "[X], creado en [Y]."}
 {"pattern": "[X] foi creado en [Y]."}
 {"pattern": "[X], que se orixinou en [Y]."}
 {"pattern": "[X] orixinouse en [Y]."}
-{"pattern": "[X] formado en [Y] ."}
+{"pattern": "[X] formado en [Y]."}
 {"pattern": "[X] formouse en [Y]."}
-{"pattern": "[X] , que se formou en [Y] ."}
+{"pattern": "[X], que se formou en [Y]."}

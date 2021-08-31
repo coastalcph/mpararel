@@ -1,6 +1,6 @@
-{"pattern": "[X] a la position de [Y] ."}
-{"pattern": "[X] , qui a la position de [Y] ."}
-{"pattern": "[X] , dont la position est celle de [Y] ."}
-{"pattern": "La position de [X] est [Y] ."}
-{"pattern": "[X] , qui tient la position de [Y] ."}
-{"pattern": "[X] tient la position de [Y] ."}
+{"pattern": "[X] a la position de [Y]."}
+{"pattern": "[X], qui a la position de [Y]."}
+{"pattern": "[X], dont la position est celle de [Y]."}
+{"pattern": "La position de [X] est [Y]."}
+{"pattern": "[X], qui tient la position de [Y]."}
+{"pattern": "[X] tient la position de [Y]."}

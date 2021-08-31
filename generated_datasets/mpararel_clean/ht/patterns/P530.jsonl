@@ -1,9 +1,9 @@
-{"pattern": "[X] kenbe relasyon diplomatik ak [Y] ."}
-{"pattern": "[Y] kenbe relasyon diplomatik ak [X] ."}
+{"pattern": "[X] kenbe relasyon diplomatik ak [Y]."}
+{"pattern": "[Y] kenbe relasyon diplomatik ak [X]."}
 {"pattern": "[X] lyen relasyon diplomatik ak [Y]."}
-{"pattern": "[Y] lyen relasyon diplomatik ak [X] ."}
-{"pattern": "[X] gen relasyon diplomatik ak [Y] ."}
-{"pattern": "[Y] gen relasyon diplomatik ak [X] ."}
-{"pattern": "[X] , ki gen relasyon diplomatik ak [Y]"}
-{"pattern": "[Y] , ki gen relasyon diplomatik ak [X]"}
-{"pattern": "[Y] , ki lyen relasyon diplomatik ak [X]"}
+{"pattern": "[Y] lyen relasyon diplomatik ak [X]."}
+{"pattern": "[X] gen relasyon diplomatik ak [Y]."}
+{"pattern": "[Y] gen relasyon diplomatik ak [X]."}
+{"pattern": "[X], ki gen relasyon diplomatik ak [Y]"}
+{"pattern": "[Y], ki gen relasyon diplomatik ak [X]"}
+{"pattern": "[Y], ki lyen relasyon diplomatik ak [X]"}

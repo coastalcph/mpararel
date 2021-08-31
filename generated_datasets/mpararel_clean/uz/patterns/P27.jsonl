@@ -1,9 +1,9 @@
-{"pattern": "[X] fuqarosmi, [Y] ."}
+{"pattern": "[X] fuqarosmi, [Y]."}
 {"pattern": "[X] [Y] fuqarosi."}
-{"pattern": "[X] , [Y] fuqarosi."}
-{"pattern": "[X] , u [Y] fuqarosi bo'lgan."}
+{"pattern": "[X], [Y] fuqarosi."}
+{"pattern": "[X], u [Y] fuqarosi bo'lgan."}
 {"pattern": "[X] fuqaroligini [Y] tutadi."}
 {"pattern": "[X] fuqaroligi [Y] fuqaroligi bor."}
-{"pattern": "[X] , fuqaroligini [Y] ushlab turadi."}
-{"pattern": "[X] , uning fuqaroligi bor."}
+{"pattern": "[X], fuqaroligini [Y] ushlab turadi."}
+{"pattern": "[X], uning fuqaroligi bor."}
 {"pattern": "[Y] fuqarosi sifatida, [X]"}

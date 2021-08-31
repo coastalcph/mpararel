@@ -3,7 +3,7 @@
 {"pattern": "[X] Hubungan hubungan diplomatik dengan [Y]."}
 {"pattern": "[Y] Hubungan hubungan diplomatik dengan [X]."}
 {"pattern": "[X] mempunyai hubungan diplomatik dengan [Y]."}
-{"pattern": "[Y] Mempunyai hubungan diplomatik dengan [X] ."}
+{"pattern": "[Y] Mempunyai hubungan diplomatik dengan [X]."}
 {"pattern": "[X], yang mempunyai hubungan diplomatik dengan [Y]"}
-{"pattern": "[Y] , yang mempunyai hubungan diplomatik dengan [X]"}
-{"pattern": "[Y] , yang mengikat hubungan diplomatik dengan [X]"}
+{"pattern": "[Y], yang mempunyai hubungan diplomatik dengan [X]"}
+{"pattern": "[Y], yang mengikat hubungan diplomatik dengan [X]"}

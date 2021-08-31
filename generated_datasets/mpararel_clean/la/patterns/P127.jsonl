@@ -1,4 +1,4 @@
-{"pattern": "[X] possidetur[Y]."}
-{"pattern": "[X] dominus[Y]."}
-{"pattern": "[Y]cuius\\ 2 ."}
-{"pattern": "Et[Y]-owned\\ 2"}
+{"pattern": "[X]possidetur[Y]."}
+{"pattern": "[X]dominus[Y]."}
+{"pattern": "[Y]cuius[X]."}
+{"pattern": "Et[Y]-owned[X]"}

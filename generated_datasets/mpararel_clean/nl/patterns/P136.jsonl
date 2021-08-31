@@ -1,6 +1,6 @@
 {"pattern": "[X] speelt [Y] muziek."}
-{"pattern": "[X] , wie speelt [Y] muziek"}
-{"pattern": "[X] speelt [Y] ."}
-{"pattern": "[X] , die [Y] speelt."}
-{"pattern": "[Y] Muzikanten [X] ."}
-{"pattern": "[Y] muzikanten zoals [X] ."}
+{"pattern": "[X], wie speelt [Y] muziek"}
+{"pattern": "[X] speelt [Y]."}
+{"pattern": "[X], die [Y] speelt."}
+{"pattern": "[Y] Muzikanten [X]."}
+{"pattern": "[Y] muzikanten zoals [X]."}

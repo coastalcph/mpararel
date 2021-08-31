@@ -1,17 +1,17 @@
-{"pattern": "[X] este reprezentat de eticheta muzical\u0103 [Y] ."}
-{"pattern": "[X] este reprezentat de eticheta de \u00eenregistrare [Y] ."}
-{"pattern": "[X] este reprezentat de [Y] ."}
-{"pattern": "[X] , care este reprezentat de [Y] ."}
-{"pattern": "[X] , care este reprezentat de [Y] ."}
-{"pattern": "Eticheta muzical\u0103 reprezent\u00e2nd [X] este [Y] ."}
-{"pattern": "Eticheta muzical\u0103 care reprezint\u0103 [X] este [Y] ."}
-{"pattern": "[X] eticheta este [Y] ."}
-{"pattern": "[X] eticheta de \u00eenregistrare este [Y] ."}
-{"pattern": "[X] compania de \u00eenregistr\u0103ri este [Y] ."}
-{"pattern": "[Eticheta muzical\u0103 a lui [X]] este [Y] ."}
+{"pattern": "[X] este reprezentat de eticheta muzical\u0103 [Y]."}
+{"pattern": "[X] este reprezentat de eticheta de \u00eenregistrare [Y]."}
+{"pattern": "[X] este reprezentat de [Y]."}
+{"pattern": "[X], care este reprezentat de [Y]."}
+{"pattern": "[X], care este reprezentat de [Y]."}
+{"pattern": "Eticheta muzical\u0103 reprezent\u00e2nd [X] este [Y]."}
+{"pattern": "Eticheta muzical\u0103 care reprezint\u0103 [X] este [Y]."}
+{"pattern": "[X] eticheta este [Y]."}
+{"pattern": "[X] eticheta de \u00eenregistrare este [Y]."}
+{"pattern": "[X] compania de \u00eenregistr\u0103ri este [Y]."}
+{"pattern": "[Eticheta muzical\u0103 a lui [X] este [Y]."}
 {"pattern": "[X] \u00eenregistrate pentru [Y]."}
-{"pattern": "[X] etichet\u0103: [Y] ."}
+{"pattern": "[X] etichet\u0103: [Y]."}
 {"pattern": "[X], eliberat de [Y]."}
 {"pattern": "[Y] \u00cenregistrarea artistului [X]."}
 {"pattern": "[Y] arti\u0219ti precum [X]."}
-{"pattern": "[Y] arti\u0219ti incluz\u00e2nd [X] ."}
+{"pattern": "[Y] arti\u0219ti incluz\u00e2nd [X]."}

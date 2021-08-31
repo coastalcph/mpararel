@@ -1,16 +1,16 @@
 {"pattern": "[X] az [Y] \u00e1ltal kifejlesztett."}
 {"pattern": "[X] [Y] kifejlesztett."}
-{"pattern": "[X] , \u00e1ltal kifejlesztett [Y] ."}
+{"pattern": "[X], \u00e1ltal kifejlesztett [Y]."}
 {"pattern": "[X] az [Y]"}
 {"pattern": "[X] az [Y] -al j\u00f6tt l\u00e9tre"}
 {"pattern": "[X], amelyet [Y] hoz l\u00e9tre."}
 {"pattern": "[X] az [Y] term\u00e9ke"}
 {"pattern": "[X] az [Y] term\u00e9ke volt"}
-{"pattern": "[X] , az [Y] term\u00e9ke"}
-{"pattern": "[X] , az [Y] \u00e1ltal l\u00e9trehozott term\u00e9k"}
-{"pattern": "[X] , az [Y] \u00e1ltal gy\u00e1rtott term\u00e9k"}
-{"pattern": "[X] , az [Y] \u00e1ltal kifejlesztett term\u00e9k"}
-{"pattern": "[Y] , amely kifejlesztett [X]"}
-{"pattern": "[Y] , ami l\u00e9trehozott [X]"}
+{"pattern": "[X], az [Y] term\u00e9ke"}
+{"pattern": "[X], az [Y] \u00e1ltal l\u00e9trehozott term\u00e9k"}
+{"pattern": "[X], az [Y] \u00e1ltal gy\u00e1rtott term\u00e9k"}
+{"pattern": "[X], az [Y] \u00e1ltal kifejlesztett term\u00e9k"}
+{"pattern": "[Y], amely kifejlesztett [X]"}
+{"pattern": "[Y], ami l\u00e9trehozott [X]"}
 {"pattern": "[Y], az [X] alkot\u00f3ja"}
 {"pattern": "[Y] \u00e9s annak a term\u00e9ke [X]"}

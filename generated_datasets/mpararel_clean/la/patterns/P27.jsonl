@@ -1,9 +1,9 @@
-{"pattern": "[X] autem[Y]civis."}
-{"pattern": "[X] Estincivis[Y]."}
-{"pattern": "[X] ,etincivis[Y]."}
-{"pattern": "[X] ,qui estincivis[Y]."}
-{"pattern": "[X] tenetetconversatione[Y]."}
-{"pattern": "[X] habetconversatione[Y]."}
-{"pattern": "[X] ,quaetenetaconversatione[Y]."}
-{"pattern": "[X] ,quihabetconversatione[Y]."}
-{"pattern": "sicutincivis[Y]\\ 2"}
+{"pattern": "[X]autem[Y]civis."}
+{"pattern": "[X]Estincivis[Y]."}
+{"pattern": "[X],etincivis[Y]."}
+{"pattern": "[X],qui estincivis[Y]."}
+{"pattern": "[X]tenetetconversatione[Y]."}
+{"pattern": "[X]habetconversatione[Y]."}
+{"pattern": "[X],quaetenetaconversatione[Y]."}
+{"pattern": "[X],quihabetconversatione[Y]."}
+{"pattern": "sicutincivis[Y][X]"}

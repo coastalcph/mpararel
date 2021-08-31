@@ -1,17 +1,17 @@
 {"pattern": "[X] \u00e4r representerad av musikm\u00e4rket [Y]."}
-{"pattern": "[X] representeras av skivm\u00e4rkning [Y] ."}
-{"pattern": "[X] representeras av [Y] ."}
+{"pattern": "[X] representeras av skivm\u00e4rkning [Y]."}
+{"pattern": "[X] representeras av [Y]."}
 {"pattern": "[X], som representeras av [Y]."}
-{"pattern": "[X] , som representeras av [Y] ."}
+{"pattern": "[X], som representeras av [Y]."}
 {"pattern": "Musiketiketten som representerar [X] \u00e4r [Y]."}
 {"pattern": "Musiketiketten som representerar [X] \u00e4r [Y]."}
-{"pattern": "[X] s etikett \u00e4r [Y] ."}
-{"pattern": "[X] s rekordetikett \u00e4r [Y] ."}
-{"pattern": "[X] s rekordbolag \u00e4r [Y] ."}
-{"pattern": "[X] s musiketikett \u00e4r [Y] ."}
-{"pattern": "[X] inspelad f\u00f6r [Y] ."}
+{"pattern": "[X] s etikett \u00e4r [Y]."}
+{"pattern": "[X] s rekordetikett \u00e4r [Y]."}
+{"pattern": "[X] s rekordbolag \u00e4r [Y]."}
+{"pattern": "[X] s musiketikett \u00e4r [Y]."}
+{"pattern": "[X] inspelad f\u00f6r [Y]."}
 {"pattern": "[X] Etikett: [Y]."}
-{"pattern": "[X] , sl\u00e4ppt av [Y] ."}
-{"pattern": "[Y] inspelning av artist [X] ."}
-{"pattern": "[Y] artister som [X] ."}
-{"pattern": "[Y] artister inklusive [X] ."}
+{"pattern": "[X], sl\u00e4ppt av [Y]."}
+{"pattern": "[Y] inspelning av artist [X]."}
+{"pattern": "[Y] artister som [X]."}
+{"pattern": "[Y] artister inklusive [X]."}

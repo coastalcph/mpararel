@@ -1,16 +1,16 @@
-{"pattern": "[X] \u0111\u01b0\u1ee3c ph\u00e1t tri\u1ec3n b\u1edfi [Y] ."}
-{"pattern": "[X] \u0111\u01b0\u1ee3c ph\u00e1t tri\u1ec3n b\u1edfi [Y] ."}
-{"pattern": "[X] , \u0111\u01b0\u1ee3c ph\u00e1t tri\u1ec3n b\u1edfi [Y] ."}
+{"pattern": "[X] \u0111\u01b0\u1ee3c ph\u00e1t tri\u1ec3n b\u1edfi [Y]."}
+{"pattern": "[X] \u0111\u01b0\u1ee3c ph\u00e1t tri\u1ec3n b\u1edfi [Y]."}
+{"pattern": "[X], \u0111\u01b0\u1ee3c ph\u00e1t tri\u1ec3n b\u1edfi [Y]."}
 {"pattern": "[X] \u0111\u01b0\u1ee3c t\u1ea1o b\u1edfi [Y]"}
 {"pattern": "[X] \u0111\u01b0\u1ee3c t\u1ea1o b\u1edfi [Y]"}
-{"pattern": "[X] , \u0111\u01b0\u1ee3c t\u1ea1o b\u1edfi [Y] ."}
+{"pattern": "[X], \u0111\u01b0\u1ee3c t\u1ea1o b\u1edfi [Y]."}
 {"pattern": "[X] l\u00e0 m\u1ed9t s\u1ea3n ph\u1ea9m c\u1ee7a [Y]"}
 {"pattern": "[X] l\u00e0 m\u1ed9t s\u1ea3n ph\u1ea9m c\u1ee7a [Y]"}
-{"pattern": "[X] , m\u1ed9t s\u1ea3n ph\u1ea9m c\u1ee7a [Y]"}
-{"pattern": "[X] , m\u1ed9t s\u1ea3n ph\u1ea9m \u0111\u01b0\u1ee3c t\u1ea1o b\u1edfi [Y]"}
-{"pattern": "[X] , m\u1ed9t s\u1ea3n ph\u1ea9m \u0111\u01b0\u1ee3c s\u1ea3n xu\u1ea5t b\u1edfi [Y]"}
-{"pattern": "[X] , m\u1ed9t s\u1ea3n ph\u1ea9m \u0111\u01b0\u1ee3c ph\u00e1t tri\u1ec3n b\u1edfi [Y]"}
-{"pattern": "[Y] , ph\u00e1t tri\u1ec3n [X]"}
-{"pattern": "[Y] , t\u1ea1o ra [X]"}
-{"pattern": "[Y] , ng\u01b0\u1eddi t\u1ea1o ra [X]"}
+{"pattern": "[X], m\u1ed9t s\u1ea3n ph\u1ea9m c\u1ee7a [Y]"}
+{"pattern": "[X], m\u1ed9t s\u1ea3n ph\u1ea9m \u0111\u01b0\u1ee3c t\u1ea1o b\u1edfi [Y]"}
+{"pattern": "[X], m\u1ed9t s\u1ea3n ph\u1ea9m \u0111\u01b0\u1ee3c s\u1ea3n xu\u1ea5t b\u1edfi [Y]"}
+{"pattern": "[X], m\u1ed9t s\u1ea3n ph\u1ea9m \u0111\u01b0\u1ee3c ph\u00e1t tri\u1ec3n b\u1edfi [Y]"}
+{"pattern": "[Y], ph\u00e1t tri\u1ec3n [X]"}
+{"pattern": "[Y], t\u1ea1o ra [X]"}
+{"pattern": "[Y], ng\u01b0\u1eddi t\u1ea1o ra [X]"}
 {"pattern": "[Y] v\u00e0 s\u1ea3n ph\u1ea9m c\u1ee7a n\u00f3 [X]"}

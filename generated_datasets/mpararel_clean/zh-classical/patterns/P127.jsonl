@@ -1,4 +1,4 @@
-{"pattern": "[X] \u7531 [Y] \u64c1\u6709\u3002"}
-{"pattern": "[X] \u6240\u6709\u8005 [Y] \u3002"}
-{"pattern": "[Y] \u64c1\u6709\\ 2 \u3002"}
+{"pattern": "[X]\u7531[Y]\u64c1\u6709\u3002"}
+{"pattern": "[X]\u6240\u6709\u8005[Y]\u3002"}
+{"pattern": "[Y]\u64c1\u6709[X]\u3002"}
 {"pattern": "[Y] -owned [X]"}

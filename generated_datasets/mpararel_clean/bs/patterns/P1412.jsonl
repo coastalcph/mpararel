@@ -2,7 +2,7 @@
 {"pattern": "[X] Komunicirano u [Y]."}
 {"pattern": "[X] Tipi\u010dno se koristi [Y] za komunikaciju."}
 {"pattern": "[X] kori\u0161teni [Y] za komunikaciju."}
-{"pattern": "[Y] bio je jezik koji koristi [X] ."}
-{"pattern": "[Y] je jezik koji koristi [X] ."}
-{"pattern": "[Y] je jezik koji obi\u010dno koristi [X] ."}
+{"pattern": "[Y] bio je jezik koji koristi [X]."}
+{"pattern": "[Y] je jezik koji koristi [X]."}
+{"pattern": "[Y] je jezik koji obi\u010dno koristi [X]."}
 {"pattern": "[X] koristio je [Y] jezik."}

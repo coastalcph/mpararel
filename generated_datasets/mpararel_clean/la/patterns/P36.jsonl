@@ -1,14 +1,14 @@
-{"pattern": "Caput\\ 2 autem[Y]."}
-{"pattern": "Caputurbis\\ 2 autem[Y]."}
-{"pattern": "[Y]est incaput\\ 2 ."}
-{"pattern": "[Y]caputurbs\\ 2 ."}
-{"pattern": "[X] 'scaput,[Y]."}
-{"pattern": "[X] 'scaputurbis,[Y]."}
-{"pattern": "[X] 'scaputest[Y]."}
-{"pattern": "[X] 'surbemcaputest[Y]."}
-{"pattern": "[Y],caput\\ 2 ."}
-{"pattern": "[Y],caputurbis\\ 2 ."}
-{"pattern": "[Y],quodcaputest\\ 2 ."}
-{"pattern": "[Y], idest,Susan civitas regni eius\\ 2 ."}
-{"pattern": "[X] ,quodcaputest[Y]."}
-{"pattern": "[X] ,urbe, quaecaputest[Y]."}
+{"pattern": "Caput[X]autem[Y]."}
+{"pattern": "Caputurbis[X]autem[Y]."}
+{"pattern": "[Y]est incaput[X]."}
+{"pattern": "[Y]caputurbs[X]."}
+{"pattern": "[X]'scaput,[Y]."}
+{"pattern": "[X]'scaputurbis,[Y]."}
+{"pattern": "[X]'scaputest[Y]."}
+{"pattern": "[X]'surbemcaputest[Y]."}
+{"pattern": "[Y],caput[X]."}
+{"pattern": "[Y],caputurbis[X]."}
+{"pattern": "[Y],quodcaputest[X]."}
+{"pattern": "[Y], idest,Susan civitas regni eius[X]."}
+{"pattern": "[X],quodcaputest[Y]."}
+{"pattern": "[X],urbe, quaecaputest[Y]."}

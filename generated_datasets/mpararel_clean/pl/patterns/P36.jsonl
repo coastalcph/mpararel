@@ -1,14 +1,14 @@
-{"pattern": "Kapita\u0142 [X] jest [Y] ."}
-{"pattern": "Stolica [X] jest [Y] ."}
-{"pattern": "[Y] jest stolic\u0105 [X] ."}
-{"pattern": "[Y] jest stolic\u0105 [X] ."}
-{"pattern": "[X] Kapita\u0142, [Y] ."}
-{"pattern": "[X] stolica, [Y] ."}
-{"pattern": "[X] Kapita\u0142 jest [Y] ."}
+{"pattern": "Kapita\u0142 [X] jest [Y]."}
+{"pattern": "Stolica [X] jest [Y]."}
+{"pattern": "[Y] jest stolic\u0105 [X]."}
+{"pattern": "[Y] jest stolic\u0105 [X]."}
+{"pattern": "[X] Kapita\u0142, [Y]."}
+{"pattern": "[X] stolica, [Y]."}
+{"pattern": "[X] Kapita\u0142 jest [Y]."}
 {"pattern": "[X] Stage City to [Y]."}
-{"pattern": "[Y] , stolica [X] ."}
-{"pattern": "[Y] , stolica [X] ."}
+{"pattern": "[Y], stolica [X]."}
+{"pattern": "[Y], stolica [X]."}
 {"pattern": "[Y], czyli stolica [X]."}
 {"pattern": "[Y], czyli stolica [X]."}
-{"pattern": "[X] , kt\u00f3ry ma kapita\u0142 [Y] ."}
-{"pattern": "[X] , kt\u00f3ry ma stolic\u0119 [Y] ."}
+{"pattern": "[X], kt\u00f3ry ma kapita\u0142 [Y]."}
+{"pattern": "[X], kt\u00f3ry ma stolic\u0119 [Y]."}

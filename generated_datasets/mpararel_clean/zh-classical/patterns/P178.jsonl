@@ -1,16 +1,16 @@
-{"pattern": "[X] \u7531 [Y] \u958b\u767c\u3002"}
-{"pattern": "[X] \u662f\u7531 [Y] \u958b\u767c\u7684\u3002"}
-{"pattern": "[X] \uff0c\u7531 [Y] \u958b\u767c\u3002"}
-{"pattern": "[X] \u662f\u7531 [Y] \u5275\u5efa\u7684"}
-{"pattern": "[X] \u662f\u7531 [Y] \u5275\u5efa\u7684"}
-{"pattern": "[X] \uff0c\u7531 [Y] \u5275\u5efa\u3002"}
-{"pattern": "[X] \u662f [Y] \u7684\u7522\u7269"}
-{"pattern": "[X] \u662f [Y] \u7684\u7522\u7269"}
-{"pattern": "[X] \uff0c [Y] \u7684\u7522\u54c1"}
-{"pattern": "[X] \uff0c\u7531 [Y] \u5275\u5efa\u7684\u7522\u54c1"}
-{"pattern": "[X] \uff0c\u7531 [Y] \u88fd\u9020\u7684\u7522\u54c1"}
-{"pattern": "[X] \uff0c\u7531 [Y] \u958b\u767c\u7684\u7522\u54c1"}
-{"pattern": "[Y] \uff0c\u958b\u767c\u4e86\\ 2"}
-{"pattern": "[Y] \uff0c\u5275\u5efa\\ 2"}
-{"pattern": "[Y] \uff0c\\ 2 \u7684\u5275\u9020\u8005"}
-{"pattern": "[Y] \u53ca\u5176\u7522\u54c1\\ 2"}
+{"pattern": "[X]\u7531[Y]\u958b\u767c\u3002"}
+{"pattern": "[X]\u662f\u7531[Y]\u958b\u767c\u7684\u3002"}
+{"pattern": "[X]\uff0c\u7531[Y]\u958b\u767c\u3002"}
+{"pattern": "[X]\u662f\u7531[Y]\u5275\u5efa\u7684"}
+{"pattern": "[X]\u662f\u7531[Y]\u5275\u5efa\u7684"}
+{"pattern": "[X]\uff0c\u7531[Y]\u5275\u5efa\u3002"}
+{"pattern": "[X]\u662f[Y]\u7684\u7522\u7269"}
+{"pattern": "[X]\u662f[Y]\u7684\u7522\u7269"}
+{"pattern": "[X]\uff0c[Y]\u7684\u7522\u54c1"}
+{"pattern": "[X]\uff0c\u7531[Y]\u5275\u5efa\u7684\u7522\u54c1"}
+{"pattern": "[X]\uff0c\u7531[Y]\u88fd\u9020\u7684\u7522\u54c1"}
+{"pattern": "[X]\uff0c\u7531[Y]\u958b\u767c\u7684\u7522\u54c1"}
+{"pattern": "[Y]\uff0c\u958b\u767c\u4e86[X]"}
+{"pattern": "[Y]\uff0c\u5275\u5efa[X]"}
+{"pattern": "[Y]\uff0c[X]\u7684\u5275\u9020\u8005"}
+{"pattern": "[Y]\u53ca\u5176\u7522\u54c1[X]"}

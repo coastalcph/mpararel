@@ -1,14 +1,14 @@
 {"pattern": "[X] Kas pealkiri on [Y]."}
-{"pattern": "[Y] pealinn on [X] ."}
-{"pattern": "[Y] pealinn on [X] ."}
+{"pattern": "[Y] pealinn on [X]."}
+{"pattern": "[Y] pealinn on [X]."}
 {"pattern": "[X] Kas pealinn [Y]."}
-{"pattern": "[Y] pealinn [X] ."}
+{"pattern": "[Y] pealinn [X]."}
 {"pattern": "[Y] pealinna pealinn [X]."}
-{"pattern": "[Y] kapitali on [X] ."}
+{"pattern": "[Y] kapitali on [X]."}
 {"pattern": "[Y] pealinnas on [X]."}
 {"pattern": "[X], kapitali [Y]."}
-{"pattern": "[X] , pealinna [Y] pealinn."}
+{"pattern": "[X], pealinna [Y] pealinn."}
 {"pattern": "[X], see on kapitali [Y]."}
 {"pattern": "[X], see on pealinna [Y]."}
-{"pattern": "[Y] , millel on pealinn [X] ."}
-{"pattern": "[Y] , millel on pealinn [X] ."}
+{"pattern": "[Y], millel on pealinn [X]."}
+{"pattern": "[Y], millel on pealinn [X]."}

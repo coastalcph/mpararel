@@ -1,6 +1,6 @@
 {"pattern": "[X] Plays [Y] poz\u00edci\u00f3ban."}
 {"pattern": "[X] j\u00e1tszik az [Y] helyzet\u00e9ben."}
-{"pattern": "[X] , aki [Y] poz\u00edci\u00f3ban j\u00e1tszik."}
-{"pattern": "[Y] , [X]"}
-{"pattern": "[Y], [Y] , [X]"}
+{"pattern": "[X], aki [Y] poz\u00edci\u00f3ban j\u00e1tszik."}
+{"pattern": "[Y], [X]"}
+{"pattern": "[Y], [Y], [X]"}
 {"pattern": "[X] j\u00e1tszik [Y]"}

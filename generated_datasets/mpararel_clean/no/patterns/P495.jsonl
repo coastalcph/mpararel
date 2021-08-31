@@ -1,17 +1,17 @@
-{"pattern": "[X] ble opprettet i [Y] ."}
-{"pattern": "[X] , som ble opprettet i [Y] ."}
-{"pattern": "[X] , opprettet i [Y] ."}
+{"pattern": "[X] ble opprettet i [Y]."}
+{"pattern": "[X], som ble opprettet i [Y]."}
+{"pattern": "[X], opprettet i [Y]."}
 {"pattern": "[X], som oppsto i [Y]."}
-{"pattern": "[X] stammer fra [Y] ."}
-{"pattern": "[X] dannet i [Y] ."}
-{"pattern": "[X] ble dannet i [Y] ."}
-{"pattern": "[X] , som ble dannet i [Y] ."}
-{"pattern": "[X] ble formulert i [Y] ."}
+{"pattern": "[X] stammer fra [Y]."}
+{"pattern": "[X] dannet i [Y]."}
+{"pattern": "[X] ble dannet i [Y]."}
+{"pattern": "[X], som ble dannet i [Y]."}
+{"pattern": "[X] ble formulert i [Y]."}
 {"pattern": "[X], formulert i [Y]."}
 {"pattern": "[X], som ble formulert i [Y]."}
-{"pattern": "[X] var fra [Y] ."}
-{"pattern": "[X] , som var fra [Y] ."}
-{"pattern": "[X] , fra [Y] ."}
-{"pattern": "[X] , som ble utviklet i [Y] ."}
+{"pattern": "[X] var fra [Y]."}
+{"pattern": "[X], som var fra [Y]."}
+{"pattern": "[X], fra [Y]."}
+{"pattern": "[X], som ble utviklet i [Y]."}
 {"pattern": "[X] ble utviklet i [Y]."}
-{"pattern": "[X] , utviklet i [Y] ."}
+{"pattern": "[X], utviklet i [Y]."}

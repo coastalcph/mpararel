@@ -1,9 +1,9 @@
 {"pattern": "[X] is [Y] burger."}
 {"pattern": "[X] is een burger van [Y]."}
-{"pattern": "[X] , een burger van [Y] ."}
-{"pattern": "[X] , die een burger van [Y] is."}
+{"pattern": "[X], een burger van [Y]."}
+{"pattern": "[X], die een burger van [Y] is."}
 {"pattern": "[X] heeft een burgerschap van [Y]."}
 {"pattern": "[X] heeft een burgerschap van [Y]."}
-{"pattern": "[X] , die een burgerschap van [Y] bevat."}
+{"pattern": "[X], die een burgerschap van [Y] bevat."}
 {"pattern": "[X], die een burgerschap heeft van [Y]."}
-{"pattern": "als een burger van [Y] , [X]"}
+{"pattern": "als een burger van [Y], [X]"}

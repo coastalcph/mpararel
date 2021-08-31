@@ -1,17 +1,17 @@
-{"pattern": "[X] yn cael ei gynrychioli gan label cerddoriaeth [Y] ."}
-{"pattern": "[X] yn cael ei gynrychioli gan label record [Y] ."}
-{"pattern": "[X] yn cael ei gynrychioli gan [Y] ."}
-{"pattern": "[X] , a gynrychiolir gan [Y] ."}
-{"pattern": "[X] , sy'n cael ei gynrychioli gan [Y] ."}
-{"pattern": "Y label cerddoriaeth sy'n cynrychioli [X] yw [Y] ."}
-{"pattern": "Y label cerddoriaeth sy'n cynrychioli [X] yw [Y] ."}
-{"pattern": "[X] 's Label yw [Y] ."}
-{"pattern": "[X] Label record yw [Y] ."}
-{"pattern": "[X] Cwmni recordiau yw [Y] ."}
-{"pattern": "[X] 's Label cerddoriaeth yw [Y] ."}
-{"pattern": "[X] wedi'i gofnodi ar gyfer [Y] ."}
+{"pattern": "[X] yn cael ei gynrychioli gan label cerddoriaeth [Y]."}
+{"pattern": "[X] yn cael ei gynrychioli gan label record [Y]."}
+{"pattern": "[X] yn cael ei gynrychioli gan [Y]."}
+{"pattern": "[X], a gynrychiolir gan [Y]."}
+{"pattern": "[X], sy'n cael ei gynrychioli gan [Y]."}
+{"pattern": "Y label cerddoriaeth sy'n cynrychioli [X] yw [Y]."}
+{"pattern": "Y label cerddoriaeth sy'n cynrychioli [X] yw [Y]."}
+{"pattern": "[X] 's Label yw [Y]."}
+{"pattern": "[X] Label record yw [Y]."}
+{"pattern": "[X] Cwmni recordiau yw [Y]."}
+{"pattern": "[X] 's Label cerddoriaeth yw [Y]."}
+{"pattern": "[X] wedi'i gofnodi ar gyfer [Y]."}
 {"pattern": "[X] Label: [Y]."}
-{"pattern": "[X] , a ryddhawyd gan [Y] ."}
-{"pattern": "[Y] artist recordio [X] ."}
-{"pattern": "[Y] artistiaid fel [X] ."}
-{"pattern": "[Y] artistiaid gan gynnwys [X] ."}
+{"pattern": "[X], a ryddhawyd gan [Y]."}
+{"pattern": "[Y] artist recordio [X]."}
+{"pattern": "[Y] artistiaid fel [X]."}
+{"pattern": "[Y] artistiaid gan gynnwys [X]."}

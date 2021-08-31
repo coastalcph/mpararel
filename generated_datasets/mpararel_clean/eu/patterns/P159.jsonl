@@ -2,9 +2,9 @@
 {"pattern": "[X] egoitza [Y] da."}
 {"pattern": "[X] egoitza [Y] -n dago."}
 {"pattern": "[Y] [X] egoitza du."}
-{"pattern": "[X] du egoitza [Y] ."}
-{"pattern": "[Y] du egoitza [X] ."}
+{"pattern": "[X] du egoitza [Y]."}
+{"pattern": "[Y] du egoitza [X]."}
 {"pattern": "[X] egoitza [Y] -en daude."}
-{"pattern": "[X] , zeinen egoitza [Y] -n dago."}
+{"pattern": "[X], zeinen egoitza [Y] -n dago."}
 {"pattern": "[Y] [X] etxean dago."}
 {"pattern": "[X] [Y] -n oinarritzen da."}

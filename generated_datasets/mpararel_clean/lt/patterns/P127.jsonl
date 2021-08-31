@@ -1,4 +1,4 @@
-{"pattern": "[X] priklauso [Y] ."}
-{"pattern": "[X] savininkas [Y] ."}
-{"pattern": "[Y] priklauso [X] ."}
+{"pattern": "[X] priklauso [Y]."}
+{"pattern": "[X] savininkas [Y]."}
+{"pattern": "[Y] priklauso [X]."}
 {"pattern": "[Y] [X]"}

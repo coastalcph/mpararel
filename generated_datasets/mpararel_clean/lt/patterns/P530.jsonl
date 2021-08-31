@@ -1,9 +1,9 @@
 {"pattern": "[X] palaiko diplomatinius santykius su [Y]."}
-{"pattern": "[Y] palaiko diplomatinius santykius su [X] ."}
-{"pattern": "[X] ry\u0161iai su diplomatiniais santykiais su [Y] ."}
-{"pattern": "[Y] ry\u0161iai su [X] ."}
-{"pattern": "[X] turi diplomatinius santykius su [Y] ."}
-{"pattern": "[Y] turi diplomatinius santykius su [X] ."}
-{"pattern": "[X] , turintys diplomatinius santykius su [Y]"}
-{"pattern": "[Y] , turintys diplomatinius santykius su [X]"}
-{"pattern": "[Y] , kuris ry\u0161iai su [X] susieja diplomatinius santykius su [X]"}
+{"pattern": "[Y] palaiko diplomatinius santykius su [X]."}
+{"pattern": "[X] ry\u0161iai su diplomatiniais santykiais su [Y]."}
+{"pattern": "[Y] ry\u0161iai su [X]."}
+{"pattern": "[X] turi diplomatinius santykius su [Y]."}
+{"pattern": "[Y] turi diplomatinius santykius su [X]."}
+{"pattern": "[X], turintys diplomatinius santykius su [Y]"}
+{"pattern": "[Y], turintys diplomatinius santykius su [X]"}
+{"pattern": "[Y], kuris ry\u0161iai su [X] susieja diplomatinius santykius su [X]"}

@@ -1,11 +1,11 @@
-{"pattern": "[X] ventilata fueruntinprincipioerat[Y]."}
-{"pattern": "[X] Estdead debut[Y]."}
-{"pattern": "[Y]estdebut\\ 2 ."}
-{"pattern": "[Y]debuted\\ 2 ."}
-{"pattern": "[X] debutedad[Y]."}
-{"pattern": "ad[Y]debut\\ 2 ."}
-{"pattern": "quod[Y]derelease\\ 2 ."}
-{"pattern": "[X] dictumdimisitad[Y]."}
-{"pattern": "[Y]dimisit\\ 2 ."}
-{"pattern": "[X] inpremiered[Y]."}
-{"pattern": "[X] inpremieres[Y]."}
+{"pattern": "[X]ventilata fueruntinprincipioerat[Y]."}
+{"pattern": "[X]Estdead debut[Y]."}
+{"pattern": "[Y]estdebut[X]."}
+{"pattern": "[Y]debuted[X]."}
+{"pattern": "[X]debutedad[Y]."}
+{"pattern": "ad[Y]debut[X]."}
+{"pattern": "quod[Y]derelease[X]."}
+{"pattern": "[X]dictumdimisitad[Y]."}
+{"pattern": "[Y]dimisit[X]."}
+{"pattern": "[X]inpremiered[Y]."}
+{"pattern": "[X]inpremieres[Y]."}

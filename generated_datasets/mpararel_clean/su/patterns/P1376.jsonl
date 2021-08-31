@@ -1,14 +1,14 @@
 {"pattern": "[X] mangrupikeun ibukota [Y]."}
-{"pattern": "Ibukota [Y] nya\u00e9ta [X] ."}
-{"pattern": "Ibukota kota [Y] nya\u00e9ta [X] ."}
+{"pattern": "Ibukota [Y] nya\u00e9ta [X]."}
+{"pattern": "Ibukota kota [Y] nya\u00e9ta [X]."}
 {"pattern": "[X] mangrupikeun ibukota kota [Y]."}
 {"pattern": "[Y] modal, [X]."}
-{"pattern": "[Y] kota ibukota, [X] ."}
+{"pattern": "[Y] kota ibukota, [X]."}
 {"pattern": "[Y] 'strim nya\u00e9ta [X]."}
-{"pattern": "[Y] kota kota nya\u00e9ta [X] ."}
+{"pattern": "[Y] kota kota nya\u00e9ta [X]."}
 {"pattern": "[X], ibukota [Y]."}
 {"pattern": "[X], kota kota [Y]."}
 {"pattern": "[X], nya\u00e9ta ibukota [Y]."}
 {"pattern": "[X], nya\u00e9ta ibu kota ti [Y]."}
-{"pattern": "[Y] , anu gaduh ibukota [X] ."}
-{"pattern": "[Y] , anu gaduh ibukota kota [X] ."}
+{"pattern": "[Y], anu gaduh ibukota [X]."}
+{"pattern": "[Y], anu gaduh ibukota kota [X]."}

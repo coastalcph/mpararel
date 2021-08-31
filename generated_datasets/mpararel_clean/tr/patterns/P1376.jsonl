@@ -1,14 +1,14 @@
-{"pattern": "[X] [Y] 'nin ba\u015fkentidir."}
-{"pattern": "[Y] sermayesi [X] ."}
-{"pattern": "[Y] ba\u015fkenti [X] ."}
+{"pattern": "[X] [Y]'nin ba\u015fkentidir."}
+{"pattern": "[Y] sermayesi [X]."}
+{"pattern": "[Y] ba\u015fkenti [X]."}
 {"pattern": "[X] [Y] ba\u015fkentidir."}
-{"pattern": "[Y] sermayesi, [X] ."}
-{"pattern": "[Y] 'nin ba\u015fkenti, [X] ."}
-{"pattern": "[Y] sermayesi [X] ."}
-{"pattern": "[Y] 'nin ba\u015fkenti [X] ."}
+{"pattern": "[Y] sermayesi, [X]."}
+{"pattern": "[Y] 'nin ba\u015fkenti, [X]."}
+{"pattern": "[Y] sermayesi [X]."}
+{"pattern": "[Y] 'nin ba\u015fkenti [X]."}
 {"pattern": "[X], [Y] ba\u015fkenti."}
 {"pattern": "[X], [Y] ba\u015fkenti."}
 {"pattern": "[X], bu [Y] ba\u015fkentidir."}
 {"pattern": "[X], bu [Y] ba\u015fkentidir."}
-{"pattern": "[Y] , sermayeye sahip [X] ."}
-{"pattern": "[Y] , ba\u015fkent olan [X] ."}
+{"pattern": "[Y], sermayeye sahip [X]."}
+{"pattern": "[Y], ba\u015fkent olan [X]."}

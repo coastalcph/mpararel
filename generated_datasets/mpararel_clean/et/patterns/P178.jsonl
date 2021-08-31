@@ -1,16 +1,16 @@
 {"pattern": "[X] on v\u00e4lja t\u00f6\u00f6tatud [Y]."}
 {"pattern": "[X] t\u00f6\u00f6tati v\u00e4lja [Y]."}
-{"pattern": "[X] , v\u00e4lja t\u00f6\u00f6tatud [Y] ."}
+{"pattern": "[X], v\u00e4lja t\u00f6\u00f6tatud [Y]."}
 {"pattern": "[X] on loodud [Y]"}
 {"pattern": "[X] loodi [Y]"}
 {"pattern": "[X], mis on loodud [Y]."}
 {"pattern": "[X] on [Y] toode"}
 {"pattern": "[X] oli [Y] toode"}
 {"pattern": "[X], toode [Y]"}
-{"pattern": "[X] , mis on loodud [Y]"}
-{"pattern": "[X] , toodetud toode [Y]"}
-{"pattern": "[X] , toode v\u00e4lja t\u00f6\u00f6tatud [Y]"}
-{"pattern": "[Y] , mis on v\u00e4lja t\u00f6\u00f6tatud [X]"}
-{"pattern": "[Y] , mis loodud [X]"}
+{"pattern": "[X], mis on loodud [Y]"}
+{"pattern": "[X], toodetud toode [Y]"}
+{"pattern": "[X], toode v\u00e4lja t\u00f6\u00f6tatud [Y]"}
+{"pattern": "[Y], mis on v\u00e4lja t\u00f6\u00f6tatud [X]"}
+{"pattern": "[Y], mis loodud [X]"}
 {"pattern": "[Y], looja [X]"}
 {"pattern": "[Y] ja selle toode [X]"}

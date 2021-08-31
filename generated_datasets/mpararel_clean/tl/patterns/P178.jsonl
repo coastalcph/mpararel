@@ -1,16 +1,16 @@
-{"pattern": "[X] ay binuo ng [Y] ."}
-{"pattern": "[X] ay binuo ng [Y] ."}
-{"pattern": "[X] , na binuo ng [Y] ."}
+{"pattern": "[X] ay binuo ng [Y]."}
+{"pattern": "[X] ay binuo ng [Y]."}
+{"pattern": "[X], na binuo ng [Y]."}
 {"pattern": "[X] ay nilikha sa pamamagitan ng [Y]"}
 {"pattern": "[X] ay nilikha sa pamamagitan ng [Y]"}
-{"pattern": "[X] , nilikha ng [Y] ."}
+{"pattern": "[X], nilikha ng [Y]."}
 {"pattern": "[X] ay isang produkto ng [Y]"}
 {"pattern": "[X] ay isang produkto ng [Y]"}
-{"pattern": "[X] , isang produkto ng [Y]"}
+{"pattern": "[X], isang produkto ng [Y]"}
 {"pattern": "[X], isang produkto na nilikha ng [Y]"}
 {"pattern": "[X], isang produkto na ginawa sa pamamagitan ng [Y]"}
-{"pattern": "[X] , isang produkto na binuo ng [Y]"}
-{"pattern": "[Y] , na binuo [X]"}
-{"pattern": "[Y] , na nilikha [X]"}
-{"pattern": "[Y] , ang tagalikha ng [X]"}
+{"pattern": "[X], isang produkto na binuo ng [Y]"}
+{"pattern": "[Y], na binuo [X]"}
+{"pattern": "[Y], na nilikha [X]"}
+{"pattern": "[Y], ang tagalikha ng [X]"}
 {"pattern": "[Y] at ang produkto nito [X]"}

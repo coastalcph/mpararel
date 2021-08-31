@@ -1,9 +1,9 @@
-{"pattern": "Bahasa resmi [X] adalah [Y] ."}
+{"pattern": "Bahasa resmi [X] adalah [Y]."}
 {"pattern": "Bahasa resmi [X] adalah bahasa [Y]."}
-{"pattern": "[Y] adalah bahasa resmi [X] ."}
-{"pattern": "Bahasa [Y] adalah bahasa resmi [X] ."}
-{"pattern": "Dalam [X] , [Y] adalah bahasa resmi."}
-{"pattern": "Secara resmi, [Y] adalah bahasa [X] ."}
+{"pattern": "[Y] adalah bahasa resmi [X]."}
+{"pattern": "Bahasa [Y] adalah bahasa resmi [X]."}
+{"pattern": "Dalam [X], [Y] adalah bahasa resmi."}
+{"pattern": "Secara resmi, [Y] adalah bahasa [X]."}
 {"pattern": "Undang-undang di [X] menyatakan [Y] bahasa resmi."}
 {"pattern": "Undang-undang dalam [X] mendefinisikan [Y] sebagai bahasa resmi."}
 {"pattern": "Undang-undang di [X] mendefinisikan bahasa [Y] sebagai bahasa resmi."}

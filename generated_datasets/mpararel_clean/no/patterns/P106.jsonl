@@ -2,10 +2,10 @@
 {"pattern": "[X] er en [Y] av yrke."}
 {"pattern": "[X] er en [Y] ved trening."}
 {"pattern": "[X] er en [Y] ved trening."}
-{"pattern": "[X] fungerer som [Y] ."}
-{"pattern": "[X] , som fungerer som [Y] ."}
+{"pattern": "[X] fungerer som [Y]."}
+{"pattern": "[X], som fungerer som [Y]."}
 {"pattern": "[X] 's okkupasjon er [Y]"}
-{"pattern": "okkupasjonen av [X] er [Y] ."}
-{"pattern": "[X] 's yrke er en [Y] ."}
-{"pattern": "[X] s yrke er en [Y] ."}
-{"pattern": "yrket [X] er [Y] ."}
+{"pattern": "okkupasjonen av [X] er [Y]."}
+{"pattern": "[X] 's yrke er en [Y]."}
+{"pattern": "[X] s yrke er en [Y]."}
+{"pattern": "yrket [X] er [Y]."}

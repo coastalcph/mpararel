@@ -1,9 +1,9 @@
-{"pattern": "Uradni jezik [X] je [Y] ."}
-{"pattern": "Uradni jezik [X] je jezik [Y] ."}
+{"pattern": "Uradni jezik [X] je [Y]."}
+{"pattern": "Uradni jezik [X] je jezik [Y]."}
 {"pattern": "[Y] je uradni jezik [X]."}
 {"pattern": "Jezik [Y] je uradni jezik [X]."}
 {"pattern": "V [X] je [Y] uradni jezik."}
-{"pattern": "Uradno, [Y] je jezik [X] ."}
+{"pattern": "Uradno, [Y] je jezik [X]."}
 {"pattern": "Zakon v [X] izjavlja [Y] uradni jezik."}
 {"pattern": "Zakon v [X] opredeljuje [Y] kot uradni jezik."}
 {"pattern": "Zakon v [X] opredeljuje [Y] jezik kot uradni jezik."}

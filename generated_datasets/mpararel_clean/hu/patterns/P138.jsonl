@@ -2,12 +2,12 @@
 {"pattern": "[X] az [Y] ut\u00e1n nevezt\u00e9k el."}
 {"pattern": "[X] az [Y] -nek nevezik."}
 {"pattern": "[X] az [Y] -nek nevezt\u00e9k el."}
-{"pattern": "[X] , amelyet az [Y] ut\u00e1n nevez\u00fcnk."}
-{"pattern": "[X] , amelyet az [Y] ut\u00e1n neveztek el."}
-{"pattern": "[X] , amit az [Y] neveznek."}
-{"pattern": "[X] , amit az [Y] neveztek."}
-{"pattern": "[X] , megnevezve az [Y] ."}
-{"pattern": "[X] , az [Y] ut\u00e1n."}
+{"pattern": "[X], amelyet az [Y] ut\u00e1n nevez\u00fcnk."}
+{"pattern": "[X], amelyet az [Y] ut\u00e1n neveztek el."}
+{"pattern": "[X], amit az [Y] neveznek."}
+{"pattern": "[X], amit az [Y] neveztek."}
+{"pattern": "[X], megnevezve az [Y]."}
+{"pattern": "[X], az [Y] ut\u00e1n."}
 {"pattern": "[X] az [Y] tisztelet\u00e9re ker\u00fcl sor."}
 {"pattern": "[X] az [Y] tisztelet\u00e9re nevezt\u00e9k el."}
 {"pattern": "[X], az [Y] tisztelet\u00e9re."}
@@ -15,6 +15,6 @@
 {"pattern": "[X], amit az [Y] tisztelet\u00e9re neveztek el."}
 {"pattern": "[X] az [Y] ut\u00e1n h\u00edvj\u00e1k."}
 {"pattern": "[X] az [Y] ut\u00e1n h\u00edvt\u00e1k."}
-{"pattern": "[X] , amit az [Y] ut\u00e1n h\u00edvnak."}
-{"pattern": "[X] , amit az [Y] ut\u00e1n h\u00edvtak."}
-{"pattern": "[X] , \u00fagynevezett [Y] ."}
+{"pattern": "[X], amit az [Y] ut\u00e1n h\u00edvnak."}
+{"pattern": "[X], amit az [Y] ut\u00e1n h\u00edvtak."}
+{"pattern": "[X], \u00fagynevezett [Y]."}

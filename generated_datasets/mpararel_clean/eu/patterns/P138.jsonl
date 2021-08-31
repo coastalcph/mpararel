@@ -1,20 +1,20 @@
-{"pattern": "[X] izendatzen da [Y] ."}
-{"pattern": "[X] izendatu zuen [Y] ."}
-{"pattern": "[X] izendatzen da [Y] ."}
-{"pattern": "[X] izendatu zuten [Y] ."}
-{"pattern": "[X] , [Y] izendatzen dena."}
-{"pattern": "[X] , izendatu zuten [Y] ."}
-{"pattern": "[X] , [Y] izendatzen dena."}
-{"pattern": "[X] , izendatu zuten [Y] ."}
-{"pattern": "[X] , [Y] izendatua."}
-{"pattern": "[X] , [Y] izendatua."}
+{"pattern": "[X] izendatzen da [Y]."}
+{"pattern": "[X] izendatu zuen [Y]."}
+{"pattern": "[X] izendatzen da [Y]."}
+{"pattern": "[X] izendatu zuten [Y]."}
+{"pattern": "[X], [Y] izendatzen dena."}
+{"pattern": "[X], izendatu zuten [Y]."}
+{"pattern": "[X], [Y] izendatzen dena."}
+{"pattern": "[X], izendatu zuten [Y]."}
+{"pattern": "[X], [Y] izendatua."}
+{"pattern": "[X], [Y] izendatua."}
 {"pattern": "[X] ohorezko ohorean dago."}
 {"pattern": "[X] izendatu zuen [Y] omenez."}
-{"pattern": "[X] , [Y] ohorean izendatua."}
-{"pattern": "[X] , [Y] ohorean izena duena."}
-{"pattern": "[X] , [Y] ohorean izendatu zuten."}
-{"pattern": "[X] deitu ondoren [Y] ."}
-{"pattern": "[X] deitu zuen ondoren [Y] ."}
-{"pattern": "[X] , ondoren [Y] deitzen dena."}
-{"pattern": "[X] , ondoren [Y] deitzen zen."}
-{"pattern": "[X] , ondoren [Y] deitu zuen."}
+{"pattern": "[X], [Y] ohorean izendatua."}
+{"pattern": "[X], [Y] ohorean izena duena."}
+{"pattern": "[X], [Y] ohorean izendatu zuten."}
+{"pattern": "[X] deitu ondoren [Y]."}
+{"pattern": "[X] deitu zuen ondoren [Y]."}
+{"pattern": "[X], ondoren [Y] deitzen dena."}
+{"pattern": "[X], ondoren [Y] deitzen zen."}
+{"pattern": "[X], ondoren [Y] deitu zuen."}

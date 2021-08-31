@@ -1,14 +1,14 @@
-{"pattern": "Ang kapital sa [X] mao ang [Y] ."}
-{"pattern": "Ang kaulohan nga lungsod sa [X] mao ang [Y] ."}
-{"pattern": "[Y] ang kapital sa [X] ."}
-{"pattern": "[Y] ang kaulohan nga lungsod sa [X] ."}
-{"pattern": "[X] kapital, [Y] ."}
+{"pattern": "Ang kapital sa [X] mao ang [Y]."}
+{"pattern": "Ang kaulohan nga lungsod sa [X] mao ang [Y]."}
+{"pattern": "[Y] ang kapital sa [X]."}
+{"pattern": "[Y] ang kaulohan nga lungsod sa [X]."}
+{"pattern": "[X] kapital, [Y]."}
 {"pattern": "[X] ka kaulohan nga lungsod, [Y]."}
 {"pattern": "[X] kapital [Y]."}
 {"pattern": "[X] kapital nga lungsod mao ang [Y]."}
-{"pattern": "[Y] , ang kapital sa [X] ."}
-{"pattern": "[Y] , ang kaulohan nga lungsod sa [X] ."}
-{"pattern": "[Y] , kana ang kapital sa [X] ."}
-{"pattern": "[Y] , mao kana ang kapital nga lungsod sa [X] ."}
+{"pattern": "[Y], ang kapital sa [X]."}
+{"pattern": "[Y], ang kaulohan nga lungsod sa [X]."}
+{"pattern": "[Y], kana ang kapital sa [X]."}
+{"pattern": "[Y], mao kana ang kapital nga lungsod sa [X]."}
 {"pattern": "[X], nga adunay kapital [Y]."}
 {"pattern": "[X], nga adunay kaulohan nga lungsod [Y]."}

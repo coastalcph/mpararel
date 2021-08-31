@@ -3,8 +3,8 @@
 {"pattern": "[X] ay nakasulat sa wikang [Y]."}
 {"pattern": "[X] ay nakasulat sa wikang [Y]."}
 {"pattern": "[X], nakasulat sa wikang [Y]."}
-{"pattern": "Ang wika ng [X] ay [Y] ."}
-{"pattern": "Ang wika ng [X] ay [Y] ."}
+{"pattern": "Ang wika ng [X] ay [Y]."}
+{"pattern": "Ang wika ng [X] ay [Y]."}
 {"pattern": "[X] ay isang [Y] -Language work."}
 {"pattern": "[X] ay isang [Y] -Language work."}
 {"pattern": "[X], isang [Y] -Language trabaho."}
@@ -14,5 +14,5 @@
 {"pattern": "[X] ay isang trabaho sa [Y] na wika."}
 {"pattern": "[X] ay isang gawain sa wikang [Y]."}
 {"pattern": "Ang [Y] -language paglikha [X]"}
-{"pattern": "[Y] ay ang wika ng [X] ."}
-{"pattern": "[Y] ay ang wika ng [X] ."}
+{"pattern": "[Y] ay ang wika ng [X]."}
+{"pattern": "[Y] ay ang wika ng [X]."}

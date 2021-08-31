@@ -1,9 +1,9 @@
 {"pattern": "[X] se [Y] sitwayen."}
-{"pattern": "[X] se yon sitwayen nan [Y] ."}
+{"pattern": "[X] se yon sitwayen nan [Y]."}
 {"pattern": "[X], yon sitwayen nan [Y]."}
-{"pattern": "[X] , ki moun ki yon sitwayen nan [Y] ."}
-{"pattern": "[X] kenbe yon sitway\u00e8nte nan [Y] ."}
-{"pattern": "[X] gen yon sitway\u00e8nte nan [Y] ."}
-{"pattern": "[X] , ki moun ki kenbe yon sitway\u00e8nte nan [Y] ."}
-{"pattern": "[X] , ki gen yon sitway\u00e8nte nan [Y] ."}
-{"pattern": "k\u00f2m yon sitwayen nan [Y] , [X]"}
+{"pattern": "[X], ki moun ki yon sitwayen nan [Y]."}
+{"pattern": "[X] kenbe yon sitway\u00e8nte nan [Y]."}
+{"pattern": "[X] gen yon sitway\u00e8nte nan [Y]."}
+{"pattern": "[X], ki moun ki kenbe yon sitway\u00e8nte nan [Y]."}
+{"pattern": "[X], ki gen yon sitway\u00e8nte nan [Y]."}
+{"pattern": "k\u00f2m yon sitwayen nan [Y], [X]"}

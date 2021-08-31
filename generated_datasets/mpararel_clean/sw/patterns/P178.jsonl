@@ -1,16 +1,16 @@
-{"pattern": "[X] imeandaliwa na [Y] ."}
-{"pattern": "[X] ilianzishwa na [Y] ."}
-{"pattern": "[X] , iliyoandaliwa na [Y] ."}
+{"pattern": "[X] imeandaliwa na [Y]."}
+{"pattern": "[X] ilianzishwa na [Y]."}
+{"pattern": "[X], iliyoandaliwa na [Y]."}
 {"pattern": "[X] imeundwa na [Y]"}
 {"pattern": "[X] iliundwa na [Y]"}
-{"pattern": "[X] , iliyoundwa na [Y] ."}
+{"pattern": "[X], iliyoundwa na [Y]."}
 {"pattern": "[X] ni bidhaa ya [Y]"}
 {"pattern": "[X] ilikuwa bidhaa ya [Y]"}
-{"pattern": "[X] , bidhaa ya [Y]"}
-{"pattern": "[X] , bidhaa iliyoundwa na [Y]"}
-{"pattern": "[X] , bidhaa iliyozalishwa na [Y]"}
-{"pattern": "[X] , bidhaa iliyotengenezwa na [Y]"}
-{"pattern": "[Y] , hiyo iliendelea [X]"}
-{"pattern": "[Y] , ambayo iliunda [X]"}
-{"pattern": "[Y] , muumba wa [X]"}
+{"pattern": "[X], bidhaa ya [Y]"}
+{"pattern": "[X], bidhaa iliyoundwa na [Y]"}
+{"pattern": "[X], bidhaa iliyozalishwa na [Y]"}
+{"pattern": "[X], bidhaa iliyotengenezwa na [Y]"}
+{"pattern": "[Y], hiyo iliendelea [X]"}
+{"pattern": "[Y], ambayo iliunda [X]"}
+{"pattern": "[Y], muumba wa [X]"}
 {"pattern": "[Y] na bidhaa zake [X]"}

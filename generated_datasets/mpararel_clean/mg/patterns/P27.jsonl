@@ -2,8 +2,8 @@
 {"pattern": "[X] dia olom-pirenena [Y]."}
 {"pattern": "[X], olom-boninahitry ny [Y]."}
 {"pattern": "[X], izay olom-pirenen'ny [Y]."}
-{"pattern": "[X] mitazona zom-pirenen'ny [Y] ."}
-{"pattern": "[X] manana zom-pirenen'ny [Y] ."}
-{"pattern": "[X] , izay mitazona ny zom-pirenen'ny [Y] ."}
-{"pattern": "[X] , izay manana zom-pirenen'ny [Y] ."}
-{"pattern": "Amin'ny maha olom-pirenena ny [Y] , [X]"}
+{"pattern": "[X] mitazona zom-pirenen'ny [Y]."}
+{"pattern": "[X] manana zom-pirenen'ny [Y]."}
+{"pattern": "[X], izay mitazona ny zom-pirenen'ny [Y]."}
+{"pattern": "[X], izay manana zom-pirenen'ny [Y]."}
+{"pattern": "Amin'ny maha olom-pirenena ny [Y], [X]"}

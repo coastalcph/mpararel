@@ -1,14 +1,14 @@
 {"pattern": "[X] grundades i [Y]."}
-{"pattern": "[X] , grundad i [Y] ."}
-{"pattern": "[X] som grundades i [Y] ."}
-{"pattern": "[X] , som startades i [Y] ."}
-{"pattern": "[X] startade i [Y] ."}
+{"pattern": "[X], grundad i [Y]."}
+{"pattern": "[X] som grundades i [Y]."}
+{"pattern": "[X], som startades i [Y]."}
+{"pattern": "[X] startade i [Y]."}
 {"pattern": "[X] startades i [Y]"}
 {"pattern": "[X], som skapades i [Y]."}
-{"pattern": "[X] , skapad i [Y] ."}
+{"pattern": "[X], skapad i [Y]."}
 {"pattern": "[X] skapades i [Y]."}
 {"pattern": "[X], som h\u00e4rstammar i [Y]."}
 {"pattern": "[X] h\u00e4rstammar i [Y]."}
-{"pattern": "[X] bildad i [Y] ."}
+{"pattern": "[X] bildad i [Y]."}
 {"pattern": "[X] bildades i [Y]."}
-{"pattern": "[X] , som bildades i [Y] ."}
+{"pattern": "[X], som bildades i [Y]."}

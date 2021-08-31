@@ -1,4 +1,4 @@
 {"pattern": "[X] kuulub [Y]."}
-{"pattern": "[X] omanik [Y] ."}
-{"pattern": "[Y] omab [X] ."}
-{"pattern": "[Y] -Owned [X]"}
+{"pattern": "[X] omanik [Y]."}
+{"pattern": "[Y] omab [X]."}
+{"pattern": "[Y]-Owned [X]"}

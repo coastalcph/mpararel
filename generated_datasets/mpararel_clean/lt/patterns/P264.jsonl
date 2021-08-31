@@ -1,17 +1,17 @@
 {"pattern": "[X] yra atstovaujama muzikos etiket\u0117je [Y]."}
 {"pattern": "[X] yra atstovaujama rekordin\u0117s etiket\u0117s [Y]."}
-{"pattern": "[X] yra atstovaujama [Y] ."}
-{"pattern": "[X] , kuri yra atstovaujama [Y] ."}
-{"pattern": "[X] , kuri yra atstovaujama [Y] ."}
-{"pattern": "Muzikos etiket\u0117, atstovaujanti [X] , yra [Y] ."}
+{"pattern": "[X] yra atstovaujama [Y]."}
+{"pattern": "[X], kuri yra atstovaujama [Y]."}
+{"pattern": "[X], kuri yra atstovaujama [Y]."}
+{"pattern": "Muzikos etiket\u0117, atstovaujanti [X], yra [Y]."}
 {"pattern": "[X] atstovaujama muzikos etiket\u0117 yra [Y]."}
 {"pattern": "[X] etiket\u0117 yra [Y]."}
 {"pattern": "[X] \u012fra\u0161\u0173 etiket\u0117 yra [Y]."}
 {"pattern": "[X] \u012fra\u0161\u0173 kompanija yra [Y]."}
 {"pattern": "[X] Muzikos etiket\u0117 yra [Y]."}
-{"pattern": "[X] u\u017efiksuotas [Y] ."}
-{"pattern": "[X] Etiket\u0117: [Y] ."}
-{"pattern": "[X] , i\u0161leista [Y] ."}
-{"pattern": "[Y] \u012era\u0161ymo menininkas [X] ."}
-{"pattern": "[Y] menininkai, tokie kaip [X] ."}
-{"pattern": "[Y] menininkai, \u012fskaitant [X] ."}
+{"pattern": "[X] u\u017efiksuotas [Y]."}
+{"pattern": "[X] Etiket\u0117: [Y]."}
+{"pattern": "[X], i\u0161leista [Y]."}
+{"pattern": "[Y] \u012era\u0161ymo menininkas [X]."}
+{"pattern": "[Y] menininkai, tokie kaip [X]."}
+{"pattern": "[Y] menininkai, \u012fskaitant [X]."}

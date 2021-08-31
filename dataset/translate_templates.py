@@ -11,22 +11,14 @@ LOG = get_logger(__name__)
 
 
 def fix_template(template, lang):
-    # general rules
-    # Remove extra spaces and capitalize.
-    template = re.sub('\[ ?[xX] ?\]', '[X]', template)
-    template = re.sub('\[ ?[yY] ?\]', '[Y]', template)
-    # Ensure spaces after and before [X] and [Y].
-    template = re.sub('(.*)(\[X\])([^ ].*)', r'\1\2 \3', template)
-    template = re.sub('(.*)(\[Y\])([^ ].*)', r'\1\2 \3', template)
-    template = re.sub('(^.+[^ ])(\[X\])(.*)', r'\1\ 2\3', template)
-    template = re.sub('(^.+[^ ])(\[Y\])(.*)', r'\1 \2\3', template)
+    # General rules.
+    # Remove extra spaces and extra brackets, and capitalize.
+    template = re.sub('\[+ ?[xX] ?\]+', '[X]', template)
+    template = re.sub('\[+ ?[yY] ?\]+', '[Y]', template)
     if "[X]" not in template:
         template = template.replace("X", "[X]", 1)
-        # template = template.replace("[x]", "[X]", 1)
     if "[Y]" not in template:
         template = template.replace("Y", "[Y]", 1)
-        # template = template.replace("[y]", "[Y]", 1)
-        # template = template.replace("[Y ]", "[Y] ", 1)
 
     if lang == "tl":
         template = template.replace(
@@ -117,6 +109,10 @@ def fix_template(template, lang):
             template = template.replace("[एक्स]", "[X]", 1)
         if "[Y]" not in template:
             template = template.replace("[वाई]", "[Y]", 1)
+    # Remove extra brackets that could have been added by the [X] and [Y]
+    # replacements above.
+    template = re.sub('\[+[X]\]+', '[X]', template)
+    template = re.sub('\[+[Y]\]+', '[Y]', template)
     return template
 
 

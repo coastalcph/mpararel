@@ -1,9 +1,9 @@
-{"pattern": "[X] yll\u00e4pit\u00e4\u00e4 diplomaattisuhteita [Y] : n kanssa."}
+{"pattern": "[X] yll\u00e4pit\u00e4\u00e4 diplomaattisuhteita [Y]: n kanssa."}
 {"pattern": "[Y] yll\u00e4pit\u00e4\u00e4 diplomaattisuhteita [X]: n kanssa."}
 {"pattern": "[X] Ties Diplomaattisuhteet [Y]: n kanssa."}
-{"pattern": "[Y] sidokset diplomaattisuhteet [X] ."}
+{"pattern": "[Y] sidokset diplomaattisuhteet [X]."}
 {"pattern": "[X] on diplomaattisuhteita [Y]: n kanssa."}
 {"pattern": "[Y] on diplomaattisuhteita [X]: n kanssa."}
-{"pattern": "[X] , jolla on diplomaattisuhteita [Y]"}
-{"pattern": "[Y] , jolla on diplomaattisuhteita [X]"}
-{"pattern": "[Y] , joka sitoo diplomaattisuhteita [X]"}
+{"pattern": "[X], jolla on diplomaattisuhteita [Y]"}
+{"pattern": "[Y], jolla on diplomaattisuhteita [X]"}
+{"pattern": "[Y], joka sitoo diplomaattisuhteita [X]"}

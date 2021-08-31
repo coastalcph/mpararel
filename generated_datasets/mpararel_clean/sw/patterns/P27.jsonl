@@ -1,9 +1,9 @@
 {"pattern": "[X] ni raia [yu]."}
-{"pattern": "[X] ni raia wa [Y] ."}
-{"pattern": "[X] , raia wa [Y] ."}
-{"pattern": "[X] , ambaye ni raia wa [Y] ."}
-{"pattern": "[X] Anashikilia uraia wa [Y] ."}
-{"pattern": "[X] ina uraia wa [Y] ."}
-{"pattern": "[X] , ambaye ana uraia wa [Y] ."}
-{"pattern": "[X] , ambaye ana uraia wa [Y] ."}
-{"pattern": "Kama raia wa [Y] , [X]"}
+{"pattern": "[X] ni raia wa [Y]."}
+{"pattern": "[X], raia wa [Y]."}
+{"pattern": "[X], ambaye ni raia wa [Y]."}
+{"pattern": "[X] Anashikilia uraia wa [Y]."}
+{"pattern": "[X] ina uraia wa [Y]."}
+{"pattern": "[X], ambaye ana uraia wa [Y]."}
+{"pattern": "[X], ambaye ana uraia wa [Y]."}
+{"pattern": "Kama raia wa [Y], [X]"}

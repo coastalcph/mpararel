@@ -1,18 +1,18 @@
-{"pattern": "[X] a \u00e9t\u00e9 \u00e9crit dans [Y] ."}
-{"pattern": "[X] est \u00e9crit dans [Y] ."}
-{"pattern": "[X] a \u00e9t\u00e9 \u00e9crit dans la langue [Y] ."}
-{"pattern": "[X] est \u00e9crit dans la langue [Y] ."}
-{"pattern": "[X] , \u00e9crit dans la langue [Y] ."}
-{"pattern": "La langue de [X] est [Y] ."}
-{"pattern": "La langue de [X] \u00e9tait [Y] ."}
+{"pattern": "[X] a \u00e9t\u00e9 \u00e9crit dans [Y]."}
+{"pattern": "[X] est \u00e9crit dans [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 \u00e9crit dans la langue [Y]."}
+{"pattern": "[X] est \u00e9crit dans la langue [Y]."}
+{"pattern": "[X], \u00e9crit dans la langue [Y]."}
+{"pattern": "La langue de [X] est [Y]."}
+{"pattern": "La langue de [X] \u00e9tait [Y]."}
 {"pattern": "[X] est un travail [Y] -Language."}
 {"pattern": "[X] est un travail [Y] -Language."}
 {"pattern": "[X],untravail-language[Y]."}
-{"pattern": "[X] , un travail [Y] Language."}
+{"pattern": "[X], un travail [Y]Language."}
 {"pattern": "[X] \u00e9tait un travail [Y] -Language."}
 {"pattern": "[X] \u00e9tait un travail [Y] -Language."}
-{"pattern": "[X] est un travail dans la langue [Y] ."}
-{"pattern": "[X] \u00c9tait un travail dans la langue [Y] ."}
+{"pattern": "[X] est un travail dans la langue [Y]."}
+{"pattern": "[X] \u00c9tait un travail dans la langue [Y]."}
 {"pattern": "La [Y] -Langue Cr\u00e9ation [X]"}
-{"pattern": "[Y] est la langue de [X] ."}
-{"pattern": "[Y] \u00e9tait la langue de [X] ."}
+{"pattern": "[Y] est la langue de [X]."}
+{"pattern": "[Y] \u00e9tait la langue de [X]."}

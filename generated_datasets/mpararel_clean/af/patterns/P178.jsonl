@@ -8,9 +8,9 @@
 {"pattern": "[X] was 'n produk van [Y]"}
 {"pattern": "[X], 'n produk van [Y]"}
 {"pattern": "[X], 'n produk wat deur [Y] is]"}
-{"pattern": "[X] , 'n produk wat deur [Y] vervaardig word"}
+{"pattern": "[X], 'n produk wat deur [Y] vervaardig word"}
 {"pattern": "[X], 'n produk ontwikkel deur [Y]"}
-{"pattern": "[Y] , wat ontwikkel het [X]"}
-{"pattern": "[Y] , wat geskep het [X]"}
+{"pattern": "[Y], wat ontwikkel het [X]"}
+{"pattern": "[Y], wat geskep het [X]"}
 {"pattern": "[Y], die Skepper van die [X]"}
 {"pattern": "[Y] en sy produk [X]"}

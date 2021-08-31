@@ -1,7 +1,7 @@
-{"pattern": "[X] word geproduseer deur [Y] ."}
+{"pattern": "[X] word geproduseer deur [Y]."}
 {"pattern": "[X] word ontwikkel deur [Y]."}
 {"pattern": "[X], ontwikkel deur [Y]"}
-{"pattern": "[X] , geproduseer deur [Y]"}
+{"pattern": "[X], geproduseer deur [Y]"}
 {"pattern": "[X] word geskep deur [Y]."}
 {"pattern": "[X], geskep deur [Y]."}
 {"pattern": "[X] is 'n produk van [Y]."}

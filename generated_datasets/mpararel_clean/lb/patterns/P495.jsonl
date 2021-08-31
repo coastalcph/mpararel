@@ -1,17 +1,17 @@
 {"pattern": "[X] gouf an [Y] erstallt."}
 {"pattern": "[X], dat gouf am [Y] erstallt."}
-{"pattern": "[X] , erstallt an [Y] ."}
-{"pattern": "[X] , dat staamt an [Y] ."}
-{"pattern": "[X] staamt an [Y] ."}
+{"pattern": "[X], erstallt an [Y]."}
+{"pattern": "[X], dat staamt an [Y]."}
+{"pattern": "[X] staamt an [Y]."}
 {"pattern": "[X] an [Y] geformt."}
 {"pattern": "[X] gouf an [Y] geformt."}
-{"pattern": "[X] , dat gouf am [Y] geformt."}
+{"pattern": "[X], dat gouf am [Y] geformt."}
 {"pattern": "[X] gouf an [Y] formul\u00e9iert."}
-{"pattern": "[X] , an [Y] formul\u00e9iert."}
-{"pattern": "[X] , dat gouf an [y formul\u00e9iert."}
-{"pattern": "[X] war vun [Y] ."}
-{"pattern": "[X] , deen war aus [Y] ."}
-{"pattern": "[X] , vun [Y] ."}
+{"pattern": "[X], an [Y] formul\u00e9iert."}
+{"pattern": "[X], dat gouf an [y formul\u00e9iert."}
+{"pattern": "[X] war vun [Y]."}
+{"pattern": "[X], deen war aus [Y]."}
+{"pattern": "[X], vun [Y]."}
 {"pattern": "[X], dat gouf an [Y] entw\u00e9ckelt."}
 {"pattern": "[X] gouf an [Y] entw\u00e9ckelt."}
-{"pattern": "[X] , entw\u00e9ckelt an [Y] ."}
+{"pattern": "[X], entw\u00e9ckelt an [Y]."}

@@ -1,10 +1,10 @@
-{"pattern": "Az [X] sz\u00e9khelye [Y] ."}
+{"pattern": "Az [X] sz\u00e9khelye [Y]."}
 {"pattern": "Az [X] sz\u00e9khelye [Y] van."}
 {"pattern": "Az [X] sz\u00e9khelye [Y] -ban tal\u00e1lhat\u00f3."}
 {"pattern": "[Y] tartalmazza az [X] sz\u00e9khely\u00e9t."}
-{"pattern": "[X] sz\u00e9khelye [Y] ."}
+{"pattern": "[X] sz\u00e9khelye [Y]."}
 {"pattern": "[Y] az [X] sz\u00e9khelye."}
-{"pattern": "Az [X] sz\u00e9khelye [Y] ."}
-{"pattern": "[X] , amelynek k\u00f6zpontja [Y] ."}
-{"pattern": "[Y] otthon [X] ."}
+{"pattern": "Az [X] sz\u00e9khelye [Y]."}
+{"pattern": "[X], amelynek k\u00f6zpontja [Y]."}
+{"pattern": "[Y] otthon [X]."}
 {"pattern": "[X] az [Y] -on alapul."}

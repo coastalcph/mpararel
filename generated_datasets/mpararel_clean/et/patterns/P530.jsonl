@@ -1,9 +1,9 @@
 {"pattern": "[X] s\u00e4ilitab diplomaatilisi suhteid [Y]."}
-{"pattern": "[Y] s\u00e4ilitab diplomaatilisi suhteid [X] ."}
+{"pattern": "[Y] s\u00e4ilitab diplomaatilisi suhteid [X]."}
 {"pattern": "[X] Sideme diplomaatilised suhted [Y]."}
 {"pattern": "[Y] Sideme diplomaatilised suhted [X]."}
 {"pattern": "[X] Kas diplomaatilised suhted [Y]."}
 {"pattern": "[Y] on diplomaatilised suhted [X]."}
 {"pattern": "[X], millel on diplomaatilised suhted [Y]"}
-{"pattern": "[Y] , millel on diplomaatilised suhted [X]"}
+{"pattern": "[Y], millel on diplomaatilised suhted [X]"}
 {"pattern": "[Y], mis seob diplomaatilisi suhteid [X]"}

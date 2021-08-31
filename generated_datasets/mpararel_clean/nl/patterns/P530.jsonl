@@ -1,9 +1,9 @@
 {"pattern": "[X] onderhoudt diplomatieke relaties met [Y]."}
 {"pattern": "[Y] onderhoudt diplomatieke relaties met [X]."}
 {"pattern": "[X] diplomatieke relaties met [Y]."}
-{"pattern": "[Y] diplomatieke relaties met [X] ."}
+{"pattern": "[Y] diplomatieke relaties met [X]."}
 {"pattern": "[X] heeft diplomatieke relaties met [Y]."}
 {"pattern": "[Y] heeft diplomatieke relaties met [X]."}
 {"pattern": "[X], die diplomatieke relaties heeft met [Y]"}
-{"pattern": "[Y] , die diplomatieke relaties heeft met [X]"}
-{"pattern": "[Y] , welke diplomatieke relaties met [X]"}
+{"pattern": "[Y], die diplomatieke relaties heeft met [X]"}
+{"pattern": "[Y], welke diplomatieke relaties met [X]"}

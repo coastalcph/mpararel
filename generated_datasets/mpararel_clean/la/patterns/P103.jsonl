@@ -1,4 +1,4 @@
-{"pattern": "Apatrialingua\\ 2 autem[Y]."}
-{"pattern": "Materlinguaest\\ 2 autem[Y]."}
-{"pattern": "[Y]hoc\\ 2 'slingua."}
-{"pattern": "[Y]hoc\\ 2 'smatrislingua."}
+{"pattern": "Apatrialingua[X]autem[Y]."}
+{"pattern": "Materlinguaest[X]autem[Y]."}
+{"pattern": "[Y]hoc[X]'slingua."}
+{"pattern": "[Y]hoc[X]'smatrislingua."}

@@ -1,6 +1,6 @@
 {"pattern": "[X] spelar i [Y] -l\u00e4get."}
-{"pattern": "[X] spelar i positionen av [Y] ."}
-{"pattern": "[X] , som spelar i [Y] position."}
-{"pattern": "spelar som en [Y] , [X]"}
-{"pattern": "spelar som en [Y] , [X]"}
+{"pattern": "[X] spelar i positionen av [Y]."}
+{"pattern": "[X], som spelar i [Y] position."}
+{"pattern": "spelar som en [Y], [X]"}
+{"pattern": "spelar som en [Y], [X]"}
 {"pattern": "[X] spelar som [Y]"}

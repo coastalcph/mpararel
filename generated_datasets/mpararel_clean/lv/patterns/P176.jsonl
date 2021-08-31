@@ -1,12 +1,12 @@
-{"pattern": "[X] tiek ra\u017eots ar [Y] ."}
-{"pattern": "[X] izstr\u0101d\u0101 [Y] ."}
-{"pattern": "[X] , ko izstr\u0101d\u0101jusi [Y]"}
-{"pattern": "[X] , ko ra\u017eo [Y]"}
-{"pattern": "[X] ir izveidots ar [Y] ."}
-{"pattern": "[X] , ko rada [Y] ."}
+{"pattern": "[X] tiek ra\u017eots ar [Y]."}
+{"pattern": "[X] izstr\u0101d\u0101 [Y]."}
+{"pattern": "[X], ko izstr\u0101d\u0101jusi [Y]"}
+{"pattern": "[X], ko ra\u017eo [Y]"}
+{"pattern": "[X] ir izveidots ar [Y]."}
+{"pattern": "[X], ko rada [Y]."}
 {"pattern": "[X] ir [Y] produkts."}
-{"pattern": "[X] , [Y] produkts,"}
-{"pattern": "[X] , produkts, ko rada [Y] ,"}
-{"pattern": "[X] , produkts, ko izstr\u0101d\u0101jis [Y] ,"}
+{"pattern": "[X], [Y] produkts,"}
+{"pattern": "[X], produkts, ko rada [Y],"}
+{"pattern": "[X], produkts, ko izstr\u0101d\u0101jis [Y],"}
 {"pattern": "[Y], [X] rad\u012bt\u0101js"}
 {"pattern": "[Y] un t\u0101 produkts [X]"}

@@ -1,9 +1,9 @@
-{"pattern": "[X] maintainspublicas rationes cum[Y]."}
-{"pattern": "[Y]maintainspublicas rationes cum\\ 2 ."}
-{"pattern": "[X] tiespublicas rationes cum[Y]."}
-{"pattern": "[Y]tiespublicas rationes cum\\ 2 ."}
-{"pattern": "[X] perhasrationeslegatorum[Y]."}
-{"pattern": "[Y]perhasrationeslegatorum\\ 2 ."}
-{"pattern": "[X] ,exquahabetrationeslegatorum[Y]"}
-{"pattern": "[Y],quodperhasrationeslegatorum\\ 2"}
-{"pattern": "[Y],quodnectit simuletrationeslegatorum\\ 2"}
+{"pattern": "[X]maintainspublicas rationes cum[Y]."}
+{"pattern": "[Y]maintainspublicas rationes cum[X]."}
+{"pattern": "[X]tiespublicas rationes cum[Y]."}
+{"pattern": "[Y]tiespublicas rationes cum[X]."}
+{"pattern": "[X]perhasrationeslegatorum[Y]."}
+{"pattern": "[Y]perhasrationeslegatorum[X]."}
+{"pattern": "[X],exquahabetrationeslegatorum[Y]"}
+{"pattern": "[Y],quodperhasrationeslegatorum[X]"}
+{"pattern": "[Y],quodnectit simuletrationeslegatorum[X]"}

@@ -1,17 +1,17 @@
 {"pattern": "[X] loodi [Y]."}
-{"pattern": "[X] , mis loodi [Y] ."}
+{"pattern": "[X], mis loodi [Y]."}
 {"pattern": "[X], mis on loodud [Y]."}
-{"pattern": "[X] , mis p\u00e4rineb [Y] ."}
-{"pattern": "[X] p\u00e4rines [Y] ."}
+{"pattern": "[X], mis p\u00e4rineb [Y]."}
+{"pattern": "[X] p\u00e4rines [Y]."}
 {"pattern": "[X] moodustunud [Y]."}
 {"pattern": "[X] moodustati [Y]."}
-{"pattern": "[X] , mis moodustati [Y] ."}
+{"pattern": "[X], mis moodustati [Y]."}
 {"pattern": "[X] s\u00f5nastati [Y]."}
 {"pattern": "[X], formuleeritud [Y]."}
-{"pattern": "[X] , mis on formuleeritud [Y] ."}
+{"pattern": "[X], mis on formuleeritud [Y]."}
 {"pattern": "[X] oli [Y]."}
 {"pattern": "[X], kes oli [Y]."}
-{"pattern": "[X] , alates [Y] ."}
-{"pattern": "[X] , mis t\u00f6\u00f6tati v\u00e4lja [Y] ."}
+{"pattern": "[X], alates [Y]."}
+{"pattern": "[X], mis t\u00f6\u00f6tati v\u00e4lja [Y]."}
 {"pattern": "[X] t\u00f6\u00f6tati v\u00e4lja [Y]."}
-{"pattern": "[X] , mis on v\u00e4lja t\u00f6\u00f6tatud [Y] ."}
+{"pattern": "[X], mis on v\u00e4lja t\u00f6\u00f6tatud [Y]."}

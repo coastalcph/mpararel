@@ -1,17 +1,17 @@
-{"pattern": "[X] titulusmusicaper `[Y]."}
-{"pattern": "[X] gestas tumper `[Y]."}
-{"pattern": "[X] repraesentatur per `[Y]."}
-{"pattern": "[X] ,quod repraesentatur per `[Y]."}
-{"pattern": "[X] ,quod repraesentatur per `[Y]."}
-{"pattern": "Representingmusicaesttitulus\\ 2 autem[Y]."}
-{"pattern": "Inmusicaseesttitulusrepresenting\\ 2 autem[Y]."}
-{"pattern": "[X] 'ssittitulus[Y]."}
-{"pattern": "[X] recordumsittitulus[Y]."}
-{"pattern": "[X] recordumcomitatuest[Y]."}
-{"pattern": "[X] 'smusicasittitulus[Y]."}
-{"pattern": "[X] utmemoriae[Y]."}
-{"pattern": "[X] titulus: [Y]."}
-{"pattern": "[X] ,dimisita[Y]."}
-{"pattern": "[Y]morandis artifex\\ 2 ."}
-{"pattern": "[Y]artistsut\\ 2 ."}
-{"pattern": "[Y]artistsinter\\ 2 ."}
+{"pattern": "[X]titulusmusicaper `[Y]."}
+{"pattern": "[X]gestas tumper `[Y]."}
+{"pattern": "[X]repraesentatur per `[Y]."}
+{"pattern": "[X],quod repraesentatur per `[Y]."}
+{"pattern": "[X],quod repraesentatur per `[Y]."}
+{"pattern": "Representingmusicaesttitulus[X]autem[Y]."}
+{"pattern": "Inmusicaseesttitulusrepresenting[X]autem[Y]."}
+{"pattern": "[X]'ssittitulus[Y]."}
+{"pattern": "[X]recordumsittitulus[Y]."}
+{"pattern": "[X]recordumcomitatuest[Y]."}
+{"pattern": "[X]'smusicasittitulus[Y]."}
+{"pattern": "[X]utmemoriae[Y]."}
+{"pattern": "[X]titulus: [Y]."}
+{"pattern": "[X],dimisita[Y]."}
+{"pattern": "[Y]morandis artifex[X]."}
+{"pattern": "[Y]artistsut[X]."}
+{"pattern": "[Y]artistsinter[X]."}

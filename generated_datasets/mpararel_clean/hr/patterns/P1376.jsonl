@@ -1,14 +1,14 @@
-{"pattern": "[X] je glavni grad [Y] ."}
-{"pattern": "Kapital [Y] je [X] ."}
-{"pattern": "Glavni grad [Y] je [X] ."}
-{"pattern": "[X] je glavni grad [Y] ."}
-{"pattern": "[Y] glavni kapital, [X] ."}
-{"pattern": "[Y] glavni grad, [X] ."}
-{"pattern": "[Y] glavni kapital je [X] ."}
-{"pattern": "[Y] glavni grad je [X] ."}
-{"pattern": "[X] , glavni grad [Y] ."}
-{"pattern": "[X] , glavni grad [Y] ."}
-{"pattern": "[X] , to je glavni grad [Y] ."}
-{"pattern": "[X] , to je glavni grad [Y] ."}
-{"pattern": "[Y] , koji ima glavnicu [X] ."}
-{"pattern": "[Y] , koji ima glavni grad [X] ."}
+{"pattern": "[X] je glavni grad [Y]."}
+{"pattern": "Kapital [Y] je [X]."}
+{"pattern": "Glavni grad [Y] je [X]."}
+{"pattern": "[X] je glavni grad [Y]."}
+{"pattern": "[Y] glavni kapital, [X]."}
+{"pattern": "[Y] glavni grad, [X]."}
+{"pattern": "[Y] glavni kapital je [X]."}
+{"pattern": "[Y] glavni grad je [X]."}
+{"pattern": "[X], glavni grad [Y]."}
+{"pattern": "[X], glavni grad [Y]."}
+{"pattern": "[X], to je glavni grad [Y]."}
+{"pattern": "[X], to je glavni grad [Y]."}
+{"pattern": "[Y], koji ima glavnicu [X]."}
+{"pattern": "[Y], koji ima glavni grad [X]."}

@@ -1,11 +1,11 @@
 {"pattern": "[X] eredetileg az [Y] -on sug\u00e1rzott."}
 {"pattern": "[X] az [Y] deb\u00fct\u00e1l\u00e1s."}
-{"pattern": "[Y] deb\u00fct\u00e1l [X] ."}
-{"pattern": "[Y] deb\u00fct\u00e1lt [X] ."}
+{"pattern": "[Y] deb\u00fct\u00e1l [X]."}
+{"pattern": "[Y] deb\u00fct\u00e1lt [X]."}
 {"pattern": "[X] deb\u00fct\u00e1lt az [Y]."}
 {"pattern": "az [X] deb\u00fct\u00e1l\u00e1sa."}
 {"pattern": "Az [X] [Y] kiad\u00e1sa."}
-{"pattern": "[X] megjelent [Y] ."}
-{"pattern": "[Y] kiadott [X] ."}
-{"pattern": "[X] Premiered az [Y] ."}
-{"pattern": "[X] Premieres az [Y] ."}
+{"pattern": "[X] megjelent [Y]."}
+{"pattern": "[Y] kiadott [X]."}
+{"pattern": "[X] Premiered az [Y]."}
+{"pattern": "[X] Premieres az [Y]."}

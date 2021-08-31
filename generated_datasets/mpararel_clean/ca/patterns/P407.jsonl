@@ -4,7 +4,7 @@
 {"pattern": "[X] est\u00e0 escrit en el llenguatge [Y]."}
 {"pattern": "[X], escrit en el llenguatge [Y]."}
 {"pattern": "El llenguatge de [X] \u00e9s [Y]."}
-{"pattern": "El llenguatge de [X] era [Y] ."}
+{"pattern": "El llenguatge de [X] era [Y]."}
 {"pattern": "[X] \u00e9s un treball [Y] -Language."}
 {"pattern": "[X] \u00e9s un treball [i] -language."}
 {"pattern": "[X], un treball [Y] -Language."}
@@ -15,4 +15,4 @@
 {"pattern": "[X] era una obra en el llenguatge [Y]."}
 {"pattern": "La creaci\u00f3 [Y] -Language [X]"}
 {"pattern": "[Y] \u00e9s la llengua de [X]."}
-{"pattern": "[Y] era la llengua de [X] ."}
+{"pattern": "[Y] era la llengua de [X]."}

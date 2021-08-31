@@ -1,6 +1,6 @@
 {"pattern": "[X] spillt [Y] Musek."}
-{"pattern": "[X] , wien spillt [Y] Musek"}
-{"pattern": "[X] spillt [Y] ."}
-{"pattern": "[X] , wien spillt [Y] ."}
-{"pattern": "[Y] Museker [X] ."}
-{"pattern": "[Y] Museker w\u00e9i [X] ."}
+{"pattern": "[X], wien spillt [Y] Musek"}
+{"pattern": "[X] spillt [Y]."}
+{"pattern": "[X], wien spillt [Y]."}
+{"pattern": "[Y] Museker [X]."}
+{"pattern": "[Y] Museker w\u00e9i [X]."}

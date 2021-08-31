@@ -1,8 +1,8 @@
 {"pattern": "[X] est\u00e1 representado por m\u00fasica de m\u00fasica [Y]."}
 {"pattern": "[X] est\u00e1 representado por marca discogr\u00e1fica [Y]."}
-{"pattern": "[X] est\u00e1 representado por [Y] ."}
-{"pattern": "[X] , que est\u00e1 representado por [Y] ."}
-{"pattern": "[X] , que est\u00e1 representado por [Y] ."}
+{"pattern": "[X] est\u00e1 representado por [Y]."}
+{"pattern": "[X], que est\u00e1 representado por [Y]."}
+{"pattern": "[X], que est\u00e1 representado por [Y]."}
 {"pattern": "A etiqueta de m\u00fasica que representa [X] \u00e9 [Y]."}
 {"pattern": "A etiqueta de m\u00fasica que representa [X] \u00e9 [Y]."}
 {"pattern": "A etiqueta [X] \u00e9 [Y]."}
@@ -11,7 +11,7 @@
 {"pattern": "A etiqueta de m\u00fasica [X] \u00e9 [Y]."}
 {"pattern": "[X] gravado para [Y]."}
 {"pattern": "[X] Etiqueta: [Y]."}
-{"pattern": "[X] , liberado por [Y] ."}
+{"pattern": "[X], liberado por [Y]."}
 {"pattern": "[Y] Artista de gravaci\u00f3n [X]."}
 {"pattern": "[Y] artistas como [X]."}
 {"pattern": "[Y] artistas inclu\u00edndo [X]."}

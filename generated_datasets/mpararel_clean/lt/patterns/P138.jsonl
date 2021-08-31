@@ -1,20 +1,20 @@
-{"pattern": "[X] yra pavadintas po [Y] ."}
+{"pattern": "[X] yra pavadintas po [Y]."}
 {"pattern": "[X] buvo pavadintas [Y]."}
-{"pattern": "[X] yra pavadintas [Y] ."}
-{"pattern": "[X] buvo pavadintas [Y] ."}
-{"pattern": "[X] , kuris yra pavadintas po [Y] ."}
-{"pattern": "[X] , kuris buvo pavadintas po [Y] ."}
-{"pattern": "[X] , kuris yra pavadintas [Y] ."}
-{"pattern": "[X] , kuris buvo pavadintas [Y] ."}
-{"pattern": "[X] , pavadintas [Y] ."}
-{"pattern": "[X] , pavadintas [Y] ."}
+{"pattern": "[X] yra pavadintas [Y]."}
+{"pattern": "[X] buvo pavadintas [Y]."}
+{"pattern": "[X], kuris yra pavadintas po [Y]."}
+{"pattern": "[X], kuris buvo pavadintas po [Y]."}
+{"pattern": "[X], kuris yra pavadintas [Y]."}
+{"pattern": "[X], kuris buvo pavadintas [Y]."}
+{"pattern": "[X], pavadintas [Y]."}
+{"pattern": "[X], pavadintas [Y]."}
 {"pattern": "[X] yra pavadintas [Y] garbei."}
 {"pattern": "[X] buvo pavadinta [Y] garb\u0117."}
-{"pattern": "[X] , pavadintas [Y] garbei."}
-{"pattern": "[X] , kuris yra pavadintas [Y] garb\u0117s."}
+{"pattern": "[X], pavadintas [Y] garbei."}
+{"pattern": "[X], kuris yra pavadintas [Y] garb\u0117s."}
 {"pattern": "[X], kuris buvo pavadintas [Y] garb\u0117s."}
-{"pattern": "[X] yra vadinamas po [Y] ."}
-{"pattern": "[X] buvo vadinama [Y] ."}
-{"pattern": "[X] , kuris yra vadinamas po [Y] ."}
-{"pattern": "[X] , kuris buvo vadinamas [Y] ."}
-{"pattern": "[X] , vadinamas [Y] ."}
+{"pattern": "[X] yra vadinamas po [Y]."}
+{"pattern": "[X] buvo vadinama [Y]."}
+{"pattern": "[X], kuris yra vadinamas po [Y]."}
+{"pattern": "[X], kuris buvo vadinamas [Y]."}
+{"pattern": "[X], vadinamas [Y]."}

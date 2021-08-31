@@ -1,20 +1,20 @@
-{"pattern": "[X] je poimenovan po [Y] ."}
-{"pattern": "[X] je bil poimenovan po [Y] ."}
-{"pattern": "[X] je imenovan za [Y] ."}
-{"pattern": "[X] je bil imenovan za [Y] ."}
-{"pattern": "[X] , ki se imenuje po [Y] ."}
-{"pattern": "[X] , ki je bil poimenovan po [Y] ."}
-{"pattern": "[X] , ki je imenovan za [Y] ."}
-{"pattern": "[X] , ki je bil imenovan za [Y] ."}
-{"pattern": "[X] , imenovan za [Y] ."}
-{"pattern": "[X] , imenovan po [Y] ."}
-{"pattern": "[X] je imenovan v \u010dast [Y] ."}
-{"pattern": "[X] je bil imenovan v \u010dast [Y] ."}
-{"pattern": "[X] , imenovan v \u010dast [Y] ."}
-{"pattern": "[X] , ki je imenovan v \u010dast [Y] ."}
-{"pattern": "[X] , ki je bil imenovan v \u010dast [Y] ."}
-{"pattern": "[X] se imenuje po [Y] ."}
-{"pattern": "[X] je bil klican po [Y] ."}
-{"pattern": "[X] , ki se imenuje po [Y] ."}
-{"pattern": "[X] , ki je bil klican po [Y] ."}
-{"pattern": "[X] , pozval po [Y] ."}
+{"pattern": "[X] je poimenovan po [Y]."}
+{"pattern": "[X] je bil poimenovan po [Y]."}
+{"pattern": "[X] je imenovan za [Y]."}
+{"pattern": "[X] je bil imenovan za [Y]."}
+{"pattern": "[X], ki se imenuje po [Y]."}
+{"pattern": "[X], ki je bil poimenovan po [Y]."}
+{"pattern": "[X], ki je imenovan za [Y]."}
+{"pattern": "[X], ki je bil imenovan za [Y]."}
+{"pattern": "[X], imenovan za [Y]."}
+{"pattern": "[X], imenovan po [Y]."}
+{"pattern": "[X] je imenovan v \u010dast [Y]."}
+{"pattern": "[X] je bil imenovan v \u010dast [Y]."}
+{"pattern": "[X], imenovan v \u010dast [Y]."}
+{"pattern": "[X], ki je imenovan v \u010dast [Y]."}
+{"pattern": "[X], ki je bil imenovan v \u010dast [Y]."}
+{"pattern": "[X] se imenuje po [Y]."}
+{"pattern": "[X] je bil klican po [Y]."}
+{"pattern": "[X], ki se imenuje po [Y]."}
+{"pattern": "[X], ki je bil klican po [Y]."}
+{"pattern": "[X], pozval po [Y]."}

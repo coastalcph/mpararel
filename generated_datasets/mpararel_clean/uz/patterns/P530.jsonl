@@ -5,5 +5,5 @@
 {"pattern": "[X] [Y] bilan diplomatik aloqalar mavjud."}
 {"pattern": "[Y] [X] bilan diplomatik aloqalarga ega."}
 {"pattern": "[Y] bilan diplomatik aloqalarga ega bo'lgan [X]"}
-{"pattern": "[X] , bu [X] bilan diplomatik aloqalar mavjud"}
-{"pattern": "[Y] , bu [X] bilan diplomatik aloqalar"}
+{"pattern": "[X], bu [X] bilan diplomatik aloqalar mavjud"}
+{"pattern": "[Y], bu [X] bilan diplomatik aloqalar"}

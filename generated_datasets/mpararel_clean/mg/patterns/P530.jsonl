@@ -1,9 +1,9 @@
 {"pattern": "[X] mitazona fifandraisana diplaomatika amin'ny [Y]."}
-{"pattern": "[Y] dia mitazona fifandraisana diplaomatika amin'ny [X] ."}
+{"pattern": "[Y] dia mitazona fifandraisana diplaomatika amin'ny [X]."}
 {"pattern": "[X] mampifamatotra diplaomatika amin'ny [Y]."}
-{"pattern": "[Y] dia mampifamatotra diplaomatika amin'ny [X] ."}
+{"pattern": "[Y] dia mampifamatotra diplaomatika amin'ny [X]."}
 {"pattern": "[X] dia manana fifandraisana diplaomatika amin'i [Y]."}
-{"pattern": "[Y] manana fifandraisana diplaomatika amin'ny [X] ."}
-{"pattern": "[X] , izay manana fifandraisana diplaomatika amin'ny [Y]"}
-{"pattern": "[Y] , izay manana fifandraisana diplaomatika amin'ny [X]"}
-{"pattern": "[Y] , izay mampifandray ny fifandraisana diplaomatika amin'ny [X]"}
+{"pattern": "[Y] manana fifandraisana diplaomatika amin'ny [X]."}
+{"pattern": "[X], izay manana fifandraisana diplaomatika amin'ny [Y]"}
+{"pattern": "[Y], izay manana fifandraisana diplaomatika amin'ny [X]"}
+{"pattern": "[Y], izay mampifandray ny fifandraisana diplaomatika amin'ny [X]"}

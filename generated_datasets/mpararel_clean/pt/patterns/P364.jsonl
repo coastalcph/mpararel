@@ -1,6 +1,6 @@
-{"pattern": "A linguagem original de [X] \u00e9 [Y] ."}
-{"pattern": "A linguagem original de [X] foi [Y] ."}
+{"pattern": "A linguagem original de [X] \u00e9 [Y]."}
+{"pattern": "A linguagem original de [X] foi [Y]."}
 {"pattern": "A linguagem de [X] \u00e9 [Y]."}
-{"pattern": "A linguagem de [X] foi [Y] ."}
-{"pattern": "[Y] \u00e9 a linguagem de [X] ."}
-{"pattern": "[Y] foi a linguagem de [X] ."}
+{"pattern": "A linguagem de [X] foi [Y]."}
+{"pattern": "[Y] \u00e9 a linguagem de [X]."}
+{"pattern": "[Y] foi a linguagem de [X]."}

@@ -1,10 +1,10 @@
-{"pattern": "[X] je bila napisana v [Y] ."}
-{"pattern": "[X] je napisan v [Y] ."}
+{"pattern": "[X] je bila napisana v [Y]."}
+{"pattern": "[X] je napisan v [Y]."}
 {"pattern": "[X] je bil napisan v jeziku [Y]."}
 {"pattern": "[X] je napisan v jeziku [Y]."}
 {"pattern": "[X], napisano v jeziku [Y]."}
-{"pattern": "Jezik [X] je [Y] ."}
-{"pattern": "Jezik [X] je bil [Y] ."}
+{"pattern": "Jezik [X] je [Y]."}
+{"pattern": "Jezik [X] je bil [Y]."}
 {"pattern": "[X] je [Y] -Language delo."}
 {"pattern": "[X] je [Y] -Language Work."}
 {"pattern": "[X], [Y] -Language Work."}
@@ -14,5 +14,5 @@
 {"pattern": "[X] je delo v jeziku [Y]."}
 {"pattern": "[X] je bilo delo v jeziku [Y]."}
 {"pattern": "[Y] -Language Creation [X]"}
-{"pattern": "[Y] je jezik [X] ."}
-{"pattern": "[Y] je bil jezik [X] ."}
+{"pattern": "[Y] je jezik [X]."}
+{"pattern": "[Y] je bil jezik [X]."}

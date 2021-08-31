@@ -4,7 +4,7 @@
 {"pattern": "[X] is geschreven in de [Y] -taal."}
 {"pattern": "[X], geschreven in de [Y] -taal."}
 {"pattern": "De taal van [X] is [Y]."}
-{"pattern": "De taal van [X] was [Y] ."}
+{"pattern": "De taal van [X] was [Y]."}
 {"pattern": "[X] is een [Y] -Language-werk."}
 {"pattern": "[X] is een [Y] -Language werk."}
 {"pattern": "[X], een [Y] -Language werk."}
@@ -14,5 +14,5 @@
 {"pattern": "[X] is een werk in de [Y] -taal."}
 {"pattern": "[X] was een werk in de [Y] -taal."}
 {"pattern": "De [Y] -Language creatie [X]"}
-{"pattern": "[Y] is de taal van [X] ."}
-{"pattern": "[Y] was de taal van [X] ."}
+{"pattern": "[Y] is de taal van [X]."}
+{"pattern": "[Y] was de taal van [X]."}

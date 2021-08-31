@@ -1,14 +1,14 @@
 {"pattern": "[X] - [Y] poytaxti."}
-{"pattern": "[Y] poytaxti [X] ."}
-{"pattern": "[Y] poytaxti [X] ."}
+{"pattern": "[Y] poytaxti [X]."}
+{"pattern": "[Y] poytaxti [X]."}
 {"pattern": "[X] - [Y] poytaxti."}
-{"pattern": "[Y] kapital, [X] ."}
+{"pattern": "[Y] kapital, [X]."}
 {"pattern": "[Y] poytaxt (x)."}
-{"pattern": "[Y] kapital [X] ."}
-{"pattern": "[Y] poytaxti - [X] ."}
+{"pattern": "[Y] kapital [X]."}
+{"pattern": "[Y] poytaxti - [X]."}
 {"pattern": "[X], [Y] poytaxti."}
-{"pattern": "[X] , poytaxtning poytaxti."}
-{"pattern": "[X] , bu [Y] poytaxti."}
-{"pattern": "[X] , bu poytaxtning poytaxti."}
-{"pattern": "[Y] , bu poytaxt [X] bor."}
-{"pattern": "[Y] , bu poytaxt shahar (x) bor."}
+{"pattern": "[X], poytaxtning poytaxti."}
+{"pattern": "[X], bu [Y] poytaxti."}
+{"pattern": "[X], bu poytaxtning poytaxti."}
+{"pattern": "[Y], bu poytaxt [X] bor."}
+{"pattern": "[Y], bu poytaxt shahar (x) bor."}

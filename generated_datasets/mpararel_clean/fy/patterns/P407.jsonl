@@ -1,8 +1,8 @@
 {"pattern": "[X] waard skreaun yn [Y]."}
-{"pattern": "[X] is skreaun yn [Y] ."}
+{"pattern": "[X] is skreaun yn [Y]."}
 {"pattern": "[X] waard skreaun yn 'e [Y] taal."}
 {"pattern": "[X] is skreaun yn 'e [Y] taal."}
-{"pattern": "[X] , skreaun yn 'e [Y] taal."}
+{"pattern": "[X], skreaun yn 'e [Y] taal."}
 {"pattern": "De taal fan [X] is [Y]."}
 {"pattern": "De taal fan [X] wie [Y]."}
 {"pattern": "[X] is in [Y] -Language wurk."}
@@ -14,5 +14,5 @@
 {"pattern": "[X] is in wurk yn 'e [Y] taal."}
 {"pattern": "[X] wie in wurk yn 'e [Y] taal."}
 {"pattern": "De [Y] -Language skepping [X]"}
-{"pattern": "[Y] is de taal fan [X] ."}
-{"pattern": "[Y] wie de taal fan [X] ."}
+{"pattern": "[Y] is de taal fan [X]."}
+{"pattern": "[Y] wie de taal fan [X]."}

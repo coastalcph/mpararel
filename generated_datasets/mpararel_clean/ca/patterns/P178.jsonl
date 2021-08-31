@@ -11,6 +11,6 @@
 {"pattern": "[X], un producte fabricat per [Y]"}
 {"pattern": "[X], un producte desenvolupat per [Y]"}
 {"pattern": "[Y], que es va desenvolupar [X]"}
-{"pattern": "[Y] , que va crear [X]"}
-{"pattern": "[Y] , el creador de la [X]"}
+{"pattern": "[Y], que va crear [X]"}
+{"pattern": "[Y], el creador de la [X]"}
 {"pattern": "[Y] i el seu producte [X]"}

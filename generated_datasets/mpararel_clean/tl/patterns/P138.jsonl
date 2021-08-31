@@ -1,20 +1,20 @@
-{"pattern": "[X] ay pinangalanan pagkatapos [Y] ."}
+{"pattern": "[X] ay pinangalanan pagkatapos [Y]."}
 {"pattern": "[X] ay pinangalanang [Y]."}
-{"pattern": "[X] ay pinangalanan para sa [Y] ."}
 {"pattern": "[X] ay pinangalanan para sa [Y]."}
-{"pattern": "[X] , na pinangalanan pagkatapos [Y] ."}
+{"pattern": "[X] ay pinangalanan para sa [Y]."}
+{"pattern": "[X], na pinangalanan pagkatapos [Y]."}
 {"pattern": "[X], na pinangalanang [Y]."}
-{"pattern": "[X] , na pinangalanan para sa [Y] ."}
 {"pattern": "[X], na pinangalanan para sa [Y]."}
-{"pattern": "[X] , pinangalanan para sa [Y] ."}
+{"pattern": "[X], na pinangalanan para sa [Y]."}
+{"pattern": "[X], pinangalanan para sa [Y]."}
 {"pattern": "[X], na pinangalanang [Y]."}
 {"pattern": "[X] ay pinangalanan sa karangalan ng [Y]."}
 {"pattern": "[X] ay pinangalanan sa karangalan ni [Y]."}
 {"pattern": "[X], pinangalanan sa karangalan ni [Y]."}
-{"pattern": "[X] , na pinangalanan sa karangalan ni [Y] Y]."}
-{"pattern": "[X] , na pinangalanan sa karangalan ni [Y]e]."}
-{"pattern": "[X] ay tinawag pagkatapos [Y] ."}
-{"pattern": "[X] ay tinawag pagkatapos [Y] ."}
-{"pattern": "[X] , na tinatawag na pagkatapos [Y] ."}
-{"pattern": "[X] , na tinatawag na pagkatapos [Y] ."}
-{"pattern": "[X] , tinawag pagkatapos [Y] ."}
+{"pattern": "[X], na pinangalanan sa karangalan ni [Y] Y]."}
+{"pattern": "[X], na pinangalanan sa karangalan ni [Y]e]."}
+{"pattern": "[X] ay tinawag pagkatapos [Y]."}
+{"pattern": "[X] ay tinawag pagkatapos [Y]."}
+{"pattern": "[X], na tinatawag na pagkatapos [Y]."}
+{"pattern": "[X], na tinatawag na pagkatapos [Y]."}
+{"pattern": "[X], tinawag pagkatapos [Y]."}

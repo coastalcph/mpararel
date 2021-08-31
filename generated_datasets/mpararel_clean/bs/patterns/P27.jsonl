@@ -1,9 +1,9 @@
 {"pattern": "[X] je [Y] gra\u0111anin."}
-{"pattern": "[X] je gra\u0111anin [Y] ."}
-{"pattern": "[X] , gra\u0111anin [Y] ."}
-{"pattern": "[X] , ko je dr\u017eavljanin [Y] ."}
-{"pattern": "[X] dr\u017ei dr\u017eavljanstvo [Y] ."}
-{"pattern": "[X] ima dr\u017eavljanstvo [Y] ."}
-{"pattern": "[X] , ko dr\u017ei dr\u017eavljanstvo [Y] ."}
-{"pattern": "[X] , ko ima dr\u017eavljanstvo [Y] ."}
-{"pattern": "kao gra\u0111anin [Y] , [X]"}
+{"pattern": "[X] je gra\u0111anin [Y]."}
+{"pattern": "[X], gra\u0111anin [Y]."}
+{"pattern": "[X], ko je dr\u017eavljanin [Y]."}
+{"pattern": "[X] dr\u017ei dr\u017eavljanstvo [Y]."}
+{"pattern": "[X] ima dr\u017eavljanstvo [Y]."}
+{"pattern": "[X], ko dr\u017ei dr\u017eavljanstvo [Y]."}
+{"pattern": "[X], ko ima dr\u017eavljanstvo [Y]."}
+{"pattern": "kao gra\u0111anin [Y], [X]"}

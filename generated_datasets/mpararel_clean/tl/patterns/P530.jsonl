@@ -1,9 +1,9 @@
 {"pattern": "[X] ay nagpapanatili ng diplomatikong relasyon sa [Y]."}
-{"pattern": "[Y] ay nagpapanatili ng diplomatikong relasyon sa [X] ."}
+{"pattern": "[Y] ay nagpapanatili ng diplomatikong relasyon sa [X]."}
 {"pattern": "[X] Mga relasyon diplomatikong relasyon sa [Y]."}
-{"pattern": "[Y] ties diplomatic relasyon sa [X] ."}
-{"pattern": "[X] ay may diplomatikong relasyon sa [Y] ."}
-{"pattern": "[Y] ay may diplomatikong relasyon sa [X] ."}
+{"pattern": "[Y] ties diplomatic relasyon sa [X]."}
+{"pattern": "[X] ay may diplomatikong relasyon sa [Y]."}
+{"pattern": "[Y] ay may diplomatikong relasyon sa [X]."}
 {"pattern": "[X], na may diplomatikong relasyon sa [Y]"}
-{"pattern": "[Y] , na may diplomatikong relasyon sa [X]"}
-{"pattern": "[Y] , na may kaugnayan sa diplomatikong relasyon sa [X]"}
+{"pattern": "[Y], na may diplomatikong relasyon sa [X]"}
+{"pattern": "[Y], na may kaugnayan sa diplomatikong relasyon sa [X]"}

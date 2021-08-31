@@ -1,20 +1,20 @@
 {"pattern": "[X] \u00e4r uppkallad efter [Y]."}
 {"pattern": "[X] namngavs efter [Y]."}
-{"pattern": "[X] \u00e4r uppkallad f\u00f6r [Y] ."}
-{"pattern": "[X] namngavs f\u00f6r [Y] ."}
+{"pattern": "[X] \u00e4r uppkallad f\u00f6r [Y]."}
+{"pattern": "[X] namngavs f\u00f6r [Y]."}
 {"pattern": "[X], som \u00e4r uppkallad efter [Y]."}
 {"pattern": "[X], som namnges efter [Y]."}
-{"pattern": "[X] , som \u00e4r uppkallad f\u00f6r [Y] ."}
+{"pattern": "[X], som \u00e4r uppkallad f\u00f6r [Y]."}
 {"pattern": "[X], som heter [Y]."}
-{"pattern": "[X] , namngiven f\u00f6r [Y] ."}
-{"pattern": "[X] , namngiven efter [Y] ."}
+{"pattern": "[X], namngiven f\u00f6r [Y]."}
+{"pattern": "[X], namngiven efter [Y]."}
 {"pattern": "[X] \u00e4r uppkallad i [Y] s \u00e4ra."}
 {"pattern": "[X] namngavs i [Y] s \u00e4ra."}
 {"pattern": "[X], namngiven i [Y] s \u00e4ra."}
 {"pattern": "[X], som \u00e4r uppkallad i [Y] s \u00e4ra."}
 {"pattern": "[X], som namnges i [Y] s \u00e4ra."}
-{"pattern": "[X] kallas efter [Y] ."}
-{"pattern": "[X] kallades efter [Y] ."}
-{"pattern": "[X] , som kallas efter [Y] ."}
-{"pattern": "[X] , som kallades efter [Y] ."}
-{"pattern": "[X] , ringde efter [Y] ."}
+{"pattern": "[X] kallas efter [Y]."}
+{"pattern": "[X] kallades efter [Y]."}
+{"pattern": "[X], som kallas efter [Y]."}
+{"pattern": "[X], som kallades efter [Y]."}
+{"pattern": "[X], ringde efter [Y]."}

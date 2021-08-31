@@ -6,13 +6,13 @@
 {"pattern": "[X], die is vernoemd naar [Y]."}
 {"pattern": "[X], die is genoemd voor [Y]."}
 {"pattern": "[X], die werd genoemd voor [Y]."}
-{"pattern": "[X] , genoemd naar [Y] ."}
+{"pattern": "[X], genoemd naar [Y]."}
 {"pattern": "[X], vernoemd naar [Y]."}
-{"pattern": "[X] is genoemd in de eer van [Y] ."}
-{"pattern": "[X] werd genoemd in de eer van [Y] ."}
-{"pattern": "[X] , genoemd in de eer van [Y] ."}
-{"pattern": "[X] , die wordt genoemd in de eer van [Y] ."}
-{"pattern": "[X] , die werd genoemd in de eer van [Y] ."}
+{"pattern": "[X] is genoemd in de eer van [Y]."}
+{"pattern": "[X] werd genoemd in de eer van [Y]."}
+{"pattern": "[X], genoemd in de eer van [Y]."}
+{"pattern": "[X], die wordt genoemd in de eer van [Y]."}
+{"pattern": "[X], die werd genoemd in de eer van [Y]."}
 {"pattern": "[X] wordt na [Y] genoemd."}
 {"pattern": "[X] werd na [Y] genoemd."}
 {"pattern": "[X], die wordt genoemd na [Y]."}

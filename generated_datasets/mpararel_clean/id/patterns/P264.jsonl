@@ -1,17 +1,17 @@
-{"pattern": "[X] diwakili oleh label musik [Y] ."}
+{"pattern": "[X] diwakili oleh label musik [Y]."}
 {"pattern": "[X] diwakili oleh label rekaman [Y]."}
-{"pattern": "[X] diwakili oleh [Y] ."}
-{"pattern": "[X] , yang diwakili oleh [Y] ."}
+{"pattern": "[X] diwakili oleh [Y]."}
+{"pattern": "[X], yang diwakili oleh [Y]."}
 {"pattern": "[X], yang diwakili oleh [Y]."}
 {"pattern": "Label musik yang mewakili [X] adalah [Y]."}
 {"pattern": "Label musik yang mewakili [X] adalah [Y]."}
 {"pattern": "Label [X] adalah [Y]."}
-{"pattern": "Label Rekor [X] adalah [Y] ."}
+{"pattern": "Label Rekor [X] adalah [Y]."}
 {"pattern": "Perusahaan rekaman [X] adalah [Y]."}
-{"pattern": "Label musik [X] adalah [Y] ."}
-{"pattern": "[X] direkam untuk [Y] ."}
-{"pattern": "[X] Label: [Y] ."}
-{"pattern": "[X] , dirilis oleh [Y] ."}
-{"pattern": "[Y] Artis perekaman [X] ."}
-{"pattern": "Artis [Y] seperti [X] ."}
-{"pattern": "Artis [Y] termasuk [X] ."}
+{"pattern": "Label musik [X] adalah [Y]."}
+{"pattern": "[X] direkam untuk [Y]."}
+{"pattern": "[X] Label: [Y]."}
+{"pattern": "[X], dirilis oleh [Y]."}
+{"pattern": "[Y] Artis perekaman [X]."}
+{"pattern": "Artis [Y] seperti [X]."}
+{"pattern": "Artis [Y] termasuk [X]."}

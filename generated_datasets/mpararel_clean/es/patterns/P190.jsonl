@@ -1,4 +1,4 @@
 {"pattern": "[X] y [Y] son ciudades gemelas."}
 {"pattern": "[Y] y [X] son ciudades gemelas."}
-{"pattern": "[Y] es una ciudad gemela de [X] ."}
-{"pattern": "[X] es una ciudad gemela de [Y] ."}
+{"pattern": "[Y] es una ciudad gemela de [X]."}
+{"pattern": "[X] es una ciudad gemela de [Y]."}

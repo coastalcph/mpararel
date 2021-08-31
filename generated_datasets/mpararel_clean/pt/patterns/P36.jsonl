@@ -1,14 +1,14 @@
-{"pattern": "A capital de [X] \u00e9 [Y] ."}
-{"pattern": "A capital de [X] \u00e9 [Y] ."}
-{"pattern": "[Y] \u00e9 a capital de [X] ."}
-{"pattern": "[Y] \u00e9 a capital de [X] ."}
-{"pattern": "[X] \u00e9 capital, [Y] ."}
-{"pattern": "[X] \u00e9 capital, [Y] ."}
+{"pattern": "A capital de [X] \u00e9 [Y]."}
+{"pattern": "A capital de [X] \u00e9 [Y]."}
+{"pattern": "[Y] \u00e9 a capital de [X]."}
+{"pattern": "[Y] \u00e9 a capital de [X]."}
+{"pattern": "[X] \u00e9 capital, [Y]."}
+{"pattern": "[X] \u00e9 capital, [Y]."}
 {"pattern": "[X] O capital \u00e9 [Y]."}
-{"pattern": "[X] A capital \u00e9 [Y] ."}
-{"pattern": "[Y] , a capital de [X] ."}
+{"pattern": "[X] A capital \u00e9 [Y]."}
 {"pattern": "[Y], a capital de [X]."}
-{"pattern": "[Y] , essa \u00e9 a capital de [X] ."}
-{"pattern": "[Y] , essa \u00e9 a capital de [X] ."}
-{"pattern": "[X] , que tem a capital [Y] ."}
-{"pattern": "[X] , que tem a capital [Y] ."}
+{"pattern": "[Y], a capital de [X]."}
+{"pattern": "[Y], essa \u00e9 a capital de [X]."}
+{"pattern": "[Y], essa \u00e9 a capital de [X]."}
+{"pattern": "[X], que tem a capital [Y]."}
+{"pattern": "[X], que tem a capital [Y]."}

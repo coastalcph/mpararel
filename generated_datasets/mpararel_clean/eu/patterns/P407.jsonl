@@ -1,14 +1,14 @@
-{"pattern": "[X] idatzi zen [Y] ."}
+{"pattern": "[X] idatzi zen [Y]."}
 {"pattern": "[X] [Y] -n idatzita dago."}
 {"pattern": "[X] hizkuntzan idatzi zen."}
 {"pattern": "[X] hizkuntzan idatzita dago."}
-{"pattern": "[X] , [Y] hizkuntzan idatzia."}
+{"pattern": "[X], [Y] hizkuntzan idatzia."}
 {"pattern": "[X] hizkuntza [Y] da."}
 {"pattern": "[X] hizkuntza [Y] izan zen."}
 {"pattern": "[X] a [Y] -Language lana da."}
 {"pattern": "[X] -k [Y] -Language lana da."}
-{"pattern": "[X] , a [Y] -Language lana."}
-{"pattern": "[X] , [Y] -Language lana."}
+{"pattern": "[X], a [Y] -Language lana."}
+{"pattern": "[X], [Y] -Language lana."}
 {"pattern": "[X] -a [Y] -Language lana izan zen."}
 {"pattern": "[X] [Y] -Language lana zen."}
 {"pattern": "[X] hizkuntzan egindako lana da."}

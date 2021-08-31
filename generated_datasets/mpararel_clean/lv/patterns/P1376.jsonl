@@ -1,14 +1,14 @@
 {"pattern": "[X] ir galvaspils\u0113ta [Y]."}
 {"pattern": "[Y] kapit\u0101ls ir [X]."}
 {"pattern": "Kapit\u0101la pils\u0113ta [Y] ir [X]."}
-{"pattern": "[X] ir galvaspils\u0113ta no [Y] ."}
-{"pattern": "[Y] kapit\u0101ls, [X] ."}
+{"pattern": "[X] ir galvaspils\u0113ta no [Y]."}
+{"pattern": "[Y] kapit\u0101ls, [X]."}
 {"pattern": "[Y] galvaspils\u0113ta, [X]."}
-{"pattern": "[Y] kapit\u0101ls ir [X] ."}
+{"pattern": "[Y] kapit\u0101ls ir [X]."}
 {"pattern": "[Y] galvaspils\u0113ta ir [X]."}
-{"pattern": "[X] , galvaspils\u0113ta [Y] ."}
-{"pattern": "[X] , galvaspils\u0113ta no [Y] ."}
+{"pattern": "[X], galvaspils\u0113ta [Y]."}
+{"pattern": "[X], galvaspils\u0113ta no [Y]."}
 {"pattern": "[X], tas ir galvaspils\u0113ta [Y]."}
-{"pattern": "[X] , tas ir galvaspils\u0113ta no [Y] ."}
-{"pattern": "[Y] , kam ir kapit\u0101ls [X] ."}
+{"pattern": "[X], tas ir galvaspils\u0113ta no [Y]."}
+{"pattern": "[Y], kam ir kapit\u0101ls [X]."}
 {"pattern": "[Y], kas ir galvaspils\u0113ta [X]."}

@@ -1,13 +1,13 @@
 {"pattern": "[X] [Y] -ban sz\u00fcletett."}
-{"pattern": "[X] eredetileg [Y] ."}
+{"pattern": "[X] eredetileg [Y]."}
 {"pattern": "[X] eredetileg [Y] volt."}
 {"pattern": "[X] az [Y] nat\u00edv."}
-{"pattern": "[X] nat\u00edv volt [Y] ."}
+{"pattern": "[X] nat\u00edv volt [Y]."}
 {"pattern": "[X] az [Y] -b\u00f3l sz\u00e1rmazik."}
 {"pattern": "[X] az [Y] -b\u0151l sz\u00e1rmazik."}
 {"pattern": "[X] volt egy [Y] -born szem\u00e9ly."}
 {"pattern": "[X] volt egy [Y] -born szem\u00e9ly."}
 {"pattern": "[X] egy [Y] -born ember."}
 {"pattern": "[X] egy [Y] -born szem\u00e9ly."}
-{"pattern": "[X] , egy [Y] -born ember."}
-{"pattern": "[X] , egy [Y] -born ember."}
+{"pattern": "[X], egy [Y] -born ember."}
+{"pattern": "[X], egy [Y] -born ember."}

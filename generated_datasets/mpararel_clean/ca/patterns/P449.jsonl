@@ -1,11 +1,11 @@
 {"pattern": "[X] es va emetre originalment a [Y]."}
 {"pattern": "[X] \u00e9s debutar a [Y]."}
-{"pattern": "[Y] \u00e9s debutar [X] ."}
+{"pattern": "[Y] \u00e9s debutar [X]."}
 {"pattern": "[Y] va debutar [X]."}
-{"pattern": "[X] va debutar a [Y] ."}
-{"pattern": "el debut [Y] de [X] ."}
-{"pattern": "el llan\u00e7ament [Y] de [X] ."}
+{"pattern": "[X] va debutar a [Y]."}
+{"pattern": "el debut [Y] de [X]."}
+{"pattern": "el llan\u00e7ament [Y] de [X]."}
 {"pattern": "[X] va ser llan\u00e7at a [Y]."}
-{"pattern": "[Y] alliberat [X] ."}
+{"pattern": "[Y] alliberat [X]."}
 {"pattern": "[X] es va estrenar a [Y]."}
 {"pattern": "[X] estrena a [Y]."}

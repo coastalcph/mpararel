@@ -3,6 +3,6 @@
 {"pattern": "[X] Tavaliselt kasutatakse [Y] suhelda."}
 {"pattern": "[X] Kasutatakse [Y] suhtlemiseks."}
 {"pattern": "[Y] oli [X] kasutatav keel."}
-{"pattern": "[Y] on keel, mida kasutab [X] ."}
-{"pattern": "[Y] on keel, mida tavaliselt kasutab [X] ."}
+{"pattern": "[Y] on keel, mida kasutab [X]."}
+{"pattern": "[Y] on keel, mida tavaliselt kasutab [X]."}
 {"pattern": "[X] kasutas [Y] keelt."}

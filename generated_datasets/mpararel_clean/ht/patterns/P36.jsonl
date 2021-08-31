@@ -1,14 +1,14 @@
-{"pattern": "Kapital la nan [X] se [Y] ."}
 {"pattern": "Kapital la nan [X] se [Y]."}
-{"pattern": "[Y] se kapital la nan [X] ."}
+{"pattern": "Kapital la nan [X] se [Y]."}
 {"pattern": "[Y] se kapital la nan [X]."}
-{"pattern": "Kapital [X] , [Y] ."}
-{"pattern": "[X] kapital vil la, [Y] ."}
-{"pattern": "[X] kapital la se [Y] ."}
-{"pattern": "[X] kapital vil la se [Y] ."}
-{"pattern": "[Y] , kapital la nan [X] ."}
+{"pattern": "[Y] se kapital la nan [X]."}
+{"pattern": "Kapital [X], [Y]."}
+{"pattern": "[X] kapital vil la, [Y]."}
+{"pattern": "[X] kapital la se [Y]."}
+{"pattern": "[X] kapital vil la se [Y]."}
 {"pattern": "[Y], kapital la nan [X]."}
-{"pattern": "[Y] , se sa ki kapital la nan [X] ."}
+{"pattern": "[Y], kapital la nan [X]."}
 {"pattern": "[Y], se sa ki kapital la nan [X]."}
-{"pattern": "[X] , ki gen kapital la [Y] ."}
-{"pattern": "[X] , ki gen kapital la [Y] ."}
+{"pattern": "[Y], se sa ki kapital la nan [X]."}
+{"pattern": "[X], ki gen kapital la [Y]."}
+{"pattern": "[X], ki gen kapital la [Y]."}

@@ -1,9 +1,9 @@
 {"pattern": "[X] is [Y] boarger."}
-{"pattern": "[X] is in boarger fan [Y] ."}
-{"pattern": "[X] , in boarger fan [Y] ."}
-{"pattern": "[X] , wa is in boarger fan [Y] ."}
-{"pattern": "[X] h\u00e2ldt in boargerskip fan [Y] ."}
-{"pattern": "[X] hat in boargerskip fan [Y] ."}
-{"pattern": "[X] , wa h\u00e2ldt in boargerskip fan [Y] ."}
-{"pattern": "[X] , wa hat in boargerskip fan [Y] ."}
-{"pattern": "as boarger fan [Y] , [X]"}
+{"pattern": "[X] is in boarger fan [Y]."}
+{"pattern": "[X], in boarger fan [Y]."}
+{"pattern": "[X], wa is in boarger fan [Y]."}
+{"pattern": "[X] h\u00e2ldt in boargerskip fan [Y]."}
+{"pattern": "[X] hat in boargerskip fan [Y]."}
+{"pattern": "[X], wa h\u00e2ldt in boargerskip fan [Y]."}
+{"pattern": "[X], wa hat in boargerskip fan [Y]."}
+{"pattern": "as boarger fan [Y], [X]"}

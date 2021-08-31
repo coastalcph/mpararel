@@ -1,9 +1,9 @@
-{"pattern": "[X] mantiene relaciones diplom\u00e1ticas con [Y] ."}
-{"pattern": "[Y] mantiene relaciones diplom\u00e1ticas con [X] ."}
-{"pattern": "[X] Lazos de relaciones diplom\u00e1ticas con [Y] ."}
-{"pattern": "[Y] Laza las relaciones diplom\u00e1ticas con [X] ."}
-{"pattern": "[X] tiene relaciones diplom\u00e1ticas con [Y] ."}
-{"pattern": "[Y] tiene relaciones diplom\u00e1ticas con [X] ."}
-{"pattern": "[X] , que tiene relaciones diplom\u00e1ticas con [Y]"}
+{"pattern": "[X] mantiene relaciones diplom\u00e1ticas con [Y]."}
+{"pattern": "[Y] mantiene relaciones diplom\u00e1ticas con [X]."}
+{"pattern": "[X] Lazos de relaciones diplom\u00e1ticas con [Y]."}
+{"pattern": "[Y] Laza las relaciones diplom\u00e1ticas con [X]."}
+{"pattern": "[X] tiene relaciones diplom\u00e1ticas con [Y]."}
+{"pattern": "[Y] tiene relaciones diplom\u00e1ticas con [X]."}
+{"pattern": "[X], que tiene relaciones diplom\u00e1ticas con [Y]"}
 {"pattern": "[Y], que tiene relaciones diplom\u00e1ticas con [X]"}
-{"pattern": "[Y] , que ata las relaciones diplom\u00e1ticas con [X]"}
+{"pattern": "[Y], que ata las relaciones diplom\u00e1ticas con [X]"}

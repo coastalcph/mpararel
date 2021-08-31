@@ -1,18 +1,18 @@
-{"pattern": "[X] \u00e8 stato scritto in [Y] ."}
-{"pattern": "[X] \u00e8 scritto in [Y] ."}
-{"pattern": "[X] \u00e8 stato scritto nella lingua [Y] ."}
-{"pattern": "[X] \u00e8 scritto nella lingua [Y] ."}
-{"pattern": "[X] , scritto nella lingua [Y] ."}
-{"pattern": "La lingua di [X] \u00e8 [Y] ."}
-{"pattern": "La lingua di [X] era [Y] ."}
+{"pattern": "[X] \u00e8 stato scritto in [Y]."}
+{"pattern": "[X] \u00e8 scritto in [Y]."}
+{"pattern": "[X] \u00e8 stato scritto nella lingua [Y]."}
+{"pattern": "[X] \u00e8 scritto nella lingua [Y]."}
+{"pattern": "[X], scritto nella lingua [Y]."}
+{"pattern": "La lingua di [X] \u00e8 [Y]."}
+{"pattern": "La lingua di [X] era [Y]."}
 {"pattern": "[X] \u00e8 un lavoro [Y] -language."}
 {"pattern": "[X] \u00e8 un lavoro [Y] -language."}
-{"pattern": "[X] , un lavoro [Y] -language."}
-{"pattern": "[X] , un lavoro [Y] -language."}
+{"pattern": "[X], un lavoro [Y] -language."}
+{"pattern": "[X], un lavoro [Y] -language."}
 {"pattern": "[X] era un lavoro [Y] -language."}
 {"pattern": "[X] era un lavoro [Y] -language."}
-{"pattern": "[X] \u00e8 un lavoro nella lingua [Y] ."}
-{"pattern": "[X] \u00e8 stato un lavoro nella lingua [Y] ."}
+{"pattern": "[X] \u00e8 un lavoro nella lingua [Y]."}
+{"pattern": "[X] \u00e8 stato un lavoro nella lingua [Y]."}
 {"pattern": "La creazione [Y] -language [X]"}
-{"pattern": "[Y] \u00e8 la lingua di [X] ."}
-{"pattern": "[Y] era la lingua di [X] ."}
+{"pattern": "[Y] \u00e8 la lingua di [X]."}
+{"pattern": "[Y] era la lingua di [X]."}

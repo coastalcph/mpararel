@@ -2,10 +2,10 @@
 {"pattern": "[X] est un [Y] par profession."}
 {"pattern": "[X] est un [Y] par formation."}
 {"pattern": "[X] est un [Y] par formation."}
-{"pattern": "[X] fonctionne comme [Y] ."}
-{"pattern": "[X] , qui travaille comme [Y] ."}
+{"pattern": "[X] fonctionne comme [Y]."}
+{"pattern": "[X], qui travaille comme [Y]."}
 {"pattern": "[X] L'occupation est [Y]"}
-{"pattern": "L'occupation de [X] est [Y] ."}
+{"pattern": "L'occupation de [X] est [Y]."}
 {"pattern": "[X] La profession est un [Y]."}
 {"pattern": "[X] La profession est un [Y]."}
-{"pattern": "la profession de [X] est [Y] ."}
+{"pattern": "la profession de [X] est [Y]."}

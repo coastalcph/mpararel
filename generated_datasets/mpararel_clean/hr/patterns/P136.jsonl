@@ -1,6 +1,6 @@
 {"pattern": "[X] reproducira glazbu."}
-{"pattern": "[X] , koji igraju glazbu"}
-{"pattern": "[X] igra [Y] ."}
-{"pattern": "[X] , koji svira [Y] ."}
-{"pattern": "[Y] glazbenici [X] ."}
-{"pattern": "[Y] glazbenici kao \u0161to je [X] ."}
+{"pattern": "[X], koji igraju glazbu"}
+{"pattern": "[X] igra [Y]."}
+{"pattern": "[X], koji svira [Y]."}
+{"pattern": "[Y] glazbenici [X]."}
+{"pattern": "[Y] glazbenici kao \u0161to je [X]."}

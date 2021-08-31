@@ -1,6 +1,6 @@
 {"pattern": "[X] spilar \u00ed [Y] st\u00f6\u00f0u."}
-{"pattern": "[X] spilar \u00ed st\u00f6\u00f0u [Y] ."}
+{"pattern": "[X] spilar \u00ed st\u00f6\u00f0u [Y]."}
 {"pattern": "[X], sem spilar \u00ed [Y] st\u00f6\u00f0u."}
-{"pattern": "leika sem [Y] , [X]"}
-{"pattern": "Leika sem [Y] , [X]"}
+{"pattern": "leika sem [Y], [X]"}
+{"pattern": "Leika sem [Y], [X]"}
 {"pattern": "[X] spilar eins og [Y]"}

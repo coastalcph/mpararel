@@ -1,14 +1,14 @@
-{"pattern": "D'Haaptstad vun [X] ass [Y] ."}
-{"pattern": "D'Haaptstad vun [X] ass [Y] ."}
-{"pattern": "[Y] ass d'Haaptstad vun [X] ."}
-{"pattern": "[Y] ass d'Haaptstad vun [X] ."}
+{"pattern": "D'Haaptstad vun [X] ass [Y]."}
+{"pattern": "D'Haaptstad vun [X] ass [Y]."}
+{"pattern": "[Y] ass d'Haaptstad vun [X]."}
+{"pattern": "[Y] ass d'Haaptstad vun [X]."}
 {"pattern": "[X] 'S Kapital, [Y]."}
 {"pattern": "[X] 'S Haaptstad, [Y]."}
 {"pattern": "[X] 'S Kapital ass [Y]."}
-{"pattern": "[X] 'S Haaptstad Stad ass [Y] ."}
-{"pattern": "[Y] , d'Haaptstad vun [X] ."}
-{"pattern": "[Y] , d'Haaptstad vun [X] ."}
-{"pattern": "[Y] , dat ass d'Haaptstad vun [X] ."}
-{"pattern": "[Y] , dat ass d'Haaptstad vun [X] ."}
-{"pattern": "[X] , wat huet d'Haaptstad [Y] ."}
-{"pattern": "[X] , wat huet d'Haaptstad [Y] ."}
+{"pattern": "[X] 'S Haaptstad Stad ass [Y]."}
+{"pattern": "[Y], d'Haaptstad vun [X]."}
+{"pattern": "[Y], d'Haaptstad vun [X]."}
+{"pattern": "[Y], dat ass d'Haaptstad vun [X]."}
+{"pattern": "[Y], dat ass d'Haaptstad vun [X]."}
+{"pattern": "[X], wat huet d'Haaptstad [Y]."}
+{"pattern": "[X], wat huet d'Haaptstad [Y]."}

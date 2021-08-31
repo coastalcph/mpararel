@@ -1,13 +1,13 @@
-{"pattern": "[X] lahir di [Y] ."}
-{"pattern": "[X] awalnya dari [Y] ."}
-{"pattern": "[X] awalnya dari [Y] ."}
-{"pattern": "[X] asli [Y] ."}
-{"pattern": "[X] asli dari [Y] ."}
-{"pattern": "[X] Berasal dari [Y] ."}
-{"pattern": "[X] berasal dari [Y] ."}
+{"pattern": "[X] lahir di [Y]."}
+{"pattern": "[X] awalnya dari [Y]."}
+{"pattern": "[X] awalnya dari [Y]."}
+{"pattern": "[X] asli [Y]."}
+{"pattern": "[X] asli dari [Y]."}
+{"pattern": "[X] Berasal dari [Y]."}
+{"pattern": "[X] berasal dari [Y]."}
 {"pattern": "[X] adalah orang [Y] -Dorn."}
 {"pattern": "[X] adalah orang [Y] -Dorn."}
 {"pattern": "[X] adalah orang [Y] -Dorn."}
 {"pattern": "[X] adalah orang [Y] -Born."}
 {"pattern": "[X], orang [Y] -Dorn."}
-{"pattern": "[X] , orang [Y] -lahir."}
+{"pattern": "[X], orang [Y]-lahir."}

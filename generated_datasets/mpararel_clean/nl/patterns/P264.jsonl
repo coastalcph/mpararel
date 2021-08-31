@@ -3,8 +3,8 @@
 {"pattern": "[X] is vertegenwoordigd door [Y]."}
 {"pattern": "[X], dat wordt vertegenwoordigd door [Y]."}
 {"pattern": "[X], die wordt vertegenwoordigd door [Y]."}
-{"pattern": "Het muzieklabel dat [X] vertegenwoordigt [Y] ."}
-{"pattern": "Het muzieketiket dat [X] vertegenwoordigt is [Y] ."}
+{"pattern": "Het muzieklabel dat [X] vertegenwoordigt [Y]."}
+{"pattern": "Het muzieketiket dat [X] vertegenwoordigt is [Y]."}
 {"pattern": "[X] 's label is [Y]."}
 {"pattern": "[X]'s record-label is [Y]."}
 {"pattern": "[X]'s platenmaatschappij is [Y]."}
@@ -12,6 +12,6 @@
 {"pattern": "[X] geregistreerd voor [Y]."}
 {"pattern": "[X] Label: [Y]."}
 {"pattern": "[X], vrijgegeven door [Y]."}
-{"pattern": "[Y] Artist opnemen [X] ."}
-{"pattern": "[Y] artiesten zoals [X] ."}
-{"pattern": "[Y] kunstenaars inclusief [X] ."}
+{"pattern": "[Y] Artist opnemen [X]."}
+{"pattern": "[Y] artiesten zoals [X]."}
+{"pattern": "[Y] kunstenaars inclusief [X]."}

@@ -1,11 +1,11 @@
 {"pattern": "[X] dastlab [Y] ustiga havo chiqarildi."}
 {"pattern": "[X] [Y] da debyut qilish."}
-{"pattern": "[Y] deb hisoblangan [X] ."}
-{"pattern": "[Y] debyut qilingan [X] ."}
+{"pattern": "[Y] deb hisoblangan [X]."}
+{"pattern": "[Y] debyut qilingan [X]."}
 {"pattern": "[X] ni [Y] da debyut qildi."}
-{"pattern": "[Y] debyut [X] ."}
+{"pattern": "[Y] debyut [X]."}
 {"pattern": "[Y] chiqarilishi [X] ni chiqaring."}
 {"pattern": "[X] [Y] ichida chiqarilgan."}
-{"pattern": "[Y] ozod qilindi [X] ."}
+{"pattern": "[Y] ozod qilindi [X]."}
 {"pattern": "[X] [Y] da jarohatlandi."}
 {"pattern": "[X] [Y] da."}

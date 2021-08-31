@@ -3,14 +3,14 @@
 {"pattern": "[X], [Y]-k garatua."}
 {"pattern": "[X] [Y] -k sortua da"}
 {"pattern": "[X] sortu zuen [Y]"}
-{"pattern": "[X] , [Y] -k sortua."}
+{"pattern": "[X], [Y] -k sortua."}
 {"pattern": "[X] [Y] -ren produktua da"}
 {"pattern": "[X] [Y] produktua zen"}
-{"pattern": "[X] , [Y] -ren produktua"}
+{"pattern": "[X], [Y] -ren produktua"}
 {"pattern": "[X], [Y] -k sortutako produktua"}
 {"pattern": "[X], [Y]-k fabrikatutako produktua"}
 {"pattern": "[X], [Y]-k garatutako produktua"}
-{"pattern": "[Y] , garatu zuen [X]"}
-{"pattern": "[Y] , hori sortu da [X]"}
-{"pattern": "[Y] , [X] sortzailea"}
+{"pattern": "[Y], garatu zuen [X]"}
+{"pattern": "[Y], hori sortu da [X]"}
+{"pattern": "[Y], [X] sortzailea"}
 {"pattern": "[Y] eta bere produktua [X]"}

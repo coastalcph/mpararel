@@ -1,11 +1,11 @@
 {"pattern": "[X] jatorriz [Y] gainean jarri zen."}
 {"pattern": "[X] [Y] debuta egitea da."}
-{"pattern": "[Y] debuta egitea da [X] ."}
-{"pattern": "[Y] debutatu [X] ."}
-{"pattern": "[X] debutatu da [Y] ."}
-{"pattern": "[X] debuta [X] ."}
-{"pattern": "[X] kaleratzea [Y] ."}
-{"pattern": "[X] askatu da [Y] ."}
-{"pattern": "[Y] kaleratu [X] ."}
-{"pattern": "[X] estreinatu zen [Y] ."}
-{"pattern": "[X] estreinaldiak [Y] ."}
+{"pattern": "[Y] debuta egitea da [X]."}
+{"pattern": "[Y] debutatu [X]."}
+{"pattern": "[X] debutatu da [Y]."}
+{"pattern": "[X] debuta [X]."}
+{"pattern": "[X] kaleratzea [Y]."}
+{"pattern": "[X] askatu da [Y]."}
+{"pattern": "[Y] kaleratu [X]."}
+{"pattern": "[X] estreinatu zen [Y]."}
+{"pattern": "[X] estreinaldiak [Y]."}

@@ -1,9 +1,9 @@
 {"pattern": "[X] ass [Y] Bierger."}
-{"pattern": "[X] ass e Bierger vun [Y] ."}
-{"pattern": "[X] , e Bierger vun [Y] ."}
-{"pattern": "[X] , wien ass e Bierger vun [Y] ."}
-{"pattern": "[X] h\u00e4lt eng Nationalit\u00e9it vun [Y] ."}
-{"pattern": "[X] huet eng Nationalit\u00e9it vun [Y] ."}
-{"pattern": "[X] , deen eng Nationalit\u00e9it vun [Y] h\u00e4lt."}
-{"pattern": "[X] , wien huet eng Nationalit\u00e9it vun [Y] ."}
-{"pattern": "Als Bierger vun [Y] , [X]"}
+{"pattern": "[X] ass e Bierger vun [Y]."}
+{"pattern": "[X], e Bierger vun [Y]."}
+{"pattern": "[X], wien ass e Bierger vun [Y]."}
+{"pattern": "[X] h\u00e4lt eng Nationalit\u00e9it vun [Y]."}
+{"pattern": "[X] huet eng Nationalit\u00e9it vun [Y]."}
+{"pattern": "[X], deen eng Nationalit\u00e9it vun [Y] h\u00e4lt."}
+{"pattern": "[X], wien huet eng Nationalit\u00e9it vun [Y]."}
+{"pattern": "Als Bierger vun [Y], [X]"}

@@ -38,8 +38,8 @@ python translate_templates.py clean_dir \
 	--templates_folder ${WORKDIR}/data/multilingual/pararel_cleaned
 
 # Copy templates and relations to an output folder
-mkdir -p ${WORKDIR}/mpararel_clean
+mkdir -p ${WORKDIR}/generated_datasets/mpararel_clean
 python create_organized_output.py \
     --infolder ${WORKDIR}/data/multilingual \
 	--templates_folder_name pararel_cleaned \
-    --outfolder ${WORKDIR}/mpararel_clean
+    --outfolder ${WORKDIR}/generated_datasets/mpararel_clean

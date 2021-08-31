@@ -1,9 +1,9 @@
 {"pattern": "[X] ist [Y] B\u00fcrger."}
-{"pattern": "[X] ist ein B\u00fcrger von [Y] ."}
-{"pattern": "[X] , ein B\u00fcrger von [Y] ."}
-{"pattern": "[X] , der B\u00fcrger von [Y] ist."}
-{"pattern": "[X] H\u00e4lt eine Staatsb\u00fcrgerschaft von [Y] ."}
-{"pattern": "[X] hat eine Staatsb\u00fcrgerschaft von [Y] ."}
-{"pattern": "[X] , der eine Staatsb\u00fcrgerschaft von [Y] h\u00e4lt."}
-{"pattern": "[X] , der eine Staatsb\u00fcrgerschaft von [Y] hat."}
-{"pattern": "als B\u00fcrger von [Y] , [X]"}
+{"pattern": "[X] ist ein B\u00fcrger von [Y]."}
+{"pattern": "[X], ein B\u00fcrger von [Y]."}
+{"pattern": "[X], der B\u00fcrger von [Y] ist."}
+{"pattern": "[X] H\u00e4lt eine Staatsb\u00fcrgerschaft von [Y]."}
+{"pattern": "[X] hat eine Staatsb\u00fcrgerschaft von [Y]."}
+{"pattern": "[X], der eine Staatsb\u00fcrgerschaft von [Y] h\u00e4lt."}
+{"pattern": "[X], der eine Staatsb\u00fcrgerschaft von [Y] hat."}
+{"pattern": "als B\u00fcrger von [Y], [X]"}

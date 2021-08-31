@@ -2,9 +2,9 @@
 {"pattern": "[X] nahisulat sa [Y]."}
 {"pattern": "[X] gisulat sa sinultian."}
 {"pattern": "[X] nahisulat sa sinultian."}
-{"pattern": "[X] , gisulat sa sinultian."}
-{"pattern": "Ang sinultian sa [X] mao ang [Y] ."}
-{"pattern": "Ang sinultian sa [X] mao ang [Y] ."}
+{"pattern": "[X], gisulat sa sinultian."}
+{"pattern": "Ang sinultian sa [X] mao ang [Y]."}
+{"pattern": "Ang sinultian sa [X] mao ang [Y]."}
 {"pattern": "[X] usa ka buhat sa [Y] -lenguage."}
 {"pattern": "[X] usa ka buhat sa [Y] -lenguage."}
 {"pattern": "[X], usa ka buhat sa [Y] -lenguage."}
@@ -14,5 +14,5 @@
 {"pattern": "[X] usa ka buhat sa sinultian."}
 {"pattern": "[X] usa ka buhat sa sinultian."}
 {"pattern": "Ang [Y] -lenguage sa Paglalang [X]"}
-{"pattern": "[Y] ang sinultian sa [X] ."}
-{"pattern": "[Y] ang sinultian sa [X] ."}
+{"pattern": "[Y] ang sinultian sa [X]."}
+{"pattern": "[Y] ang sinultian sa [X]."}
