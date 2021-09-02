@@ -4,7 +4,7 @@ import json
 import os
 import argparse
 from logger_utils import get_logger
-from translate_utils import Translator, get_wiki_language_mapping
+from translate_utils import Translator, translate, get_wiki_language_mapping
 from tqdm import tqdm
 import re
 
@@ -125,18 +125,18 @@ def get_language_from_filename(folder, filename):
         return os.path.basename(os.path.normpath(folder))
 
 
-def clean_dir(args):
+def fix_translated_dirs(args):
     for directory in os.listdir(args.templates_folder):
         LOG.info("Cleaning directory {}".format(directory))
-        clean_folder(os.path.join(args.templates_folder, directory),
-                     args.template_json_key)
+        _fix_translated_files(os.path.join(args.templates_folder, directory),
+                              args.template_json_key)
 
 
-def clean(args):
-    clean_folder(args.templates_folder, args.template_json_key)
+def fix_translated_files(args):
+    _fix_translated_files(args.templates_folder, args.template_json_key)
 
 
-def clean_folder(templates_folder, template_json_key):
+def _fix_translated_files(templates_folder, template_json_key):
     initial_broken = 0
     final_broken = 0
     inital_incorrect_files = set()
@@ -216,12 +216,16 @@ def translate_folder(args):
                                                  args.translator)
     wikiid_to_filename_to_templates = collections.defaultdict(dict)
     translations_count = 0
+    chars_translations_count = 0
     for filename in tqdm(os.listdir(args.templates_folder)):
         templates = get_templates(os.path.join(
             args.templates_folder, filename))
         translations_count += len(templates)*len(lang2translateid)
-        LOG.info("Translating file: {}, (will reach {} translations)".format(
-            filename, translations_count))
+        chars_translations_count += len(''.join(templates)) * \
+            len(lang2translateid)
+        LOG.info("Translating file: {}, (will reach: {} translations, {} chars "
+                 "translated)".format(
+                     filename, translations_count, chars_translations_count))
         for wikiid, template_translation in translate_templates(
                 templates, "pattern", lang2translateid, args.translator).items():
             wikiid_to_filename_to_templates[wikiid][filename] = template_translation
@@ -234,7 +238,7 @@ def translate_folder(args):
                     fout.write("{}\n".format(json.dumps(template)))
 
 
-def translate(args):
+def translate_file(args):
     lang2translateid = get_wiki_language_mapping(args.languagemapping,
                                                  args.translator)
     templates = get_templates(args.templates)
@@ -251,7 +255,7 @@ def create_parser():
     subparsers = parser.add_subparsers()
 
     parser_translate = subparsers.add_parser('translate_file')
-    parser_translate.set_defaults(func=translate)
+    parser_translate.set_defaults(func=translate_file)
     parser_translate.add_argument(
         "--templates_file", default=None, type=str, required=True, help="")
     parser_translate.add_argument(
@@ -274,8 +278,8 @@ def create_parser():
     parser_translate_folder.add_argument(
         "--output_folder", default=None, type=str, required=True, help="")
 
-    parser_clean = subparsers.add_parser('clean')
-    parser_clean.set_defaults(func=clean)
+    parser_clean = subparsers.add_parser('fix_translated_files')
+    parser_clean.set_defaults(func=fix_translated_files)
     parser_clean.add_argument(
         "--templates_folder", default=None, type=str, required=True, help="")
     parser_clean.add_argument(
@@ -283,8 +287,8 @@ def create_parser():
         help="The key that contains the template or pattern in each line of the"
              " templates files.")
 
-    parser_clean_dir = subparsers.add_parser('clean_dir')
-    parser_clean_dir.set_defaults(func=clean_dir)
+    parser_clean_dir = subparsers.add_parser('fix_translated_dirs')
+    parser_clean_dir.set_defaults(func=fix_translated_dirs)
     parser_clean_dir.add_argument(
         "--templates_folder", default=None, type=str, required=True, help="")
     parser_clean_dir.add_argument(

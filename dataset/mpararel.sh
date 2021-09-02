@@ -34,7 +34,7 @@ python translate_templates.py translate_folder \
 
 # Clean templates in place.
 cp -r ${WORKDIR}/data/multilingual/pararel ${WORKDIR}/data/multilingual/pararel_cleaned
-python translate_templates.py clean_dir \
+python translate_templates.py fix_translated_dirs \
 	--templates_folder ${WORKDIR}/data/multilingual/pararel_cleaned
 
 # Copy templates and relations to an output folder

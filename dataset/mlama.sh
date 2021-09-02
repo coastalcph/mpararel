@@ -55,7 +55,7 @@ python translate_templates.py translate_file \
 
 # 4.3. Clean Templates in place
 cp -r ${WORKDIR}/data/multilingual/templates_original ${WORKDIR}/data/multilingual/templates
-python translate_templates.py clean \
+python translate_templates.py fix_translated_files \
 	--templates_folder ${WORKDIR}/data/multilingual/templates
 
 # 5. Copy each template json into the language folder
