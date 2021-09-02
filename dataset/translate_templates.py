@@ -1,5 +1,5 @@
+from typing import List
 import collections
-from googletrans import Translator
 import json
 import os
 import argparse
@@ -186,19 +186,21 @@ def get_templates(templates_filename):
     return templates
 
 
-def translate_templates(templates, lang2translateid, template_key):
+def translate_templates(templates: List[str], template_key: str,
+                        wiki_lang_to_translator_lang: dict,
+                        translator: Translator) -> List[str]:
     """Translates each template to all the languages in lang2translateid."""
     translated_templates = {}
-    for wikiid, googleid in lang2translateid.items():
+    for wikiid, translator_id in wiki_lang_to_translator_lang.items():
         LOG.info("Translating {}".format(wikiid))
         translated_templates[wikiid] = []
         for template in templates:
             try:
-                translator = Translator()
-                result = translator.translate(
-                    template[template_key], src="en", dest=googleid)
+                translated_text = translate(
+                    translator, template[template_key], from_lang="en",
+                    to_lang=translator_id)
                 translated_template = template.copy()
-                translated_template[template_key] = result.text
+                translated_template[template_key] = translated_text
             except Exception as e:
                 LOG.info("Exception: {}".format(e))
                 break
@@ -220,9 +222,9 @@ def translate_folder(args):
         translations_count += len(templates)*len(lang2translateid)
         LOG.info("Translating file: {}, (will reach {} translations)".format(
             filename, translations_count))
-        for wikiid, this_file_templates in translate_templates(
-                templates, lang2translateid, "pattern").items():
-            wikiid_to_filename_to_templates[wikiid][filename] = this_file_templates
+        for wikiid, template_translation in translate_templates(
+                templates, "pattern", lang2translateid, args.translator).items():
+            wikiid_to_filename_to_templates[wikiid][filename] = template_translation
     for wikiid, filename_to_templates in wikiid_to_filename_to_templates.items():
         os.makedirs(os.path.join(args.out_folder, wikiid))
         for filename, templates in filename_to_templates.items():
@@ -237,7 +239,7 @@ def translate(args):
                                                  args.translator)
     templates = get_templates(args.templates)
     wikiid_to_translated = translate_templates(
-        templates, lang2translateid, "template")
+        templates, "template", lang2translateid, args.translator)
     for wikiid, translated in wikiid_to_translated.items():
         with open(os.path.join(args.outfile, "relations_{}.jsonl".format(wikiid)), "w") as fout:
             for template in translated:
