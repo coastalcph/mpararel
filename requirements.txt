@@ -167,3 +167,5 @@ zc.lockfile==2.0
 tqdm
 requests
 googletrans==4.0.0rc1
+torch
+transformers

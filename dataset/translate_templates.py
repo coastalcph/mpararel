@@ -200,6 +200,7 @@ def get_templates(templates_filename):
 
 
 def translate_templates(templates, lang2translateid, template_key):
+    """Translates each template to all the languages in lang2translateid."""
     translated_templates = {}
     for wikiid, googleid in lang2translateid.items():
         LOG.info("Translating {}".format(wikiid))
