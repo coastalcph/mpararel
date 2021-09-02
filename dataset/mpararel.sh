@@ -25,21 +25,40 @@ git clone git@github.com:yanaiela/pararel.git
 mv pararel/data/pattern_data/graphs_json/* ${WORKDIR}/data/pararel
 rm -r pararel
 
-# Translate ParaRel.
-mkdir -p ${WORKDIR}/data/multilingual/pararel
+# Translate ParaRel with Google.
+mkdir -p ${WORKDIR}/data/multilingual/pararel_google
 python translate_templates.py translate_folder \
 --templates_folder ${WORKDIR}/data/pararel \
---output_folder ${WORKDIR}/data/multilingual/pararel \
---language_mapping_file mbertlangs.txt
+--output_folder ${WORKDIR}/data/multilingual/pararel_google \
+--language_mapping_file mbertlangs.txt \
+--translator google
+
+# Translate ParaRel with Bing.
+mkdir -p ${WORKDIR}/data/multilingual/pararel_bing
+python translate_templates.py translate_folder \
+--templates_folder ${WORKDIR}/data/pararel \
+--output_folder ${WORKDIR}/data/multilingual/pararel_bing \
+--language_mapping_file languages_mapping.txt \
+--translator bing
 
 # Clean templates in place.
-cp -r ${WORKDIR}/data/multilingual/pararel ${WORKDIR}/data/multilingual/pararel_cleaned
+cp -r ${WORKDIR}/data/multilingual/pararel_google ${WORKDIR}/data/multilingual/pararel_google_cleaned
 python translate_templates.py fix_translated_dirs \
-	--templates_folder ${WORKDIR}/data/multilingual/pararel_cleaned
+	--templates_folder ${WORKDIR}/data/multilingual/pararel_google_cleaned
+
+cp -r ${WORKDIR}/data/multilingual/pararel_bing ${WORKDIR}/data/multilingual/pararel_bing_cleaned
+python translate_templates.py fix_translated_dirs \
+	--templates_folder ${WORKDIR}/data/multilingual/pararel_bing_cleaned
 
 # Copy templates and relations to an output folder
-mkdir -p ${WORKDIR}/generated_datasets/mpararel_clean
+mkdir -p ${WORKDIR}/generated_datasets/mpararel_google
 python create_organized_output.py \
     --infolder ${WORKDIR}/data/multilingual \
-	--templates_folder_name pararel_cleaned \
-    --outfolder ${WORKDIR}/generated_datasets/mpararel_clean
+	--templates_folder_name pararel_google_cleaned \
+    --outfolder ${WORKDIR}/generated_datasets/mpararel_google
+
+mkdir -p ${WORKDIR}/generated_datasets/mpararel_bing
+python create_organized_output.py \
+    --infolder ${WORKDIR}/data/multilingual \
+	--templates_folder_name pararel_bing_cleaned \
+    --outfolder ${WORKDIR}/generated_datasets/mpararel_bing
