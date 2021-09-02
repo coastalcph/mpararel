@@ -1,7 +1,7 @@
 import argparse
 import os
 import json
-from utils import get_logger
+from logger_utils import get_logger
 
 LOG = get_logger(__name__)
 

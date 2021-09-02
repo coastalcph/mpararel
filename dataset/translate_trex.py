@@ -6,7 +6,8 @@ import tqdm
 import os
 import json
 import collections
-from utils import get_logger, load_languagemapping
+from logger_utils import get_logger
+from translate_utils import get_wiki_languages
 
 LOG = get_logger(__name__)
 
@@ -49,9 +50,9 @@ def main():
     parser.add_argument("--languagemapping", default=None,
                         type=str, required=True, help="")
     args = parser.parse_args()
-    lang2translateid = load_languagemapping(args.languagemapping)
+    wiki_languages = get_wiki_languages(args.languagemapping)
 
-    for lang in lang2translateid:
+    for lang in wiki_languages:
         t = Relations(args.data)
         filenames = t.get_available_filenames()
         t.load_data(filenames)

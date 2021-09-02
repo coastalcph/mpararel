@@ -48,10 +48,10 @@ python translate_templates.py translate \
 
 # 4.2. Translate Templates GoogleRE
 # manually copy the two googlere relations templates and translate them
-python translate_templates.py translate \
-	--templates ${WORKDIR}/data/relations_googlere.jsonl \
-	--outfile ${WORKDIR}/data/multilingual/templates_original \
-	--languagemapping mbertlangs.txt
+python translate_templates.py translate_file \
+	--templates_file ${WORKDIR}/data/relations_googlere.jsonl \
+	--output_folder ${WORKDIR}/data/multilingual/templates_original \
+	--language_mapping_file mbertlangs.txt
 
 # 4.3. Clean Templates in place
 cp -r ${WORKDIR}/data/multilingual/templates_original ${WORKDIR}/data/multilingual/templates

@@ -2,7 +2,7 @@ import argparse
 import os
 import json
 from tqdm import tqdm
-from utils import get_logger
+from logger_utils import get_logger
 
 LOG = get_logger(__name__)
 TRIPLES_FOLDER_NAME = "triples"

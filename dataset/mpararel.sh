@@ -29,8 +29,8 @@ rm -r pararel
 mkdir -p ${WORKDIR}/data/multilingual/pararel
 python translate_templates.py translate_folder \
 --templates_folder ${WORKDIR}/data/pararel \
---out_folder ${WORKDIR}/data/multilingual/pararel \
---languagemapping mbertlangs.txt
+--output_folder ${WORKDIR}/data/multilingual/pararel \
+--language_mapping_file mbertlangs.txt
 
 # Clean templates in place.
 cp -r ${WORKDIR}/data/multilingual/pararel ${WORKDIR}/data/multilingual/pararel_cleaned

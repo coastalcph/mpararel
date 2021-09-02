@@ -4,12 +4,10 @@ import json
 import requests
 import os
 from tqdm import tqdm
-from utils import get_logger, load_languagemapping
+from logger_utils import get_logger
+from translate_utils import Translator, get_wiki_language_mapping
 
 LOG = get_logger(__name__)
-
-
-
 
 
 def translate(kgids: Set[Text], targetlang: Text, key: Text) -> Dict[Text, Text]:
@@ -17,8 +15,9 @@ def translate(kgids: Set[Text], targetlang: Text, key: Text) -> Dict[Text, Text]
     kgids = list(kgids)
     kgids = [x for x in kgids if x.startswith("/m/")]
     batch_size = 16
-    for i in tqdm(range(0, len(kgids), batch_size)): 
-        response = requests.get("https://kgsearch.googleapis.com/v1/entities:search", {"key": key, "languages": targetlang, "ids": kgids[i:i + batch_size]})
+    for i in tqdm(range(0, len(kgids), batch_size)):
+        response = requests.get("https://kgsearch.googleapis.com/v1/entities:search", {
+                                "key": key, "languages": targetlang, "ids": kgids[i:i + batch_size]})
         if response.status_code == 200:
             result = json.loads(response.content)
             for elem in result['itemListElement']:
@@ -47,13 +46,18 @@ def get_translation(current_id: Text, translations: Dict[Text, Text], triple: Di
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--inputpath", default=None, type=str, required=True, help="")
-    parser.add_argument("--relation", default=None, type=str, required=True, help="")
-    parser.add_argument("--outpath", default=None, type=str, required=True, help="")
-    parser.add_argument("--languagemapping", default=None, type=str, required=True, help="")
+    parser.add_argument("--inputpath", default=None,
+                        type=str, required=True, help="")
+    parser.add_argument("--relation", default=None,
+                        type=str, required=True, help="")
+    parser.add_argument("--outpath", default=None,
+                        type=str, required=True, help="")
+    parser.add_argument("--languagemapping", default=None,
+                        type=str, required=True, help="")
     args = parser.parse_args()
     key = os.environ["GOOGLEAPIKEY"]
-    lang2translateid = load_languagemapping(args.languagemapping)
+    lang2translateid = get_wiki_language_mapping(args.languagemapping,
+                                                 Translator.GOOGLE)
     triples = []
     with open(os.path.join(args.inputpath, args.relation + ".jsonl")) as fp:
         for line in fp:

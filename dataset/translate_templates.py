@@ -3,7 +3,8 @@ from googletrans import Translator
 import json
 import os
 import argparse
-from utils import get_logger
+from logger_utils import get_logger
+from translate_utils import Translator, get_wiki_language_mapping
 from tqdm import tqdm
 import re
 
@@ -176,20 +177,6 @@ def clean_folder(templates_folder, template_json_key):
         final_broken, len(final_incorrect_files)))
 
 
-def get_language_mapping(language_mapping_filename):
-    lang2translateid = {}
-    with open(language_mapping_filename) as fp:
-        next(fp)
-        for line in fp:
-            if line:
-                wikiid, _, _, googleid = line.split("\t")
-                if not googleid:
-                    # try the other id and see what comes out of goole translate
-                    googleid = wikiid
-                lang2translateid[wikiid.strip()] = googleid.strip()
-    return lang2translateid
-
-
 def get_templates(templates_filename):
     templates = []
     with open(templates_filename) as fp:
@@ -223,7 +210,8 @@ def translate_templates(templates, lang2translateid, template_key):
 
 
 def translate_folder(args):
-    lang2translateid = get_language_mapping(args.languagemapping)
+    lang2translateid = get_wiki_language_mapping(args.languagemapping,
+                                                 args.translator)
     wikiid_to_filename_to_templates = collections.defaultdict(dict)
     translations_count = 0
     for filename in tqdm(os.listdir(args.templates_folder)):
@@ -245,7 +233,8 @@ def translate_folder(args):
 
 
 def translate(args):
-    lang2translateid = get_language_mapping(args.languagemapping)
+    lang2translateid = get_wiki_language_mapping(args.languagemapping,
+                                                 args.translator)
     templates = get_templates(args.templates)
     wikiid_to_translated = translate_templates(
         templates, lang2translateid, "template")
@@ -259,23 +248,29 @@ def create_parser():
     parser = argparse.ArgumentParser()
     subparsers = parser.add_subparsers()
 
-    parser_translate = subparsers.add_parser('translate')
+    parser_translate = subparsers.add_parser('translate_file')
     parser_translate.set_defaults(func=translate)
     parser_translate.add_argument(
-        "--templates", default=None, type=str, required=True, help="")
+        "--templates_file", default=None, type=str, required=True, help="")
     parser_translate.add_argument(
-        "--languagemapping", default=None, type=str, required=True, help="")
+        "--language_mapping_file", default=None, type=str, required=True, help="")
     parser_translate.add_argument(
-        "--outfile", default=None, type=str, required=True, help="")
+        "--translator", type=Translator, default=Translator.GOOGLE,
+        choices=list(Translator))
+    parser_translate.add_argument(
+        "--output_folder", default=None, type=str, required=True, help="")
 
     parser_translate_folder = subparsers.add_parser('translate_folder')
     parser_translate_folder.set_defaults(func=translate_folder)
     parser_translate_folder.add_argument(
         "--templates_folder", default=None, type=str, required=True, help="")
     parser_translate_folder.add_argument(
-        "--languagemapping", default=None, type=str, required=True, help="")
+        "--language_mapping_file", default=None, type=str, required=True, help="")
     parser_translate_folder.add_argument(
-        "--out_folder", default=None, type=str, required=True, help="")
+        "--translator", type=Translator, default=Translator.GOOGLE,
+        choices=list(Translator))
+    parser_translate_folder.add_argument(
+        "--output_folder", default=None, type=str, required=True, help="")
 
     parser_clean = subparsers.add_parser('clean')
     parser_clean.set_defaults(func=clean)
