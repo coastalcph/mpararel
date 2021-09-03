@@ -4,60 +4,125 @@ from enum import Enum
 import pandas as pd
 from googletrans import Translator
 import numpy as np
+from easynmt import EasyNMT
+from logger_utils import get_logger
 
-BING_SUBSCRIPTION_KEY = "7d397449d9454dc995a0f9ab234fe430"
-BING_ENDPOINT = "https://api.cognitive.microsofttranslator.com/"
+LOG = get_logger(__name__)
 
 
 class Translator(Enum):
     GOOGLE = 'google'
     BING = 'bing'
+    OPUSMT = 'opus_mt'
+    MBART50_EN2MULTILINGUAL = 'mbart50_en2m'
+    M2M100_BIG = 'm2m100_big'
 
 
-TRANSLATOR_TO_CODES_HEADER = {
-    Translator.GOOGLE: "googletranslate",
-    Translator.BING: "BCP_47",
+class GoogleTranslator():
+    LANGUAGE_CODES_HEADER = "googletranslate"
+
+    def translate(self, text, from_lang, to_lang):
+        translator = Translator()
+        result = translator.translate(text, src=from_lang, dest=to_lang)
+        return result.text
+
+
+class BingTranslator():
+    LANGUAGE_CODES_HEADER = "bing_BCP_47"
+    BING_SUBSCRIPTION_KEY = "7d397449d9454dc995a0f9ab234fe430"
+    BING_ENDPOINT = "https://api.cognitive.microsofttranslator.com/"
+
+    def translate(self, text, from_lang, to_lang):
+        path = '/translate?api-version=3.0'
+        params = '&from={}&to={}'.format(from_lang, to_lang)
+        constructed_url = BingTranslator.BING_ENDPOINT + path + params
+        headers = {
+            'Ocp-Apim-Subscription-Key': BingTranslator.__name__BING_SUBSCRIPTION_KEY,
+            'Content-type': 'application/json',
+            'X-ClientTraceId': str(uuid.uuid4())
+        }
+        body = [{
+            'text': text
+        }]
+        request = requests.post(constructed_url, headers=headers, json=body)
+        response = request.json()
+        return response[0]["translations"][0]["text"]
+
+
+class EasyNmtTranslator():
+    AVAILABLE_MODELS = ['opus-mt', 'mbart50_en2m', 'm2m_100_1.2B']
+    model = None
+
+    def __init__(self, model_name: str):
+        if EasyNmtTranslator.model:
+            if model_name != self.model_name:
+                raise Exception(
+                    "Attempting to create a different instance of the EasyNMT "
+                    "singleton.")
+        if model_name not in self.AVAILABLE_MODELS:
+            raise Exception(
+                "Model name ({}) is wrong, should be one of: {}".format(
+                    model_name, self.AVAILABLE_MODELS))
+        self.model_name = model_name
+
+    def translate(self, text, from_lang, to_lang):
+        if not EasyNmtTranslator.model:
+            EasyNmtTranslator.model = EasyNMT(self.model_name)
+            LOG.info("{} from EasyNMT was loaded in the device: {}".format(
+                self.model_name, EasyNmtTranslator.model.device))
+        translations = EasyNmtTranslator.model.translate(
+            [text], source_lang=from_lang, target_lang=to_lang)
+        return translations[0]
+
+
+class OpusMT(EasyNmtTranslator):
+    """1200+ 1 to 1 language translation models (each model ~300 MB of size).
+
+    Documentation: https://github.com/Helsinki-NLP/Opus-MT
+    """
+    LANGUAGE_CODES_HEADER = "opus_mt"
+
+    def __init__(self):
+        super().__init__('opus-mt')
+
+
+class MBart50En2M(EasyNmtTranslator):
+    """Multilingual BART english to 50 other languages.
+
+    Documentation: https://github.com/pytorch/fairseq/tree/master/examples/multilingual
+    """
+    LANGUAGE_CODES_HEADER = "mbart_50"
+
+    def __init__(self):
+        super().__init__('mbart50_en2m')
+
+
+class M2M100_1_2BillionParams(EasyNmtTranslator):
+    """Multilingual BART many to many languages (100 different) with 1.2B params.
+
+    Documentation: https://github.com/pytorch/fairseq/tree/master/examples/m2m_100
+    """
+    LANGUAGE_CODES_HEADER = "m2m_100"
+
+    def __init__(self):
+        super().__init__('m2m_100_1.2B')
+
+
+TRANSLATOR_TO_OBJECT = {
+    Translator.GOOGLE: GoogleTranslator(),
+    Translator.BING: BingTranslator(),
+    Translator.OPUSMT: OpusMT(),
+    Translator.MBART50_EN2MULTILINGUAL: MBart50En2M(),
+    Translator.M2M100_BIG: M2M100_1_2BillionParams(),
 }
-
-
-def translate_with_google(text, from_lang, to_lang):
-    translator = Translator()
-    result = translator.translate(text, src=from_lang, dest=to_lang)
-    return result.text
-
-
-def translate_with_bing(text, from_lang, to_lang):
-    path = '/translate?api-version=3.0'
-    params = '&from={}&to={}'.format(from_lang, to_lang)
-    constructed_url = BING_ENDPOINT + path + params
-    headers = {
-        'Ocp-Apim-Subscription-Key': BING_SUBSCRIPTION_KEY,
-        'Content-type': 'application/json',
-        'X-ClientTraceId': str(uuid.uuid4())
-    }
-    body = [{
-        'text': text
-    }]
-    request = requests.post(constructed_url, headers=headers, json=body)
-    response = request.json()
-    return response[0]["translations"][0]["text"]
-
-
-def translate(translator: Translator, text: str, from_lang: str, to_lang: str) -> str:
-    if translator == Translator.GOOGLE:
-        return translate_with_google(text, from_lang, to_lang)
-    elif translator == Translator.BING:
-        return translate_with_bing(text, from_lang, to_lang)
-    else:
-        raise Exception("Unknown translator: {}, should be one of: {}".format(
-            translator, list(Translator)))
 
 
 def get_wiki_language_mapping(path: str, translator: Translator) -> dict:
     """Returns the language codes mapping between wikipedia and the translator."""
     language_mapping = pd.read_csv(path, sep='\t')
-    translator_codes = language_mapping[
-        TRANSLATOR_TO_CODES_HEADER[translator]].values
+    translator_codes_header = (TRANSLATOR_TO_OBJECT[translator]
+                               .LANGUAGE_CODES_HEADER)
+    translator_codes = language_mapping[translator_codes_header].values
     wiki_to_translator_code = {}
     for wiki_lang, translator_lang in zip(language_mapping.wiki.values, translator_codes):
         # Empty codes are read as NaN by pandas.

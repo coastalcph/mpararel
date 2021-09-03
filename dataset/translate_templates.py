@@ -4,7 +4,7 @@ import json
 import os
 import argparse
 from logger_utils import get_logger
-from translate_utils import Translator, translate, get_wiki_language_mapping
+from translate_utils import Translator, TRANSLATOR_TO_OBJECT, get_wiki_language_mapping
 from tqdm import tqdm
 import re
 
@@ -189,15 +189,16 @@ def get_templates(templates_filename):
 def translate_templates(templates: List[str], template_key: str,
                         wiki_lang_to_translator_lang: dict,
                         translator: Translator) -> List[str]:
-    """Translates each template to all the languages in lang2translateid."""
+    """Translates each template to all the languages in the dict values."""
+    translator = TRANSLATOR_TO_OBJECT[translator]
     translated_templates = {}
     for wikiid, translator_id in wiki_lang_to_translator_lang.items():
         LOG.info("Translating {}".format(wikiid))
         translated_templates[wikiid] = []
         for template in templates:
             try:
-                translated_text = translate(
-                    translator, template[template_key], from_lang="en",
+                translated_text = translator.translate(
+                    template[template_key], from_lang="en",
                     to_lang=translator_id)
                 translated_template = template.copy()
                 translated_template[template_key] = translated_text
@@ -230,8 +231,9 @@ def translate_folder(args):
         for wikiid, templates_translation in translate_templates(
                 templates, "pattern", lang2translateid, args.translator).items():
             wikiid_to_filename_to_templates[wikiid][filename] = templates_translation
+    LOG.info("Writing translated templates...")
     for wikiid, filename_to_templates in wikiid_to_filename_to_templates.items():
-        os.makedirs(os.path.join(args.output_folder, wikiid))
+        os.makedirs(os.path.join(args.output_folder, wikiid), exist_ok=True)
         for filename, templates in filename_to_templates.items():
             output_filename = os.path.join(
                 args.output_folder, wikiid, filename)
