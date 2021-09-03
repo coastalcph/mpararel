@@ -1,0 +1,12 @@
+{"pattern": "[X] is produced by [Y]."}
+{"pattern": "[X] is developed by [Y]."}
+{"pattern": "[X], developed by [Y]"}
+{"pattern": "[X], produced by [Y]"}
+{"pattern": "[X] is created by [Y]."}
+{"pattern": "[X], created by [Y]."}
+{"pattern": "[X] is a product of [Y]."}
+{"pattern": "[X], a product of [Y],"}
+{"pattern": "[X], a product created by [Y],"}
+{"pattern": "[X], a product developed by [Y],"}
+{"pattern": "[Y], the creator of the [X]"}
+{"pattern": "[Y] and its product [X]"}

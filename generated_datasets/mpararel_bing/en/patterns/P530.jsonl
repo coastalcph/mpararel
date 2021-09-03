@@ -1,0 +1,9 @@
+{"pattern": "[X] maintains diplomatic relations with [Y]."}
+{"pattern": "[Y] maintains diplomatic relations with [X]."}
+{"pattern": "[X] ties diplomatic relations with [Y]."}
+{"pattern": "[Y] ties diplomatic relations with [X]."}
+{"pattern": "[X] has diplomatic relations with [Y]."}
+{"pattern": "[Y] has diplomatic relations with [X]."}
+{"pattern": "[X], which has diplomatic relations with [Y]"}
+{"pattern": "[Y], which has diplomatic relations with [X]"}
+{"pattern": "[Y], which ties diplomatic relations with [X]"}

@@ -1,0 +1,14 @@
+{"pattern": "[X] is het kapitaal van [Y]."}
+{"pattern": "Het kapitaal van [Y] is [X]."}
+{"pattern": "De hoofdstad van [Y] is [X]."}
+{"pattern": "[X] is de hoofdstad van [Y]."}
+{"pattern": "Het kapitaal van [Y] [X]."}
+{"pattern": "De hoofdstad van [Y] [X]."}
+{"pattern": "Het kapitaal van [Y] is [X]."}
+{"pattern": "De hoofdstad van [Y] is [X]."}
+{"pattern": "[X], het kapitaal van [Y]."}
+{"pattern": "[X], de hoofdstad van [Y]."}
+{"pattern": "[X], dat is het kapitaal van [Y]."}
+{"pattern": "[X], dat is de hoofdstad van [Y]."}
+{"pattern": "[Y], die het kapitaal [X] heeft."}
+{"pattern": "[Y], die de hoofdstad [X] heeft."}

@@ -1,0 +1,12 @@
+{"pattern": "[X] toodab [Y]."}
+{"pattern": "[X] on v\u00e4lja t\u00f6\u00f6tanud [Y]."}
+{"pattern": "[X], v\u00e4lja t\u00f6\u00f6tanud [Y]"}
+{"pattern": "[X], toodetud [Y]"}
+{"pattern": "[X] on loonud [Y]."}
+{"pattern": "[X], loodud [Y]."}
+{"pattern": "[X] on toote [Y] toode."}
+{"pattern": "[X], toote [Y],"}
+{"pattern": "[X], toote, mille on loonud [Y],"}
+{"pattern": "[X], toote, mille on v\u00e4lja t\u00f6\u00f6tanud [Y],"}
+{"pattern": "[Y], [X] looja"}
+{"pattern": "[Y] ja selle toode [X]"}

@@ -1,0 +1,14 @@
+{"pattern": "Is \u00e9 pr\u00edomhchathair [X] [Y] ."}
+{"pattern": "Is \u00ed pr\u00edomhchathair [X] [Y]."}
+{"pattern": "Is \u00ed [Y] pr\u00edomhchathair [X]."}
+{"pattern": "Is \u00ed [Y] pr\u00edomhchathair [X]."}
+{"pattern": "Caipiteal [X], [Y]."}
+{"pattern": "Pr\u00edomhchathair [X], [Y]."}
+{"pattern": "Is \u00e9 caipiteal [X][Y]."}
+{"pattern": "Is \u00e9 [X]pr\u00edomhchathair [Y]."}
+{"pattern": "[Y], pr\u00edomhchathair [X]."}
+{"pattern": "[Y], pr\u00edomhchathair [X]."}
+{"pattern": "[Y], is \u00e9 sin pr\u00edomhchathair [X]."}
+{"pattern": "[Y], is \u00e9 sin pr\u00edomhchathair [X]."}
+{"pattern": "[X], a bhfuil an caipiteal [Y]."}
+{"pattern": "[X], a bhfuil an phr\u00edomhchathair [Y]."}

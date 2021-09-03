@@ -1,0 +1,16 @@
+{"pattern": "[X] je vyvinut [Y]."}
+{"pattern": "[X] byl vyvinut spole\u010dnost\u00ed [Y]."}
+{"pattern": "[X], vyvinuto spole\u010dnost\u00ed [Y]."}
+{"pattern": "[X] je vytvo\u0159eno [Y]"}
+{"pattern": "[X] byl vytvo\u0159en [Y]"}
+{"pattern": "[X], vytvo\u0159il [Y]."}
+{"pattern": "[X] je produktem produktu [Y]"}
+{"pattern": "[X] byl produktem [Y]"}
+{"pattern": "[X], produkt [Y]"}
+{"pattern": "[X], produkt vytvo\u0159en\u00fd spole\u010dnost\u00ed [Y]"}
+{"pattern": "[X], v\u00fdrobek vyr\u00e1b\u011bn\u00fd spole\u010dnost\u00ed [Y]"}
+{"pattern": "[X], v\u00fdrobek vyvinut\u00fd spole\u010dnost\u00ed [Y]"}
+{"pattern": "[Y], kter\u00fd vyvinul [X]"}
+{"pattern": "[Y], kter\u00fd vytvo\u0159il [X]"}
+{"pattern": "[Y], tv\u016frce [X]"}
+{"pattern": "[Y] a jeho produkt [X]"}
