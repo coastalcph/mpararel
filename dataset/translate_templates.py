@@ -13,6 +13,7 @@ LOG = get_logger(__name__)
 
 def fix_template(template, lang):
     # General rules.
+    template = template.lower()
     # Remove extra spaces and extra brackets, and capitalize.
     template = re.sub('\[+ ?[xX] ?\]+', '[X]', template)
     template = re.sub('\[+ ?[yY] ?\]+', '[Y]', template)

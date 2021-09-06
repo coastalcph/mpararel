@@ -50,6 +50,18 @@ cp -r ${WORKDIR}/data/multilingual/pararel_bing ${WORKDIR}/data/multilingual/par
 python translate_templates.py fix_translated_dirs \
 	--templates_folder ${WORKDIR}/data/multilingual/pararel_bing_cleaned
 
+cp -r ${WORKDIR}/data/multilingual/pararel_m2m100_big ${WORKDIR}/data/multilingual/pararel_m2m100_big_cleaned
+python translate_templates.py fix_translated_dirs \
+	--templates_folder ${WORKDIR}/data/multilingual/pararel_m2m100_big_cleaned
+
+cp -r ${WORKDIR}/data/multilingual/pararel_mbart50_en2m ${WORKDIR}/data/multilingual/pararel_mbart50_en2m_cleaned
+python translate_templates.py fix_translated_dirs \
+	--templates_folder ${WORKDIR}/data/multilingual/pararel_mbart50_en2m_cleaned
+
+cp -r ${WORKDIR}/data/multilingual/pararel_opus_mt ${WORKDIR}/data/multilingual/pararel_opus_mt_cleaned
+python translate_templates.py fix_translated_dirs \
+	--templates_folder ${WORKDIR}/data/multilingual/pararel_opus_mt_cleaned
+
 # Copy templates and relations to an output folder
 mkdir -p ${WORKDIR}/generated_datasets/mpararel_google
 python create_organized_output.py \
@@ -62,3 +74,21 @@ python create_organized_output.py \
     --infolder ${WORKDIR}/data/multilingual \
 	--templates_folder_name pararel_bing_cleaned \
     --outfolder ${WORKDIR}/generated_datasets/mpararel_bing
+
+mkdir -p ${WORKDIR}/generated_datasets/mpararel_m2m100_big
+python create_organized_output.py \
+    --infolder ${WORKDIR}/data/multilingual \
+	--templates_folder_name pararel_m2m100_big_cleaned \
+    --outfolder ${WORKDIR}/generated_datasets/mpararel_m2m100_big
+
+mkdir -p ${WORKDIR}/generated_datasets/mpararel_mbart50_en2m
+python create_organized_output.py \
+    --infolder ${WORKDIR}/data/multilingual \
+	--templates_folder_name pararel_mbart50_en2m_cleaned \
+    --outfolder ${WORKDIR}/generated_datasets/mpararel_mbart50_en2m
+
+mkdir -p ${WORKDIR}/generated_datasets/mpararel_opus_mt
+python create_organized_output.py \
+    --infolder ${WORKDIR}/data/multilingual \
+	--templates_folder_name pararel_opus_mt_cleaned \
+    --outfolder ${WORKDIR}/generated_datasets/mpararel_opus_mt

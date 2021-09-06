@@ -75,3 +75,5 @@ output/
 
 last_*
 .nfs*
+
+generated_datasets/**
