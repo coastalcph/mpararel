@@ -1,0 +1,4 @@
+{"pattern": "[X] virkar fyrir [Y].", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X], sem vinnur fyrir [Y].", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] er starfandi hj\u00e1 [Y].", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X], sem er starfandi hj\u00e1 [Y].", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

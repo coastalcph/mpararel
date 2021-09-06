@@ -1,0 +1,16 @@
+{"pattern": "[X] imeandaliwa na [y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] ilianzishwa na [y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X], iliyoandaliwa na [y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] imeundwa na [y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] iliundwa na [y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X], iliyoundwa na [y].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] ni bidhaa ya [y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] ilikuwa bidhaa ya [y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], bidhaa ya [y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], bidhaa iliyoundwa na [y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], bidhaa iliyozalishwa na [y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], bidhaa iliyotengenezwa na [y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], hiyo iliendelea [x]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y], ambayo iliunda [x]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y], muumba wa [x]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] na bidhaa zake [x]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

@@ -1,0 +1,17 @@
+{"pattern": "[X] yn cael ei gynrychioli gan label cerddoriaeth [y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] yn cael ei gynrychioli gan label record [y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] yn cael ei gynrychioli gan [y].", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], a gynrychiolir gan [y].", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], sy'n cael ei gynrychioli gan [y].", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Y label cerddoriaeth sy'n cynrychioli [x] yw [y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Y label cerddoriaeth sy'n cynrychioli [x] yw [y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] 's Label yw [y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] Label record yw [y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] Cwmni recordiau yw [y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] 's Label cerddoriaeth yw [y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] wedi'i gofnodi ar gyfer [y].", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] Label: [Y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], a ryddhawyd gan [y].", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] artist recordio [x].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] artistiaid fel [x].", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] artistiaid gan gynnwys [x].", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

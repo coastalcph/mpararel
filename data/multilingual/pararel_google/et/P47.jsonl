@@ -1,0 +1,9 @@
+{"pattern": "[X] Aktsiad [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] Piirid [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] jagab piiri [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] jagab oma piiri [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] jagab \u00fchist piiri [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] piirid [x].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] jagab piiri [x].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] jagab oma piiri [x].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] jagab \u00fchist piiri [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

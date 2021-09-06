@@ -1,0 +1,18 @@
+{"pattern": "[yeqova] yaz\u0131lm\u0131\u015fd\u0131.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[yeqova] yaz\u0131lm\u0131\u015f [yeqova].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[ fayl] [yeqova] dilind\u0259 yaz\u0131l\u0131b.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[yeqova] dilind\u0259 yaz\u0131lm\u0131\u015fd\u0131r.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[y\u0259hudi] yaz\u0131 [yeqova] dilind\u0259 yaz\u0131l\u0131b.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[yeqovan\u0131n dili] [y\u0259hyan\u0131n] dilidir.", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[sadin] dili [y\u0259hudi] idi.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[y\u0259hudi] [-?]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[y\u0259hudi] [-y\u0259hudi] [-y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[y\u0259hudi] [-?]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[y\u0259hudi] [-?]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[y\u0259hudi] [-?]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[y\u0259hudi] [-?]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[yeqova] [yeqovan\u0131n] dilin\u0259 malikdir.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[yeqovan\u0131n] dili [yeqova] idi.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] [-v]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[se\u00e7\u0259n\u0259k...] dildir.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[ fayl] dilinin dili idi.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

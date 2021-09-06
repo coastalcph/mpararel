@@ -1,0 +1,11 @@
+{"pattern": "[X] s\u0101kotn\u0113ji tika p\u0101rraid\u012bts uz [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] ir s\u0101kums uz [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "t\u0101tad tas ir debesis [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "t\u0101tad vi\u0146\u0161 ir devis [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] ir par\u0101d\u012bjies uz [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "t\u0101 ir pirm\u0101 [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "atbr\u012bvo\u0161ana no [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] tika atbr\u012bvots uz [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "atbr\u012bvots no [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] ir pirmizr\u0101de uz [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] ir pirm\u0101s uz [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

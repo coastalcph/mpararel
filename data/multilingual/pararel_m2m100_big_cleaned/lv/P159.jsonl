@@ -1,0 +1,10 @@
+{"pattern": "Galven\u0101 vieta [X] ir [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Galven\u0101 m\u012btne [X] ir [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] galven\u0101 m\u012btne atrodas [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] ietver galveno m\u012btni [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] ir galven\u0101 m\u012btne [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[X] ir t\u0101s galven\u0101 m\u012btne", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] galven\u0101s m\u012btnes atrodas [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], kuru galven\u0101s m\u012btnes atrodas [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "m\u0101jai ir j\u0101b\u016bt [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] ir balst\u012bts uz [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

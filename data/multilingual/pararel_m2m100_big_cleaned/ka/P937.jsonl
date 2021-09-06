@@ -1,0 +1,5 @@
+{"pattern": "[X] \u10e3\u10d9\u10d5\u10d4 \u10db\u10e3\u10e8\u10d0\u10dd\u10d1\u10e1 [Y].", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] \u10d8\u10de\u10dd\u10d5\u10d4\u10d1\u10e1 \u10db\u10e3\u10e8\u10d0\u10dd\u10d1\u10d0 [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] \u10e3\u10d9\u10d5\u10d4 \u10db\u10e3\u10e8\u10d0\u10dd\u10d1\u10e1 [Y]", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] \u10db\u10e3\u10e8\u10d0\u10dd\u10d1\u10e1 \u10d3\u10d0 [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] \u10d0\u10ec\u10d0\u10e0\u10db\u10dd\u10d4\u10d1\u10e1 \u10db\u10e3\u10e8\u10d0\u10dd\u10d1\u10d0 [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}

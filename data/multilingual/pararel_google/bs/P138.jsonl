@@ -1,0 +1,20 @@
+{"pattern": "[X] je nazvan po [y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X] je dobio ime po [y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X] je imenovan za [y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] je imenovano za [y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], koji je nazvan po [y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X], koji je dobio ime po [y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X], koji se nazvan za [y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X], koji je bio imenovan za [y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], imenovano za [y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[X], nazvan po [y].", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] je imenovan u [y] \u010dasti.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] je imenovan u \u010dasti [y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], imenovan u [y] \u010dasti.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], koji je imenovan u \u010dasti [y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], koji je imenovan u \u010dasti [y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] se zove nakon [y].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X] je pozvan nakon [y].", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[X], koji se zove nakon [y].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X], koji se zvao nakon [y].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X], pozvan nakon [y].", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

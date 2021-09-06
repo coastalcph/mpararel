@@ -1,0 +1,6 @@
+{"pattern": "[X] speel in [Y] posisie.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] speel in die posisie van [Y].", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X], wat in [Y] posisie speel.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "Jy speel soos [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "Soos die spel [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[X] speel soos [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

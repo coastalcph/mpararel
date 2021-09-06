@@ -1,0 +1,14 @@
+{"pattern": "[X] perustettiin [y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], perustettu [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], joka perustettiin [y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], joka aloitettiin [Y].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] alkoi [y].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] aloitettiin [y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X], joka on luotu [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], luotu [y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] luotiin [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], joka on per\u00e4isin [y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] on per\u00e4isin [y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] muodostettu [y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] muodostettiin [y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X], joka muodostettiin [y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

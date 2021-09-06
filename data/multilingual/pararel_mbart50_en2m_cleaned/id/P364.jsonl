@@ -1,0 +1,6 @@
+{"pattern": "Bahasa asli dari [X] adalah [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Bahasa asli dari [X] adalah [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "bahasa dari x adalah y.", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Bahasa [X] adalah [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] adalah bahasa [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "y adalah bahasa dari x.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

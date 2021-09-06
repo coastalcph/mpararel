@@ -1,0 +1,6 @@
+{"pattern": "\"\" x \"\" -\u10d8\u10e1 \u10e1\u10d0\u10ec\u10e7\u10d8\u10e1\u10d8 \u10d4\u10dc\u10d8\u10e1\u10d0 \"\" y \"\".", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "\"\" x \"\" -\u10d8\u10e1 \u10e1\u10d0\u10ec\u10e7\u10d8\u10e1\u10d8 \u10d4\u10dc\u10d0 \u10d8\u10e7\u10dd \"\" y \"\".", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "\u10d4\u10dc\u10d8\u10e1 [X] \u10d0\u10e0\u10d8\u10e1 [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "\u10d4\u10dc\u10d8\u10e1 [X] \u10d8\u10e7\u10dd [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "y \u10d0\u10e0\u10d8\u10e1 x-\u10d8\u10e1 \u10d4\u10dc\u10d0.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "y \u10d8\u10e7\u10dd x-\u10d8\u10e1 \u10d4\u10dc\u10d0.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

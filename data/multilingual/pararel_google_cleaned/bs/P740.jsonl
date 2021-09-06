@@ -1,0 +1,14 @@
+{"pattern": "[X] je osnovan u [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], osnovan u [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] to je osnovano u [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], to je zapo\u010delo u [Y].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] po\u010deo u [Y].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] je zapo\u010deo u [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X], to je stvoreno u [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], kreiran u [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] je kreiran u [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], koji je nastao u [Y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] nastao u [Y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] formirano u [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] je formiran u [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X], to je formirano u [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

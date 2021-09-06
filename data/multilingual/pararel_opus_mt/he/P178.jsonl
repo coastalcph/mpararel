@@ -1,0 +1,16 @@
+{"pattern": "[X] \u05e4\u05d5\u05ea\u05d7 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] \u05e4\u05d5\u05ea\u05d7 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X], \u05e4\u05d5\u05ea\u05d7 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] \u05e0\u05d5\u05e6\u05e8 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] \u05e0\u05d5\u05e6\u05e8 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X], \u05e0\u05d5\u05e6\u05e8 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] \u05d4\u05d5\u05d0 \u05ea\u05d5\u05e6\u05e8 \u05e9\u05dc [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] \u05d4\u05d9\u05d4 \u05ea\u05d5\u05e6\u05e8 \u05e9\u05dc [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], \u05ea\u05d5\u05e6\u05e8 \u05e9\u05dc [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], \u05de\u05d5\u05e6\u05e8 \u05e9\u05e0\u05d5\u05e6\u05e8 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], \u05de\u05d5\u05e6\u05e8 \u05de\u05d9\u05d5\u05e6\u05e8 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], \u05de\u05d5\u05e6\u05e8 \u05e9\u05e4\u05d5\u05ea\u05d7 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], \u05e9\u05e4\u05d9\u05ea\u05d7 [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y], \u05e9\u05d9\u05e6\u05e8 [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y], \u05d4\u05d9\u05d5\u05e6\u05e8 \u05e9\u05dc [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] and its product [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

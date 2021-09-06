@@ -1,0 +1,18 @@
+{"pattern": "[X] te ekri nan [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] ekri nan [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] te ekri nan lang [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] ekri nan lang [Y] la.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], ekri nan lang [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Lang [X] se [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Lang [X] te [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] se yon [Y]-lang travay.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] se yon [Y]-lang travay.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], yon [Y]-lang travay.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], yon [Y]-lang travay.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] te yon [Y]-lang travay.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] te yon [Y]-lang travay.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] se yon travay nan lang [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] te yon travay nan lang [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Kreyasyon [Y]-lang [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] se lang [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] te lang [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

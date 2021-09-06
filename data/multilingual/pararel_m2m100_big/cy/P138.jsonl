@@ -1,0 +1,20 @@
+{"pattern": "Yn \u00f4l i'r enw Y.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "Ydych chi'n cael ei adnabod ar \u00f4l [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "Mae'n cael ei adnabod ar gyfer y [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "Mae'n cael ei adnabod ar gyfer y [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "Yna, mae'r enw wedi'i gymryd yn \u00f4l.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X], a oedd yn cael ei nawr ar \u00f4l [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "Yma mae'r enw yn cael ei adnabod.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X], sy'n cael ei adnabod i [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "Yma'r enw Yma'r enw Yma'", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "Yn \u00f4l i'r enw Y.", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] yn cael ei adnabod yn eithriad [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] yn cael ei adnabod yn eithriad y [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], a wnaed yn enw [Y] yn eithriad.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], a ddefnyddir yn y enw [Y] yn eithriad.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], a wnaedwyd yn enw [Y] yn eithriad.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "Ydych chi'n benderfynu'n \u00f4l i chi.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Ydych chi'n chwilio ar \u00f4l i'w chwilio.", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "Ydych chi'n benderfynu ar \u00f4l i'w chwilio.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Ydych chi'n benderfynu ar \u00f4l i'w chwilio.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "Ydych chi'n ymgorffori ar \u00f4l.", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

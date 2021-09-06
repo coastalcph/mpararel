@@ -1,0 +1,9 @@
+{"pattern": "[X] l\u00e0 [y] c\u00f4ng d\u00e2n.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[X] l\u00e0 m\u1ed9t c\u00f4ng d\u00e2n c\u1ee7a [y].", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X], m\u1ed9t c\u00f4ng d\u00e2n c\u1ee7a [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X], m\u1ed9t c\u00f4ng d\u00e2n c\u1ee7a [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X] Gi\u1eef quy\u1ec1n c\u00f4ng d\u00e2n c\u1ee7a [Y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] c\u00f3 quy\u1ec1n c\u00f4ng d\u00e2n c\u1ee7a [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X], ng\u01b0\u1eddi c\u00f3 quy\u1ec1n c\u00f4ng d\u00e2n c\u1ee7a [Y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X], ng\u01b0\u1eddi c\u00f3 quy\u1ec1n c\u00f4ng d\u00e2n c\u1ee7a [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "L\u00e0 m\u1ed9t c\u00f4ng d\u00e2n c\u1ee7a [Y], [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

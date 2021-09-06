@@ -1,0 +1,9 @@
+{"pattern": "[X] d\u0259 [Y] vatanda\u015f\u0131.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[X] onun vatanda\u015f\u0131d\u0131r.", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X], \"\" y \"\" n\u0131n v\u0259t\u0259nda\u015f\u0131.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X], onun vatanda\u015f\u0131d\u0131r.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X] n\u0131n vatanda\u015fl\u0131\u011f\u0131 [Y]-dir.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] n\u0131n da y-nin v\u0259t\u0259nda\u015fl\u0131\u011f\u0131 var.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "v\u0259 ya y-nin v\u0259t\u0259nda\u015fl\u0131\u011f\u0131 olan [X].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X], onun vatanda\u015fl\u0131\u011f\u0131 y-dir.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "h\u0259m d\u0259", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

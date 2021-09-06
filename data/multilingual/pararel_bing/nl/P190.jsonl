@@ -1,0 +1,4 @@
+{"pattern": "[X] en [Y] zijn tweelingsteden.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] en [X] zijn tweelingsteden.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] is een tweelingstad van [X].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] is een tweelingstad van [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

@@ -1,0 +1,18 @@
+{"pattern": "ary salmona niteraka an'i boaza tamin-drahaba ; ary boaza niteraka an'i obeda tamin-drota ;", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "ao anaty fitafiana vita amin'ny lamba.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "ary salmona niteraka an'i boaza tamin-drahaba ; ary boaza niteraka an'i obeda tamin-drota ;", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "ao anaty fitafiana vita amin'ny lamba.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "ao anaty fitafiana vita amin'ny lamba.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Ny tenin'ny [X] dia ny [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ny tenin'i [X] dia ny [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "ny fiteny x dia fiteny [Y] asa.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "ny fiteny x dia fiteny [Y] asa.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "ao anaty fitafiana vita amin'ny lamba.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "ao anaty fitafiana vita amin'ny lamba.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "ny fiteny x dia fiteny [Y] asa.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "ny fiteny x dia fiteny [Y] asa.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] dia asa amin'ny fiteny [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] dia asa tamin'ny fiteny [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "ao anaty fitafiana vita amin'ny lamba.", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "ny fitenin'ny fiteny dia ny fitenin'ny fiteny.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "ny fitenin'ny fitenin'ny fiteny dia ny fitenin'ny fitenin'ny fitenin'ny fitenin'ny fiteny.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

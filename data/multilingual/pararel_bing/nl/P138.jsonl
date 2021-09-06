@@ -1,0 +1,20 @@
+{"pattern": "[X] is vernoemd naar [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X] is vernoemd naar [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X] is vernoemd naar [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] is genoemd naar [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], genoemd naar [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X], genoemd naar [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X], die is vernoemd naar [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X], genoemd naar [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], genoemd naar [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[X], genoemd naar [Y].", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] is genoemd ter ere van [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] werd genoemd ter ere van [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], genoemd ter ere van [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], die ter ere van [Y] is genoemd.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], die ter ere van [Y] werd genoemd.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] wordt genoemd naar [Y].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X] werd naar [Y] geroepen.", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[X], die naar [Y] wordt genoemd.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X], die naar [Y] werd geroepen.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X], genoemd naar [Y].", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

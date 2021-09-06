@@ -1,0 +1,20 @@
+{"pattern": "[X] jest nazwany po [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X] zosta\u0142 nazwany po [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X] jest nazwany [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] zosta\u0142 nazwany [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], kt\u00f3ry jest nazwany po [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X], kt\u00f3ry zosta\u0142 nazwany po [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X], kt\u00f3ry jest nazwany [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X], kt\u00f3ry zosta\u0142 nazwany [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], nazwany po [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[X], nazwany po [Y].", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] jest nazwany na cze\u015b\u0107 [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] zosta\u0142 nazwany na cze\u015b\u0107 [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], nazwany na cze\u015b\u0107 [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], kt\u00f3ry jest nazwany na cze\u015b\u0107 [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], kt\u00f3ry zosta\u0142 nazwany na cze\u015b\u0107 [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] jest nazywany po [Y].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X] zosta\u0142 nazwany po [Y].", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[X], kt\u00f3ry jest nazywany po [Y].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X], kt\u00f3ry zosta\u0142 nazwany po [Y].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X], nazwany po [Y].", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

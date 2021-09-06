@@ -1,0 +1,20 @@
+{"pattern": "[X] es denomina despr\u00e9s de [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X] va ser anomenat despr\u00e9s de [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X] \u00e9s el nom de [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] va ser anomenat per [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], que es denomina despr\u00e9s de [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X], que va ser anomenat despr\u00e9s de [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X], que \u00e9s el nom de [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X], que va ser anomenat per [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "el seu nom \u00e9s [X].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[X], anomenat despr\u00e9s de [Y]", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] \u00e9s el nom en honor de [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] va ser nomenat en honor de [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], anomenat en honor de [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], que es denomina en honor de [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], que va ser anomenat en honor de [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "despr\u00e9s de la crida,", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "despr\u00e9s d\u2019aix\u00f2, es va invocar", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[X], el que \u00e9s cridat despr\u00e9s de [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X], que va ser cridat despr\u00e9s de [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "despr\u00e9s de la convocat\u00f2ria,", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

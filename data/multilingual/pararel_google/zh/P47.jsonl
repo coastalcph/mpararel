@@ -1,0 +1,9 @@
+{"pattern": "[x]\u4e0e[Y]\u5171\u4eab\u8fb9\u754c\u3002", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[x]\u4e0e[Y]\u8fb9\u754c\u3002", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[x]\u4e0e[Y]\u5171\u4eab\u8fb9\u754c\u3002", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[x]\u4e0e[Y]\u5171\u4eab\u5176\u8fb9\u754c\u3002", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[x]\u4e0e[Y]\u5171\u4eab\u4e00\u4e2a\u5e38\u89c1\u7684\u8fb9\u754c\u3002", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[y]\u4e0e[x]\u8fb9\u754c\u3002", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[y]\u4e0e[x]\u5171\u4eab\u8fb9\u754c\u3002", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y]\u4e0e[x]\u5171\u4eab\u5176\u8fb9\u754c\u3002", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y]\u4e0e[x]\u5171\u4eab\u4e00\u4e2a\u5e38\u89c1\u7684\u8fb9\u754c\u3002", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

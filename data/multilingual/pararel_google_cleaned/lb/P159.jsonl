@@ -1,0 +1,10 @@
+{"pattern": "de s\u00ebtz vun [X] ass an [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "de s\u00ebtz vun [X] ass an [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "de s\u00ebtz vun [X] ass an [Y] l\u00e4it.", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] enth\u00e4lt de s\u00ebtz vun [X].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] ass s\u00ebtzung an [Y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] huet de s\u00ebtz vun [X].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] 's\u00ebtz sinn an [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], deem s\u00e4i s\u00ebtz an [Y] sinn.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] ass doheem fir [X].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] bas\u00e9iert op [Y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

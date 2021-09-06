@@ -1,0 +1,14 @@
+{"pattern": "Lo capitalisme de [X] es [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "La capitala de [X] es [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "Es la capitala de [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "La vila es la capitala de [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] es la capitala de [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] es la capitala de la vila, [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "Lo capitalisme es [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "La capitala de [X] es [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "Lo capitalisme de [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "La vila es la capitala de [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "Aqu\u00f2 es la capitala de [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Aqu\u00f2 es la capitala de [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], qu\u2019a lo capital [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], qu\u2019a la capitala [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

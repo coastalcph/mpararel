@@ -1,0 +1,4 @@
+{"pattern": "[X] [y] oynuyor.", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[Y] Oyuncu [X]", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "[X] [y] oynat\u0131r.", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] bir [Y] oyuncusudur.", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

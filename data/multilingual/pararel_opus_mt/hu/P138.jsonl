@@ -1,0 +1,20 @@
+{"pattern": "[X] ut\u00e1n [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X] ut\u00e1n nevezt\u00e9k el [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X] neve [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] neve [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], amelyet [Y] ut\u00e1n neveztek el.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X], amit [Y] ut\u00e1n neveztek el.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X], amely az [Y] n\u00e9v alatt van elnevezve.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X], amit Y-nek neveztek el.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], a neve [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[X], elnevezve [Y].", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] neve [Y] becs\u00fclet\u00e9ben.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] neve [Y] Becs\u00fclet\u00e9ben.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], a neve [Y] Becs\u00fclet\u00e9ben.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], ami az [Y] becs\u00fclet\u00e9ben van elnevezve.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], ami az [Y] becs\u00fclet\u00e9ben volt elnevezve.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] ut\u00e1n h\u00edvj\u00e1k [Y].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X] ut\u00e1n h\u00edvt\u00e1k [Y].", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[X], ami ut\u00e1n [Y].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X], amit [Y] ut\u00e1n h\u00edvtak.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X], ut\u00e1na h\u00edvott [Y].", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

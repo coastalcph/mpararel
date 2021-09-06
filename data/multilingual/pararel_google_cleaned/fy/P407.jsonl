@@ -1,0 +1,18 @@
+{"pattern": "[X] waard skreaun yn [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] is skreaun yn [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] waard skreaun yn 'e [Y] taal.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] is skreaun yn 'e [Y] taal.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], skreaun yn 'e [Y] taal.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "De taal fan [X] is [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "De taal fan [X] wie [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] is in [Y] -language wurk.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] is in [Y] -language wurk.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], A [Y] -Language wurk.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], an [Y] -Language wurk.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] wie in [Y] -language wurk.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] wie in [Y] -Language wurk.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] is in wurk yn 'e [Y] taal.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] wie in wurk yn 'e [Y] taal.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "de [Y] -language skepping [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] is de taal fan [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] wie de taal fan [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

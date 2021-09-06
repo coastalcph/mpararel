@@ -1,0 +1,14 @@
+{"pattern": "[X] fue fundada en [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], fundada en [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] que se fund\u00f3 en [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], que comenz\u00f3 en [Y].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] comenz\u00f3 en [Y].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] fue iniciado en [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X], que fue creado en [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], creado en [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] fue creado en [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], que origin\u00f3 en [Y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] originado en [Y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] se forma en [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] se form\u00f3 en [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X], que se form\u00f3 en [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

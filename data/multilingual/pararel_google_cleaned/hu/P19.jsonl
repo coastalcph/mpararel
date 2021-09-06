@@ -1,0 +1,13 @@
+{"pattern": "[X] [Y] -ban sz\u00fcletett.", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] eredetileg [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] eredetileg [Y] volt.", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] az [Y] nat\u00edv.", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] nat\u00edv volt [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] az [Y] -b\u00f3l sz\u00e1rmazik.", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] az [Y] -b\u0151l sz\u00e1rmazik.", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] volt egy [Y] -born szem\u00e9ly.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] volt egy [Y] -born szem\u00e9ly.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] egy [Y] -born ember.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] egy [Y] -born szem\u00e9ly.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], egy [Y] -born ember.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], egy [Y] -born ember.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

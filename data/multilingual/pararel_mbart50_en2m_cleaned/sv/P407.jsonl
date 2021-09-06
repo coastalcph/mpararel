@@ -1,0 +1,18 @@
+{"pattern": "[X] skrevs i [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] \u00e4r skrivet i [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] skrevs i [Y] spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] \u00e4r skrivet i [Y] spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] skrivet i [Y] spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X]s spr\u00e5k \u00e4r [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X]s spr\u00e5k var [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "x \u00e4r ett [Y]-spr\u00e5ksverk.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "x \u00e4r ett [Y]-spr\u00e5ksverk.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], ett [Y]-spr\u00e5ksverk.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], ett [Y]-spr\u00e5ksverk.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "x var ett [Y]-spr\u00e5ksverk.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "x var ett [Y]-spr\u00e5ksverk.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] \u00e4r ett verk i [Y] spr\u00e5ket.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] var ett verk i [Y] spr\u00e5ket.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Den [Y]-spr\u00e5ks skapande [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "y \u00e4r spr\u00e5ket f\u00f6r x.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "y var spr\u00e5ket f\u00f6r x.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

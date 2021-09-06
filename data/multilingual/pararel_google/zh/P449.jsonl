@@ -1,0 +1,11 @@
+{"pattern": "[x]\u6700\u521d\u64ad\u51fa[Y]\u3002", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[x]\u662f\u9996\u6b21\u4eae\u76f8[y]\u3002", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y]\u662f\u9996\u6b21\u4eae\u76f8[x]\u3002", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[y]\u9996\u6b21\u4eae\u76f8[x]\u3002", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[x]\u5728[Y]\u4e0a\u9996\u6b21\u4eae\u76f8\u3002", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[y]\u9996\u6b21\u4eae\u76f8[x]\u3002", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[y]\u91ca\u653e[x]\u3002", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[x]\u5728[Y]\u4e0a\u91ca\u653e\u3002", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y]\u91ca\u653e[x]\u3002", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[x]\u9996\u6620[Y]\u3002", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[x]\u9996\u6620[Y]\u3002", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

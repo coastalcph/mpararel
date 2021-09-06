@@ -1,0 +1,13 @@
+{"pattern": "[X] nggunakake ing lapangan saka [Y]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] wis khusus ing [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "Tiyang-tiyangipun ingkang gadhah wonten ing ayat-ayat Al-Qur\u2019an.", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Tiyang-tiyangipun ilmu punika nyebataken.", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Ing ngisor iki, iku ilmu-ilmu sing digunakake.", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Ing ngisor iki, ing ngisor iki iku [X] [Y] [Y]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Ing ngisor iki, ing ngisor iki iku [X] [Y].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "Ing ngisor iki, ing ngisor iki, ing ngisor X, ing ngisor X, ing ngisor X, ing ngisor X, ing ngisor X.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] ing wilayah kerja iku [Y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X] kang domain karya iku [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X] ing domain saka aktivitas iku [Y].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "Tiyang-tayangipun ilmu punika nyebataken.", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] nggunakake ing area saka [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

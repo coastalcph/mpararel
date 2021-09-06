@@ -1,0 +1,9 @@
+{"pattern": "[X] \u70ba [Y] \u09a8\u09be\u0997\u09b0\u09bf\u0995.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[X] \u70ba [Y] \u098f\u09b0 \u09a8\u09be\u0997\u09b0\u09bf\u0995", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X], [Y] \u098f\u09b0 \u09a8\u09be\u0997\u09b0\u09bf\u0995", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X], \u10e0\u10dd\u10db\u10d4\u10da\u10d8\u10ea [Y] \u098f\u09b0 \u09a8\u09be\u0997\u09b0\u09bf\u0995", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X]\u0aa8\u0acb \u0928\u093e\u0917\u0930\u093f\u0915\u0924\u093e \u10d0\u10e5\u10d5\u10e1 [Y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X]\u0aa8\u0acb \u0928\u093e\u0917\u0930\u093f\u0915\u0924\u093e \u10d0\u10e5\u10d5\u10e1 [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X], \u09af\u09be\u09b0 \u0928\u093e\u0917\u0930\u093f\u0915\u0924\u093e [Y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X], \u09af\u09be\u09b0 \u0928\u093e\u0917\u0930\u093f\u0915\u0924\u093e [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[Y], [X]\u0aa8\u0abe \u09a8\u09be\u0997\u09b0\u09bf\u0995 \u09b9\u09bf\u09b8\u09be\u09ac\u09c7", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

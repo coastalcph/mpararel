@@ -1,0 +1,14 @@
+{"pattern": "[X] \u062f\u0631 [Y] \u062a\u0627\u0633\u06cc\u0633 \u0634\u062f.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X]\u060c \u062f\u0631 [Y] \u062a\u0627\u0633\u06cc\u0633 \u0634\u062f.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[x] \u06a9\u0647 \u062f\u0631 [y] \u062a\u0627\u0633\u06cc\u0633 \u0634\u062f.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X]\u060c \u06a9\u0647 \u062f\u0631 [Y] \u0622\u063a\u0627\u0632 \u0634\u062f.", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[x] \u0622\u063a\u0627\u0632 \u0634\u062f\u0647 \u062f\u0631 [y].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[x] \u062f\u0631 [y] \u0622\u063a\u0627\u0632 \u0634\u062f", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[x]\u060c \u06a9\u0647 \u062f\u0631 [y] \u0627\u06cc\u062c\u0627\u062f \u0634\u062f.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[x]\u060c \u0627\u06cc\u062c\u0627\u062f \u0634\u062f\u0647 \u062f\u0631 [y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[x] \u062f\u0631 [y] \u0627\u06cc\u062c\u0627\u062f \u0634\u062f.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[x]\u060c \u06a9\u0647 \u062f\u0631 [y] \u0622\u063a\u0627\u0632 \u0634\u062f.", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] \u062f\u0631 [Y] \u0622\u063a\u0627\u0632 \u0634\u062f.", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[x] \u062a\u0634\u06a9\u06cc\u0644 \u0634\u062f\u0647 \u062f\u0631 [y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] \u062f\u0631 [Y] \u0634\u06a9\u0644 \u06af\u0631\u0641\u062a.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X]\u060c \u06a9\u0647 \u062f\u0631 [Y] \u0634\u06a9\u0644 \u06af\u0631\u0641\u062a.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

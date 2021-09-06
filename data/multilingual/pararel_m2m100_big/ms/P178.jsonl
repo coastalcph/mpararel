@@ -1,0 +1,16 @@
+{"pattern": "[X] telah dibangunkan oleh [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] telah dibangunkan oleh [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X], yang telah dibina oleh [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "yang telah dicipta oleh Allah SWT.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] telah diciptakan oleh [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "yang telah dicipta oleh Allah.", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] ialah produk daripada [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] merupakan produk daripada [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], merupakan produk daripada [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], produk yang dicipta oleh [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], produk yang dihasilkan oleh [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], sebuah produk yang dibangunkan oleh [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "yang telah dibangunkan [x]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "yang telah diciptakan oleh Allah.", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "Oleh yang demikian, pencipta", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] dan produknya [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

@@ -1,0 +1,6 @@
+{"pattern": "[X] gen pozisyon nan [y].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X], ki moun ki gen pozisyon nan [y].", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X], ki gen pozisyon se sa ki nan [y].", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] Pozisyon an se [Y].", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X], ki moun ki kenbe pozisyon nan [y].", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] kenbe pozisyon nan [Y].", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

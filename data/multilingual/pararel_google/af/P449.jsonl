@@ -1,0 +1,11 @@
+{"pattern": "[X] is oorspronklik op [Y] uitgesaai.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] is om op [Y] te debuut.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] is om [x] te debuut.", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debuteer [x].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debuteer op [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "die [Y] debuut van [x].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "die [Y] vrystelling van [x].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] is op [Y] vrygelaat.", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] vrygestel [x].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] Premiered op [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Premieres op [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

@@ -1,0 +1,6 @@
+{"pattern": "[X] musiqa tinglaydi.", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X], u [y] musiqa o'ynaydi", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] o'ynaydi [Y].", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X], u [y] o'ynaydi.", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[Y] musiqachilar [x].", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "[Y] kabi musiqachilar [x].", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

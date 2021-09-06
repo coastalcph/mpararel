@@ -1,0 +1,4 @@
+{"pattern": "[X] dan [Y] adalah bandar-bandar kembar.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] dan [x] adalah bandar-bandar kembar.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] adalah bandar berkembar [X].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] adalah bandar berkembar [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

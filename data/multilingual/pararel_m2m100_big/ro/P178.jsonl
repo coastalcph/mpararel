@@ -1,0 +1,16 @@
+{"pattern": "[X] este dezvoltat de c\u0103tre [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] a fost dezvoltat de [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X], dezvoltat de c\u0103tre [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "A fost creat de c\u0103tre X.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "El a fost creat de X.", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "Crea\u0163ia lui X.", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] este un produs al [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] a fost un produs al [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], un produs al lui [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], un produs creat de [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], un produs fabricat de [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], un produs dezvoltat de [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "care s-a dezvoltat \u00een", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "El este Cel ce a creat,", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "El este Creatorul [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] \u0219i produsul s\u0103u [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

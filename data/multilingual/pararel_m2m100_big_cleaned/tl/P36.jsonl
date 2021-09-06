@@ -1,0 +1,14 @@
+{"pattern": "Ang kabuuan ng [X] ay [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Ang kabisera ng kabisera ay ang [X] [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] ay ang kabisera ng [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "ito ay ang pinakamalaking lungsod ng [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] ang kapangyarihan ng [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] ang kabisera ng lungsod, [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] ang kapital ay [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] ang kabisera ng lungsod ay [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], ang kabisera ng [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], ang kabisera ng [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "ito ay ang pangunahing katangian ng [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "ito ay ang pinakamataas na lungsod.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], na may kapangyarihan ng kapangyarihan [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], kung saan ay may kabisera [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "La lingua madre di [x] \u00e8 [y].", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "La lingua madre di [x] \u00e8 [y].", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] \u00e8 la lingua madre [x].", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] \u00e8 [x] la lingua materna.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

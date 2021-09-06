@@ -1,0 +1,11 @@
+{"pattern": "x je po poklicu y.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "x je po poklicu y.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] je po treningu [Y].", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] je po u\u010denju [Y].", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] deluje kot [Y].", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], ki deluje kot [Y].", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "njegova slu\u017eba je [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "povol\u00e1n\u00ed [X] je [Y].", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "poklic x je y.", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "poklic x je y.", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "povol\u00e1n\u00ed [X] je [Y].", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

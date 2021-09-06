@@ -1,0 +1,14 @@
+{"pattern": "[X] natukod sa [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], nga gitukod sa [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] nga natukod diha [kang Jehova].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], kana gisugdan diha [kang Jehova].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] nagsugod sa [Y].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] gisugdan diha [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X], kana gilalang diha [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], nga gilalang sa [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] gilalang diha [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], nga naggikan [kang Jehova].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] naggikan sa [Y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] nga naporma diha [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] giporma diha [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X], kana naporma diha [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

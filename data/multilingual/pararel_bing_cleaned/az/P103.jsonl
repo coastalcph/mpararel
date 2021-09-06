@@ -1,0 +1,4 @@
+{"pattern": "[X] dilinin ana dili [Y]dir.", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X]-in ana dili [Y]dir.", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] \u2014 [X]-in ana dili.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] \u2013 [X]-nin ana dilidir.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

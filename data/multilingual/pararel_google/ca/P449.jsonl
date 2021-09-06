@@ -1,0 +1,11 @@
+{"pattern": "[X] es va emetre originalment a [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] \u00e9s debutar a [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] \u00e9s debutar [x].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] va debutar [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] va debutar a [y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "el debut [y] de [x].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "el llan\u00e7ament [y] de [x].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] va ser llan\u00e7at a [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] alliberat [x].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] es va estrenar a [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] estrena a [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

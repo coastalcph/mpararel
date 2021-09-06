@@ -1,0 +1,6 @@
+{"pattern": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u043d\u0438 \u0458\u0435\u0437\u0438\u043a [\u043a\u0441] \u0458\u0435 [\u0438].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u043d\u0438 \u0458\u0435\u0437\u0438\u043a [\u043a\u0441] \u0431\u0438\u043e \u0458\u0435 [\u0438].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "\u0458\u0435\u0437\u0438\u043a [\u043a\u0441] \u0458\u0435 [\u0438].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "\u0458\u0435\u0437\u0438\u043a [\u043a\u0441] \u0458\u0435 \u0431\u0438\u043e [\u0438].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[\u0438] \u0458\u0435 \u0458\u0435\u0437\u0438\u043a [\u043a].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[\u0438] \u0458\u0435 \u0431\u0438\u043e \u0458\u0435\u0437\u0438\u043a [\u043a].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

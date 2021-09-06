@@ -1,0 +1,12 @@
+{"pattern": "[X] yra gaminamas [y].", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] yra sukurta [y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], kur\u012f suk\u016br\u0117 [y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], pagaminta [y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] yra sukurtas [y].", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X], sukurta [y].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] yra [y] produktas.", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], [y] produktas,", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], produktas, sukurtas [y],", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], produktas, kur\u012f suk\u016br\u0117 [y],", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], [x] k\u016br\u0117jas", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] ir jo produktas [x]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

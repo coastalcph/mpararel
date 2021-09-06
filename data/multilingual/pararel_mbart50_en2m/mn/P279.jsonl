@@ -1,0 +1,4 @@
+{"pattern": "[X] \u0431\u043e\u043b [Y]-\u044b\u043d \u043d\u044d\u0433 \u0434\u0430\u0445\u0438\u0430\u0434.", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], \u044d\u043d\u044d \u043d\u044c [Y]-\u044b\u043d \u043d\u044d\u0433 \u0434\u0430\u0445\u0438\u0430\u0434.", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], [Y]-\u044b\u043d \u043d\u044d\u0433 \u0434\u0430\u0445\u0438\u0430\u0434.", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], Typ [Y].", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}

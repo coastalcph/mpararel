@@ -1,0 +1,13 @@
+{"pattern": "[X] \u1780\u17be\u178f [Y] \u09a4\u09c7.", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X]\u0aa8\u0acb \u0aae\u0ac2\u0ab3 \u0aa8\u0abe\u0aae [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] s\u0101kotn\u0113ji [Y] \u092c\u093e\u091f \u09b9\u09af\u09bc\u09c7\u099b\u09bf\u09b2.", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] \u70ba [Y] \u098f\u09b0 \u0aae\u0ac2\u0ab3 \u0aa8\u0abe\u0aae", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] was native to [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X]\u0aa8\u0acb \u0909\u0924\u094d\u092a\u0924\u094d\u0924\u093f [Y] \u092e\u0927\u0942\u0928.", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X]\u0aa8\u0acb \u092e\u0941\u0933 [Y] \u09b9\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7.", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] was a [Y]-born person.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] was an [Y]-born person.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] is a [Y]-born person.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] is an [Y]-born person.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], \u0627\u06cc\u06a9 [Y]-\u0c1c\u0c28\u0c4d\u0aae\u05d0\u05d3\u05dd.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], \u0627\u06cc\u06a9 [Y]-\u0c1c\u0c28\u0c4d\u0aae\u05d0\u05d3\u05dd.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

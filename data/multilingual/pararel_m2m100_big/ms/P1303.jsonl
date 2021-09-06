@@ -1,0 +1,4 @@
+{"pattern": "[x] Bermain dalam", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[Y] Pemain yang [X] ", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "[X] Bermain dengan [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] ialah seorang pemain yang", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

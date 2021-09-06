@@ -1,0 +1,4 @@
+{"pattern": "[X]possidetur[K].", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X]dominus[K].", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[V]cuius[X].", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Et[Ego]-owned[X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

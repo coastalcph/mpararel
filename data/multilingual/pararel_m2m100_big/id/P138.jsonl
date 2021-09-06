@@ -1,0 +1,20 @@
+{"pattern": "Setelah itu disebutkan pula nama-nama yang lain.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "Setelah itu diberi nama X.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "Demikian pula dengan nama-nama yang ada di dalamnya.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "Demikian pula dengan nama-nama yang ada di dalamnya.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "Demikian pula dengan nama-nama yang kemudian disebutkan di atas.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "yang kemudian disebut dengan nama-nama yang lain.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "X, yang disebut dengan [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "X) yang disebut dengan nama-nama", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "Demikian pula dengan nama-nama yang ada di dalamnya.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "Maka dari itu, nama-nama tersebut kemudian diubah menjadi X.", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "X adalah nama yang diberikan kepada orang-orang yang bersangkutan.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] disebut dalam kehormatan [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], yang diberi nama dalam kehormatan [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[x] yang disebut dalam kehormatan [y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "X, yang disebut dalam kehormatan Y.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "Sesudah itu, ia dipanggil oleh Allah SWT.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Sesudah itu ia pun memanggilnya.", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "Sesudah itu, ia pun memanggilnya.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Sesudah itu, ia pun memanggilnya.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "Sesudah itu mereka memanggilnya.", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

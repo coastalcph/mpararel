@@ -1,0 +1,12 @@
+{"pattern": "[X] yn cael ei gynhyrchu gan [y].", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] yn cael ei ddatblygu gan [y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], a ddatblygwyd gan [y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], a gynhyrchwyd gan [y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] yn cael ei greu gan [y].", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X], a gr\u00ebwyd gan [y].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] yn gynnyrch [y].", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], cynnyrch o [y],", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], cynnyrch a gr\u00ebwyd gan [y],", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], cynnyrch a ddatblygwyd gan [y],", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], cr\u00ebwr y [x]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] a'i gynnyrch [x]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

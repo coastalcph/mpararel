@@ -1,0 +1,9 @@
+{"pattern": "[X] se [Y] sitwayen.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[X] se yon sitwayen [Y].", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X], yon sitwayen [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X], ki se yon sitwayen [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X] kenbe yon sitwayente [Y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] gen yon sitwayente [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X], ki kenbe yon sitwayente [Y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X], ki gen yon sitwayente [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "kom yon sitwayen [Y], [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

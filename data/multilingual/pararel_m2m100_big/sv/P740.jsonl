@@ -1,0 +1,14 @@
+{"pattern": "[X] har grundats i [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[x], som grundades i [y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] Det var det som grundades i [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] Detta b\u00f6rjade i [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] b\u00f6rjade i [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] b\u00f6rjade i [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "Detta \u00e4r det som skapades i [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "som skapades i [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] skapades i [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], som uppstod i [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] har sitt ursprung i [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] har bildats i [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] har skapats i [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "Detta har skapats i [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

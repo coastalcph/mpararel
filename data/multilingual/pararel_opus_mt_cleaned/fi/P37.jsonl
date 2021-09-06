@@ -1,0 +1,9 @@
+{"pattern": "[x:n] virallinen kieli on [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[x:n] virallinen kieli on [y:n] kieli.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] on [X]:n virallinen kieli.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y]-kieli on [X]:n virallinen kieli.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[x:ss\u00e4] [y:ss\u00e4] on virallinen kieli.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "virallisesti [Y] on [x:n] kieli.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X]:n laki julistaa [Y]:n viralliseksi kieleksi.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "[X]:n laki m\u00e4\u00e4rittelee [Y]:n viralliseksi kieleksi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[x:n] laki m\u00e4\u00e4rittelee [y:n] kielen viralliseksi kieleksi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

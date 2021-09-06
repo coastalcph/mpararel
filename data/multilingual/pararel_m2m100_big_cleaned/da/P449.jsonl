@@ -1,0 +1,11 @@
+{"pattern": "[X] blev oprindeligt sendt p\u00e5 [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] er at starte p\u00e5 [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "det er den f\u00f8rste (og eneste) af dem.", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "det er den f\u00f8rste [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] blev oprettet p\u00e5 [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "det er den f\u00f8rste af x\u2019erne.", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "og frigivelse af [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] blev frigivet p\u00e5 [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[og] l\u00f8sladt af [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "det er den f\u00f8rste (og den f\u00f8rste)", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "det er f\u00f8rst og fremmest p\u00e5 [X].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

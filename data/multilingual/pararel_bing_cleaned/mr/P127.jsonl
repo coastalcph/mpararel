@@ -1,0 +1,4 @@
+{"pattern": "[X] [Y] \u091a\u094d\u092f\u093e \u092e\u093e\u0932\u0915\u0940\u091a\u0947 \u0906\u0939\u0947.", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] \u092e\u093e\u0932\u0915 [Y] .", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] \u091a\u0947 \u092e\u093e\u0932\u0915 [X] \u0906\u0939\u0947\u0924.", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y]\u091a\u094d\u092f\u093e \u092e\u093e\u0932\u0915\u0940\u091a\u0947 [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

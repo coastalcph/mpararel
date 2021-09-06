@@ -1,0 +1,6 @@
+{"pattern": "Originalsproget for [X] er [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[X] oprindeligt sprog var [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Sproget i [X] er [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] sprog var [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] er sproget i [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] var sproget i [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

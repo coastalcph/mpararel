@@ -1,0 +1,14 @@
+{"pattern": "[X] este capitala [y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Capitala [y] este [x].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Capitala [y] este [x].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] este capitala [y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] capitala, [x].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] capitala, [x].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "Capitalul este [x].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] capitala este [x].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], capitala [y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], capitala [y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], aceasta este capitala [y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], acesta este capitala [y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], care are capitala [x].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], care are capitala [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

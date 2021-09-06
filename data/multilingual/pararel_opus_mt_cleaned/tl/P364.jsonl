@@ -1,0 +1,6 @@
+{"pattern": "Ang orihinal na wika ng [X] ay [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Ang orihinal na wika ng [X] ay [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Ang wika ng [X] ay [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ang wika ng [X] ay [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] ang wika ng [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] ang wika ng [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] [Y] \u0a32\u0a08 \u0a15\u0a70\u0a2e \u0a15\u0a30\u0a26\u0a3e \u0a39\u0a48\u0964", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X], \u0a1c\u0a4b [Y] \u0a32\u0a08 \u0a15\u0a70\u0a2e \u0a15\u0a30\u0a26\u0a3e \u0a39\u0a48\u0964", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] [Y] \u0a26\u0a41\u0a06\u0a30\u0a3e \u0a28\u0a4c\u0a15\u0a30\u0a40 \u0a15\u0a30\u0a26\u0a3e \u0a39\u0a48\u0964", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X], \u0a1c\u0a4b [Y] \u0a26\u0a41\u0a06\u0a30\u0a3e \u0a28\u0a4c\u0a15\u0a30\u0a40 \u0a15\u0a30\u0a26\u0a3e \u0a39\u0a48\u0964", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

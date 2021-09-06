@@ -1,0 +1,6 @@
+{"pattern": "Upprunalega tungum\u00e1li\u00f0 [x] er [y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Upprunalega tungum\u00e1li\u00f0 [x] var [y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Tungum\u00e1l [x] er [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Tungum\u00e1l [x] var [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] er tungum\u00e1l [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] var tungum\u00e1li\u00f0 [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

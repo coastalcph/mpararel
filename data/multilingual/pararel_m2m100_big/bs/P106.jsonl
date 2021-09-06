@@ -1,0 +1,11 @@
+{"pattern": "[X] je [Y] po profesiji", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] je [Y] po profesiji", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] je jedan [Y] od treninga.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] je jedan [Y] od treninga.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "Kao \u0161to je u\u010dinio X.", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "Onoga koji radi kao i onaj koji radi.", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] je okupacija [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "U svakom slu\u010daju, to je [X] [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] je profesija je [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] je profesija je [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Upravo zato \u0161to je [X] [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

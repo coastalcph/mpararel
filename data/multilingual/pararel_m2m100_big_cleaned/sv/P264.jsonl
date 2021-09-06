@@ -1,0 +1,17 @@
+{"pattern": "[X] representeras av musiketiketten [Y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] representeras av etikett [Y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u00e4r representerad av [Y].", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] \u00e4r det som representeras av [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], som representeras av [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Musiketiketten som representerar [X] \u00e4r [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Den musiketikett som representerar [X] \u00e4r [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X]s etikett \u00e4r [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X]s bokm\u00e4rke \u00e4r [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X]s registerbolag \u00e4r [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X]s musiketikett \u00e4r [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] har skrivits f\u00f6r [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] Etikett : [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], sl\u00e4ppt av [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] Skrivet av en konstn\u00e4r [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] artister som [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] konstn\u00e4rer inklusive [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

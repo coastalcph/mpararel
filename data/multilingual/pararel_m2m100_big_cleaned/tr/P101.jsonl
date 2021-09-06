@@ -1,0 +1,13 @@
+{"pattern": "[X] alan\u0131nda \u00e7al\u0131\u015fmaktad\u0131r.", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] \u00f6zelli\u011fine sahiptir.", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "x\u2019in \u00f6zelli\u011fidir.", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "bilin\u00e7alt\u0131 (x) hakk\u0131nda bilgiler", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "bilginin bir par\u00e7as\u0131d\u0131r.", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "zira i\u015fin i\u00e7indekileridir.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] i\u015finin alan\u0131 ise [Y]", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "zira i\u015fin i\u00e7indekileridir.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X]\u2019in \u00e7al\u0131\u015fma alan\u0131 ise [Y]", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X]\u2019in \u00e7al\u0131\u015fma alan\u0131 ise [Y]", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X]\u2019in faaliyet alan\u0131 ise [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[X] hakk\u0131nda bilgiler", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] b\u00f6lgesinde \u00e7al\u0131\u015fmaktad\u0131r.", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

@@ -1,0 +1,6 @@
+{"pattern": "Mae gan [x] swydd [y].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X], sydd \u00e2 lleoliad [y].", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X], y mae ei swydd yn [y].", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] Sefyllfa yw [y].", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X], sy'n dal swydd [y].", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] yn dal swydd [y].", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

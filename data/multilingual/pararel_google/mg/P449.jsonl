@@ -1,0 +1,11 @@
+{"pattern": "[X] tany am-boalohany [Y] tany am-boalohany.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] dia ny debut amin'ny [y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] dia ny debut [x].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] Nirehareha [x].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] Nirehareha tamin'ny [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "Ny [Y] Debut of [x].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "Ny famotsorana [y] ny [x].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "Navotsotra tamin'ny [Y] i [x].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "Navoaka [x].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] voamarina amin'ny [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Premieres amin'ny [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

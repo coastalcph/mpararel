@@ -1,9 +1,0 @@
-{"pattern": "[X] entretient des relations diplomatiques avec [Y]."}
-{"pattern": "[Y] entretient des relations diplomatiques avec [X]."}
-{"pattern": "[X] lie les relations diplomatiques avec [Y]."}
-{"pattern": "[Y] lie les relations diplomatiques avec [X]."}
-{"pattern": "[X] a des relations diplomatiques avec [Y]."}
-{"pattern": "[Y] a des relations diplomatiques avec [X]."}
-{"pattern": "[X], qui a des relations diplomatiques avec [Y]"}
-{"pattern": "[Y], qui a des relations diplomatiques avec [X]"}
-{"pattern": "[Y], qui lie les relations diplomatiques avec [X]"}

@@ -1,0 +1,11 @@
+{"pattern": "[X] pe\u015f\u0259si il\u0259 [y].", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] pe\u015f\u0259 il\u0259 [y].", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] t\u0259liml\u0259 bir [Y].", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] t\u0259liml\u0259 [y].", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] [Y] kimi i\u015fl\u0259yir.", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], [Y] kimi i\u015fl\u0259yir.", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] nin pe\u015f\u0259si [y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X] i\u015f\u011fal\u0131 [Y].", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] nin pe\u015f\u0259si bir [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] nin pe\u015f\u0259si [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] pe\u015f\u0259si [y].", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

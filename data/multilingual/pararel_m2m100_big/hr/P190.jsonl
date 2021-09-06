@@ -1,0 +1,4 @@
+{"pattern": "[X] i [Y] su dvostruki gradovi", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "Dva su grada, a dva su grada.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "U njemu se nalazi i dvostruko mjesto.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] je dvostruki grad od [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

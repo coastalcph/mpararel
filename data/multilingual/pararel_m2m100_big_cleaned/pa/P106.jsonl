@@ -1,0 +1,11 @@
+{"pattern": "[X] \u0a07\u0a71\u0a15 [Y] \u0a26\u0a40 \u0a2a\u0a47\u0a38\u0a3c\u0a15\u0a38\u0a3c \u0a39\u0a48.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] \u0a07\u0a71\u0a15 [Y] \u0a26\u0a40 \u0a2a\u0a47\u0a38\u0a3c\u0a15\u0a38\u0a3c \u0a39\u0a48.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] \u0a07\u0a71\u0a15 [Y] \u0a26\u0a3e \u0a24\u0a1c\u0a30\u0a2c\u0a3e \u0a39\u0a48.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] \u0a07\u0a71\u0a15 [Y] \u0a26\u0a3e \u0a24\u0a1c\u0a30\u0a2c\u0a3e \u0a39\u0a48.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] \u0a15\u0a70\u0a2e \u0a15\u0a30\u0a26\u0a3e \u0a39\u0a48 \u0a15\u0a3f [Y]", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], \u0a1c\u0a4b \u0a15\u0a3f \u0a15\u0a70\u0a2e \u0a15\u0a30\u0a26\u0a3e \u0a39\u0a48 [Y]", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] \u0a26\u0a47 \u0a15\u0a70\u0a2e \u0a39\u0a48 [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "\u0a10\u0a15\u0a38\u0a10\u0a15\u0a38\u0a10\u0a15\u0a38\u0a10\u0a15\u0a38\u0a10\u0a15\u0a38\u0a10\u0a15\u0a38\u0a10\u0a15\u0a38\u0a10\u0a15\u0a38\u0a10\u0a15\u0a38\u0a10\u0a15\u0a38\u0a10\u0a15\u0a38\u0a10\u0a15\u0a38\u0a10\u0a15\u0a38\u0a10\u0a15\u0a38\u0a10\u0a15\u0a38", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] \u0a26\u0a40 \u0a2a\u0a47\u0a38\u0a3c\u0a15\u0a38\u0a3c \u0a07\u0a71\u0a15 [Y] \u0a39\u0a48.", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] \u0a26\u0a40 \u0a2a\u0a47\u0a38\u0a3c\u0a15\u0a38\u0a3c \u0a07\u0a71\u0a15 [Y] \u0a39\u0a48.", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "\u0a15\u0a3e\u0a2a\u0a40\u0a30\u0a3e\u0a08\u0a1f \u00a9 2018 \u0a1f\u0a48\u0a1f\u0a42 \u0a15\u0a32\u0a3e \u0a26\u0a47 \u0a35\u0a3f\u0a1a\u0a3e\u0a30", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

@@ -1,0 +1,14 @@
+{"pattern": "kapital la nan [X] se [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "vil la nan [X] se [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] se kapital la nan [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] se kapital la nan [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] nan kapital la, [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] se kapital la nan vil la, [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] se kapital la nan [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] se vil la kapital la nan [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], kapital la nan [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], kapital la nan [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] Sa a se kapital la nan [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], sa a se vil la nan [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], ki gen kapital la [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], ki gen kapital la [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

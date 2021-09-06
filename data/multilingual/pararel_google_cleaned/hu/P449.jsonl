@@ -1,0 +1,11 @@
+{"pattern": "[X] eredetileg az [Y] -on sug\u00e1rzott.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] az [Y] deb\u00fct\u00e1l\u00e1s.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] deb\u00fct\u00e1l [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] deb\u00fct\u00e1lt [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] deb\u00fct\u00e1lt az [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "az [X] deb\u00fct\u00e1l\u00e1sa.", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "az [X] [Y] kiad\u00e1sa.", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] megjelent [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] kiadott [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] premiered az [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] premieres az [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

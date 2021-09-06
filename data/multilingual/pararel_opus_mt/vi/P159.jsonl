@@ -1,0 +1,10 @@
+{"pattern": "\u0110\u1ea7u c\u1ee7a ph\u1ea7n t\u01b0 [X] \u1edf trong [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Tr\u1ee5 s\u1edf trung \u01b0\u01a1ng c\u1ee7a [X] c\u00f3 trong [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "\u0110\u1ea7u c\u1ee7a [X] n\u1eb1m trong [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] c\u00f3 tr\u1ee5 s\u1edf trung \u01b0\u01a1ng c\u1ee7a [X].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] \u0111\u1ea7u \u0111\u01b0\u1ee3c \u0111\u00e1nh d\u1ea5u trong [Y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] c\u00f3 tr\u1ee5 s\u1edf c\u1ee7a [X].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] tr\u1ee5 s\u1edf c\u1ee7a ch\u00fang ta \u0111ang \u1edf [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] c\u00f3 tr\u1ee5 s\u1edf chung trong [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] l\u00e0 nh\u00e0 c\u1ee7a [X].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[] \u0111\u01b0\u1ee3c d\u1ef1a v\u00e0o [Y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

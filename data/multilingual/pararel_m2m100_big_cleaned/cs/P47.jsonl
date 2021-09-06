@@ -1,0 +1,9 @@
+{"pattern": "[X] sd\u00edlej\u00ed hranice s [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] hranice s [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] sd\u00edl\u00ed hranici s [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] sd\u00edl\u00ed svou hranici s [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] sd\u00edl\u00ed spole\u010dnou hranici s [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "na hranic\u00edch s [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "a rozd\u011bluje hranice s [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "a rozd\u011bluje sv\u00e9 hranice s [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] sd\u00edl\u00ed spole\u010dnou hranici s [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

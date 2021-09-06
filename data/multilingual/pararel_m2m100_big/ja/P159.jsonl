@@ -1,0 +1,10 @@
+{"pattern": "\u5fa1\u5ea7(\u307f\u304b\u3093)\u306e\u5fa1\u5ea7(\u307f\u304b\u3093)\u306f\u3001\u5fa1\u5ea7(\u307f\u304b\u3093)\u306e\u5fa1\u5ea7(\u307f\u304b\u3093)\u3067\u3059\u3002", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "\u5fa1\u5ea7(\u307f\u304b\u3093)\u306e\u5fa1\u5ea7(\u307f\u304b\u3093)\u306f\u3001\u5fa1\u5ea7(\u307f\u304b\u3093)\u306e\u5fa1\u5ea7(\u307f\u304b\u3093)\u3067\u3059\u3002", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "\u5fa1\u5ea7\u306e\u5fa1\u5ea7\u306f\u5fa1\u5ea7\u306e\u5fa1\u5ea7\u306e\u5fa1\u5ea7\u3067\u3042\u308b\u3002", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "X(X)\u306e\u672c\u90e8\u3092\u542b\u3080\u3002", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X]\u306e\u672c\u90e8\u306f [Y]\u306b\u3042\u308a\u307e\u3059\u3002", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "\u6545\u90f7(\u3042\u3081\u3064\u3061)\u306b\u4f4f\u3080\u3002", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "\u3014X\u3015\u306f\u3001\u3014Y\u3015\u306b\u57fa\u3065\u3044\u3066\u3044\u307e\u3059\u3002", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

@@ -1,0 +1,12 @@
+{"pattern": "[X] ay ginawa ng [Y].", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] ay binuo ng [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], na binuo ng [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], likha ng [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] ay nilikha ng [Y].", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X], na nilikha ng [Y].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] ay isang produkto ng [Y].", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], isang produkto ng [Y],", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], isang produktong nilikha ng [Y],", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], isang produkto na ginawa ng [Y],", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], ang lumikha ng [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] at ang produkto nito [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

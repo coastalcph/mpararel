@@ -1,0 +1,13 @@
+{"pattern": "[X] dzia\u0142a na polu [Y]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] specjalizuje si\u0119 w [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] jest specjalizacj\u0105 dla [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Wiedza o [X] jest [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Jest to wiedza o [X].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Domena dzia\u0142ania [X] jest [Y]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Domena dzie\u0142a [X] jest [Y]", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y] jest domen\u0105 dzia\u0142alno\u015bci [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Obszarem pracy [X] jest [Y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X] jest domen\u0105 pracy [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X] jest domen\u0105 dzia\u0142alno\u015bci [Y].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "Wiedza X jest wiedz\u0105.", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] dzia\u0142a w obszarze [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

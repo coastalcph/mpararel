@@ -1,0 +1,6 @@
+{"pattern": "[X] algkeel on [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[X] algkeel oli [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "[X] keel on [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] keel oli [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] on [x] keel.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] oli [X] keel.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

@@ -1,0 +1,12 @@
+{"pattern": "Yn it gefal fan de oersetting fan de oersetting is de oersetting.", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "Yn it \u00e2lde gefal is it \u00fbntwikkele.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], \u00fbntwikkele troch [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], produsearre troch [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "It eardere eil\u00e2n Wieringen is gjin part fan de gemeente.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "It eardere eil\u00e2n Wieringen is gjin part fan de gemeente.", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "It is in produkt fan [Y].", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "Yn Frysl\u00e2n is der in soad produkten.", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "Yn it b\u00fbtenl\u00e2n is it \u00fbnderdiel fan de gemeente.", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], in produkt \u00fbntwikkele troch [Y],", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "It eardere eil\u00e2n Wieringen is gjin part fan de gemeente.", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] en syn produkt [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

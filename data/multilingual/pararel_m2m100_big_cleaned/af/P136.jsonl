@@ -1,0 +1,6 @@
+{"pattern": "[X] speel [Y] die musiek.", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X], wat speel [Y] musiek", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] speel die spel", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X], wat die spel [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "en die musiek van die here.", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "soos die musiek van [X].", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

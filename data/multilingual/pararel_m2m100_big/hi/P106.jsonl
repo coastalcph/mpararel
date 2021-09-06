@@ -1,0 +1,11 @@
+{"pattern": "[x] \u090f\u0915 [y] \u092a\u0947\u0936\u0947 \u0915\u0947 \u0932\u093f\u090f \u0939\u0948\u0964", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[x] \u090f\u0915 [y] \u092a\u0947\u0936\u0947 \u0915\u0947 \u0932\u093f\u090f \u0939\u0948\u0964", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[x] \u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u0923 \u0915\u0947 \u0932\u093f\u090f \u090f\u0915 [y] \u0939\u0948\u0964", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[x] \u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u0923 \u0915\u0947 \u0932\u093f\u090f \u090f\u0915 [y] \u0939\u0948\u0964", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "\u091c\u0948\u0938\u093e \u0915\u093e\u092e \u0915\u0930\u0924\u093e \u0939\u0948, \u091c\u0948\u0938\u093e \u0915\u093e\u092e \u0915\u0930\u0924\u093e \u0939\u0948\u0964", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "\u091c\u094b \u0915\u093e\u092e \u0915\u0930\u0924\u093e \u0939\u0948,", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] \u0915\u093e \u0915\u0930\u094d\u0924\u0935\u094d\u092f \u0939\u0948 [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "\u091c\u093f\u0938\u0915\u093e \u0905\u0930\u094d\u0925 \u0939\u0948 \u0915\u093f [x] \u0915\u093e \u0915\u093e\u092e \u0939\u0948\u0964", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[x] \u0915\u093e \u0935\u094d\u092f\u0935\u0938\u093e\u092f \u090f\u0915 [y] \u0939\u0948\u0964", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[x] \u0915\u093e \u0935\u094d\u092f\u0935\u0938\u093e\u092f \u090f\u0915 [y] \u0939\u0948\u0964", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "\u091c\u093f\u0938\u0915\u093e \u0905\u0930\u094d\u0925 \u0939\u0948 \u0915\u093f [x] \u0915\u093e \u0915\u093e\u092e \u0939\u0948\u0964", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] priklauso [Y].", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] savininkas [Y].", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] priklauso [X].", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

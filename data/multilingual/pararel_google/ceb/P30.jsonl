@@ -1,0 +1,4 @@
+{"pattern": "[X] nahimutang sa [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] nahimutang sa kontinente [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] iya sa kontinente sa [Y].", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] usa ka bahin sa kontinente sa [Y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

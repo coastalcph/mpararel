@@ -1,0 +1,6 @@
+{"pattern": "[X] m\u00e4ngib muusikat [Y].", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X], kes m\u00e4ngib [y] muusikat", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] m\u00e4ngib [y].", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X], kes m\u00e4ngib [Y].", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[Y] Muusikud [x].", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "[Y] Muusikud nagu [x].", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

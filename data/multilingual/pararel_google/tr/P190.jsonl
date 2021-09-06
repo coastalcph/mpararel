@@ -1,0 +1,4 @@
+{"pattern": "[X] ve [y] ikiz \u015fehirlerdir.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] ve [x] ikiz \u015fehirlerdir.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] [x] ikiz \u015fehridir.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] bir ikiz \u015fehri [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

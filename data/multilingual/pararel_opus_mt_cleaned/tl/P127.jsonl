@@ -1,0 +1,4 @@
+{"pattern": "[X] ay pag-aari ng [Y].", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] may-akda [Y].", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "Si [Y] ay may-ari ng [X].", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Ang [Y]-owed [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

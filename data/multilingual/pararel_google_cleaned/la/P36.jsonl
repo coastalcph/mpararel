@@ -1,0 +1,14 @@
+{"pattern": "caput[X]autem[a].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "caputurbis[X]autem[a].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[v]est incaput[X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[v]caputurbs[X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X]'scaput,[Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X]'scaputurbis,[Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X]'scaputest[a].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X]'surbemcaputest[a].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y],caput[X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y],caputurbis[X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y],quodcaputest[X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], idest,susan civitas regni eius[X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X],quodcaputest[a].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X],urbe, quaecaputest[a].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

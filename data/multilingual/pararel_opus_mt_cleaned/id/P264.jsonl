@@ -1,0 +1,17 @@
+{"pattern": "[X] diwakili oleh label musik [Y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] diwakili oleh label rekaman [Y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] diwakili oleh [Y].", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], yang diwakili oleh [Y].", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], yang diwakili oleh [Y].", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Label musik yang mewakili [X] adalah [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Label musik yang mewakili [X] adalah [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] label adalah [Y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] label rekaman adalah [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "font color = \"# 404040\" x] catatan perusahaan adalah [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X]'s music label is [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] direkam untuk [Y].", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] label: [Y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], dirilis oleh [Y].", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] Artis rekaman [X].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] artis seperti [X].", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] artis termasuk [X].", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

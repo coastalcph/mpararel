@@ -1,0 +1,6 @@
+{"pattern": "[X] j\u00e1tszik a zene.", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X], aki j\u00e1tszik [Y] zene", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] a j\u00e1t\u00e9kosok", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X], aki j\u00e1tszik a [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "a zen\u00e9szek [X]", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "olyan zen\u00e9szek, mint a [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

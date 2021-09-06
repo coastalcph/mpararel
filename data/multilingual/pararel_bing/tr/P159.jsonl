@@ -1,0 +1,10 @@
+{"pattern": "[X] \u00f6\u011fesinin merkezi [Y] i\u00e7indedir.", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "[X] karargah\u0131 [Y] i\u00e7indedir.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] \u00f6\u011fesinin merkezi [Y] i\u00e7inde bulunur.", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] [X] genel merkezini i\u00e7erir.", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] merkezi [Y] olarak belirlenmi\u015ftir.", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] [X] karargah\u0131na sahiptir.", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X]'in karargah\u0131 [Y]'dedir.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], karargah\u0131 [Y]'dedir.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] [X]'e ev sahipli\u011fi yapmaktad\u0131r.", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] [Y] tabanl\u0131d\u0131r.", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

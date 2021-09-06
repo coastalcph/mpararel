@@ -1,0 +1,17 @@
+{"pattern": "[X] inawakilishwa na lebo ya muziki [Y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] inawakilishwa na lebo ya rekodi [Y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] inawakilishwa na [Y].", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], hiyo inawakilishwa na [Y].", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], ambayo inawakilishwa na [Y].", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "lebo ya muziki inayowakilisha [X] ni [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "lebo ya muziki inayowakilisha [X] ni [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "lebo ya [X] ni [Y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] studio ya rekodi ni [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] kampuni ya rekodi ni [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] studio ya muziki ni [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] imeandikwa kwa [Y].", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] lebo: [Y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], iliyotolewa na [Y].", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] msanii wa kurekodi [X].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] wasanii kama vile [X].", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] wasanii ikiwa ni pamoja na [X].", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

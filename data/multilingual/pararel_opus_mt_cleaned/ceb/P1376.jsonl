@@ -1,0 +1,14 @@
+{"pattern": "[X] mao ang kaulohan sa [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Ang kaulohan sa [Y] mao si [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Ang kaulohang siyudad sa [Y] mao si [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] mao ang kaulohang siyudad sa [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] kaulohan, [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] kaulohan sa siyudad, [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] Ang kaulohan [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] Ang kaulohang siyudad [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], ang kaulohan sa [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], ang kaulohang siyudad sa [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], mao kana ang kaulohan sa [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], mao kana ang kaulohang siyudad sa [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], nga may kaulohan [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], nga may kaulohang siyudad [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

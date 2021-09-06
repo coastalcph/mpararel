@@ -1,0 +1,11 @@
+{"pattern": "[X] \u05e9\u05d5\u05d3\u05e8 \u05d1\u05de\u05e7\u05d5\u05e8 \u05e2\u05dc [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] \u05d0\u05de\u05d5\u05e8\u05d4 \u05dc\u05d4\u05d5\u05e4\u05d9\u05e2 \u05d1 [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] \u05d0\u05de\u05d5\u05e8\u05d4 \u05dc\u05d4\u05d5\u05e4\u05d9\u05e2 [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] \u05d4\u05d5\u05e4\u05d9\u05e2 [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] \u05d4\u05d5\u05e4\u05d9\u05e2 \u05e2\u05dc [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "\u05d4\u05d5\u05e4\u05e2\u05ea [Y] \u05e9\u05dc [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "\u05d4\u05e9\u05d7\u05e8\u05d5\u05e8 \u05e9\u05dc [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] \u05e9\u05d5\u05d7\u05e8\u05e8 \u05e2\u05dc [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] \u05e9\u05d7\u05e8\u05e8\u05d5 [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] \u05d4\u05d5\u05e4\u05d9\u05e2 \u05d1 [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] \u05d6\u05d5\u05db\u05d4 \u05d1\u05db\u05d5\u05e8\u05d4 \u05d1 [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

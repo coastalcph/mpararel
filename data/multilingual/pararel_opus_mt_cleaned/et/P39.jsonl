@@ -1,0 +1,6 @@
+{"pattern": "[X] on positsiooni [Y].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X], kellel on [Y] positsioon.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X], kelle seisukoht on [Y].", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] asukoht on [Y].", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X], kellel on [Y] positsioon.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] omab [Y] positsiooni.", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

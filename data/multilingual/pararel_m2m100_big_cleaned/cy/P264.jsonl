@@ -1,0 +1,17 @@
+{"pattern": "[X] yn cael ei adnabod gan label music [Y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] yn cael ei adnabod gan record label [Y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] yn cael ei adnabod gan [Y].", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], mae'n cael ei adnabod gan [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], a ddefnyddir gan [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Mae'r label hudol sy'n cynnwys [X] yn [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Mae'r label music sy'n cynrychioli [X] yn [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] mae'r label yn [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] Mae llwytho llwytho yn [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] mae'r cwmni record yn [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] mae'r label symudol yn [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] yn cael ei adnabod ar gyfer [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] rhyddhau : [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], yn cael ei ryddhau gan [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] cyfieithu cyfieithu [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "ydych chi'n ddiddordeb fel x.", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] cynhyrchwyr yn cynnwys [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

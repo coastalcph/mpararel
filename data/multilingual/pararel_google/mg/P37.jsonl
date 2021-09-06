@@ -1,0 +1,9 @@
+{"pattern": "Ny fiteny ofisialy [X] dia [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ny fiteny ofisialy [X] dia ny fiteny [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] no fiteny ofisialy [x].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ny fiteny [Y] dia fiteny ofisialy amin'ny [x].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ao amin'ny [x], [Y] no fiteny ofisialy.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "Amin'ny fomba ofisialy, [Y] no fitenin'ny [x].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ny lal\u00e0na ao amin'ny [x] dia nanambara [Y] ny fiteny ofisialy.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Ny lal\u00e0na ao amin'ny [X] dia mamaritra ny [Y] ho toy ny fiteny ofisialy.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Ny lal\u00e0na ao amin'ny [fiteny [fiteny] no namariparitra ny fiteny ofisialy.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

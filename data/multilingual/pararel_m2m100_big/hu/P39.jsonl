@@ -1,0 +1,6 @@
+{"pattern": "Az [X] a [Y] \u00e1ll\u00e1spontj\u00e1t k\u00e9pezi.", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X], akinek van a poz\u00edci\u00f3ja [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X], akinek a poz\u00edci\u00f3ja az [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "Az [X] poz\u00edci\u00f3ja az [Y] poz\u00edci\u00f3.", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X], aki tartja a poz\u00edci\u00f3j\u00e1t [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] tartja a [Y] poz\u00edci\u00f3j\u00e1t", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

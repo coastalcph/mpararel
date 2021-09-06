@@ -1,0 +1,14 @@
+{"pattern": "[X] je bila ustanovljena v [y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], ustanovljeno v [y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], ki je bilo ustanovljeno v [y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], ki se je za\u010dela v [y].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] Za\u010delo se je v [y].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] se je za\u010dela v [y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X], ki je bila ustvarjena v [y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], ustvarjeno v [y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] je bil ustvarjen v [y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], ki izvira iz [y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] izvira iz [y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] oblikovana v [y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] je nastal v [y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X], ki je nastal v [y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

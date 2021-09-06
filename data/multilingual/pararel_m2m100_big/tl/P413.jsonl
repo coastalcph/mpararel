@@ -1,0 +1,6 @@
+{"pattern": "[X] mag-play sa [Y] posisyon.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] mag-play sa posisyon ng [Y]", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X], na nagtatrabaho sa lugar na ito.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "sa pamamagitan ng a [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "sa pamamagitan ng isang [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[X] sa pamamagitan ng [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

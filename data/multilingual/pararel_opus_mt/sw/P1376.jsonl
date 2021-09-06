@@ -1,0 +1,14 @@
+{"pattern": "[X] ni jiji kuu la [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Jiji kuu la [Y] ni [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Jiji kuu la [Y] ni [9].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] ni jiji kuu la [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "Jiji kuu [Y], [9].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] ni jiji kuu la [9].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "Jiji kuu [Y] ni [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] ni jiji kuu [9].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], jiji kuu la [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], jiji kuu la [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], huo ndio mji mkuu wa [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], hilo ndilo jiji kuu la [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] ambayo ni jiji kuu [9].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], ambalo ni jiji kuu [9].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

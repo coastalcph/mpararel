@@ -1,0 +1,20 @@
+{"pattern": "(X) \u00ebsht\u00eb em\u00ebruar pas [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "Pastaj emri i tij u p\u00ebrmend.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "Emri i tij \u00ebsht\u00eb X.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "Emri i tij \u00ebsht\u00eb xh.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "X, i cili quhet pas [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "X, i cili u em\u00ebrua pas [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "X, i cili \u00ebsht\u00eb em\u00ebruar p\u00ebr [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "X, i cili \u00ebsht\u00eb em\u00ebruar p\u00ebr [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "Emri i tij \u00ebsht\u00eb X.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "Pas k\u00ebsaj, emri i", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] \u00ebsht\u00eb em\u00ebruar n\u00eb nder t\u00eb [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "(X) \u00ebsht\u00eb em\u00ebruar n\u00eb nder t\u00eb [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "N\u00eb em\u00ebr t\u00eb Allahut xh.sh.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "X, i cili \u00ebsht\u00eb em\u00ebruar n\u00eb nder t\u00eb [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "X, i cili u em\u00ebrua n\u00eb nder t\u00eb [Y]-s\u00eb.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "Pastaj e th\u00ebrrasin at\u00eb,", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Pas k\u00ebsaj, ai u thirr p\u00ebr", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "(X) q\u00eb \u00ebsht\u00eb thirrur pas [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Pas k\u00ebsaj, ai e thirri at\u00eb.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "Pastaj e th\u00ebrrasin at\u00eb,", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

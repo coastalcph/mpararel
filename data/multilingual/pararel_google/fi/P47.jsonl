@@ -1,0 +1,9 @@
+{"pattern": "[X] Osakkeet rajaa [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] reunukset, joissa on [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] jakaa rajan [Y]: n kanssa.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] jakaa rajansa [y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] jakaa yhteisen rajan [Y]: n kanssa.", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] reunat [x].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] jakaa rajan [X]: n kanssa.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] jakaa rajansa [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] jakaa yhteisen rajan [X]: n kanssa.", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

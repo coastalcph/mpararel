@@ -1,0 +1,9 @@
+{"pattern": "[X] wedi ei rhannu \u00e2 ffin [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] yn rhannu' r ffin efo' r ffin.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] wedi ei rhannu \u00e2'i ffin [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] yn rhannu ffin efo ffin.", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[YX]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[YR] yn rhannu' r ffin efo' r ffin.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y mae'n rhannu ei ffin \u00e2 [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[YR] yn rhannu ffin efo ffin [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

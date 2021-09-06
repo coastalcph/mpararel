@@ -1,0 +1,4 @@
+{"pattern": "[X] befindet sich in [y].", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] befindet sich auf dem Kontinent [y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] geh\u00f6rt zum Kontinent von [y].", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] ist ein Teil des Kontinents von [y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

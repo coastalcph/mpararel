@@ -1,0 +1,20 @@
+{"pattern": "[X]\u0aa8\u0acb \u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0aa7\u0acd\u0ab5\u0a9c [Y] \u092a\u091b\u093f\u0aa8\u0acb", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X]\u0aa8\u0acb \u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0aa7\u0acd\u0ab5\u0a9c [Y] \u092a\u091b\u093f verildi.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X] \u09af\u09be\u09b0 \u09a8\u09be\u09ae [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] \u09af\u09be\u09b0 \u09a8\u09be\u09ae [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], \u09af\u09be\u09b0 \u09a8\u09be\u09ae [Y] \u092a\u091b\u093f", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X], \u09af\u09be\u09b0 \u09a8\u09be\u09ae [Y] \u092a\u091b\u093f verildi.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X], \u09af\u09be\u09b0 \u09a8\u09be\u09ae [Y] \u1000\u103c\u1031\u102c\u1004\u1037\u103a", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X], \u09af\u09be\u09b0 \u09a8\u09be\u09ae [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], \u09af\u09be\u09b0 \u09a8\u09be\u09ae [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[X], \u09af\u09be\u09b0 \u09a8\u09be\u09ae [Y] \u092a\u091b\u093f", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X]\u0aa8\u0acb \u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0aa7\u0acd\u0ab5\u0a9c [Y]\u0aa8\u0acbsere.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] \u0aa8\u0acb \u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0aa7\u0acd\u0ab5\u0a9c [Y] \u0aa8\u0acbsere.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], \u10d3\u10d0\u10d4\u10e0\u10e5\u10d5\u10d0 [Y]\u0aa8\u0acb \u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0aa7\u0acd\u0ab5\u0a9c.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], \u10e0\u10dd\u10db\u10d4\u10da\u10d8\u10ea \u10d3\u10d0\u10d4\u10e0\u10e5\u10d5\u10d0 [Y]\u0aa8\u0acb \u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0aa7\u0acd\u0ab5\u0a9c", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], \u10e0\u10dd\u10db\u10d4\u10da\u10d8\u10ea \u10d3\u10d0\u10d4\u10e0\u10e5\u10d5\u10d0 [Y]\u0aa8\u0acb \u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0aa7\u0acd\u0ab5\u0a9c.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] \u0932\u093e\u0908 [Y] \u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0c05\u0c02\u0c1f\u0c3e\u0c30\u0c41.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[Y] \u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 [X] \u0b85\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[X], \u09af\u09be [Y] \u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0c05\u0c02\u0c1f\u0c3e\u0c30\u0c41.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X], \u091c\u093f\u0938\u0947 [Y] \u092a\u091b\u093f \u0c05\u0c02\u0c1f\u0c3e\u0c30\u0c41.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X], [Y] \u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0c05\u0c02\u0c1f\u0c3e\u0c30\u0c41.", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

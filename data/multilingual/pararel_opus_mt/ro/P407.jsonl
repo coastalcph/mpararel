@@ -1,0 +1,18 @@
+{"pattern": "[X] a fost scris \u00een [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] este scris \u00een [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] a fost scris \u00een limba [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] este scris \u00een limba [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], scris\u0103 \u00een limba [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Limbajul lui [X] este [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Limbajul lui [X] a fost [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] este o lucrare \u00een limba Y.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] este o lucrare \u00een limba Y.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], o [Y]-language de lucru.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], un [Y]-language de lucru.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] a fost o [Y]-limbaj de lucru.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] a fost un [Y]-language de lucru.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] este o lucrare \u00een limba [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] a fost o lucrare \u00een limba [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Crearea limbii [Y] [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] este limba lui [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] era limba lui [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

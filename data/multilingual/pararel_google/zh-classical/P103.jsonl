@@ -1,0 +1,4 @@
+{"pattern": "[x]\u7684\u6bcd\u8a9e\u662f[y]\u3002", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[x]\u7684\u6bcd\u8a9e\u662f[Y]\u3002", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y]\u662f[x]\u7684\u6bcd\u8a9e\u3002", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[y]\u662f[x]\u7684\u6bcd\u8a9e\u3002", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

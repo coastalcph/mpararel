@@ -1,0 +1,17 @@
+{"pattern": "[X] musiqi etiketi il\u0259 t\u0259msil olunur [Y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] rekord etiketi il\u0259 t\u0259msil olunur [Y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] [Y] t\u0259r\u0259find\u0259n t\u0259msil olunur.", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], bu [Y] il\u0259 t\u0259msil olunur.", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], bu [Y] t\u0259r\u0259find\u0259n t\u0259msil olunur.", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] t\u0259msil ed\u0259n musiqi etiketi [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] t\u0259msil ed\u0259n musiqi etiketi [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] 'nin etiketi [Y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] 'nin rekord etiketi [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] nin rekord \u015firk\u0259ti [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] 'nin musiqi etiketi [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] [Y] \u00fc\u00e7\u00fcn qeyd olunur.", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] Etiket: [Y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], [Y] t\u0259r\u0259find\u0259n burax\u0131ld\u0131.", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] qeyd s\u0259n\u0259t\u00e7isi [X].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] [X] kimi s\u0259n\u0259tkarlar.", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] r\u0259ssamlar da daxil olmaqla [X].", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

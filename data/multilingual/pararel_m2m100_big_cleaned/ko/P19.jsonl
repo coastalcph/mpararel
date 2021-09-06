@@ -1,0 +1,13 @@
+{"pattern": "[X] \uc5d0\uc11c \ud0dc\uc5b4\ub0ac\ub2e4", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] \ub294 \uc6d0\ub798 [Y] \uc5d0\uc11c \ub098\uc628 \uac83 \uc774\ub2e4.", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] \ub294 \uc6d0\ub798 [Y] \uc5d0\uc11c \uc654\uc2b5\ub2c8\ub2e4.", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "\uadf8\ub9ac\ud558\uc5ec \uadf8\ubd84\uaed8\uc11c\ub294 \uadf8\ubd84\uc758 \ubc31\uc131\uc774 \ub418\uc168\ub2e4.", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] \uc5d0\uc11c \ucd9c\ubc1c \ud558\uc600\ub2e4", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] \ucd9c\ucc98 : [X] \ucd9c\ucc98 : [X] \ucd9c\ucc98", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] \uadf8\ub294 \ud0dc\uc5b4\ub09c \uc0ac\ub78c\uc774\uc5c8\ub2e4", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] \uadf8\ub294 \ud0dc\uc5b4\ub09c \uc0ac\ub78c\uc774\uc5c8\ub2e4", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] \ub294 \ud0dc\uc5b4\ub09c \uc0ac\ub78c \uc774\ub2e4", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] \ub294 \ud0dc\uc5b4\ub09c \uc0ac\ub78c \uc774\ub2e4", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] \ud0dc\uc5b4\ub09c \uc0ac\ub78c", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] \ud0dc\uc5b4\ub09c \uc0ac\ub78c", "lemma": "born", "extended_lemma": "born", "tense": "present"}

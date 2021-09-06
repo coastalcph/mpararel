@@ -1,0 +1,9 @@
+{"pattern": "[X] Yn cynnal cysylltiadau diplomyddol gyda [y].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "Mae [y] yn cynnal cysylltiadau diplomyddol gyda [x].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] cysylltiadau diplomyddol gyda [y].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] cysylltiadau diplomyddol gyda [x].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "Mae gan [x] gysylltiadau diplomyddol \u00e2 [y].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "Mae gan [y] gysylltiadau diplomyddol \u00e2 [x].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X], sydd \u00e2 chysylltiadau diplomyddol gyda [y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], sydd \u00e2 chysylltiadau diplomyddol \u00e2 [x]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], sy'n cysylltu cysylltiadau diplomyddol \u00e2 [x]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

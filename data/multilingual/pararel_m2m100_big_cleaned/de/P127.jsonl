@@ -1,0 +1,4 @@
+{"pattern": "[X] ist das eigentum von [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "der eigent\u00fcmer ist x.", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "siehe auch: eigent\u00fcmer x", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Die [Y] Eigent\u00fcmer [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

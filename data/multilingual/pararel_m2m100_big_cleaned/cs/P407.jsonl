@@ -1,0 +1,18 @@
+{"pattern": "[X] bylo naps\u00e1no v [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] je naps\u00e1no v [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] byl naps\u00e1n v jazyce [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] je ps\u00e1no v jazyce [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], napsan\u00e9 v jazyce [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "jazyk je jazykem [X]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Jazyk byl [X] a byl [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] je [Y] jazykov\u00e1 pr\u00e1ce", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] je [Y] jazykov\u00e1 pr\u00e1ce", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] v jazyce [Y] v jazyce pr\u00e1ce", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] je jazykov\u011b n\u00e1ro\u010dn\u00fd", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] byl [Y] jazykov\u00e9 d\u00edlo", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] byl [Y] jazykov\u00e9 d\u00edlo", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] je d\u00edlo v jazyce [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] bylo d\u00edlo v jazyce [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "a jazykem stvo\u0159en\u00fdm,", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "je to jazyk, v n\u011bm\u017e", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "jejich jazykem je (a je i jazykem)", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

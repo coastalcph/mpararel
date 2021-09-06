@@ -1,0 +1,10 @@
+{"pattern": "Mkuu wa [X] yuko katika [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Makao makuu ya [X] yako katika [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Makao makuu ya [X] yanapatikana katika [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] ina makao makuu ya [X].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] makao makuu katika [Y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] ina makao makuu ya [X].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "Makao makuu ya [X]yanapatikana katika [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], ambaye makao yake makuu yako katika makao makuu yake.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] ni nyumbani kwa [X].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] iko katika [Y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

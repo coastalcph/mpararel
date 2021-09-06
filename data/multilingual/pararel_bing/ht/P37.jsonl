@@ -1,0 +1,9 @@
+{"pattern": "Lang ofisyel [X] se [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Lang ofisyel [X] se [Y] lang.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] se lang ofisyel [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Lang [Y] se lang ofisyel [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Nan [X], [Y] se lang ofisyel la.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "Ofisyelman, [Y] se lang [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Lwa a nan [X] deklare [Y] lang ofisyel la.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Lwa a nan [X] defini [Y] kom lang ofisyel la.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Lwa a nan [X] defini lang [Y] kom lang ofisyel la.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

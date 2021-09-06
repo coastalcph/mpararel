@@ -1,0 +1,9 @@
+{"pattern": "[X] is [Y] burger.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[X] is 'n burger van [Y].", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X], 'n burger van [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X], wie is 'n burger van [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X] hou 'n burgerskap van [Y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] het 'n burgerskap van [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X], wat 'n burgerskap van [Y] het.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X], wat 'n burgerskap van [Y] het.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "as 'n burger van [y], [x]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

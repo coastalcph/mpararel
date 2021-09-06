@@ -1,0 +1,16 @@
+{"pattern": "[X] wird von [y] entwickelt.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] wurde von [y] entwickelt.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X], entwickelt von [y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] wird von [y] erstellt", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] wurde von [y] erstellt", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X], erstellt von [y].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] ist ein Produkt von [y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] war ein Produkt von [y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], ein Produkt von [y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], ein Produkt, das von [y] erstellt wurde", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], ein von [y] hergestelltes Produkt", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], ein Produkt, das von [y] entwickelt wurde", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], das entwickelte [x]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y], das [x] erstellt wurde", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y], der Sch\u00f6pfer des [x]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] und seines Produkts [x]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

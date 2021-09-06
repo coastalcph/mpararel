@@ -1,0 +1,4 @@
+{"pattern": "[x] \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 \u0570\u0561\u0574\u0561\u0580 [y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[x], \u0578\u057e \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [y] \u0570\u0561\u0574\u0561\u0580", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[x] \u0567 \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[x], \u0578\u0580\u0568 \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

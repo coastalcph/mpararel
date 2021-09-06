@@ -1,0 +1,4 @@
+{"pattern": "[X] \u0914\u0930 [y] \u091c\u0941\u0921\u093c\u0935\u093e\u0902 \u0936\u0939\u0930 \u0939\u0948\u0902\u0964", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] \u0914\u0930 [x] \u091c\u0941\u0921\u093c\u0935\u093e\u0902 \u0936\u0939\u0930 \u0939\u0948\u0902\u0964", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[\u0935\u093e\u0908] \u090f\u0915 \u091c\u0941\u0921\u093c\u0935\u093e\u0902 \u0936\u0939\u0930 [\u090f\u0915\u094d\u0938] \u0939\u0948\u0964", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] [y] \u0915\u093e \u090f\u0915 \u091c\u0941\u0921\u093c\u0935\u093e\u0902 \u0936\u0939\u0930 \u0939\u0948\u0964", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

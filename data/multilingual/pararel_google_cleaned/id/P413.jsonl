@@ -1,0 +1,6 @@
+{"pattern": "[X] Dimainkan dalam posisi [Y].", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] dimainkan di posisi [Y].", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X], yang bermain di posisi [Y].", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "bermain sebagai [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "bermain sebagai [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[X] bermain sebagai [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

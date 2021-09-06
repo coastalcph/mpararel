@@ -1,0 +1,9 @@
+{"pattern": "[X] yn cydweithrediad \u00e2 [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] Mae'r llinellau gyda [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] yn cydweithio \u00e2'r llinell gyda [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] yn deillio'r gronyn gyda [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] yn cydweithredol \u00e2 llinellau gyda [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "mae'r gronynnau gyda [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] yn cydweithio \u00e2'r llinell gyda [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "ydych chi'n ddiddordeb \u00e2'r gronyn.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] yn cydweithredol \u00e2 llinellau gyda [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

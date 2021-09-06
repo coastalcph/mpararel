@@ -1,0 +1,14 @@
+{"pattern": "Selles m\u00f5ttes on [X] pealinnaks [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "pealinnaks on x [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] on pealinna [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] on linna pealinn [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] on peakontor ja", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] on linna pealinn ja [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] peakontor on [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] linna pealinn on [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] on pealinna [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], pealinnas asuv linn [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "ja see on [X] pealinn.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "see on linna pealinn.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], millel on kapitali [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], millel on pealinn [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

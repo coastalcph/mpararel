@@ -1,0 +1,9 @@
+{"pattern": "Die amptelike taal van [x] is [y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Die amptelike taal van [x] is die [Y] taal.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] is die amptelike taal van [x].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Die [Y] taal is die amptelike taal van [x].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "In [x] is [y] die amptelike taal.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "Amptelik is [y] die taal van [x].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Die wet in [x] verklaar die amptelike taal.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Die wet in [x] definieer [y] as die amptelike taal.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Die wet in [x] definieer die [y] taal as die amptelike taal.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

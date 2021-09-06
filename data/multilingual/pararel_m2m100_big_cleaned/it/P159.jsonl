@@ -1,0 +1,10 @@
+{"pattern": "La sede di [X] \u00e8 in [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "La sede di [X] \u00e8 in [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "La sede di [X] si trova in [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] contiene le sedi di [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] \u00e8 sede in [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[X] ha la sede di [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "Le sedi di [X] sono in [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], i cui capi sono in [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "e\u2019 la casa di [X].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] \u00e8 basato su [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

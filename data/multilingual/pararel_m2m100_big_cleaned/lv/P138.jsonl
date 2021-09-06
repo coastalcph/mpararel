@@ -1,0 +1,20 @@
+{"pattern": "[X] ir nosaukts p\u0113c [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X] tika nosaukts p\u0113c [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X] ir nosaukts par [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] tika nosaukts par [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], kas ir nosaukts p\u0113c [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X], kas tika nosaukts p\u0113c [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X], kas ir nosaukts par [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X], kas tika nosaukts par [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X] ir nosaukts par [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "nosaukums p\u0113c [X]", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] ir nosaukts par [Y] godu.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] tika nosaukts par godu [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], nosaukts par godu [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], kas ir nosaukts ar [Y] godu.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], kas tika nosaukts par godu [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] tiek aicin\u0101ts p\u0113c [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "p\u0113c tam vi\u0146\u0161 tika aicin\u0101ts.", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[X], kas tiek aicin\u0101ts p\u0113c [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X], kas tika aicin\u0101ts p\u0113c [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X], p\u0113c tam sauc par [Y]", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

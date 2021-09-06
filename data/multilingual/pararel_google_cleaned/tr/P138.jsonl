@@ -1,0 +1,20 @@
+{"pattern": "[X] [Y] sonra adland\u0131r\u0131l\u0131r.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X] [Y] sonra adland\u0131r\u0131ld\u0131.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X] [Y] i\u00e7in adland\u0131r\u0131l\u0131r.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] [Y] i\u00e7in adland\u0131r\u0131ld\u0131.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], [Y] adl\u0131 olarak adland\u0131r\u0131l\u0131r.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X], [Y] adl\u0131 olarak adland\u0131r\u0131lm\u0131\u015ft\u0131r.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X], [Y] i\u00e7in adland\u0131r\u0131lm\u0131\u015ft\u0131r.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X], [Y] i\u00e7in adland\u0131r\u0131lm\u0131\u015ft\u0131r.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], [Y] adl\u0131.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[X], [Y] adl\u0131.", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] [Y] 'nin \u015ferefinde bulundu.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] [Y] 'nin \u015ferefinde bulundu.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], [Y] 'nin ad\u0131nda.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], [Y] 'nin onurunda ad\u0131 ge\u00e7en.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], [Y] 'nin onuruna isimlendirildi.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] [Y] sonra denir.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X] [Y] sonra \u00e7a\u011fr\u0131ld\u0131.", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[X], [Y] sonra \u00e7a\u011fr\u0131l\u0131r.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X], [Y] sonra \u00e7a\u011fr\u0131ld\u0131.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X], [Y] sonra arad\u0131.", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

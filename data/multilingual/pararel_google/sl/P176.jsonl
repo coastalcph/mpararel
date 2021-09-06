@@ -1,0 +1,12 @@
+{"pattern": "[X] se proizvaja [y].", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] Razvija [y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], ki ga je razvil [y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], ki ga proizvaja [y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] je ustvaril [y].", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X], ki ga je ustvaril [y].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] je produkt [y].", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], izdelek [y],", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], izdelek, ki ga je ustvaril [y],", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], izdelek, ki ga je razvil [y],", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], ustvarjalec [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] in njegov izdelek [x]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

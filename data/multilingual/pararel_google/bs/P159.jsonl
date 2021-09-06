@@ -1,0 +1,10 @@
+{"pattern": "Sjedi\u0161te [x] je u [y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Sjedi\u0161te [x] je u [y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Sjedi\u0161te [X] nalazi se u [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] sadr\u017ei sjedi\u0161te [x].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] je sa sjedi\u0161tem u [y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] ima sjedi\u0161te [x].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] Sjedi\u0161te su u [y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], \u010dije sedi\u0161te nalaze u [y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] je dom [x].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] se temelji na [y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

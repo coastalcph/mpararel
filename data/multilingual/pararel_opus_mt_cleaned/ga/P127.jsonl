@@ -1,0 +1,4 @@
+{"pattern": "[X] ar \u00fain\u00e9ireacht ag [Y].", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] \u00fain\u00e9ir [Y].", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] \u00dain\u00e9ireacht [X].", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "An [Y] faoi \u00fain\u00e9ireacht [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

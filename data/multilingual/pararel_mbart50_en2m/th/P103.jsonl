@@ -1,0 +1,4 @@
+{"pattern": "\u0e20\u0e32\u0e29\u0e32\u0e41\u0e21 \u0e48 \u0e02\u0e2d\u0e07 [X] \u0e04\u0e37\u0e2d [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "\u0e20\u0e32\u0e29\u0e32\u0e41\u0e21 \u0e48 \u0e02\u0e2d\u0e07 [X] \u0e04\u0e37\u0e2d [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] \u0e40\u0e1b \u0e47 \u0e19\u0e20\u0e32\u0e29\u0e32\u0e41\u0e21 \u0e48 \u0e02\u0e2d\u0e07 [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] \u0e04\u0e37\u0e2d\u0e20\u0e32\u0e29\u0e32\u0e41\u0e21 \u0e48 \u0e02\u0e2d\u0e07 [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

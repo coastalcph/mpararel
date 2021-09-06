@@ -1,0 +1,5 @@
+{"pattern": "[X] [Y]-ko kidea da.", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] [Y] erakundearen erakundearena da.", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] [Y] erakundearen zati bat da.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] [y] rekin afiliatuta dago.", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] erakundearekin afiliatuta dago.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

@@ -1,0 +1,10 @@
+{"pattern": "[X] \u0c2a\u0c4d\u0c30\u0c27\u0c3e\u0c28 \u0c15\u0c3e\u0c30\u0c4d\u0c2f\u0c3e\u0c32\u0c2f\u0c02 [Y] \u0c09\u0c02\u0c26\u0c3f.", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "[X] \u0c2a\u0c4d\u0c30\u0c27\u0c3e\u0c28 \u0c15\u0c3e\u0c30\u0c4d\u0c2f\u0c3e\u0c32\u0c2f\u0c02 [Y] \u0c09\u0c02\u0c26\u0c3f.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] \u0c2a\u0c4d\u0c30\u0c27\u0c3e\u0c28 \u0c15\u0c3e\u0c30\u0c4d\u0c2f\u0c3e\u0c32\u0c2f\u0c02 [Y] \u0c09\u0c02\u0c26\u0c3f.", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] [X] \u0c05\u0c27\u0c3f\u0c28\u0c47\u0c24 \u0c15\u0c32\u0c3f\u0c17\u0c3f.", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] [Y] \u0c32\u0c4b \u0c2a\u0c4d\u0c30\u0c27\u0c3e\u0c28 \u0c15\u0c3e\u0c30\u0c4d\u0c2f\u0c3e\u0c32\u0c2f\u0c02 \u0c09\u0c02\u0c26\u0c3f.", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] [X] \u0c2f\u0c4a\u0c15\u0c4d\u0c15 \u0c2a\u0c4d\u0c30\u0c27\u0c3e\u0c28 \u0c15\u0c3e\u0c30\u0c4d\u0c2f\u0c3e\u0c32\u0c2f\u0c02 \u0c09\u0c02\u0c26\u0c3f.", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] \u0c2f\u0c4a\u0c15\u0c4d\u0c15 \u0c2a\u0c4d\u0c30\u0c27\u0c3e\u0c28 \u0c15\u0c3e\u0c30\u0c4d\u0c2f\u0c3e\u0c32\u0c2f\u0c02 [Y] \u0c09\u0c02\u0c26\u0c3f.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], \u0c26\u0c3e\u0c28\u0c3f \u0c2a\u0c4d\u0c30\u0c27\u0c3e\u0c28 \u0c15\u0c3e\u0c30\u0c4d\u0c2f\u0c3e\u0c32\u0c2f\u0c02 [Y] \u0c09\u0c02\u0c26\u0c3f.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] \u0c09\u0c02\u0c26\u0c3f [X] \u0c39\u0c4c\u0c38\u0c4d.", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] [Y] \u0c06\u0c27\u0c3e\u0c30\u0c2a\u0c21\u0c3f \u0c09\u0c02\u0c1f\u0c41\u0c02\u0c26\u0c3f.", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

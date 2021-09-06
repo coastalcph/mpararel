@@ -1,0 +1,4 @@
+{"pattern": "[X] er \u00ed eigu [y].", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] eigandi [y].", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] \u00e1 [x].", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "The [y] -owned [x]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

@@ -1,0 +1,9 @@
+{"pattern": "[X] perthynas rywiol \u00e2'r perthynas \u00e2 [Y].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] sydd wedi perthynas rywiol \u00e2 [X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] clymu tasgiau sydd \u00e2 [Y].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] teiau sydd \u00e2 perthynas rywiol \u00e2 [X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] Mae gan yr un perthynas \u00e2 [Y].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] sydd wedi cael perthynas rywiol \u00e2 [X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] sydd wedi ei gysylltu \u00e2'r perthynas rywiol \u00e2 [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] sydd wedi cychwyn, sydd \u00e2 perthynas rywiol \u00e2 [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], sy'n clymu pob tasgtictic \u00e2 [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

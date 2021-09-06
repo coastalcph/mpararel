@@ -1,0 +1,14 @@
+{"pattern": "[X] [Y ]'nin ba\u015fkentidir.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] sermayesi [x].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] ba\u015fkenti [x].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] [Y] ba\u015fkentidir.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] sermayesi, [x].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] 'nin ba\u015fkenti, [x].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] sermayesi [x].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] 'nin ba\u015fkenti [x].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], [Y] ba\u015fkenti.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], [Y] ba\u015fkenti.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], bu [Y] ba\u015fkentidir.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], bu [Y] ba\u015fkentidir.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], sermayeye sahip [x].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], ba\u015fkent olan [x].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

@@ -1,0 +1,13 @@
+{"pattern": "[X] func\u021bioneaz\u0103 \u00een domeniul [y].", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] este specializat\u0103 \u00een [y].", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] este specializarea [x].", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Expertiza [x] este [y].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[Y] este expertiza [x].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Domeniul de activitate al [x] este [Y].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Domeniul de lucru al [x] este [Y].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y] este domeniul de activitate al [X].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] zona de lucru este [y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "Domeniul de munc\u0103 al lui X] este [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[Domeniul de activitate al X] este [Y].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "Expertiza lui X] este [y].", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] func\u021bioneaz\u0103 \u00een zona [y].", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

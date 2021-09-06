@@ -1,0 +1,5 @@
+{"pattern": "[X] [Y] 'un bir \u00fcyesidir.", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] [Y] organizasyonuna aittir.", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] [Y] organizasyonunun bir par\u00e7as\u0131d\u0131r.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] [Y] ile ili\u015fkilidir.", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] [Y] organizasyonuna ba\u011fl\u0131d\u0131r.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

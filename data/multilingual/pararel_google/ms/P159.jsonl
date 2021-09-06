@@ -1,0 +1,10 @@
+{"pattern": "Ibu pejabat [X] berada dalam [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Ibu Pejabat [X] berada dalam [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Ibu pejabat [X] terletak di [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] Mengandungi ibu pejabat [X].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] beribu pejabat di [y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] mempunyai ibu pejabat [X].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] ibu pejabat berada dalam [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], yang ibu pejabatnya berada dalam [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] adalah rumah kepada [x].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] adalah berdasarkan [Y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

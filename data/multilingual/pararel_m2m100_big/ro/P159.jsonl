@@ -1,0 +1,10 @@
+{"pattern": "Scaunul lui X este \u00een [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Sediul central al [X] este \u00een [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Sediul central al [X] este situat \u00een [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[i] cuprinde sediul central al [x]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] este sediul \u00een [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "El are sediul central al [X].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] sediul central este \u00een [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], al c\u0103ror sediu este \u00een [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "\u00cen cas\u0103 se g\u0103se\u015fte,", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] se bazeaz\u0103 pe [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

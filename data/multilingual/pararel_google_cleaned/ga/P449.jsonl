@@ -1,0 +1,11 @@
+{"pattern": "[X] a craoladh ar dt\u00fas ar [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "is \u00e9 [X] n\u00e1 t\u00fas a chur le [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "is \u00e9 [Y] n\u00e1 t\u00fas a chur le [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] d\u00edbeartha [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] d\u00edbirt ar [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "an [Y] den [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "an [Y] scaoileadh [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "scaoileadh [X] ar [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] scaoilte [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] ar an gc\u00e9ad dul s\u00edos ar [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] premieres ar [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

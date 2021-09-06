@@ -1,0 +1,11 @@
+{"pattern": "[X] gouf urspr\u00e9nglech op [Y] ageriicht.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] ass op der Debut op [y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] ass ze debut\u00e9ieren [x].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] Debut\u00e9iert [x].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] Debut\u00e9iert op [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "den [y] Debut vun [x].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "den [y] Fr\u00e4iloossung vun [x].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] gouf op [y] ver\u00ebffentlecht.", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] ver\u00ebffentlecht [x].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] Premier op [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Premier op [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

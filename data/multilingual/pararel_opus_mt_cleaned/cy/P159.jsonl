@@ -1,0 +1,10 @@
+{"pattern": "Mae'r pennaeth (XX) o [X] yn [Y]", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "mae'r pencadlys o [X] yn [X]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Mae'r pennaeth (X) o [X] yn cael ei lleoli mewn [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] yn cynnwys y pencadlys [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] Mae'r penX (X) yn cael ei ben yn [Y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] Mae gan y pencadlys [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] yn y pencadlys yn [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], sydd yn y pencadlys yn [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] yn gartref i [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

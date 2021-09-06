@@ -1,0 +1,9 @@
+{"pattern": "Gjuha zyrtare e [X] \u00ebsht\u00eb [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Gjuha zyrtare e [X] \u00ebsht\u00eb gjuha [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] \u00ebsht\u00eb gjuha zyrtare e [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Gjuha [Y] \u00ebsht\u00eb gjuha zyrtare e [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "N\u00eb [X], [Y] \u00ebsht\u00eb gjuha zyrtare.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "Zyrtarisht, [Y] \u00ebsht\u00eb gjuha e [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ligji n\u00eb [X] shpall [Y] gjuh\u00ebn zyrtare.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Ligji n\u00eb [X] e p\u00ebrkufizon [Y] si gjuh\u00eb zyrtare.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Ligji n\u00eb [X] e p\u00ebrkufizon gjuh\u00ebn [Y] si gjuh\u00eb zyrtare.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

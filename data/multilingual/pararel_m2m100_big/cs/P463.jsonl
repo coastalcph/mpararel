@@ -1,0 +1,5 @@
+{"pattern": "[X] je \u010dlenem skupiny [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] pat\u0159\u00ed k organizaci [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] je sou\u010d\u00e1st\u00ed [Y] organizace.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] je spojena s [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] je p\u0159idru\u017een k [Y] organizaci.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

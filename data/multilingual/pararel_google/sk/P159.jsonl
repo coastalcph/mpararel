@@ -1,0 +1,10 @@
+{"pattern": "\u00dastredie [x] je v [y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "\u00dastredie [x] je v [y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "\u00dastredie [x] sa nach\u00e1dza v [y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] obsahuje \u00fastredie [x].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] je s\u00eddlo v [y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] m\u00e1 s\u00eddlo [x].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "\u00dastredie [x] s\u00fa v [y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], ktor\u00e9ho \u00fastredie s\u00fa v [y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] je domovom [x].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] je zalo\u017een\u00fd v [y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

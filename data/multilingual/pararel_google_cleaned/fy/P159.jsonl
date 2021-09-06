@@ -1,0 +1,10 @@
+{"pattern": "it haadkant fan [X] is yn [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "it haadkertier fan [X] is yn [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "It haadkant fan [X] leit yn [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] befettet it haadkertier fan [X].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] is haadkantoar yn [Y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] hat it haadkertier fan [X].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] fan x] binne yn [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], Waans haadkertier binne yn [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] is th\u00fas nei [X].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] is basearre yn [Y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

@@ -1,0 +1,14 @@
+{"pattern": "[X]\u306f[Y]\u306b\u8a2d\u7acb\u3055\u308c\u307e\u3057\u305f\u3002", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X]\u3001\u8a2d\u7acb\u3055\u308c\u305f[Y]\u3002", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "\u25cf\u300cX\u300d\u306f\u300cY\u300d\u3067\u8a2d\u7acb\u3055\u308c\u305f\u3002", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X]\u3001\u305d\u308c\u306f[Y]\u3067\u958b\u59cb\u3055\u308c\u307e\u3057\u305f\u3002", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] \u306f [Y] \u3067\u958b\u59cb\u3057\u307e\u3057\u305f\u3002", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] \u306f [Y] \u3067\u958b\u59cb\u3055\u308c\u307e\u3057\u305f", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X]\u3001\u305d\u308c\u306f[Y]\u3067\u4f5c\u6210\u3055\u308c\u307e\u3057\u305f\u3002", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X]\u3001[Y]\u3067\u4f5c\u6210\u3002", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] \u306f [Y] \u3067\u4f5c\u6210\u3055\u308c\u307e\u3057\u305f\u3002", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X]\u3001\u305d\u308c\u306f[Y]\u306b\u7531\u6765\u3057\u307e\u3059\u3002", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] \u306f [Y] \u3067\u767a\u751f\u3057\u307e\u3057\u305f\u3002", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] [Y]\u3067\u5f62\u6210\u3002", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X]\u306f[Y]\u306b\u5f62\u6210\u3055\u308c\u305f\u3002", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X]\u3001\u305d\u308c\u306f[Y]\u3067\u5f62\u6210\u3055\u308c\u305f\u3002", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

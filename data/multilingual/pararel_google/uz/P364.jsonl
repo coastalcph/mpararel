@@ -1,0 +1,6 @@
+{"pattern": "[X] ning asl tili [y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[X] ning asl tili [y] edi.", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "[X] tili [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] tili [y] edi.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] [x] tilidir.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] [x] tili edi.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

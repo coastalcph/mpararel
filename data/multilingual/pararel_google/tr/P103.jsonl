@@ -1,0 +1,4 @@
+{"pattern": "[X] 'nin ana dilidir.", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X] anadilinin [Y].", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] [x] 'nin ana dilidir.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] [x] 'nin anadilidir.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

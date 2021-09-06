@@ -1,0 +1,18 @@
+{"pattern": "[X] [Y] -ban \u00edrt\u00e1k.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] az [Y] -ben van \u00edrva.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] az [Y] nyelven \u00edrt.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] az [Y] nyelven van \u00edrva.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], az [Y] nyelven \u00edrt.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "az [X] nyelv [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Az [X] nyelve [Y] volt.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] egy [Y] -eluage munka.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] egy [Y] -eluage munka.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], A [Y] -el\u00e9gtelens\u00e9g.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], egy [Y] -el\u00e9gtelens\u00e9g.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] volt egy [Y] -el\u00e9gtelens\u00e9g.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] volt egy [Y] -el\u00e9gtelens\u00e9g.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] az [Y] nyelven v\u00e9gzett munka.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] az [Y] nyelven v\u00e9gzett munka volt.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Az [Y] -megk\u00e9sz\u00edt\u00e9s [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] az [X] nyelve.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] volt az [X] nyelve.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

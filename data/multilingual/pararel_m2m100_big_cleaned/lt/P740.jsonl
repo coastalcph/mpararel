@@ -1,0 +1,14 @@
+{"pattern": "[X] buvo \u012fsteigtas \u012f [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], \u012fsteigtas \u012f [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] Tai buvo \u012fkurta [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], tai buvo prad\u0117ta [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] prad\u0117jo nuo [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] buvo prad\u0117ta nuo [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "ir tai buvo sukurta [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], kuri buvo sukurta pagal [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] buvo sukurtas \u012f [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], kuris buvo prad\u0117tas [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] prad\u0117jo nuo [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] buvo suformuota \u012f [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] buvo suformuota \u012f [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X], tai buvo suformuota [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

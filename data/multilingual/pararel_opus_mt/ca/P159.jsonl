@@ -1,0 +1,10 @@
+{"pattern": "La quarta part del cap de [X] est\u00e0 en [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "La seu de [X] est\u00e0 en [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "La quarta part del cap de [X] est\u00e0 ubicada en [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] cont\u00e9 el quarter general de [X].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] est\u00e0 situat en un quart nombre en [Y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] t\u00e9 el quarter general de [X].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "El quarter general d'en [X] est\u00e0 en [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], el seu quarter general est\u00e0 en [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] \u00e9s casa a [X].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] est\u00e0 basat en [Y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

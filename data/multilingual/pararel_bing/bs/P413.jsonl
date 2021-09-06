@@ -1,0 +1,6 @@
+{"pattern": "[X] igra na [Y] poziciji.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] igra na poziciji [Y].", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X], koji igra na [Y] poziciji.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "igranje kao [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "igranje kao [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[X] igra kao [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

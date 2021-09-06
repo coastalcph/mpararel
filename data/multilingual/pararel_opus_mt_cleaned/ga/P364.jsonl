@@ -1,0 +1,6 @@
+{"pattern": "Is \u00e9 an teanga bhunaidh de [X] [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "An teanga bhunaidh de [X] Ba [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Is \u00e9 an teanga de [X] [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ba \u00ed an teanga [X] [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] Is \u00e9 an teanga de [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] Ba \u00ed an teanga de [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

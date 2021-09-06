@@ -1,0 +1,6 @@
+{"pattern": "Is \u00e9 buntheanga [X] [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Ba \u00e9 buntheanga [X] [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Is \u00e9 teanga [X] [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ba \u00e9 teanga [X] [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "is \u00e9 [Y] teanga [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "ba \u00e9 [Y] teanga [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

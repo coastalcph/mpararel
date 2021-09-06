@@ -1,0 +1,5 @@
+{"pattern": "[X] haszn\u00e1lt a munka sor\u00e1n [Y].", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] tal\u00e1ltak munk\u00e1t a [Y] ter\u00fclet\u00e9n", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] a munkahelyen dolgozott", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] dolgozott a [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] munk\u00e1t v\u00e9gzett a [Y] ter\u00fclet\u00e9n.", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}

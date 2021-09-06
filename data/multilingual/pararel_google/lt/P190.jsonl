@@ -1,0 +1,4 @@
+{"pattern": "[X] ir [Y] yra \"Twin\" miestai.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] ir [x] yra \"Twin\" miestai.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] yra dvigubas miestas [x].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] yra dvigubas [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

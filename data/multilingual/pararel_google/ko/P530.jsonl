@@ -1,0 +1,9 @@
+{"pattern": "[x]\ub294 [Y]\uc640 \ud568\uaed8 \uc678\uad50 \uad00\uacc4\ub97c \uc720\uc9c0\ud569\ub2c8\ub2e4.", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y]\ub294 [x]\uc640 \uc678\uad50 \uad00\uacc4\ub97c \uc720\uc9c0\ud569\ub2c8\ub2e4.", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[x]\ub294 [Y]\uc640\uc758 \uc678\uad50 \uad00\uacc4\ub97c \ubb36\ub294\ub2e4.", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y]\ub294 [x]\uc640\uc758 \uc678\uad50 \uad00\uacc4\ub97c \ubb36\ub294\ub2e4.", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[x]\ub294 [y]\uc640\uc758 \uc678\uad50 \uad00\uacc4\uac00\uc788\ub2e4.", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y]\ub294 [x]\uc640\uc758 \uc678\uad50 \uad00\uacc4\ub97c \uac00\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4.", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[x], [Y]\uc640\uc758 \uc678\uad50 \uad00\uacc4\uac00\uc788\ub294", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[x]\uc640\uc758 \uc678\uad50 \uad00\uacc4\uac00\uc788\ub294 [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[x]\uc640 \uc678\uad50 \uad00\uacc4\ub97c \ubb36\ub294 \u3010Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

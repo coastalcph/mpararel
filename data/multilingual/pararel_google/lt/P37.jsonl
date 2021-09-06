@@ -1,0 +1,9 @@
+{"pattern": "Oficiali [x] kalba yra [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Oficiali [x] kalba yra [Y] kalba.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] yra oficiali kalba [x].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] kalba yra oficiali [x] kalba.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] [Y] yra oficiali kalba.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "Oficialiai [Y] yra [x] kalba.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "\u012estatymas [x] deklaruoja oficiali\u0105 kalb\u0105.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "\u012estatymas [x] apibr\u0117\u017eia [y] kaip oficiali\u0105 kalb\u0105.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "\u012estatymas [x] apibr\u0117\u017eia [Y] kalb\u0105 kaip oficiali\u0105 kalb\u0105.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

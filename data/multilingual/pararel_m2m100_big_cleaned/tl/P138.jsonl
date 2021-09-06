@@ -1,0 +1,20 @@
+{"pattern": "[X] ang pangalan ay pagkatapos ng [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "nagsisimula ang pag-aaral pagkatapos ng pag-aaral.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X] ay may pangalan para sa [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] ang pangalan ng mga ito ay:", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], na ang pangalan ay ibinigay pagkatapos [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X], na ang pangalan ay ibinigay pagkatapos ng [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X], na ang pangalan ay para sa [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X], na may pangalan para sa [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], ang pangalan ay para sa [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[X], ang pangalan ay pagkatapos ng [Y]", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] ay may pangalan sa honor ng [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] ay inihahanda sa honor ng [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] ang pangalan ng mga ito ay ang pangalan ng mga ito.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], na may pangalan sa honor ng [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], na may pangalan sa honor ng [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "pagkatapos ay inihayag na siya.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "pagkatapos ay inilabas na siya.", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[X], na kung saan ay tinatawag na pagkatapos [Y].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "pagkatapos ay inihayag na siya.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "pagkatapos ay inilabas na siya.", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

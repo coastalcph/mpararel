@@ -1,0 +1,13 @@
+{"pattern": "[X] travay nan jaden an nan [Y]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] se espesyalize nan [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] se espesyalize nan [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Eksp\u00e8 nan [X] se [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[Y] se konesans nan [X]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Domain nan aktivite nan [X] se [Y].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Domain nan travay nan [X] se [Y].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y] se dom\u00e8n nan aktivite nan [X].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] nan z\u00f2n nan travay se [Y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X] dom\u00e8n nan travay se [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X] dom\u00e8n nan aktivite se [Y].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[X] se eksp\u00e8tiz nan [Y]", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] travay nan z\u00f2n nan [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

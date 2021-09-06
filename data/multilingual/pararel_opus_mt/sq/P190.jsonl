@@ -1,0 +1,4 @@
+{"pattern": "[X] dhe [Y] jan\u00eb qytetet binjake.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] dhe [X] jan\u00eb qytetet binjake.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] \u00ebsht\u00eb nj\u00eb qytet binjak [X].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb qytet binjak i [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

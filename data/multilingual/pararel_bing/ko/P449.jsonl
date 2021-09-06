@@ -1,0 +1,11 @@
+{"pattern": "[X]\ub294 \uc6d0\ub798 [Y]\uc5d0 \ubc29\uc601\ub418\uc5c8\uc2b5\ub2c8\ub2e4.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X]\ub294 [Y]\uc5d0 \ub370\ubdd4\ud558\ub294 \uac83\uc785\ub2c8\ub2e4.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "\u3010Y\u3011\ub294 \ub370\ubdd4\ud558\ub294 \u3010 X \u3011\uc785\ub2c8\ub2e4.", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y]\ub294 [X]\ub97c \ub370\ubdd4\uc2dc\ucf30\uc2b5\ub2c8\ub2e4.", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X]\ub294 [Y]\uc5d0 \ub370\ubdd4\ud588\uc2b5\ub2c8\ub2e4.", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X]\uc758 [Y] \ub370\ubdd4.", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "\u3010X\u3011\uc758 \u3010Y\u3011\uc758 \ubc1c\ub9e4.", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "\u3010X\u3011\ub294 [Y]\uc5d0 \ubc1c\ub9e4\ub418\uc5c8\uc2b5\ub2c8\ub2e4.", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "\u3010 Y \u3011\uac00 \ucd9c\uc2dc [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X]\uc5d0\uc11c \ucd08\uc5f0.", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X]\ub294 [Y]\uc5d0 \ucd08\uc5f0\ub429\ub2c8\ub2e4.", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

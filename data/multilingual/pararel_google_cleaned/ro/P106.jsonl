@@ -1,0 +1,11 @@
+{"pattern": "[X] este o profesie [Y].", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] este o profesie [Y].", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] este un [Y] prin instruire.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] este o [Y] prin instruire.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] func\u021bioneaz\u0103 ca [Y].", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], care lucreaz\u0103 ca [Y].", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "ocupa\u021bia lui x] este [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "ocuparea [X] este [Y].", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "profesia lui x este o [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "profesia lui x este o [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "profesia [X] este [Y].", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

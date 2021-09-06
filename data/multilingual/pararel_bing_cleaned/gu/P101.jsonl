@@ -1,0 +1,13 @@
+{"pattern": "[X] [Y]\u0aa8\u0abe \u0a95\u0acd\u0ab7\u0ac7\u0aa4\u0acd\u0ab0\u0aae\u0abe\u0a82 \u0a95\u0abe\u0aae \u0a95\u0ab0\u0ac7 \u0a9b\u0ac7.", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] [Y]\u0aae\u0abe\u0a82 \u0aa8\u0abf\u0ab7\u0acd\u0aa3\u0abe\u0aa4 \u0a9b\u0ac7.", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] \u0a8f [X]\u0aa8\u0ac1\u0a82 \u0ab5\u0abf\u0ab6\u0ac7\u0ab7\u0aa4\u0abe \u0a9b\u0ac7.", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "[X]\u0aa8\u0ac0 \u0a95\u0ac1\u0ab6\u0ab3\u0aa4\u0abe [Y] \u0a9b\u0ac7.", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[Y] \u0a8f [X]\u0aa8\u0ac0 \u0a95\u0ac1\u0ab6\u0ab3\u0aa4\u0abe \u0a9b\u0ac7.", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[X] \u0aa8\u0ac0 \u0aaa\u0acd\u0ab0\u0ab5\u0ac3\u0aa4\u0acd\u0aa4\u0abf\u0aa8\u0ac1\u0a82 \u0a95\u0acd\u0ab7\u0ac7\u0aa4\u0acd\u0ab0 [Y] \u0a9b\u0ac7.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] \u0aa8\u0ac1\u0a82 \u0a95\u0abe\u0ab0\u0acd\u0aaf\u0aa8\u0ac1\u0a82 \u0a95\u0acd\u0ab7\u0ac7\u0aa4\u0acd\u0ab0 [Y] \u0a9b\u0ac7.", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y] \u0a8f [X]\u0aa8\u0ac0 \u0aaa\u0acd\u0ab0\u0ab5\u0ac3\u0aa4\u0acd\u0aa4\u0abf\u0aa8\u0ac1\u0a82 \u0a95\u0acd\u0ab7\u0ac7\u0aa4\u0acd\u0ab0 \u0a9b\u0ac7.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X]\u0aa8\u0ac1\u0a82 \u0a95\u0abe\u0aae\u0aa8\u0ac1\u0a82 \u0a95\u0acd\u0ab7\u0ac7\u0aa4\u0acd\u0ab0 [Y] \u0a9b\u0ac7.", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X]\u0aa8\u0ac1\u0a82 \u0a95\u0abe\u0ab0\u0acd\u0aaf\u0aa8\u0ac1\u0a82 \u0a95\u0acd\u0ab7\u0ac7\u0aa4\u0acd\u0ab0 [Y] \u0a9b\u0ac7.", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X]\u0aa8\u0ac1\u0a82 \u0aaa\u0acd\u0ab0\u0ab5\u0ac3\u0aa4\u0acd\u0aa4\u0abf\u0aa8\u0ac1\u0a82 \u0a95\u0acd\u0ab7\u0ac7\u0aa4\u0acd\u0ab0 [Y] \u0a9b\u0ac7.", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[X]\u0aa8\u0ac0 \u0a95\u0ac1\u0ab6\u0ab3\u0aa4\u0abe [Y] \u0a9b\u0ac7.", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] [Y]\u0aa8\u0abe \u0a95\u0acd\u0ab7\u0ac7\u0aa4\u0acd\u0ab0\u0aae\u0abe\u0a82 \u0a95\u0abe\u0aae \u0a95\u0ab0\u0ac7 \u0a9b\u0ac7.", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

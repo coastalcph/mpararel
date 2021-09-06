@@ -1,0 +1,5 @@
+{"pattern": "[X] je \u010dlenom [y].", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] patr\u00ed do organiz\u00e1cie [y].", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] je s\u00fa\u010das\u0165ou [y] organiz\u00e1cie.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] je pridru\u017een\u00e1 k [y].", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] je pridru\u017een\u00e1 k [y] organiz\u00e1cie.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

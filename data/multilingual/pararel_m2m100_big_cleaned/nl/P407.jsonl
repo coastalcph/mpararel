@@ -1,0 +1,18 @@
+{"pattern": "[X] werd in [Y] geschreven", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] is geschreven in [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] werd geschreven in de [Y] taal.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] is geschreven in de [Y] taal.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], geschreven in de taal [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "De taal van [X] is [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "De taal van [X] was [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] is een [Y] taal werk.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] is een [Y] taal werk.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], een [Y] taal werk", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], een [Y] taal werk", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] was een [Y] taal werk.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] was een [Y] taal werk.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] is een werk in de [Y] taal.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] was een werk in de [Y] taal.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "de taal van de schepping", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "het is de taal van [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "het was de taal van [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

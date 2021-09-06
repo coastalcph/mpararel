@@ -1,0 +1,13 @@
+{"pattern": "[X]\u306f[Y]\u3067\u751f\u307e\u308c\u307e\u3057\u305f\u3002", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X]\u306f\u3082\u3068\u3082\u3068[Y]\u304b\u3089\u3067\u3059\u3002", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X]\u306f\u3082\u3068\u3082\u3068[Y]\u304b\u3089\u3067\u3057\u305f\u3002", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X]\u306f[Y]\u306b\u56fa\u6709\u306e\u3082\u306e\u3067\u3059\u3002", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X]\u306f[Y]\u306b\u56fa\u5b9a\u3055\u308c\u3066\u3044\u307e\u3057\u305f\u3002", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X]\u306f[Y]\u304b\u3089\u751f\u3058\u305f\u3002", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X]\u306f[Y]\u304b\u3089\u767a\u751f\u3057\u307e\u3059\u3002", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X]\u306f[Y]\u304b\u3089\u306e\u4eba\u3067\u3057\u305f\u3002", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X]\u306f[Y]\u304b\u3089\u306e\u4eba\u3067\u3057\u305f\u3002", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X]\u306f[Y]  - \u30dc\u30fc\u30f3\u4eba\u3067\u3059\u3002", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X]\u306f[Y]  - \u30dc\u30fc\u30f3\u306e\u4eba\u3067\u3059\u3002", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X]\u3001[Y]  - \u91ce\u751f\u306e\u4eba\u3002", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X]\u3001[Y]  - \u91ce\u751f\u306e\u4eba\u3002", "lemma": "born", "extended_lemma": "born", "tense": "present"}

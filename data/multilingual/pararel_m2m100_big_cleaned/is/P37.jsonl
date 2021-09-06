@@ -1,0 +1,9 @@
+{"pattern": "Tungum\u00e1li\u00f0 \u00e1 [X] er [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Tungum\u00e1li\u00f0 \u00e1 [X] er [Y] tungum\u00e1li\u00f0.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] er opinber tungum\u00e1l [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Tungum\u00e1li\u00f0 [Y] er opinber tungum\u00e1l [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "\u00cd [X], [Y] er opinber tungum\u00e1l.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "[Y] er opinber tungum\u00e1l [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "L\u00f6gin \u00ed [X] l\u00fdsir [Y] opinberri tungum\u00e1li.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "L\u00f6gin \u00ed [X] skilgreinir [Y] sem opinber tungum\u00e1l.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "L\u00f6gin \u00ed [X] skilgreinir [Y] tungum\u00e1l sem opinber tungum\u00e1l.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

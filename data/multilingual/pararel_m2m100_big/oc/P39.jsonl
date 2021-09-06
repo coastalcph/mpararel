@@ -1,0 +1,6 @@
+{"pattern": "[X] es la posicion de [Y].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "Que n'an a l'uelh de la t\u00e8rra,", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "Qu'ei ua nov\u00e8la de las", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "La posicion de [X] es [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "Qu'ei ua nov\u00e8la de las qu'ei segur.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] es la posicion de [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

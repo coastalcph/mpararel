@@ -1,0 +1,6 @@
+{"pattern": "[X] memiliki posisi [Y].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X], yang memiliki posisi [Y].", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X], yang posisinya adalah [Y].", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "Posisi X adalah Y.", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "yang memegang posisi [Y].", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] memegang posisi [Y].", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

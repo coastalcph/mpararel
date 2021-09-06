@@ -1,0 +1,8 @@
+{"pattern": "[X] zomrel v [Y].", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] zomrel v [Y].", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] zomrel v [Y].", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] zomrel na [Y].", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] uplynula na [Y].", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] pri\u0161iel o \u017eivot v [Y].", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] \u017eivot skon\u010dil v [Y].", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] pod\u013eahol [Y].", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

@@ -1,0 +1,18 @@
+{"pattern": "[X] gisulat diha [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] nahisulat diha [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] gisulat diha sa [Y] pinulongan.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] gisulat diha sa [Y] pinulongan.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], nga gisulat diha sa [Y] pinulongan.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Ang pinulongan ni [X] mao [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ang pinulongan ni [X] mao [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[six] maoy usa ka [Y] buluhaton sa pinulongan.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[six] maoy usa ka [Y] buluhaton sa pinulongan.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], usa ka [Y] buluhaton sa pinulongan.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], usa ka [Y] buluhaton sa pinulongan.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[six] maoy usa ka [Y] buluhaton sa pinulongan.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[six] maoy usa ka [Y] buluhaton sa pinulongan.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] maoy usa ka sinulat diha sa [Y] pinulongan.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[six] maoy usa ka sinulat diha sa [Y] pinulongan.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Ang [Y] wala sa panahon nga paglalang [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] mao ang pinulongan ni [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] mao ang pinulongan ni [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

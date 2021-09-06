@@ -1,0 +1,5 @@
+{"pattern": "[X] j\u1eb9 \u1ecdm\u1ecd \u1eb9gb\u1eb9 [Y].", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] ti agbari ti [Y].", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] j\u1eb9 apakan ti agbari [Y]].", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] j\u1eb9 aj\u1ecd\u1e63ep\u1ecd p\u1eb9lu [Y].", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] j\u1eb9 aj\u1ecd\u1e63ep\u1ecd p\u1eb9lu agbari [Y].", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

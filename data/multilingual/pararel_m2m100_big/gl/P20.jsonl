@@ -1,0 +1,8 @@
+{"pattern": "Morreu en X\u00e9nova,", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "Morreu en X\u00e9nova,", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "Xes\u00fas morreu en Xes\u00fas.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "Xes\u00fas morreu no seu lugar.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] que se fixo en [X]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "X) Perdeu a s\u00faa vida en [Y].", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "A vida de X acabou en [Y].", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "X) que se someteu \u00e1", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

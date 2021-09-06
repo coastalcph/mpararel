@@ -1,0 +1,9 @@
+{"pattern": "[X] mizara sisintany amin'ny [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "Sisintany [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] mizara ny sisintany amin'ny [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] mizara ny sisintaniny amin'ny [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] dia mizara sisintany iraisana amin'ny [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "Sisintany [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] mizara ny sisintany amin'ny [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] mizara ny sisintaniny amin'ny [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] mizara sisintany iraisana amin'ny [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

@@ -1,0 +1,9 @@
+{"pattern": "x herritarra da.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "x herritarra da.", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "x, y-b-ko hiritarra.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "x, hau herritarra da.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "x: herritartasuna dauka.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "x: herritartasuna du.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "x, bertako hiritartasuna duena.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "x, b-ren hiritartasuna duena.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[Y]ko hiritar gisa", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

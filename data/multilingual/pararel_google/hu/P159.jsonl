@@ -1,0 +1,10 @@
+{"pattern": "Az [X] sz\u00e9khelye [y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Az [x] sz\u00e9khelye [y] van.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Az [x] sz\u00e9khelye [Y] -ban tal\u00e1lhat\u00f3.", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] tartalmazza az [X] sz\u00e9khely\u00e9t.", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] sz\u00e9khelye [y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] az [X] sz\u00e9khelye.", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "Az [X] sz\u00e9khelye [y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], amelynek k\u00f6zpontja [y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] otthon [x].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] az [Y] -on alapul.", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

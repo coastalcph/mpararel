@@ -1,0 +1,9 @@
+{"pattern": "[X] ina uhusiano wa kidiplomasia na [Y]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] ina uhusiano wa kidiplomasia na [X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] Kuunganisha uhusiano wa kidiplomasia na [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "kwa upande mwingine, kuna uhusiano wa kidiplomasia na x.", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] ina uhusiano wa kidiplomasia na [Y].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "na kuwa na uhusiano wa kidiplomasia.", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X], ambayo ina uhusiano wa kidiplomasia na [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], ambayo ina uhusiano wa kidiplomasia na [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], ambayo huunganisha uhusiano wa kidiplomasia na [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

@@ -1,0 +1,14 @@
+{"pattern": "[X] yw prifddinas [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "prifddinas [Y] yw [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "prifddinas [Y] yw [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] yw prifddinas [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] cyfalaf, [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "prifddinas [Y], [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] yw cyfalaf yw [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "prifddinas [Y] yw [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], prifddinas [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], prifddinas [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], dyna yw prifddinas [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], dyna yw prifddinas [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], sydd \u00e2'r cyfalaf [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], sydd \u00e2'r brifddinas [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

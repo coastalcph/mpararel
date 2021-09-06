@@ -1,0 +1,4 @@
+{"pattern": "[X] adalah milik dari [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[x] dan pemiliknya", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "Dan yang demikian itu adalah milik-Nya.", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Maka dari itu, bagi orang-orang yang memiliki x", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

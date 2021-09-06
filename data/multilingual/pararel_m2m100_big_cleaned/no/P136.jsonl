@@ -1,0 +1,6 @@
+{"pattern": "[X] spiller [Y] musikk", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X], som spiller [Y] musikk", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] spiller med", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "den som spiller,", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "og musikere som er med.", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "musikanter som x.", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

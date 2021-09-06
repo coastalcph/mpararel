@@ -1,0 +1,11 @@
+{"pattern": "[X] u transmetua fillimisht n\u00eb [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] \u00ebsht\u00eb p\u00ebr t\u00eb debutuar n\u00eb [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] \u00ebsht\u00eb t\u00eb debutoj\u00eb [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debutoi [x].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debutoi n\u00eb [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "debutimi [y] i [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "lirimin [y] t\u00eb [x].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] u lirua n\u00eb [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] l\u00ebshuar [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] Premiered n\u00eb [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Premierat n\u00eb [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

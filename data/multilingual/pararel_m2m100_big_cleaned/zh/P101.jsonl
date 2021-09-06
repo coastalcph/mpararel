@@ -1,0 +1,13 @@
+{"pattern": "\u5728\u7530\u4e2d,\u5728\u7530\u4e2d\u3002", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "(x)\u4e13\u6ce8\u4e8e(y)", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "\u5176\u6b21,\u5b83\u662f\u201cx\u201d\u7684\u7279\u6b8a\u6027\u3002", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "\u77e5\u8bc6\u5206\u5b50\u662f( )\u7684\u3002", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "\u662f\u7684,\u662f\u7684,\u662f\u7684,\u662f\u7684,\u662f\u7684,\u662f\u7684\u3002", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "\u5176\u6b21,\u5176\u6b21,\u5176\u6b21,\u5176\u6b21,\u5176\u6b21,\u5176\u6b21,\u5176\u6b21,\u5176\u6b21\u3002", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "\u5176\u529f\u5fb7\u4e3a\u201c\u201d\u7684\u529f\u5fb7\u3002", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "\u5176\u6b21,\u5b83\u662f\u201cx\u201d\u7684\u57df\u540d\u3002", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X]\u7684\u5de5\u4f5c\u533a\u57df\u662f [Y]\u3002", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X]\u7684\u5de5\u4f5c\u9886\u57df\u662f [Y]\u3002", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X]\u7684\u6d3b\u52a8\u9886\u57df\u662f [Y]\u3002", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "\u201d\u201c\u201cx\u201d\u7684\u4e13\u4e1a\u77e5\u8bc6\u662fy\u3002", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "()\u5728()\u7684\u5340\u57df\u5de5\u4f5c\u3002", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

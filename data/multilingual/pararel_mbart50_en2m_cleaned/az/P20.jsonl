@@ -1,0 +1,8 @@
+{"pattern": "x [Y] 'de \u00f6ld\u00fc.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "y 'de \u00f6ld\u00fc.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] d\u00fcnyas\u0131n\u0131 d\u0259yi\u015fdi.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "x 'in d\u00fcnyas\u0131n\u0131 d\u0259yi\u015fdi.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] s\u00f6z\u00fcn y 'de funksiyas\u0131n\u0131 itirib.", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "q-da h\u0259yatlar\u0131n\u0131 itirdil\u0259r.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "x-in h\u0259yat [Y] 'de sona erdi.", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "y 'ye qibt\u0259 edirdi.", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

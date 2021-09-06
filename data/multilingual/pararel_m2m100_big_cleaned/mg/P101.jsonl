@@ -1,0 +1,13 @@
+{"pattern": "ao anaty fitafiana vita amin'ny lamba.", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] dia manam-pahaizana ao amin'ny [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "ary salmona niteraka an'i boaza tamin-drahaba ; ary boaza niteraka an'i obeda tamin-drota ;", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Ny fahalalana momba ny [X] dia [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "izany dia ny fahalalana ny [X].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Ny sehatry ny asan'ny [X] dia ny [Y].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Ny sehatry ny asan'ny [X] dia ny [Y].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "zanak'i nahora sady rain'i abrahama sy i har\u00e0na (rain'i lota) ary i saraha (vadin'i abrahama) izy.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Ny sehatry ny asa [X] dia ny [Y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X] ny sehatry ny asa dia [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X] Ny sehatry ny asa dia [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "ny fahaiza-manaon'ny x dia ny [Y].", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "ao anaty fitafiana vita amin'ny lamba.", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

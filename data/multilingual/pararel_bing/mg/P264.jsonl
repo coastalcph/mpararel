@@ -1,0 +1,17 @@
+{"pattern": "Ny [X] dia aseho amin'ny alalan'ny marika mozika [Y] .", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "Ny [X] dia aseho amin'ny alalan'ny mari-panondroana [Y] .", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] dia asehon'i [Y] .", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], izay asehon'i [Y].", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], izay asehon'i [Y].", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Ny mari-pamantarana ny hira izay maneho [X] dia [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Ny mari-pamantarana hira izay misolo tena [X] dia [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[Y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[Y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] voarakitra ho an'ny [Y].", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] mari-tsoratra : [Y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], navoakan'i [Y].", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] mandrakitra an-tsary ilay mpanakanto [X].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "Mpanakanto [Y] toy ny [X].", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "Mpanakanto [Y] anisan'izany ny [X].", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

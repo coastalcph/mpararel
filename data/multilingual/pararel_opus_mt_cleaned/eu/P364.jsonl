@@ -1,0 +1,6 @@
+{"pattern": "[X](r)en jatorrizko hizkuntza [Y] da.", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[X](r)en jatorrizko hizkuntza [Y] izan zen.", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "x-ren hizkuntza [Y] da.", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "x-ren hizkuntza zen [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] hizkuntza da.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "x-x-ren hizkuntza zen.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

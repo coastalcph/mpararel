@@ -1,0 +1,4 @@
+{"pattern": "[X] wedi ei leoli yn [y].", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] wedi ei leoli yn y cyfandir [y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] yn perthyn i gyfandir [y].", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] yn rhan o gyfandir [y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

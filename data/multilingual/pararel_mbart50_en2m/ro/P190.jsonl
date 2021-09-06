@@ -1,0 +1,4 @@
+{"pattern": "[X] \u015fi [Y] sunt ora\u015fe duble.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] \u015fi [X] sunt ora\u015fe duble.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] este un ora\u015f dublu al [X].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] este un ora\u015f dublu al [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

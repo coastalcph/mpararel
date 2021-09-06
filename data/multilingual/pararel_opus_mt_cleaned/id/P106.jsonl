@@ -1,0 +1,11 @@
+{"pattern": "[X] adalah [Y] oleh profesi.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] adalah [Y] oleh profesi.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "font color = \"# 404040\" x: adalah [Y] oleh pelatihan.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "font color = \"# 404040\" x: adalah [Y] oleh pelatihan.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] bekerja sebagai [Y].", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], yang bekerja sebagai [Y].", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X]'s pendudukan adalah [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "dan sesungguhnya kota itu benar-benar terletak di jalan yang masih tetap (dilalui manusia).", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] profesi adalah [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] profesi adalah [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] adalah profesi [Y].", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

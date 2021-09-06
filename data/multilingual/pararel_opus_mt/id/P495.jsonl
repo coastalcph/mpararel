@@ -1,0 +1,17 @@
+{"pattern": "[X] diciptakan dalam [Y].", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X], yang diciptakan dalam [Y].", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X], diciptakan dalam [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], yang berasal dari [Y].", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] berasal dari [Y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] terbentuk di [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "Font color = \"# 404040\" X: dibentuk di [Y].", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X], yang dibentuk di [Y].", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "Font color = \"# 404040\" X: dirumuskan dalam [Y].", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X], dirumuskan dalam [Y].", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "Font color = \"# 404040\" X:, yang dirumuskan di [Y].", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] dari [Y].", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], yang berasal dari [Y].", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], dari [Y].", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X], yang dikembangkan di [Y].", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] dikembangkan dalam [Y].", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X], berkembang dalam [Y].", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

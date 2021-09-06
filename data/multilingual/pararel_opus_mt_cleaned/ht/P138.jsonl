@@ -1,0 +1,20 @@
+{"pattern": "bib la di [jewova] te rele l apre yo te fin f\u00e8 l konnen kiy\u00e8s li ye.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "yo te rele [ biblik] apre yo te fin ba l non [kris].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "bib la di [jewova] rele l pou [l] mande l f\u00e8 sa k neses\u00e8 pou [l] f\u00e8 l plezi.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "\" yo te rele [l\u00e8z\u00f2m] pou [yo] non l.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[ n\u00f2t anba paj]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[ antrefil\u00e8], yo te rele l apre yo te fin rele l.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[ n\u00f2t anba paj]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[ antrefil\u00e8], non yo te rele pou [yo] a.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[ n\u00f2t anba paj]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[ n\u00f2t anba paj]", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "bib la di yo te konn onore [jewova] l\u00e8 yo te mete l nan plas l\u00f2t moun].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "yo te rele [l\u00e8z\u00f2m] nan on\u00e8 [jewova].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[ antrefil\u00e8], yo rele l nan on\u00e8 [jewova].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[ n\u00f2t anba paj]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[ n\u00f2t anba paj]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "\" yo rele [l\u00e8z\u00f2m] apre [yo] fin rele l.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "yo te rele [l\u00e8z\u00f2m] apre yo te fin ba l non [yo].", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[ n\u00f2t anba paj]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[ n\u00f2t anba paj]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[ n\u00f2t anba paj]", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

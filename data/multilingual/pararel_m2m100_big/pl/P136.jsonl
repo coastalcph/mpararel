@@ -1,0 +1,6 @@
+{"pattern": "[X] gra muzyk\u0119 [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X], kt\u00f3ry gra [Y] muzyk\u0119", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] gra w gr\u0119 [Y]", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X], kt\u00f3ry gra w [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "Muzyka dla muzyk\u00f3w [x]", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "Muzycy tacy jak [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

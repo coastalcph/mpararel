@@ -1,0 +1,16 @@
+{"pattern": "ee vun de gr\u00e9issten st\u00e4ren ass fir jiddereen.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "ee vun de gr\u00e9issten objeten ass ee fir jiddereen.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "ee vun de gr\u00e9issten st\u00e4ren ass fir jiddereen.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "amplaz, datt d'schounfrist n\u00ebmmen \u00ebm ee mount verl\u00e4ngert g\u00ebtt.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "amplaz, datt d'schounfrist n\u00ebmmen \u00ebm ee mount verl\u00e4ngert g\u00ebtt.", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "duerfir g\u00ebtt klenggeschriwwen:", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] ass e Produit vun [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] war e Produit vun [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], e Produit vun [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], e Produit vum [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], e Produit produz\u00e9iert vun [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], e Produit entw\u00e9ckelt vum [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "duerfir g\u00ebtt klenggeschriwwen:", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "duerfir g\u00ebtt klenggeschriwwen:", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "et g\u00ebtt kee gott awer allah an de muhammad ass de messenger vum allah.", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "firwat ee steet, a w\u00e9i eng visioun ee fir l\u00ebtzebuerg h\u00e4tt.", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

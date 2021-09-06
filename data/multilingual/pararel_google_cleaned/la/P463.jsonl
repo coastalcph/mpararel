@@ -1,0 +1,5 @@
+{"pattern": "[X]membrumestet[Y].", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X]pertinetad ordinationem[k].", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X]estpars[k]organization.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X]ibi consociatur[k].", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X]cumibi consociatur sui[k]organization.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

@@ -1,0 +1,6 @@
+{"pattern": "[x] hefur sta\u00f0setningu \u00e1 [y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X], sem hefur st\u00f6\u00f0u \u00e1 [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X], sem er sta\u00f0ur fyrir [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "\u00c1st\u00e6\u00f0an fyrir [X] er [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X], sem er a\u00f0 halda st\u00f6\u00f0u [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] er a\u00f0 halda st\u00f6\u00f0u [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

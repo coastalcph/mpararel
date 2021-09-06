@@ -1,0 +1,11 @@
+{"pattern": "[X] yn wreiddiol yn cael ei ddarlledu ar [y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] yw ymddangosiad cyntaf ar [y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] yw ymddangosiad cyntaf [x].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] a ddadwirio [x].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] Wedi'i ddadansoddi ar [y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "Y cyntaf [y] [x].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "y datganiad [y] [x].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "(X] ei ryddhau ar [y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] a ryddhawyd [x].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] Premiered ar [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Premieres ar [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

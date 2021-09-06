@@ -1,0 +1,9 @@
+{"pattern": "ofici\u00e1lny jazyk [X] je [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "\u00faradn\u00fd jazyk [X] je jazyk [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] je \u00faradn\u00fd jazyk [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "jazyk [Y] je \u00faradn\u00fdm jazykom [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "v [X] je [Y] je \u00faradn\u00fdm jazykom.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "ofici\u00e1lne je jazyk [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "z\u00e1kon v [X] vyhlasuje [Y] \u00faradn\u00fd jazyk.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "z\u00e1kon v [X] definuje [Y] ako \u00faradn\u00fd jazyk.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "z\u00e1kon v [X] definuje jazyk [Y] ako \u00faradn\u00fd jazyk.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

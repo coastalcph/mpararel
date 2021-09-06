@@ -1,0 +1,17 @@
+{"pattern": "[X] \u00ebsht\u00eb krijuar n\u00eb [Y].", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X], q\u00eb u krijua n\u00eb [Y].", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X], krijuar n\u00eb [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], q\u00eb e ka origjin\u00ebn n\u00eb [Y].", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] e ka origjin\u00ebn n\u00eb [Y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] formuar n\u00eb [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] u formua n\u00eb [Y].", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X], q\u00eb u formua n\u00eb [Y].", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] \u00ebsht\u00eb formuluar n\u00eb [Y].", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X], formuluar n\u00eb [Y].", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X], q\u00eb \u00ebsht\u00eb formuluar n\u00eb [Y].", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] ishte nga [Y].", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], i cili ishte nga [Y].", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], nga [Y].", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X], q\u00eb u zhvillua n\u00eb [Y].", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] \u00ebsht\u00eb zhvilluar n\u00eb [Y].", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X], zhvilluar n\u00eb [Y].", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

@@ -1,0 +1,14 @@
+{"pattern": "[X] alap\u00edtott\u00e1k [y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], alap\u00edtott\u00e1k [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] Az [Y] -ban alap\u00edtott\u00e1k.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], az [Y] -ban elindult.", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] elindult [y].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] elindult [y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X], amelyet [Y] hoztak l\u00e9tre.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], l\u00e9trehozva az [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] [Y] -ban j\u00f6tt l\u00e9tre.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], amely [Y] sz\u00e1rmazik.", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] az [Y] -ba ker\u00fclt.", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] [Y] -ban alakult ki.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X], amely [Y] -ban alakult ki.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

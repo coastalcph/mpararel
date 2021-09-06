@@ -1,0 +1,18 @@
+{"pattern": "[x]\u306f[y]\u3067\u66f8\u304b\u308c\u307e\u3057\u305f\u3002", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[x]\u306f[y]\u3067\u66f8\u304b\u308c\u3066\u3044\u307e\u3059\u3002", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[x]\u306f[y]\u8a00\u8a9e\u3067\u66f8\u304b\u308c\u307e\u3057\u305f\u3002", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[x]\u306f[y]\u8a00\u8a9e\u3067\u66f8\u304b\u308c\u3066\u3044\u307e\u3059\u3002", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[x]\u3001[y]\u8a00\u8a9e\u3067\u66f8\u304b\u308c\u3066\u3044\u307e\u3059\u3002", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[x]\u306e\u8a00\u8a9e\u306f[y]\u3067\u3059\u3002", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[x]\u306e\u8a00\u8a9e\u306f[y]\u3067\u3057\u305f\u3002", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[x]\u306f[y]\u8a00\u8a9e\u4f5c\u696d\u3067\u3059\u3002", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[x]\u306f[y]\u8a00\u8a9e\u4f5c\u696d\u3067\u3059\u3002", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X]\u3001[Y]  - \u8a00\u8a9e\u4f5c\u696d\u3002", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X]\u3001[Y]  - \u8a00\u8a9e\u4f5c\u696d\u3002", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[x]\u306f[Y]  - \u8a00\u8a9e\u4f5c\u696d\u3067\u3042\u3063\u305f\u3002", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[x]\u306f[y]  - \u8a00\u8a9e\u4f5c\u696d\u3067\u3042\u3063\u305f\u3002", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[x]\u306f[y]\u8a00\u8a9e\u306e\u4f5c\u696d\u3067\u3059\u3002", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[x]\u306f[y]\u8a00\u8a9e\u3067\u306e\u4f5c\u696d\u3067\u3057\u305f\u3002", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[y] -language creation [x]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[y]\u306f[x]\u306e\u8a00\u8a9e\u3067\u3059\u3002", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[y]\u306f[x]\u306e\u8a00\u8a9e\u3067\u3057\u305f\u3002", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

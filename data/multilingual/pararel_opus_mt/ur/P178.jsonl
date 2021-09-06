@@ -1,0 +1,16 @@
+{"pattern": "[ \u0646\u0642\u0634\u06c1 ]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[ \u0646\u0642\u0634\u06c1 ]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[ \u0646\u0642\u0634\u06c1 ]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "\u067e\u06cc\u062f\u0627 \u06a9\u06cc\u0627 \u06af\u06cc\u0627 \u06c1\u06d2", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "\u06c1\u0645 \u0646\u06d2 \u0627\u0646\u0633\u0627\u0646 \u06a9\u0648 \u067e\u06cc\u062f\u0627 \u06a9\u06cc\u0627 \u06c1\u06d2", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "\u0627\u064f\u0633\u06cc \u0646\u06d2 (\u0627\u0650\u0633 \u06a9\u0627\u0645\u0644) \u0627\u0646\u0633\u0627\u0646 \u06a9\u0648 \u067e\u06cc\u062f\u0627 \u0641\u0631\u0645\u0627\u06cc\u0627\u060c", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[ \u0646\u0642\u0634\u06c1 ]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[%s' \u06a9\u0627 \u0627\u06cc\u06a9 \u067e\u06be\u0644 \u062a\u06be\u0627", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[ \u0646\u0642\u0634\u06c1 ]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[ \u0646\u0642\u0634\u06c1 ]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[ \u0646\u0642\u0634\u06c1 ]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[ \u0646\u0642\u0634\u06c1 ]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[ \u0646\u0642\u0634\u06c1 ]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "\u06a9\u06cc\u0648\u0646\u06a9\u06c1 \u0648\u06c1 \u062e\u0627\u0644\u0642 \u06a9\u06cc \u06a9\u0627\u0631\u06cc\u06af\u0631\u06cc \u06c1\u06d2 \u062c\u0633 \u0646\u06d2 (\u0633\u0628 \u06a9\u0648) \u067e\u06cc\u062f\u0627 \u06a9\u06cc\u0627\u060c", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "(\u0648\u06c1) \u0632\u0646\u062f\u06c1 \u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u0627 \u06c1\u06d2\u060c", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[ \u062a\u0635\u0648\u06cc\u0631 \u0627\u0648\u0631 \u0627\u0633 \u06a9\u06cc \u067e\u06cc\u062f\u0627\u0648\u0627\u0631 ]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

@@ -1,0 +1,13 @@
+{"pattern": "[X] bekerja di bidang [Y]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] adalah spesialis dalam [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] adalah spesialisasi dari [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Pengetahuan dari [X] adalah [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Demikian pula dengan ilmu-ilmu yang lain.", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Di dalam Al-Qur\u2019an terdapat ayat-ayat yang bermaksud:", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Di dalam Al-Qur\u2019an terdapat ayat-ayat yang bermaksud:", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y] adalah domain kegiatan dari [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Area kerja [X] adalah [Y]", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X] adalah domain kerja dari [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X] adalah domain dari kegiatan [Y].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[X] adalah ilmu pengetahuan yang", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] bekerja di daerah [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

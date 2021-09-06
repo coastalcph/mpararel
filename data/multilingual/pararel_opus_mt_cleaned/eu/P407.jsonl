@@ -1,0 +1,18 @@
+{"pattern": "[X] Idatzirik zegoen [Y]n.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] Idatzirik dago [Y]n.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "(x) hizkuntzan idatzi zen.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "(x) hizkuntzan idatzia dago [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "\"x\", \"y\" hizkuntzan idatzia.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "x-ren hizkuntza [Y] da.", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "x-ren hizkuntza zen [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] language lan bat da.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] hizkuntza-lan bat da.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] hizkuntzako lan bat.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] hizkuntza-lan bat.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] language lan bat zen.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] hizkuntza-lan bat zen.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] hizkuntzako lana da.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] hizkeran lan egiten zuen.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] Hizkuntzaren sorrera [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[X] hizkuntza da.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "x-x-ren hizkuntza zen.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

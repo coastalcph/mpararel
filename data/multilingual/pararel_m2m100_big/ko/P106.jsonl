@@ -1,0 +1,11 @@
+{"pattern": "[X] \ub294 \uc9c1\uc5c5\uc5d0 \uc758\ud55c [Y]", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] \ub294 \uc9c1\uc5c5\uc5d0 \uc758\ud55c [Y]", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "\ud6c8\ub828\uc744 \uc704\ud55c \ud6c8\ub828\uc744 \uc704\ud55c \ud6c8\ub828\uc744 \uc704\ud55c \ud6c8\ub828\uc774\ub2e4.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "\ud6c8\ub828\uc744 \uc704\ud55c \ud6c8\ub828\uc740 \ud6c8\ub828\uc744 \uc704\ud55c \ud6c8\ub828\uc774\ub2e4.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[x] \uc77c\ud558\ub294 \uac83\uacfc \uac19\uc740 \uac83", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "\uc77c\ud558\ub294 \uc790\ub294 \uc77c\ud558\ub294 \uc790\uc640 \uac19\uc73c\ub2c8", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X]\uc758 \uc9c1\uc5c5\uc740 [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "\uadf8\uac83\uc740 [X]\uc758 \uc9c1\uc5c5\uc785\ub2c8\ub2e4.", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[ X ]\uc758 \uc9c1\uc5c5\uc740 [ Y ]\uc785\ub2c8\ub2e4.", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[ X ]\uc758 \uc9c1\uc5c5\uc740 [ Y ]\uc785\ub2c8\ub2e4.", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "\uadf8\ub9ac\ud558\uc5ec [X]\uc758 \uc9c1\uc5c5\uc740 [Y]\uc785\ub2c8\ub2e4.", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

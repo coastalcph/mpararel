@@ -1,0 +1,11 @@
+{"pattern": "[X] is a [Y] by profession.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] is a [Y] by profession.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "\u0ab5\u0acd\u0aaf\u0ab5\u0ab8\u0acd\u0aa5\u0abe\u0aaa\u0aa8 \u0926\u094d\u0935\u093e\u0930\u093e [X]", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "\u0ab5\u0acd\u0aaf\u0ab5\u0ab8\u0acd\u0aa5\u0abe\u0aaa\u0aa8 \u0926\u094d\u0935\u093e\u0930\u093e [X]", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] gelyk aan [Y]", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], \u0ab8\u0ab0\u0acd\u0aaa\u0a97\u0acd\u0ab0\u0ac0\u0ab5\u0abe", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X]\u0aa8\u0acb \u0ab5\u0acd\u0aaf\u0ab5\u0ab8\u0abe\u0aaf [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "ocupation of [X] is [Y].", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X]\u0aa8\u0acb \u0935\u0943\u0924\u094d\u0924\u093f \u0627\u06cc\u06a9 [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X]\u0aa8\u0acb \u0935\u0943\u0924\u094d\u0924\u093f \u0627\u06cc\u06a9 [Y]\u10d0\u10d0.", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X]\u0aa8\u0acb \u0935\u0943\u0924\u094d\u0924\u093f [Y] \uc785\ub2c8\ub2e4.", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

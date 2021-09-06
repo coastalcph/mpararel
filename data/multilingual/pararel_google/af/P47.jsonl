@@ -1,0 +1,9 @@
+{"pattern": "[X] deel grens met [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] grens met [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] deel die grens met [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] deel sy grens met [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] deel 'n gemeenskaplike grens met [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] grens met [x].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] deel die grens met [x].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] deel sy grens met [x].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] deel 'n gemeenskaplike grens met [x].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

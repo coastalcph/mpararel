@@ -1,0 +1,8 @@
+{"pattern": "[X]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] mynd i ffwrdd yn ystod [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] mynd i ffwrdd ar [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] wedi darfod ar [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] colli eu bywydau yn ystod y [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] gorffennodd bywydx]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] Ar \u00f4l ei ladd yn y [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

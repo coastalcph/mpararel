@@ -1,0 +1,6 @@
+{"pattern": "iaith wreiddiol [X] yw [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "yr iaith wreiddiol o [X] oedd [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "iaith [X] yw [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "iaith [X] oedd [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] yw iaith [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] oedd iaith [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

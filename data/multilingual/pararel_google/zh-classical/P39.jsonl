@@ -1,0 +1,6 @@
+{"pattern": "[x]\u5177\u6709[Y]\u7684\u4f4d\u7f6e\u3002", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[x]\uff0c\u8ab0\u6709[y]\u7684\u4f4d\u7f6e\u3002", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[x]\uff0c\u5176\u4f4d\u7f6e\u662f[Y]\u7684\u4f4d\u7f6e\u3002", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[x]\u7684\u4f4d\u7f6e\u662f[Y]\u3002", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[x]\uff0c\u8ab0\u64c1\u6709[Y]\u7684\u4f4d\u7f6e\u3002", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[x]\u4fdd\u6301[Y]\u7684\u4f4d\u7f6e\u3002", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

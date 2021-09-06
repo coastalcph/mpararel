@@ -1,0 +1,4 @@
+{"pattern": "[X] deluje za [y].", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X], ki dela za [y].", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] je zaposlen pri [y].", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X], ki je zaposlen pri [y].", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

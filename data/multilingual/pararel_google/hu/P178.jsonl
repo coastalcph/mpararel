@@ -1,0 +1,16 @@
+{"pattern": "[X] az [Y] \u00e1ltal kifejlesztett.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] [Y] kifejlesztett.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X], \u00e1ltal kifejlesztett [y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] az [y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] az [y] -al j\u00f6tt l\u00e9tre", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X], amelyet [Y] hoz l\u00e9tre.", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] az [y] term\u00e9ke", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] az [y] term\u00e9ke volt", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], az [y] term\u00e9ke", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], az [y] \u00e1ltal l\u00e9trehozott term\u00e9k", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], az [y] \u00e1ltal gy\u00e1rtott term\u00e9k", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], az [y] \u00e1ltal kifejlesztett term\u00e9k", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], amely kifejlesztett [x]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y], ami l\u00e9trehozott [x]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y], az [X] alkot\u00f3ja", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] \u00e9s annak a term\u00e9ke [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

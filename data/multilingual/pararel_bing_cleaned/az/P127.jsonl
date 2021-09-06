@@ -1,0 +1,4 @@
+{"pattern": "[X] [Y] \u015firk\u0259tin\u0259 m\u0259xsusdur .", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] sahibi [Y] .", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] [X] sahibidir .", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y]-\u0259 m\u0259xsus [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

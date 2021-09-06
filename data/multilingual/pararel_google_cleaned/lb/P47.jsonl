@@ -1,0 +1,9 @@
+{"pattern": "[X] deelt grenz mat [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] grenzen mat [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] deelt d'grenz mat [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] deelt seng grenz mat [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] deelt eng gemeinsam grenz mat [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] grenzen mat [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] deelt d'grenz mat [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] deelt seng grenz mat [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] deelt eng gemeinsam grenz mat [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

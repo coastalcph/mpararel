@@ -1,0 +1,5 @@
+{"pattern": "[X] az [Y] -ban val\u00f3 munk\u00e1hoz haszn\u00e1lt.", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] foglalkoztatott foglalkoztat\u00e1st [Y].", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] az [Y] -ban alkalmaztuk.", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] [Y] -ban dolgozott.", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] foglalkozott [Y].", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}

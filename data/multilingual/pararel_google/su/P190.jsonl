@@ -1,0 +1,4 @@
+{"pattern": "[X] sareng [Y] mangrupikeun kota kembar.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] sareng [X] mangrupikeun kota kembar.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] mangrupikeun kota kembar [x].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] mangrupikeun kota kembar [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

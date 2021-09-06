@@ -1,0 +1,18 @@
+{"pattern": "[9] iliandikwa kwa [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[9] imeandikwa katika [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] iliandikwa katika lugha [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] imeandikwa kwa lugha [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], yakiwa yameandikwa kwa lugha [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "lugha ya [Y] ni [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "lugha ya [Y] ilikuwa [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[9] ni kazi ya [Y] lugha.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[9] ni kazi ya [Y] lugha.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] ni kitabu [Y] cha lugha.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[9] ni kazi ya [Y] lugha.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[9] ilikuwa kazi ya [Y] lugha.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[9] ilikuwa kazi ya [Y] lugha.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] ni kazi katika lugha [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] ilikuwa kazi katika lugha [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "uumba wa lugha", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] ni lugha ya [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] ilikuwa lugha ya [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] e [Y] s\u00e3o cidades g\u00eameas.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] e [X] s\u00e3o cidades g\u00eameas.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] \u00e9 uma cidade g\u00eamea de [X].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] \u00e9 uma cidade g\u00eamea de [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

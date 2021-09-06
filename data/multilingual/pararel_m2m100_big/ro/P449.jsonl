@@ -1,0 +1,11 @@
+{"pattern": "[X] a fost difuzat ini\u021bial pe [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] este s\u0103 \u00eenceap\u0103 pe [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "Este vorba despre debutul [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "\u015ei s-a n\u0103pustit", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] a debutat pe [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "De la \u00eenceputul lui X.", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "El este eliberat din [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] a fost eliberat pe [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "El a fost eliberat [x]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] a fost lansat pe [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] \u00cen primul r\u00e2nd pe [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

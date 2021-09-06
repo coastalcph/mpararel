@@ -1,0 +1,8 @@
+{"pattern": "[X] stoar yn [y].", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] stoar op [y].", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] ferstoarn yn [Y].", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] ferstoarn op [Y].", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] ferr\u00fbn yn [y].", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] har libben ferlern by [Y].", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] 's It libben einige yn [Y].", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] \u00fbndergie by [Y].", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

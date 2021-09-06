@@ -1,0 +1,11 @@
+{"pattern": "[X] nya\u00e9ta [Y] ku profesi.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] mangrupikeun [Y] ku profesi.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] nya\u00e9ta [Y] ku palatihan.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] mangrupikeun [Y] ku palatihan.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] damel salaku [Y].", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], anu damel sapertos [Y].", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] Dicalasi nya\u00e9ta [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "Pendudukan [X] nya\u00e9ta [Y].", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] Ses prof\u00e9sina nya\u00e9ta [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] Ses prof\u00e9si mangrupikeun [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "profesi [X] nya\u00e9ta [Y].", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

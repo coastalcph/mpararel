@@ -1,0 +1,11 @@
+{"pattern": "[X] dastlab [Y] ustiga havo chiqarildi.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] [Y] da debyut qilish.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] deb hisoblangan [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debyut qilingan [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] ni [Y] da debyut qildi.", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[Y] debyut [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] chiqarilishi [X] ni chiqaring.", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] [Y] ichida chiqarilgan.", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] ozod qilindi [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] [Y] da jarohatlandi.", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] [Y] da.", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

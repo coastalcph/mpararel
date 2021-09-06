@@ -1,0 +1,9 @@
+{"pattern": "[X] compartilha a fronteira com [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] Fronteiras com [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] partilha a fronteira com [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] partilha a sua fronteira com [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] compartilha uma fronteira comum com [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "com os limites do [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "(e) compartilhar a fronteira com [x]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "E divide a sua fronteira com [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] compartilha uma fronteira comum com [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

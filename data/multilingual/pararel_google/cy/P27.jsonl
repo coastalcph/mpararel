@@ -1,0 +1,9 @@
+{"pattern": "[X] yw dinasyddion [y].", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[X] yn ddinesydd o [y].", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X], dinesydd [y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X], sy'n ddinesydd [y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X] yn dal dinasyddiaeth [y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "Mae gan [x] ddinasyddiaeth [y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X], sy'n dal dinasyddiaeth [y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X], sydd \u00e2 dinasyddiaeth [y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "fel dinesydd [y], [x]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

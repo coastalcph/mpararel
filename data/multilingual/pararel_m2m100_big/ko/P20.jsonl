@@ -1,0 +1,8 @@
+{"pattern": "[x] \uc0ac\ub9dd\ud55c \uc790", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[x] \uc0ac\ub9dd\ud55c \uc790", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "\uadf8\ub9ac\ud558\uc5ec X\ub294 \uc0ac\ub9dd\ud558\uc600\ub2e4.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "\uadf8\ub9ac\ud558\uc5ec X\ub294 \uc0ac\ub9dd\ud558\uc600\ub2e4.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "\uadf8\ub9ac\ud558\uc5ec \uadf8\ub4e4\uc740 \uba78\ub9dd\ud558\uc600\ub2e4.", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "\uadf8\ub4e4\uc740 \uadf8\ub4e4\uc758 \uc0b6\uc744 \uc783\uc5b4\ubc84\ub838\ub2e4.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X]\uc758 \uc0b6\uc740 [Y]\uc5d0\uc11c \ub05d\ub0ac\ub2e4", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "\uadf8\ub9ac\ud558\uc5ec \uadf8\ub4e4\uc740 \uba78\ub9dd\uc744 \ub2f9\ud558\uc600\ub2e4.", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

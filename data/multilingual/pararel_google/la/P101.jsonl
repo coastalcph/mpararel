@@ -1,0 +1,13 @@
+{"pattern": "[X]operaturinagro[K].", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X]specialitas in[K].", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[V]est,qui specializationem?[X].", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Disciplina[X]autem[A].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[V]estadperitiam[X].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Agerautemestoperatio[X]autem[A].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Quodopusabdomain[X]autem[A].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[A]dehocactioestabdomain[X].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X]'sspatioopusest,[ego].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X]'sdomainopussit[V].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X]'sactioestabdomain[K].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[X]'speritia est[A].", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X]operaturinarea[K].", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

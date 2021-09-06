@@ -1,0 +1,13 @@
+{"pattern": "amplaz, datt d'schounfrist n\u00ebmmen \u00ebm ee mount verl\u00e4ngert g\u00ebtt.", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "et g\u00ebtt och spezialis\u00e9iert.", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "et handelt sech \u00ebm zw\u00e9i st\u00e4ren, d\u00e9i no beienee leien.", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "D'W\u00ebssenschaft vum [X] ass [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "et g\u00ebtt keen anere w\u00ebssenschaftler.", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "et handelt sech \u00ebm zw\u00e9i st\u00e4ren, d\u00e9i no beienee leien.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "et handelt sech \u00ebm zw\u00e9i st\u00e4ren, d\u00e9i no beienee leien.", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "et handelt sech \u00ebm zw\u00e9i st\u00e4ren, d\u00e9i no beienee leien.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "d'zone vun der aarbecht ass [Y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "d'domain vun der aarbecht ass [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "d'domain vun der aktivit\u00e9it ass [Y].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "D'Expertise vum [X] ass [Y]", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "amplaz, datt d'schounfrist n\u00ebmmen \u00ebm ee mount verl\u00e4ngert g\u00ebtt.", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

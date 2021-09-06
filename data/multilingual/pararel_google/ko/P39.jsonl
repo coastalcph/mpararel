@@ -1,0 +1,6 @@
+{"pattern": "[x]\ub294 [Y]\uc758 \uc704\uce58\ub97c \uac00\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4.", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[x], \ub204\uac00 [Y]\uc758 \uc704\uce58\ub97c \uac00\uc9c0\uace0 \uc788\uc2b5\ub2c8\ub2e4.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[x]\ub294 \ub204\uad6c\uc758 \uc704\uce58\uac00 [Y]\uc758 \uc704\uce58\uc785\ub2c8\ub2e4.", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[x]\uc758 \uc704\uce58\ub294 [y]\uc785\ub2c8\ub2e4.", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[x], [Y]\uc758 \uc704\uce58\ub97c \ubcf4\uc720\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[x] [Y]\uc758 \uc704\uce58\ub97c \ubcf4\uc720\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

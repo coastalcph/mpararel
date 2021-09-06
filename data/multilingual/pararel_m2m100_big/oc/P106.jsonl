@@ -1,0 +1,11 @@
+{"pattern": "[X] es un [Y] de profession.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] es un [Y] de profession.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "Se vol\u00e8tz pas o creire,", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "Se vol\u00e8tz pas o creire,", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] es un trabalh coma [Y]", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "Qu'ei un \u00f2me qu'a de trabalh,", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] es una ocupacion de [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "La t\u00f2ca de [X] es [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "Lo trabalh de [X] es un [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Lo trabalh de [X] es un [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Lo trabalh de [X] es [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

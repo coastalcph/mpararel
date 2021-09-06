@@ -1,0 +1,11 @@
+{"pattern": "[X] is oorspronklik op [Y] gestuur.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] is om te begin op [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "Dit is die oorspronklike oorsprong.", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "Hy is die eerste van die", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] het op [Y] gestuur", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "Die eerste van die [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "Die vrylating van [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] is vrygestel op [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "Hy is vrygelaat.", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "Hy is die eerste van die", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] die eerste keer op [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

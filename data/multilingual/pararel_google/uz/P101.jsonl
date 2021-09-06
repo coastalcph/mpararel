@@ -1,0 +1,13 @@
+{"pattern": "[X] [y] sohasida ishlaydi.", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] [y] ixtisoslashgan.", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] [x] ixtisosligi.", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "[X] ekspertizasi [y].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[Y] [x] ekspertizasi.", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[X] faoliyatining domeni [y].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] ishining domeni [y].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y] [x] faoliyatining domeni.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] ning ish maydoni [y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X] 'ishning domeni [y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X] ning faoliyat domeni [y].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[X] ning tajribasi - bu [y].", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] [y] sohasida ishlaydi.", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

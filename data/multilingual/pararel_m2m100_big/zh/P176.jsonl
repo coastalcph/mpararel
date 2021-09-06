@@ -1,0 +1,12 @@
+{"pattern": "\u662f\u7684,\u5b83\u662f\u7531X(Y)\u6240\u521b\u9020\u7684\u3002", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "\u662f\u7531(x)\u5f00\u53d1\u7684\u3002", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[x],\u7531 [y] \u5f00\u53d1", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X],\u7531 [Y] \u5236\u4f5c", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "\u5275\u9020\u7684,\u5c31\u662f\u5275\u9020\u7684\u3002", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "\u5275\u9020\u7684,\u5c31\u662f\u5275\u9020\u7684\u3002", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "()\u662f()\u7684\u4ea7\u7269\u3002", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "\u662f\u7684,\u662f\u7684,\u662f\u7684,\u662f\u7684\u3002", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "\u5275\u9020\u7684,\u5c31\u662f\u5275\u9020\u7684\u3002", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "(\u4e00)\u7531(\u4e00)\u5f00\u53d1\u7684\u4ea7\u54c1,", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "\u5275\u9020\u4e3b,\u5c31\u662f\u5275\u9020\u4e3b\u3002", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y]\u548c\u5176\u4ea7\u54c1 [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

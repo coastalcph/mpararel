@@ -1,0 +1,16 @@
+{"pattern": "ny x dia natsangana tamin'ny [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "ary ny x dia natsangana tamin'ny y.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "ao anaty fitafiana vita amin'ny lamba.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "ary dia natsangana tamin'ny alalan'ny", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "noforonina tamin'ny [Y] ny x", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "fa andriamanitra tia mpanome amim-pifaliana.", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] dia vokatra avy amin'ny [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] dia vokatra avy amin'ny [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], vokatra avy amin'ny [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], vokatra natsangana tamin'ny [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], vokatra vita amin'ny [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], vokatra novolavolain'ny [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "izany dia niteraka [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "ary izay no namorona ny", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "fa andriamanitra tia mpanome amim-pifaliana.", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] ary ny vokatra [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

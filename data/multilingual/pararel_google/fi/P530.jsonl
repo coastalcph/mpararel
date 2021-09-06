@@ -1,0 +1,9 @@
+{"pattern": "[X] yll\u00e4pit\u00e4\u00e4 diplomaattisuhteita [y]: n kanssa.", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] yll\u00e4pit\u00e4\u00e4 diplomaattisuhteita [X]: n kanssa.", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] Ties Diplomaattisuhteet [Y]: n kanssa.", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] sidokset diplomaattisuhteet [x].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] on diplomaattisuhteita [Y]: n kanssa.", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] on diplomaattisuhteita [X]: n kanssa.", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X], jolla on diplomaattisuhteita [y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], jolla on diplomaattisuhteita [x]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], joka sitoo diplomaattisuhteita [x]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

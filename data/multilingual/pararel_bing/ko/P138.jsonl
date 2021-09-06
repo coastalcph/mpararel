@@ -1,0 +1,20 @@
+{"pattern": "[X]\uc758 \uc774\ub984\uc744 \ub530\uc11c \uba85\uba85\ub429\ub2c8\ub2e4.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X]\ub294 [Y]\uc758 \uc774\ub984\uc744 \ub530\uc11c \uba85\uba85\ub418\uc5c8\uc2b5\ub2c8\ub2e4.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X]\ub294 [Y]\uc758 \uc774\ub984\uc744 \ub530\uc11c \uba85\uba85\ub418\uc5c8\uc2b5\ub2c8\ub2e4.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X]\ub294 [Y]\uc758 \uc774\ub984\uc744 \ub530\uc11c \uba85\uba85\ub418\uc5c8\uc2b5\ub2c8\ub2e4.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[Y]\uc758 \uc774\ub984\uc744 \ub530\uc11c \uba85\uba85\ub41c [X].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[Y]\uc758 \uc774\ub984\uc744 \ub530\uc11c \uba85\uba85\ub41c [X].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[Y]\uc758 \uc774\ub984\uc744 \ub530\uc11c \uba85\uba85\ub41c [X].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[Y]\uc758 \uc774\ub984\uc744 \ub530\uc11c \uba85\uba85\ub41c [X].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], [Y]\uc758 \uc774\ub984\uc744 \ub530\uc11c \uba85\uba85\ub418\uc5c8\uc2b5\ub2c8\ub2e4.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[X], [Y]\uc758 \uc774\ub984\uc744 \ub530\uc11c \uba85\uba85.", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X]\ub294 [Y]\uc758 \uba85\uc608\uc5d0 \uc774\ub984\uc774 \uc9c0\uc815\ub429\ub2c8\ub2e4.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X]\ub294 [Y]\uc758 \uba85\uc608\uc5d0 \uc9c0\uba85\ub418\uc5c8\uc2b5\ub2c8\ub2e4.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], [Y]\uc758 \uba85\uc608\uc5d0 \uc9c0\uba85.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[Y]\uc758 \uba85\uc608\uc5d0 \uc774\ub984\uc774 \uc9c0\uc815\ub41c [X].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[Y]\uc758 \uba85\uc608\uc5d0 \uc9c0\uba85\ub41c [X].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X]\ub294 [Y]\ub97c \ub530\uc11c \ud638\ucd9c\ub429\ub2c8\ub2e4.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X]\ub294 [Y]\ud6c4\uc5d0 \ud638\ucd9c\ub418\uc5c8\uc2b5\ub2c8\ub2e4.", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[Y]\ub77c\uace0 \ubd88\ub9ac\ub294 [X].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[Y]\ub77c\uace0 \ubd88\ub838\ub358 [X].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X], [Y]\ub97c \ub530\uc11c \ud638\ucd9c.", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

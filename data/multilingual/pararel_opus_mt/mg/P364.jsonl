@@ -1,0 +1,6 @@
+{"pattern": "Ny teny tany am - boalohany [X] dia [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[Y] no fitenin'ny olona tany am - boalohany.", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Ny fitenin'ny [X] dia [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[Y] no fitenin'ny [X].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Ny teny [X] no fitenin'ny [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Ny teny [X] no fitenin'ny [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

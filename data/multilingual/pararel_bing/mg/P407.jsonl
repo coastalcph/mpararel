@@ -1,0 +1,18 @@
+{"pattern": "[X] dia nosoratana tao amin'ny [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] dia voasoratra ao amin'ny [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "Nosoratana tamin'ny fiteny [Y] [X].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "Ny [X] dia voasoratra amin'ny fiteny [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], izay voasoratra amin'ny fiteny [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Ny fitenin'ny [X] dia [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[Y] ny fitenin'i [X].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Asa [Y].", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "Asa [Y].", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], asa [amin'ny fiteny Y].", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], asa [amin'ny fiteny Y].", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "Asa [Y].", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "Asa [Y].", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "Asa amin'ny fiteny [Y] ny [X].", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] dia asa tamin'ny fiteny [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Ny famoronana [Y][Y][X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] no fitenin'ny [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] no fitenin'ny [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

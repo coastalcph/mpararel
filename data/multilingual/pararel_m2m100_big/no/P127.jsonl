@@ -1,0 +1,4 @@
+{"pattern": "[X] er eid av [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] er eier av", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "Det er det som tilh\u00f8rer X.", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Den som er i besittelse av X", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

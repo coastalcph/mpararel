@@ -1,0 +1,14 @@
+{"pattern": "Az X-ben alap\u00edtott\u00e1k meg.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], a [Y] \u00e1ltal l\u00e9trehozott", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] Ez volt az alapja a [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], ez kezd\u0151d\u00f6tt a [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] kezd\u0151d\u00f6tt a [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] kezdet\u00e9t vette a [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "Ez volt a teremt\u00e9s (v\u00f6.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], a teremt\u00e9s a [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] A teremt\u00e9sben a", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], amely a [Y] kezdet\u00e9n", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] a [Y] alapj\u00e1ul szolg\u00e1l\u00f3", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] a [Y] form\u00e1j\u00e1ban", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "Az X-ben megalakult a", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] Ez az, ami a [Y] form\u00e1j\u00e1ban j\u00f6tt l\u00e9tre.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

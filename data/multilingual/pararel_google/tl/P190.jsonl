@@ -1,0 +1,4 @@
+{"pattern": "[X] at [y] ay kambal na mga lungsod.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] at [x] ay twin cities.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] ay isang kambal na lungsod ng [x].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] ay isang kambal na lungsod ng [y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

@@ -1,0 +1,13 @@
+{"pattern": "[X] oli syntynyt [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] on alun perin per\u00e4isin [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] oli alun perin per\u00e4isin [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] on syntyper\u00e4inen", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] oli syntynyt [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] on per\u00e4isin [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] on per\u00e4isin [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] oli syntynyt ihminen", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] oli syntynyt ihminen", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[x] on syntynyt ihminen", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[x] on syntynyt ihminen", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[x], joka on syntynyt [y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[x], joka on syntynyt", "lemma": "born", "extended_lemma": "born", "tense": "present"}

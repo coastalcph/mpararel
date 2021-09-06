@@ -1,0 +1,4 @@
+{"pattern": "[X] [Y] -n dago.", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] kontinentean dago [y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] [y] kontinenteari dagokio.", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] [Y] kontinentearen zati bat da.", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

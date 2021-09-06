@@ -1,0 +1,9 @@
+{"pattern": "[X] \u0e41\u0e1a \u0e48 \u0e07\u0e1b\u0e31\u0e19\u0e1e\u0e23\u0e21\u0e41\u0e14\u0e19\u0e01\u0e31\u0e1a [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] \u0e40\u0e02 \u0e49 \u0e32\u0e01\u0e31\u0e1a [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] \u0e41\u0e1a \u0e48 \u0e07\u0e1e\u0e23\u0e21\u0e41\u0e14\u0e19\u0e01\u0e31\u0e1a [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] \u0e41\u0e1a \u0e48 \u0e07\u0e1e\u0e23\u0e21\u0e41\u0e14\u0e19\u0e01\u0e31\u0e1a [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] \u0e21\u0e35\u0e1e\u0e23\u0e21\u0e41\u0e14\u0e19\u0e23 \u0e48 \u0e27\u0e21\u0e01\u0e31\u0e19\u0e01\u0e31\u0e1a [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] \u0e40\u0e02 \u0e49 \u0e32\u0e01\u0e31\u0e1a [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] \u0e41\u0e1a \u0e48 \u0e07\u0e1e\u0e23\u0e21\u0e41\u0e14\u0e19\u0e01\u0e31\u0e1a [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] \u0e41\u0e1a \u0e48 \u0e07\u0e1e\u0e23\u0e21\u0e41\u0e14\u0e19\u0e01\u0e31\u0e1a [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] \u0e21\u0e35\u0e1e\u0e23\u0e21\u0e41\u0e14\u0e19\u0e23 \u0e48 \u0e27\u0e21\u0e01\u0e31\u0e19\u0e01\u0e31\u0e1a [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

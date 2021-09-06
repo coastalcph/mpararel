@@ -1,0 +1,9 @@
+{"pattern": "[X] jakaa rajan [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] rajoittuu [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] jakaa rajan y:n kanssa.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] jakaa rajansa [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] jakaa yhteisen rajan [Y] kanssa.", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] rajoittuu [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "y jakaa rajan x:n kanssa.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "y jakaa rajansa x:n kanssa.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] jakaa yhteisen rajan [X] kanssa.", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

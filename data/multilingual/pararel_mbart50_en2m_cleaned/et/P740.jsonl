@@ -1,0 +1,14 @@
+{"pattern": "[X] asutati [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], asutatud [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] mis asutati [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], see algas [Y].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] algas [Y].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] algas [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X], mis loodi [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], loodud [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] loodi [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], mis p\u00e4rineb [Y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] p\u00e4rines [Y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] moodustatud [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] moodustati [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X], mis moodustati [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

@@ -1,0 +1,10 @@
+{"pattern": "Siedziba [X] znajduje si\u0119 w [Y] .", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Siedziba [X] znajduje si\u0119 w [Y] .", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Siedziba [X] znajduje si\u0119 w [Y] .", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] zawiera siedzib\u0119 [X].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] ma siedzib\u0119 w [Y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] ma siedzib\u0119 [X].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "Siedziba [X] znajduje si\u0119 w [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], kt\u00f3rego siedziba znajduje si\u0119 w [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] jest domem dla [X].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] ma siedzib\u0119 w [Y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

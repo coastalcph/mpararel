@@ -1,0 +1,4 @@
+{"pattern": "[X] este situat \u00een [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] este situat pe continentul [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] face parte din continentul [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] este o parte a continentului din [Y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

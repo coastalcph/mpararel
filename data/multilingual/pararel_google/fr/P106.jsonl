@@ -1,0 +1,11 @@
+{"pattern": "[X] est un [y] par profession.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] est un [y] par profession.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] est un [y] par formation.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] est un [y] par formation.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] fonctionne comme [y].", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], qui travaille comme [y].", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] L'occupation est [y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "L'occupation de [x] est [y].", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] La profession est un [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] La profession est un [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "la profession de [x] est [y].", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

@@ -1,0 +1,12 @@
+{"pattern": "x) \u00ebsht\u00eb krijuar nga [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "(x) \u00ebsht\u00eb zhvilluar nga [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], t\u00eb zhvilluar nga [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], t\u00eb prodhuara nga [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "ai \u00ebsht\u00eb i krijuar nga xh.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "q\u00eb i ka krijuar,", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb produkt i [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], nj\u00eb produkt i [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "x, nj\u00eb produkt i krijuar nga [Y],", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], nj\u00eb produkt i zhvilluar nga [Y],", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "ai \u00ebsht\u00eb krijuesi i x", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] dhe produkti i saj [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

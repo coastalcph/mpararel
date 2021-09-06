@@ -1,0 +1,17 @@
+{"pattern": "[X] luotiin [Y].", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X], joka on luotu [Y].", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X], luotu [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], joka syntyi [Y].", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] on per\u00e4isin [Y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] muodostui [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] muodostettiin [Y].", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X], joka muodostettiin [Y].", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] on muotoiltu [Y].", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X], muotoiltu [Y].", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X] on muotoiltu [Y].", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] oli [Y].", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], joka oli [Y].", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], [Y].", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X], joka kehitettiin [Y].", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] kehitettiin [Y].", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X], kehittyi [Y].", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

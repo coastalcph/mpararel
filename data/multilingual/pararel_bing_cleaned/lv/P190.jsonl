@@ -1,0 +1,4 @@
+{"pattern": "[X] un [Y] ir dv\u012b\u0146u pils\u0113tas.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] un [X] ir dv\u012b\u0146u pils\u0113tas.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] ir dv\u012b\u0146u pils\u0113ta [X].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] ir dv\u012b\u0146u pils\u0113ta [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

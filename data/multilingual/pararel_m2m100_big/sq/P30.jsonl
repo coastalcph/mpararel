@@ -1,0 +1,4 @@
+{"pattern": "[X] \u00ebsht\u00eb i vendosur n\u00eb [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb e vendosur n\u00eb kontinent [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] i p\u00ebrket kontinentit t\u00eb [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb pjes\u00eb e kontinentit t\u00eb [Y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

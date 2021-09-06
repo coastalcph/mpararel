@@ -1,0 +1,10 @@
+{"pattern": "\uadf8\uacf3\uc5d0 \uc788\ub294 \uc790\ub9ac\uc5d0 \uc788\ub294 \uc790\ub9ac\uc5d0 \uc788\ub294 \uc790\ub9ac\uc5d0 \uc788\ub294 \uc790\ub9ac\uc5d0 \uc788\ub294 \uc790\ub9ac\uc5d0 \uc788\ub2e4.", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "\uadf8\uacf3\uc5d0 \uc788\ub294 \uc790\ub9ac\uc5d0 \uc788\ub294 \uc790\ub9ac\uc5d0 \uc788\ub294 \uc790\ub9ac\uc5d0 \uc788\ub294 \uc790\ub9ac\uc5d0 \uc788\ub294 \uc790\ub9ac\uc5d0 \uc788\ub290\ub2c8\ub77c", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X]\uc758 \ubcf8\ubd80\ub294 [Y]\uc5d0 \uc704\uce58\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[x] \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[x] \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294 \ub294", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "\uadf8\ub4e4\uc740 \uadf8\ub4e4\uc758 \uc88c\uc11d\uc744 \uac00\uc9c0\uace0 \uc788\ub2e4.", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X]\uc758 \ubcf8\ubd80\ub294 [Y]\uc5d0 \uc788\uc2b5\ub2c8\ub2e4.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[x] \uadf8\ub4e4\uc758 \ubcf8\ubd80\ub294 [y]\uc5d0 \uc788\uc2b5\ub2c8\ub2e4", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "\uadf8\uacf3\uc740 \uadf8\uacf3\uc758 \uc9d1\uc774\ub2e4.", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] \ub294 [Y] \uc5d0 \uae30\ucd08\ud55c\ub2e4", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

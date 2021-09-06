@@ -1,0 +1,12 @@
+{"pattern": "[X] [y] ishlab chiqariladi.", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] [y] tomonidan ishlab chiqilgan.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], [y] ishlab chiqilgan", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] tomonidan ishlab chiqarilgan [y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] [y] tomonidan yaratilgan.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] tomonidan yaratilgan [y].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] [y] mahsuloti.", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], [y] mahsuloti,", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], [y] tomonidan yaratilgan mahsulot,", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], [y] ishlab chiqilgan mahsulot,", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], [x] Yaratuvchisi", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] va uning mahsuloti [x]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

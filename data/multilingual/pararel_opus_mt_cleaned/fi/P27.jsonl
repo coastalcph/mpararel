@@ -1,0 +1,9 @@
+{"pattern": "[X] on [Y] kansalainen.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[X] on [y:n] kansalainen.", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X], [Y]:n kansalainen.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X], joka on [y:n] kansalainen.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X]:lla on [y:n] kansalaisuus.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] on [Y]:n kansalainen.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X], jolla on [y:n] kansalaisuus.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X], jolla on [y:n] kansalaisuus.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[y:n] kansalaisena [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

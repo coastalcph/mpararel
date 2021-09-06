@@ -1,0 +1,13 @@
+{"pattern": "[X] bekerja di bidang [Y].", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] mengkhususkan diri dalam [Y].", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] adalah spesialisasi [X].", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Keahlian [X] adalah [Y].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "font color = \"# df01d7\" (y) adalah keahlian [X].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Domain aktivitas [X] adalah [Y].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Domain [X] adalah [Y].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "font color = \"# 404040\" y: adalah domain aktivitas [X].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "font color = \"# 404040\" x:'s area kerja adalah [Y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "font color = \"# 404040\" x] domain pekerjaan adalah [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "font color = \"# 404040\" x] domain aktivitas [Y].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[X] keahlian adalah [Y].", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] bekerja di area [Y].", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

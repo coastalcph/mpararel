@@ -1,0 +1,4 @@
+{"pattern": "[X] bertako hizkuntza [y] da.", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X] ama hizkuntza [y] da.", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] [x] bertako hizkuntza da.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] da [x] ama hizkuntza.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

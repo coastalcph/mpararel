@@ -1,0 +1,9 @@
+{"pattern": "[X] membagi perbatasan dengan [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[x] Perbatasan dengan [y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] membagi perbatasan dengan [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] membagi perbatasannya dengan [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] berbagi perbatasan bersama dengan [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "dengan batas-batas yang telah ditetapkan.", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "Dengan demikian, perbatasan dapat dibagi-bagi.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "dan membagi-bagi perbatasannya dengan X.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] berbagi batas bersama dengan [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

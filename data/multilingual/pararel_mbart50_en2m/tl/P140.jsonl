@@ -1,0 +1,4 @@
+{"pattern": "[X] is affiliated with the [Y] religion.", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] \u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u0440\u0435\u043b\u0438\u0433\u0438\u0438 [Y].", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] is follower of [Y].", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[Y] is [X]'s official religion. [Y] is [X]'s official religion.", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

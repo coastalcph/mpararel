@@ -1,0 +1,6 @@
+{"pattern": "[x:n] alkukieli on [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[x:n] alkukieli oli [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "[x:n] kieli on [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[x:n] kieli oli [y:n].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] on [x:n] kieli.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] oli [x:n] kieli.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

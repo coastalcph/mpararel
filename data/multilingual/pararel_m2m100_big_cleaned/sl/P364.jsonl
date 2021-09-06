@@ -1,0 +1,6 @@
+{"pattern": "Izvirni jezik [X] je [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Izvirni jezik [X] je bil [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Jezik [X] je tudi jezik [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Jezik [X] je bil [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "to je jezik, ki ga govorijo.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "to je bil jezik [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

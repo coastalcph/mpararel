@@ -1,0 +1,4 @@
+{"pattern": "[X] teeb t\u00f6\u00f6d [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[x], kes teeb t\u00f6\u00f6d [y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[x] on t\u00f6\u00f6le v\u00f5etud [y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X], kes on t\u00f6\u00f6le v\u00f5etud [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

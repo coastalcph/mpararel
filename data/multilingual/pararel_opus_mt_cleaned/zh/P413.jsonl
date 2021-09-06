@@ -1,0 +1,6 @@
+{"pattern": "[X] \u4ee5 [Y] \u4f4d\u7f6e\u64ad\u653e \u3002", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] \u5904\u4e8e[Y] \u4f4d\u7f6e\u3002", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X],\u8c01\u5728[Y]\u4f4d\u7f6e\u4e0a\u6253\u7403\u3002", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "\u4ee5 [Y] \u3001 [X] \u64ad\u653e", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "\u4ee5 [Y] \u3001 [X] \u64ad\u653e", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[X] \u4ee5 [Y] \u97f3 [Y] \u64ad\u653e", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

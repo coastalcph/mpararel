@@ -1,0 +1,10 @@
+{"pattern": "[X] nin genel merkezi y 'dedir.", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "[X]-in genel merkezi y 'dedir.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] nin genel merkezi [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] ssa [X] n\u0131n genel m\u00fcd\u00fcrl\u00fck binas\u0131 var.", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] n\u0131n genel merkezi [Y]-d\u0259dir.", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] n\u0131n [X] n\u0131n genel merkezi var.", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X]-in genel merkezi y 'dedir.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X]-nin genel merkezi [Y]-d\u0259dir.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "v\u0259 bura x 'in evdir.", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] berbasis [Y]dir.", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

@@ -1,0 +1,11 @@
+{"pattern": "[X] je [Y] pod\u013ea povolania", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] je [Y] pod\u013ea povolania", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] je [Y] pod\u013ea v\u00fdcviku", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] je [Y] pod\u013ea v\u00fdcviku", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] pracuje ako [Y]", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "a kto rob\u00ed to, \u010do rob\u00ed,", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] je zamestnan\u00edm [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "Je to [X] a je to [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] je profesia je [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] je profesia je [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "je to povolanie [X]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

@@ -1,0 +1,13 @@
+{"pattern": "[X] deluje na podro\u010dju [Y]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] je specializiran za [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] je posebnost [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Znanje o [X] je [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "To je znanje o [X].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Na podro\u010dju dejavnosti [X] je [Y].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Domena dela [X] je [Y]", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y] je podro\u010dje dejavnosti [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] je delovno obmo\u010dje [Y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X] je podro\u010dje dela je [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X] je podro\u010dje dejavnosti [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[X] je strokovno znanje [Y]", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] deluje na obmo\u010dju [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

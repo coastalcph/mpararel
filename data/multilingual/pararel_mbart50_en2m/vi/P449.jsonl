@@ -1,0 +1,11 @@
+{"pattern": "[X] \u0111\u01b0\u1ee3c ph\u00e1t s\u00f3ng ban \u0111\u1ea7u tr\u00ean [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] s\u1ebd xu\u1ea5t hi\u1ec7n \u1edf [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] s\u1ebd ra m\u1eaft [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] xu\u1ea5t hi\u1ec7n [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] xu\u1ea5t hi\u1ec7n tr\u00ean [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "s\u1ef1 ra m\u1eaft c\u1ee7a [Y] c\u1ee7a [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "gi\u1ea3i ph\u00f3ng c\u1ee7a [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c ph\u00e1t h\u00e0nh tr\u00ean [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] ph\u00f3ng ra [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c chi\u1ebfu \u1edf [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] di\u1ec5n ra \u1edf [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

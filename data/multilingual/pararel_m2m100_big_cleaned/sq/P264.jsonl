@@ -1,0 +1,17 @@
+{"pattern": "[X] p\u00ebrfaq\u00ebsohet nga etiketimi i muzik\u00ebs [Y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb p\u00ebrfaq\u00ebsuar nga etiket\u00eb [Y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb p\u00ebrfaq\u00ebsuar nga [Y].", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], kjo \u00ebsht\u00eb p\u00ebrfaq\u00ebsuar nga [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "x, i cili p\u00ebrfaq\u00ebsohet nga [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Etiketa e muzik\u00ebs q\u00eb p\u00ebrfaq\u00ebson [X] \u00ebsht\u00eb [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Etiketa e muzik\u00ebs q\u00eb p\u00ebrfaq\u00ebson [X] \u00ebsht\u00eb [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb etiket\u00eb e [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb etiket\u00eb e [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] kompania e regjistrimit \u00ebsht\u00eb [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Etiketa e muzik\u00ebs s\u00eb [X] \u00ebsht\u00eb [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb regjistruar p\u00ebr [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] Etiket\u00eb : [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], t\u00eb l\u00ebshuar nga [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "n\u00eb t\u00eb nj\u00ebjt\u00ebn koh\u00eb, shkrimtari x", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "artist\u00ebt si x.", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "p\u00ebrfshir\u00eb edhe artist\u00ebt x.", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

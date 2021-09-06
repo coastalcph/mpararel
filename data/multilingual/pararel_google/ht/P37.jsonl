@@ -1,0 +1,9 @@
+{"pattern": "Lang ofisy\u00e8l la nan [X] se [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Lang ofisy\u00e8l la nan [X] se lang lan [y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] se lang ofisy\u00e8l lan nan [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] lang lan se lang ofisy\u00e8l lan nan [x].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Nan [x], [y] se lang ofisy\u00e8l lan.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "Ofisy\u00e8lman, [y] se lang lan nan [x].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Lwa a nan [x] deklare [y] lang ofisy\u00e8l lan.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Lwa a nan [x] defini [y] k\u00f2m lang ofisy\u00e8l lan.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Lwa a nan [X] defini lang lan [y] k\u00f2m lang ofisy\u00e8l lan.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

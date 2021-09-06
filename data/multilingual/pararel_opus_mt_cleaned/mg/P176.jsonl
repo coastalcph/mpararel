@@ -1,0 +1,12 @@
+{"pattern": "ny [X] no mamokatra.", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] misy vokany tsara eo amin'ny fiainan'izy ireo izany.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] I [Y] no namorona azy io.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] noforonin'i [Y].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "Vokatr'i [Y] ny [X].", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X] Zavatra noforonin'i [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], vokatra novokarin'i [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], ilay namorona ny [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] sy ny vokatr'izy io [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

@@ -1,0 +1,8 @@
+{"pattern": "[X] \u0a85\u0ab5\u0ab8\u0abe\u0aa8 [Y] \u10e8\u10d8.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] \u0a85\u0ab5\u0ab8\u0abe\u0aa8 [Y] \u104c.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] \u099a\u09b2\u09c7 \u0997\u09bf\u09af\u09bc\u09c7\u099b\u09bf\u09b2 [Y] \u10e8\u10d8.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] \u0a85\u0ab5\u0ab8\u0abe\u0aa8 [Y] \u104c.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] expired at [Y].", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] \u0aa4\u0ac0\u0ab0\u0acd\u0aa5 \u0aae\u0ab9\u0abe\u0ab0\u0abe\u0a9c \u0ab0\u0a9a\u0abf\u0aa4 \u0ab5\u0ac8\u0ab8\u0abe\u0ab0\u0abe.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] \u0b87\u0ba9\u0bcd \u0a9c\u0ac0\u0ab5\u0aa8\u0a9a\u0ab0\u0abf\u0aa4\u0acd\u0ab0 [Y] \u09a4\u09c7 \u10d3\u10d0\u10e1\u10e0\u10e3\u10da\u10d3\u10d0.", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] alistad at [Y].", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

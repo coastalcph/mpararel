@@ -1,0 +1,4 @@
+{"pattern": "[X] Na [y] ni miji ya mapacha.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] na [x] ni miji ya mapacha.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] ni mji wa twin wa [x].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] ni mji wa twin wa [y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

@@ -1,0 +1,9 @@
+{"pattern": "[X] dijeli granicu sa [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] granice sa [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] dijeli granicu sa [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] dijeli granicu sa [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] dijeli zajedni\u010dku granicu sa [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "Grani\u010dne granice sa [x]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "U me\u0111uvremenu, on je podijelio granicu sa [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "U njemu je i njegova granica.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] dijeli zajedni\u010dku granicu sa [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

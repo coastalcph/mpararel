@@ -1,0 +1,3 @@
+{"pattern": "[X] se encuentra en [y].", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X], que se encuentra en [y].", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X], ubicado en [y].", "lemma": "located", "extended_lemma": "located", "tense": "present"}

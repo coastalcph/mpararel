@@ -1,0 +1,17 @@
+{"pattern": "[X] girepresentahan sa musika label [y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] girepresentahan pinaagi sa record label [y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] girepresentahan sa [Y].", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], nga girepresentahan sa [Y].", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], nga girepresentahan sa [Y].", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Ang musika label nga nagrepresentar sa [x] mao ang [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Ang label sa musika nga nagrepresentar sa [x] mao ang [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "Ang label sa [x] 'y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "Ang record sa [x] 'Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] Record Company mao ang [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] musika label mao ang [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] natala alang sa [Y].", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] Label: [Y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], gibuhian sa [Y].", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] pagrekord sa artista [x].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] mga artista sama sa [x].", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] mga artista lakip na [x].", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

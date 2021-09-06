@@ -1,0 +1,6 @@
+{"pattern": "Yr iaith gwreiddiol [X] [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Yr iaith gwreiddiol [X] [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "yr iaith [X] [X]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "yr iaith [X]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] yn iaithx]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] oedd iaith [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

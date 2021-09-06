@@ -1,0 +1,10 @@
+{"pattern": "[X]: n p\u00e4\u00e4konttori on [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "[X]: n p\u00e4\u00e4konttori on [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X]: n p\u00e4\u00e4konttori sijaitsee [Y]: ss\u00e4.", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] sis\u00e4lt\u00e4\u00e4 [x]: n p\u00e4\u00e4konttorin.", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] on p\u00e4\u00e4konttori [y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] on [X]: n p\u00e4\u00e4konttori.", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X]: n p\u00e4\u00e4konttori on [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], jonka p\u00e4\u00e4konttori on [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] on [X]: n kotona.", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] perustuu [y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

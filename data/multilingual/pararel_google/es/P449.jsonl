@@ -1,0 +1,11 @@
+{"pattern": "[X] originalmente se emiti\u00f3 en [y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] es debutar en [y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] es debutar [x].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debut\u00f3 [x].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debutado en [y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "el debut [y] de [x].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "la liberaci\u00f3n [y] de [x].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] fue liberado en [y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] liberado [x].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] estrenado en [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] se estrena en [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

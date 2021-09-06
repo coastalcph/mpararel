@@ -1,0 +1,12 @@
+{"pattern": "[X] jest wytwarzany przez [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] jest rozwijany przez [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], opracowany przez [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], wyprodukowany przez [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "stworzony jest przez boga.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "stworzony przez boga,", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] jest produktem [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], produkt z [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], produkt stworzony przez [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], produkt opracowany przez [Y],", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "stw\u00f3rca \u015bwiata x", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] i jego produkt [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

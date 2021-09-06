@@ -1,0 +1,14 @@
+{"pattern": "[X] \u05d4\u05d5\u05e7\u05de\u05d4 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], \u05de\u05d1\u05d5\u05e1\u05e1 \u05e2\u05dc [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] \u05d6\u05d4 \u05e0\u05d5\u05e6\u05e8 \u05d1 [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[x], \u05d6\u05d4 \u05d4\u05ea\u05d7\u05d9\u05dc \u05d1 [y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] \u05d4\u05ea\u05d7\u05d9\u05dc \u05d1 [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] \u05d4\u05ea\u05d7\u05d9\u05dc \u05d1 [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "\u05d6\u05d4\u05d5 \u05d9\u05e6\u05d9\u05e8\u05ea\u05d5 \u05e9\u05dc [\u05d9].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], \u05d0\u05e9\u05e8 \u05e0\u05d5\u05e6\u05e8 \u05d1 [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] \u05d4\u05d5\u05d0 \u05e0\u05d5\u05e6\u05e8 \u05d1 [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], \u05d0\u05e9\u05e8 \u05d4\u05d5\u05e7\u05de\u05d4 \u05d1 [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] \u05d4\u05d5\u05e4\u05d9\u05e2 \u05d1\u05ea\u05d7\u05d9\u05dc\u05d4 \u05d1 [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] \u05e0\u05d5\u05e6\u05e8 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[x] \u05d4\u05d5\u05d0 \u05e0\u05d5\u05e6\u05e8 \u05e2\u05dc \u05d9\u05d3\u05d9 [y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[x], \u05d6\u05d4 \u05e0\u05d5\u05e6\u05e8 \u05d1 [y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

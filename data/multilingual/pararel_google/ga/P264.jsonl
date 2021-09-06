@@ -1,0 +1,17 @@
+{"pattern": "D\u00e9anann lip\u00e9ad ceoil ionada\u00edocht ar [x].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "T\u00e1 ionada\u00edocht ag [x] le lip\u00e9ad taifead [y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "D\u00e9anann [x] ionada\u00edocht ar [x].", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], a dh\u00e9anann ionada\u00edocht air le [y].", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], a l\u00e9ir\u00edonn [y].", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Is \u00e9 an lip\u00e9ad ceoil a dh\u00e9anann ionada\u00edocht air [x].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Is \u00e9 an lip\u00e9ad ceoil at\u00e1 ag d\u00e9anamh ionada\u00edochta [x] [y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] 's lip\u00e9ad [y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] Is \u00e9 at\u00e1 i lip\u00e9ad taifead [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "Is \u00e9 [y] cuideachta taifead [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] 'Is \u00e9 lip\u00e9ad ceoil [y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "Taifeadadh [x] le haghaidh [y].", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] Lip\u00e9ad: [Y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], a scaoiltear le [y].", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] Eala\u00edont\u00f3ir taifeadta [X].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] eala\u00edont\u00f3ir\u00ed ar n\u00f3s [x].", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "Eala\u00edont\u00f3ir\u00ed [Y] lena n-\u00e1ir\u00edtear [x].", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

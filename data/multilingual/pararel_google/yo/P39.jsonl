@@ -1,0 +1,6 @@
+{"pattern": "[X] ni ipo ti [Y].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X], ti o ni ipo ti [Y].", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X], ipo r\u1eb9 ni iy\u1eb9n ti [Y] [Y] [y] [.", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[Ipo ST] 'NI [y].", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X], \u1eb9niti o di ipo ipo [Y].", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] di ipo [Y].", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

@@ -1,0 +1,11 @@
+{"pattern": "[X] ilk d\u0259f\u0259 [Y] \u00fcz\u0259rind\u0259 yay\u0131mlanm\u0131\u015fd\u0131r.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] [Y]-d\u0259 deb\u00fct etm\u0259kdir.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] deb\u00fct etm\u0259kdir [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] deb\u00fct [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] [Y]-d\u0259 deb\u00fct etdi.", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X]-in [Y] deb\u00fct\u00fc.", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[X]-in [Y] azad edilm\u0259si.", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] [Y] -d\u0259 burax\u0131lm\u0131\u015fd\u0131r.", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] burax\u0131lm\u0131\u015f [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] premyeras\u0131 [Y] sayt\u0131nda.", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] premyeras\u0131 [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

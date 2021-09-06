@@ -1,0 +1,6 @@
+{"pattern": "Ede atil\u1eb9ba ti [x] j\u1eb9 [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Ede atil\u1eb9ba ti [x] ni [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Ede ti [x] j\u1eb9 [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ede ti [x] j\u1eb9 [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] j\u1eb9 ede [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] j\u1eb9 ede ti [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

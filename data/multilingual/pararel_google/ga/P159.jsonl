@@ -1,0 +1,10 @@
+{"pattern": "T\u00e1 ceanncheathr\u00fa [x] i [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "T\u00e1 ceanncheathr\u00fa [x] i [y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "T\u00e1 ceanncheathr\u00fa [x] suite i [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] T\u00e1 ceanncheathr\u00fa [x].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "T\u00e1 Ceanncheathr\u00fa [X] i [Y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] T\u00e1 ceanncheathr\u00fa [x].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] 's ceanncheathr\u00fa i [y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], a bhfuil a cheanncheathr\u00fa i [y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] t\u00e1 [x] sa bhaile.", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "T\u00e1 [x] bunaithe i [y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

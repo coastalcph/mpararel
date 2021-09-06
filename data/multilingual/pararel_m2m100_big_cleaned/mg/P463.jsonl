@@ -1,0 +1,5 @@
+{"pattern": "[X] dia mpikambana ao amin'ny [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] dia anisan'ny fikambanana ny [Y].", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] dia ampahany amin'ny [Y] ny fikambanana.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "ao anaty fitafiana vita amin'ny lamba.", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] dia mifandray amin'ny [Y] ny fikambanana.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

@@ -1,0 +1,9 @@
+{"pattern": "[X]in resmi dili [Y]dir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X]in resmi dili [Y] dildir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] s\u00f6z\u00fc x-in r\u0259smi dildir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] dill\u0259ri x-in resmi dill\u0259ridir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "x-d\u0259 is\u0259 resmi dil [Y].", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "resmi olaraq, [Y] x-in dilidir.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "x-d\u0259ki qanun [Y] \u00f6lk\u0259 dilin\u0259 zidddir.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "x-d\u0259ki yasalar [Y] \u00f6lk\u0259 dilidir.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "x-d\u0259ki qaydalarda, \"\" y \"\" dilinin r\u0259smi dil oldu\u011funu ifad\u0259 edir.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] ist mit der [y] Religion verbunden.", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] folgt der Religion [y].", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] ist Anh\u00e4nger von [y].", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[Y] ist die offizielle Religion von [x].", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

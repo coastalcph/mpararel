@@ -1,0 +1,13 @@
+{"pattern": "Ganed [X] yn [Y].", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "Mae [X] yn wreiddiol o [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "Roedd [X] yn wreiddiol o [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "Mae [X] yn frodorol i [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "Roedd [X] yn gynhenid i [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "Roedd [X] yn tarddu o [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "Mae [X] yn tarddu o [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "Roedd [X] yn berson [Y]-anedig.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "Roedd [X] yn berson [Y]-anedig.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "Mae [X] yn berson [Y]-anedig.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "Mae [X] yn berson [Y]-anedig.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], person [Y]-anedig.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], person [Y]-anedig.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "Limba nativ\u0103 a lui [X] este [Y].", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Limba matern\u0103 a lui [X] este [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "limba lui x este nativ\u0103.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "limba matern\u0103 a lui x.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

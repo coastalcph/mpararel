@@ -1,0 +1,10 @@
+{"pattern": "Das Hauptquartier von [X] ist in [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Das Hauptquartier von [X] ist in [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Das Hauptquartier von [X] befindet sich in [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] enth\u00e4lt die Hauptquartiere von [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] ist im Hauptquartier von [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "das hauptquartier von [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "Die Hauptquartiere von [X] befinden sich in [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], deren Hauptquartier in [Y] sind", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "zuhause ist er (auch)", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] ist auf der Grundlage von [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

@@ -1,0 +1,14 @@
+{"pattern": "[X] yw'r capital o [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Mae'r capital o [Y] yn [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Mae'r prif ddinas yn [Y] [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] yw'r prif ddinas o [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] yn y capital, [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] y prif ddinas, [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] y capital yn [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "mae'r prif ddinas yn [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], y capital o [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], y prif ddinas o [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], mae hyn yn y capital o [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], mae'r prif ddinas yn y [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], sy'n cael y capital [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], sy'n cael y prif ddinas [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

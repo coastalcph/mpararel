@@ -1,0 +1,6 @@
+{"pattern": "[X] ori\u0123in\u0101lvaloda ir [y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[X] s\u0101kotn\u0113j\u0101 valoda bija [y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "[X] valoda ir [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] valoda bija [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] ir [x] valoda.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] bija [x] valoda.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

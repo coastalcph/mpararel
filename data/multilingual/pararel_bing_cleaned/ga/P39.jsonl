@@ -1,0 +1,6 @@
+{"pattern": "T\u00e1 seasamh [Y] ag [X].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X], a bhfuil post [Y].", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X], arb \u00e9 [Y] a phost.", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "Is \u00e9 seasamh [X][Y].", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X], a bhfuil post [Y] aige.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "T\u00e1 seasamh [Y] ag [X].", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

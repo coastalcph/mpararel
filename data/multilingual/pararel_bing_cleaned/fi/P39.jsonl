@@ -1,0 +1,6 @@
+{"pattern": "[X] on [Y] -asentoinen.", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X], jonka asema on [Y].", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X], jonka kanta on [Y].", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X]:n kanta on [Y].", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X], joka toimii [y:n] asemassa.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] on [Y] -asemassa.", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

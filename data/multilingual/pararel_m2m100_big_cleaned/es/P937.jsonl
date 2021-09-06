@@ -1,0 +1,5 @@
+{"pattern": "[X] se utiliz\u00f3 para trabajar en [Y].", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] encontr\u00f3 empleo en [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] fue empleado en [Y]", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] ha trabajado en [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] tom\u00f3 el trabajo en [Y].", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}

@@ -1,0 +1,6 @@
+{"pattern": "[X] plays ninu [Y] ipo.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] plays ni ipo ti [Y].", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X], ti o mu ipo ninu [Y].", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "ti ndun bi [y], [x]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "ndun bi [y] [y], [x]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[X] plays bi [y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

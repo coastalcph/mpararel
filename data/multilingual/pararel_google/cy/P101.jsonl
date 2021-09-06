@@ -1,0 +1,13 @@
+{"pattern": "[X] yn gweithio ym maes [y].", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] yn arbenigo mewn [y].", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] yw arbenigo [x].", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Arbenigedd [x] yw [y].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[Y] yw arbenigedd [x].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Parth gweithgaredd [x] yw [y].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Parth gwaith [x] yw [y].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y] yw parth gweithgaredd [x].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] 's maes gwaith yw [y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X] Parth gwaith yw [y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X] Parth gweithgarwch yw [y].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[X] yw arbenigedd yn [y].", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] yn gweithio yn ardal [y].", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

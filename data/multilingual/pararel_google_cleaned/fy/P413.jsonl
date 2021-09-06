@@ -1,0 +1,6 @@
+{"pattern": "[X] spilet yn [Y] posysje.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] spilet yn 'e posysje fan [Y].", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X], wa spilet yn [Y] posysje.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "spielje as a [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "spielje as in [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[X] spilet as [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

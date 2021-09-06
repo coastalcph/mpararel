@@ -1,0 +1,4 @@
+{"pattern": "[X] yn gweithio i [y].", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X], sy'n gweithio i [y].", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] yn cael ei gyflogi gan [y].", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X], sy'n cael ei gyflogi gan [y].", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

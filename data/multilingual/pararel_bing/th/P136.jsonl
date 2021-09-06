@@ -1,0 +1,6 @@
+{"pattern": "[X] \u0e40\u0e25\u0e48\u0e19\u0e40\u0e1e\u0e25\u0e07 [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X] \u0e1c\u0e39\u0e49\u0e17\u0e35\u0e48\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1e\u0e25\u0e07 [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] \u0e40\u0e25\u0e48\u0e19 [Y]", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X] \u0e17\u0e35\u0e48\u0e40\u0e25\u0e48\u0e19 [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[Y] \u0e19\u0e31\u0e01\u0e14\u0e19\u0e15\u0e23\u0e35 [X]", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "[Y] \u0e19\u0e31\u0e01\u0e14\u0e19\u0e15\u0e23\u0e35 \u0e40\u0e0a\u0e48\u0e19 [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

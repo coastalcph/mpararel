@@ -1,0 +1,17 @@
+{"pattern": "[X] predstavlja glasbena oznaka [Y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] je predstavljen z oznako [Y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] je predstavljen z [Y].", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], ki je predstavljen z [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], ki ga predstavlja [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Glasbena oznaka, ki predstavlja [X] je [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Glasbena oznaka, ki predstavlja [X] je [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] je oznaka za [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] je oznaka za oznako [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] je dru\u017eba z zapisom [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Glasbena oznaka [X] je [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] je zapisano za [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] z oznako : [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], ki ga je izdal [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "zalo\u017eba zalo\u017eba zalo\u017eba x", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "tak\u0161ni so umetniki kot je [X].", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] umetniki vklju\u010dno z [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

@@ -1,0 +1,10 @@
+{"pattern": "\u0433\u043b\u0430\u0432\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a \u0437\u0430 \u043e\u0432\u0443 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0458\u0443 \u0458\u0435 [X]", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "\u0433\u043b\u0430\u0432\u043d\u0438 \u0433\u0440\u0430\u0434 \u0458\u0435 \u0443 [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "\u0433\u043b\u0430\u0432\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a \u0437\u0430 \u043e\u0432\u0443 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0458\u0443 \u0458\u0435 [X]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[\u0438] \u0441\u0430\u0434\u0440\u0436\u0438 \u0433\u043b\u0430\u0432\u043d\u0435 \u0437\u0433\u0440\u0430\u0434\u0435 [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] \u0441\u0435 \u043d\u0430\u043b\u0430\u0437\u0438 \u0443 \u0441\u0435\u0434\u0438\u0448\u0442\u0443 [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "\u0443 \u045a\u0435\u043c\u0443 \u0441\u0435 \u043d\u0430\u043b\u0430\u0437\u0438 \u0441\u0435\u0434\u0438\u0448\u0442\u0435 [X].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] \u0441\u0435\u0434\u0438\u0448\u0442\u0430 \u0441\u0435 \u043d\u0430\u043b\u0430\u0437\u0435 \u0443 [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], \u0447\u0438\u0458\u0438 \u0441\u0435 \u0433\u043b\u0430\u0432\u043d\u0438 \u0441\u0435\u0434\u0438\u0448\u0442\u0430 \u043d\u0430\u043b\u0430\u0437\u0435 \u0443 [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "a u ku\u0107i \u0107e biti,", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] \u0458\u0435 \u0437\u0430\u0441\u043d\u043e\u0432\u0430\u043d \u043d\u0430 [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

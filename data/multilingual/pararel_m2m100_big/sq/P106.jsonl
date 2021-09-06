@@ -1,0 +1,11 @@
+{"pattern": "(X) \u00ebsht\u00eb nj\u00eb [Y] nga profesioni.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "(X) \u00ebsht\u00eb nj\u00eb [Y] nga profesioni.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb [Y] nga trajnimi.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb [Y] nga trajnimi.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "Q\u00eb punon si xh.", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "Ai q\u00eb punon si xh.", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb i z\u00ebn\u00eb [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "P\u00ebrgjigjja p\u00ebr k\u00ebt\u00eb \u00ebsht\u00eb x (x).", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb profesioni i nj\u00eb [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb profesioni i nj\u00eb [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Profesi i [X] \u00ebsht\u00eb [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

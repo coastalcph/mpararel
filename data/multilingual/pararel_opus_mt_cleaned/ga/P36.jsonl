@@ -1,0 +1,14 @@
+{"pattern": "Is \u00e9 caipiteal [X] [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Is \u00e9 an chathair caipitil de [X] [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] Is \u00e9 caipiteal [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] Is \u00e9 an chathair chaipiti\u00fail de [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] caipiteal, [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] Cathair chaipiti\u00fail, [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] Is \u00e9 caipiteal [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] Is \u00ed pr\u00edomhchathair [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], caipiteal [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], an chathair chaipiti\u00fail de [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], is \u00e9 sin an caipiteal de [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], is \u00e9 sin an chathair chaipiti\u00fail de [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], a bhfuil an caipiteal [Y] aige.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], a bhfuil an chathair chaipiti\u00fail [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

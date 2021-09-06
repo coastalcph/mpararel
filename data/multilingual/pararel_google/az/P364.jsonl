@@ -1,0 +1,6 @@
+{"pattern": "[X] nin orijinal dili [y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[X] orijinal dili [y] idi.", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "[X] dili [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] dili [y] idi.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] [X] dilidir.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] [X] dili idi.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

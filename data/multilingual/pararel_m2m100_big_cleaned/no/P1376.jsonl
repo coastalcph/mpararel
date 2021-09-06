@@ -1,0 +1,14 @@
+{"pattern": "[X] er hovedstaden i [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Hovedstaden i [Y] er [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Hovedstaden i [Y] er [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] er hovedstaden i [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] er hovedstaden i [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] er hovedstaden i [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "h\u00f8ydepunktet for dette er [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "hovedstaden i byen er [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], hovedstaden av [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], hovedstaden i [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "dette er det som er hovedstaden.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "dette er byens hovedstad.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "det er den som har hovedstaden.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "den som har hovedstaden,", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

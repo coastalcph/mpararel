@@ -1,0 +1,18 @@
+{"pattern": "[X] buvo para\u0161yta [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] yra para\u0161yta [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] buvo para\u0161yta [Y] kalba.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] yra para\u0161yta [Y] kalba.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], para\u0161yta [Y] kalba.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Kalba [X] yra [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Kalba [X] buvo [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] yra [Y] kalbos darbas.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] yra [Y] kalbos darbas.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], [Y] kalbos darbas.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], [Y] kalbos darbas.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] buvo [Y] kalbos darbas.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] buvo [Y] kalbos darbas.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] yra darbas [Y] kalba.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] buvo darbas [Y] kalba.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] kalbos k\u016brimas [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] yra [X] kalba.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] buvo [X] kalba.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

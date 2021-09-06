@@ -1,0 +1,6 @@
+{"pattern": "[X] m\u00fczik \u00e7al\u0131yor.", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "M\u00fczik \u00e7alan [X],", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] \u00e7al\u0131yor [Y].", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X], [Y]'yi oynayan.", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[Y] m\u00fczisyenler [X].", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "[Y] gibi m\u00fczisyenler.", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

@@ -1,0 +1,11 @@
+{"pattern": "[X] i\u0161 prad\u017ei\u0173 buvo i\u0161si\u0173sta [y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] yra debiutuoti [y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] yra debiutuoti [x].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debiutavo [x].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debiutavo [y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[y] debiutas [x].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] [x] i\u0161leidimas.", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] buvo i\u0161leistas [y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] i\u0161leido [x].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] premjeras [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] premjeros [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

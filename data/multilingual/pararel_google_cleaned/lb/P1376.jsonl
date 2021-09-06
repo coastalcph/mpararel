@@ -1,0 +1,14 @@
+{"pattern": "[X] ass d'haaptstad vun [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "d'haaptstad vun [Y] ass [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "d'haaptstad vun [Y] ass [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] ass d'haaptstad vun [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] 's kapital, [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] 'S Haaptstad, [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] 's kapital ass [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] 'S Haaptstad ass [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], d'haaptstad vun [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], d'haaptstad vun [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], dat ass d'haaptstad vun [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], dat ass d'haaptstad vun [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], wat huet d'haaptstad [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], wat huet d'Haaptstad [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

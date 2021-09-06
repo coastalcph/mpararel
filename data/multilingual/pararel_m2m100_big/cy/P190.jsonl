@@ -1,0 +1,4 @@
+{"pattern": "[X] a [Y] yn ddwy ddinas.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] a [X] yn ddwy ddinas.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] yn ddwbl ddinas o [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] yn ddwbl ddinas o [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

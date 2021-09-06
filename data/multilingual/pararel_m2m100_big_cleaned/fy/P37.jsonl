@@ -1,0 +1,9 @@
+{"pattern": "De offisjele taal fan [X] is [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "De offisjele taal fan [X] is de [Y] taal.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "it is de taal fan [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "de taal is de offisjele taal fan [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Yn [X], [Y] is de offisjele taal.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "De taal fan [Y] is de taal fan [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "De wet yn [X] deklaret [Y] de offisjele taal.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "De wet yn [X] definieart [Y] as de offisjele taal.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "De wet yn [X] definieart de [Y] taal as de offisjele taal.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

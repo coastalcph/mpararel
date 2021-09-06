@@ -1,0 +1,9 @@
+{"pattern": "[X] condivide il bordo con [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] borders con [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] condivide il bordo con [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] condivide il suo confine con [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] condivide un bordo comune con [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] borders con [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] condivide il bordo con [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] condivide il suo confine con [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] condivide un bordo comune con [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

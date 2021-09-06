@@ -1,0 +1,11 @@
+{"pattern": "[X] ilk ba\u015fta [Y]'de yay\u0131nland\u0131.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] ilk defa [Y]'de g\u00f6sterilecek.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] ilk defa [X] olacak.", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] ilk defa [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] [Y]'de ilk defa sahneye \u00e7\u0131kt\u0131.", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X]'nin [Y] ilk \u00e7\u0131k\u0131\u015f\u0131.", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[X]'nin [Y] serbest b\u0131rak\u0131lmas\u0131.", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] [Y]'ye \u00e7\u0131kar\u0131ld\u0131.", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] yay\u0131nlad\u0131 [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X]'nin galas\u0131 [Y]'de yap\u0131ld\u0131.", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X]'nin galas\u0131 [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

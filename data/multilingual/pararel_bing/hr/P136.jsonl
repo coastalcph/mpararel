@@ -1,0 +1,6 @@
+{"pattern": "[X] svira [Y] glazbu.", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X], koji svira [Y] glazbu", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] igra [Y].", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X], koji igra [Y].", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[Y] glazbenici [X].", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "[Y] glazbenici kao \u0161to je [X].", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

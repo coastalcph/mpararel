@@ -1,0 +1,13 @@
+{"pattern": "x lahir di [Y].", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "x berasal dari [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "x berasal dari [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "x berasal dari y.", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "x berasal dari [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] berasal dari [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "x berasal dari y.", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] adalah orang yang lahir [Y].", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] adalah orang yang lahir [Y].", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] adalah orang yang lahir [Y].", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] adalah orang yang lahir [Y].", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], orang yang lahir dari [Y].", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], orang yang lahir dari [Y].", "lemma": "born", "extended_lemma": "born", "tense": "present"}

@@ -1,0 +1,6 @@
+{"pattern": "[X] m\u00e1 poz\u00edciu z [Y].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "a kto je ten, kto je ten, kto je ten, kto je ten,", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X], ktor\u00e9ho poz\u00edcia je t\u00e1 z [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] je poloha je [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X], ktor\u00fd dr\u017e\u00ed poz\u00edciu [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] je umiestnen\u00fd na mieste [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

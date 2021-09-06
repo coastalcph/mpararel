@@ -1,0 +1,16 @@
+{"pattern": "[ 16 - c\u0131 s\u0259hif\u0259d\u0259ki \u015f\u0259kil]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[ 10 - cu s\u0259hif\u0259d\u0259ki yaz\u0131]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[ 16 - c\u0131 s\u0259hif\u0259d\u0259ki \u015f\u0259kil]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[Yeqova] [Yeqova]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[ 10 - cu s\u0259hif\u0259d\u0259ki \u015f\u0259kil]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[Yeqova] vasit\u0259sil\u0259 [Yeqova].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[Yeqova] [Y\u0259hudi]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[Y\u0259hudi] [Y\u0259hudi]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[Y\u0259hudi]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[Y\u0259hudi] yarad\u0131lm\u0131\u015f m\u0259hsulun [Yeqova]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[Yeqovan\u0131n] t\u0259\u2019liml\u0259ri [Yeqovan\u0131n]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[Y\u0259hudi] [Yeqova] vasit\u0259sil\u0259 inki\u015faf etdin", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[ 20 - ci s\u0259hif\u0259d\u0259ki \u015f\u0259kil]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[SE\u00c7\u018fN\u018fK...] [FAYL...]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[SE\u00c7\u018fN\u018fK...] [FAYL,]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y\u0259hudi] v\u0259 onun b\u0259hr\u0259si", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

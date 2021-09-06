@@ -1,0 +1,4 @@
+{"pattern": "[X] und [y] sind Zweist\u00e4dte.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] und [x] sind Zweist\u00e4dte.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] ist eine Zwillingsstadt von [x].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] ist eine Zwillingsstadt von [y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

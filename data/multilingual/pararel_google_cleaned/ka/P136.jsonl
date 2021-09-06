@@ -1,0 +1,6 @@
+{"pattern": "[X] \u10d8\u10d7\u10d0\u10db\u10d0\u10e8\u10d4\u10d1\u10e1 [Y] \u10db\u10e3\u10e1\u10d8\u10d9\u10d0.", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X], \u10e0\u10dd\u10db\u10d4\u10da\u10d8\u10ea \u10d7\u10d0\u10db\u10d0\u10e8\u10dd\u10d1\u10e1 [Y] \u10db\u10e3\u10e1\u10d8\u10d9\u10d0\u10e1", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] \u10e3\u10d9\u10e0\u10d0\u10d5\u10e1 [Y].", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X], \u10e0\u10dd\u10db\u10d4\u10da\u10d8\u10ea \u10d7\u10d0\u10db\u10d0\u10e8\u10dd\u10d1\u10e1 [Y].", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[Y] \u10db\u10e3\u10e1\u10d8\u10d9\u10dd\u10e1\u10d4\u10d1\u10d8 [X].", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "[Y] \u10db\u10e3\u10e1\u10d8\u10d9\u10dd\u10e1\u10d4\u10d1\u10d8, \u10e0\u10dd\u10d2\u10dd\u10e0\u10d8\u10ea\u10d0\u10d0 [X].", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

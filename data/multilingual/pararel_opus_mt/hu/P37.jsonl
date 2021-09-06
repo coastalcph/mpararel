@@ -1,0 +1,9 @@
+{"pattern": "Az [X] hivatalos nyelve [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Az [X] hivatalos nyelve az [Y] nyelv.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] a [X] hivatalos nyelve.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Az [Y] nyelv [X] hivatalos nyelve.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Az [X] [Y] a hivatalos nyelv.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "Hivatalosan [Y] az [X] nyelve.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Az [X] t\u00f6rv\u00e9ny kimondja [Y] a hivatalos nyelvet.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Az [X] t\u00f6rv\u00e9ny [Y] hivatalos nyelvk\u00e9nt hat\u00e1rozza meg az [Y] nyelvet.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Az [X] t\u00f6rv\u00e9ny az [Y] nyelvet a hivatalos nyelvk\u00e9nt hat\u00e1rozza meg.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

@@ -1,0 +1,12 @@
+{"pattern": "[X] [Y]k sortzen du.", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] ab-k garatzen du.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], garatua [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], [Y]-k sortutakoa", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] [Y]k sortzen du.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "\"x\", \"y\"-k sortua.", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] [Y]ren produktua da.", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], [Y]-ren biderkadura,", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], [Y]k sortutako produktua,", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], [Y]k garaturiko produktua,", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], [X]-ren sortzailea", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] eta bere produktua [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

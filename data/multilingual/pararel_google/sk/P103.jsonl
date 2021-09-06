@@ -1,0 +1,4 @@
+{"pattern": "Nat\u00edvny jazyk [x] je [y].", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Materinsk\u00fd jazyk [x] je [y].", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] je [x] je nat\u00edvny jazyk.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] je [x] materinsk\u00fd jazyk.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

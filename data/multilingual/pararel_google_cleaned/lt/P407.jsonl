@@ -1,0 +1,18 @@
+{"pattern": "[X] buvo para\u0161yta [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] yra para\u0161yta [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] buvo para\u0161yta [Y] kalba.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] yra para\u0161yta [Y] kalba.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], para\u0161yta [Y] kalba.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] kalba yra [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] kalba buvo [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] yra [Y] -language darbas.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] yra [Y] -language darbas.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], a [Y] -language darbas.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], [Y] -language darbas.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] buvo [Y] -language darbas.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] buvo [Y] -language darbas.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] yra darbas [Y] kalba.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] buvo [Y] kalba.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] -language k\u016brimas [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] yra [X] kalba.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] buvo [X] kalba.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

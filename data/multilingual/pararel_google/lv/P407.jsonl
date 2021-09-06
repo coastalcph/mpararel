@@ -1,0 +1,18 @@
+{"pattern": "[X] tika uzrakst\u012bts [y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] ir rakst\u012bts [y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] tika uzrakst\u012bts [Y] valod\u0101.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] ir rakst\u012bts [y] valod\u0101.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], rakst\u012bts [y] valod\u0101.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] valoda ir [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] valoda bija [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] ir [y] -Language darbs.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] ir [y] -language darbs.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], A [Y] -Language darbs.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], [y] -language darbu.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] bija [y] -language darbs.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] bija [y] -language darbs.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] ir darbs [y] valod\u0101.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] bija darbs [y] valod\u0101.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] -Language izveide [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] ir [x] valoda.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] bija [x] valoda.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

@@ -1,0 +1,20 @@
+{"pattern": "[X] \u0561\u0576\u0578\u0582\u0576\u0576 \u0567 \u056f\u0580\u0578\u0582\u0574 [\u0575]\u0589", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X] \u0561\u0576\u0578\u0582\u0576\u0568 \u057d\u057f\u0561\u0581\u0565\u056c \u0567 [Y] \u0561\u0576\u0578\u0582\u0576\u0578\u057e\u0589", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X]-\u0568 \u0561\u0576\u057e\u0561\u0576\u057e\u0578\u0582\u0574 \u0567 [Y]:", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] \u0561\u0576\u057e\u0561\u0576\u0578\u0582\u0574\u0568 \u057d\u057f\u0561\u0581\u0565\u056c \u0567 [Y] \u0561\u0576\u0578\u0582\u0576\u0578\u057e\u0589", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], \u0578\u0580\u0576 \u056b\u0580 \u0561\u0576\u057e\u0561\u0576\u0578\u0582\u0574\u0568 \u057d\u057f\u0561\u0581\u0565\u056c \u0567 [Y] \u0561\u0576\u0578\u0582\u0576\u0578\u057e\u0589", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X], \u0578\u0580\u0568 \u056f\u0578\u0579\u057e\u0565\u056c \u0567 [\u0575] \u0561\u0576\u0578\u0582\u0576\u0578\u057e:", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X], \u0578\u0580\u0568 \u056f\u0578\u0579\u057e\u0578\u0582\u0574 \u0567 [Y]:", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X], \u0578\u0580\u0568 \u056f\u0578\u0579\u057e\u0565\u0581 [\u0575]\u0589", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], \u0561\u0576\u0578\u0582\u0576\u0568\u055d [\u0575]\u0589", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[X], \u0561\u0576\u0578\u0582\u0576\u0568\u055d [\u0575]\u0589", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X]-\u0568 \u0561\u0576\u057e\u0561\u0576\u057e\u0578\u0582\u0574 \u0567 [Y]\u056b \u057a\u0561\u057f\u057e\u056b\u0576:", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] \u0561\u0576\u0578\u0582\u0576\u0568 \u057d\u057f\u0561\u0581\u0565\u056c \u0567 [Y] \u057a\u0561\u057f\u057e\u056b\u0576\u0589", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], \u0561\u0576\u0578\u0582\u0576[Y]\u056b \u057a\u0561\u057f\u057e\u056b\u0576\u0589", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], \u0578\u0580\u0568 \u056f\u0578\u0579\u057e\u0578\u0582\u0574 \u0567 [Y]\u056b \u057a\u0561\u057f\u057e\u056b\u0576:", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], \u0578\u0580\u0568 [Y]-\u056b \u057a\u0561\u057f\u057e\u056b\u0576 \u0567 \u0561\u0576\u057e\u0561\u0576\u057e\u0565\u056c:", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X]-\u0568 \u056f\u0578\u0579\u057e\u0578\u0582\u0574 \u0567 [\u0575] \u0570\u0565\u057f\u0578:", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X]-\u0568 \u056f\u0578\u0579\u057e\u0565\u0581 [\u0575] \u0570\u0565\u057f\u0578:", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[X], \u0578\u0580\u0568 \u056f\u0578\u0579\u057e\u0578\u0582\u0574 \u0567 [Y] \u0570\u0565\u057f\u0578:", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X], \u0578\u0580\u0568 \u056f\u0578\u0579\u057e\u0565\u0581 [\u0575] \u0561\u0576\u0578\u0582\u0576\u0578\u057e\u0589", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X], \u0578\u0580\u0568 \u056f\u0578\u0579\u057e\u0578\u0582\u0574 \u0567 [Y] \u0570\u0565\u057f\u0578\u0589", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

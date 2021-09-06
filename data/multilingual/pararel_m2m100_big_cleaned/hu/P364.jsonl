@@ -1,0 +1,6 @@
+{"pattern": "A [X] eredeti nyelve [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "A [X] eredeti nyelve [Y] volt.", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "A [X] nyelv az [Y] nyelv.", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Az [X] nyelve az [Y] volt.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "ez a nyelv a [X] nyelv.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "ez volt a [X] nyelve.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

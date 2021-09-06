@@ -1,0 +1,18 @@
+{"pattern": "[X] [y] da yozilgan.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] [y] da yozilgan.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] tilda yozilgan.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] tilda yozilgan.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], [y] tilida yozilgan.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] tili [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] tili [y] edi.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] - bu [y] -lbate ishidir.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] - bu [y] - tegishli ish.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], a [y] -lbate ishi.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], yoki [y] -lbate ishi.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] - auagh augal ishlash.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] - [y] -lovdagi ish.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] bu [y] tilda ish.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] tilda ishlagan.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] -lgege yaratish [x]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] [x] tilidir.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] [x] tili edi.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

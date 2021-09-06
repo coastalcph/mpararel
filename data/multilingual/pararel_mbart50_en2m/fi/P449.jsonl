@@ -1,0 +1,11 @@
+{"pattern": "[X] l\u00e4hetettiin alun perin [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] on tarkoitus tuoda esiin [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] on debut [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debutoi [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] k\u00e4ynnistettiin [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[Y] debut of [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] vapauttaa [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] vapautettiin [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] vapautettiin [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] esitettiin [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] esitet\u00e4\u00e4n [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

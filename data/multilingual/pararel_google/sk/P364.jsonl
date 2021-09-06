@@ -1,0 +1,6 @@
+{"pattern": "P\u00f4vodn\u00fd jazyk [x] je [y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "P\u00f4vodn\u00fd jazyk [x] bol [y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Jazyk [x] je [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Jazyk [x] bol [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] je jazyk [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] bol jazyk [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

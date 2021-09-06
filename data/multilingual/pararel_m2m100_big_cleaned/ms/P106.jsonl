@@ -1,0 +1,11 @@
+{"pattern": "[X] ialah sebuah [Y] oleh profesion.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] ialah seorang yang berprofesi.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] ialah sebuah [Y] oleh latihan.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] ialah sebuah [Y] oleh latihan.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] berbuat demikian seperti", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "yang berbuat demikian ialah yang berbuat demikian.", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] ialah pekerjaan [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "perkara yang dimaksudkan ialah [X]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] ialah sebuah profesi yang", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] ialah sebuah profesi yang", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "perkara yang dimaksudkan ialah [X]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

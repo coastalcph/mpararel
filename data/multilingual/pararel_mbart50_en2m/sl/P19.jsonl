@@ -1,0 +1,13 @@
+{"pattern": "X se je rodil v Y.", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] je izvorno iz [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] je bil prvotno iz [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] je izvorno pri [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] je bil izvorni del [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] izvira iz [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] izvira iz [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "X je bil \u010dlovek, ki se je rodil z Y.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "X je bil \u010dlovek, ki se je rodil z Y.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "X je osoba, ki se je rodila v Y.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "X je osoba, ki se je rodila v Y.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "X, osoba, ki je rodila Y.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "X, osoba, ki je rodila Y.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

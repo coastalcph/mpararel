@@ -1,0 +1,13 @@
+{"pattern": "[X] ty\u00f6skentelee kent\u00e4ll\u00e4 [Y]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] on erikoistunut [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] on erikoistuminen [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "x:n asiantuntemus on y.", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[Y] on asiantuntemusta [X]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[X] toiminnan alue on [Y]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] ty\u00f6paikan toimialue on [Y]", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y] on [X] toiminnan alueen toiminta.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] ty\u00f6skentelyalue on [Y]", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X] ty\u00f6n toimialue on [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X] toimialueen toiminta on [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[X] asiantuntemus on [Y]", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] ty\u00f6skentelee alueella [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

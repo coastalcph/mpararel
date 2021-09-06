@@ -1,0 +1,18 @@
+{"pattern": "[X] foi escrito en [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] est\u00e1 escrito en [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "O libro est\u00e1 escrito en lingua xaponesa.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] est\u00e1 escrito en lingua [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "X, escrito en lingua [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "A linguaxe de [X] \u00e9 [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "A linguaxe de [X] foi [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] \u00e9 unha obra de [Y] linguaxe.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] \u00e9 unha obra de [Y] linguaxe.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "X, unha lingua [Y] de traballo.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] Unha obra de [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] foi unha obra de [Y] linguaxe.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] foi unha obra de [Y] linguaxe.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] \u00e9 unha obra en [Y] linguaxe.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] foi un traballo en [Y] linguaxe.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "A creaci\u00f3n da linguaxe [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "A linguaxe \u00e9 a linguaxe de [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "A lingua de Xes\u00fas (Xes\u00fas)", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

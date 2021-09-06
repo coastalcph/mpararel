@@ -1,0 +1,13 @@
+{"pattern": "[X] \u056e\u0576\u057e\u0565\u056c \u0567 [Y] - \u0578\u0582\u0574:", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] \u057d\u056f\u0566\u0562\u0576\u0561\u057a\u0565\u057d [Y] - \u056b\u0581 \u0567:", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] \u057d\u056f\u0566\u0562\u0576\u0561\u057a\u0565\u057d [Y] - \u056b\u0581 \u0567\u0580:", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] \u0562\u0576\u056b\u056f \u0567 [Y]:", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] \u0562\u0576\u056b\u056f \u0567\u0580 [Y]:", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] \u056e\u0561\u0563\u0565\u056c \u0567 [Y] - \u056b\u0581.", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] \u056e\u0561\u0563\u0578\u0582\u0574 \u0567 [Y] - \u056b\u0581:", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] \u0567\u0580 [Y]-pnown:", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] \u0567\u0580 [Y]-pnown \u0574\u0561\u0580\u0564:", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] - y]-pnow- \u0576 \u0567:", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] [Y]-pnown \u0567:", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], a [Y]-protborn \u0574\u0561\u0580\u0564:", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], an [Y]-protborn \u0574\u0561\u0580\u0564:", "lemma": "born", "extended_lemma": "born", "tense": "present"}

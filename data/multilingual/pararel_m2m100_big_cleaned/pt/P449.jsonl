@@ -1,0 +1,11 @@
+{"pattern": "[X] foi originalmente transmitido em [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] \u00e9 para come\u00e7ar em [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "\u00e9 a primeira vez que [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "e, em seguida, foi lan\u00e7ado o", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] foi lan\u00e7ado em [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "o primeiro (e o segundo) \u00e9 o de x.", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "a liberta\u00e7\u00e3o do [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] foi liberado em [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "e a liberta\u00e7\u00e3o [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] foi o primeiro em [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Os primeiros em [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

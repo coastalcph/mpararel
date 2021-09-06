@@ -1,0 +1,11 @@
+{"pattern": "[X] oli algselt eetrisse [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] on deb\u00fc\u00fct [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] on deb\u00fc\u00fct [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] deb\u00fcteeritud [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] deb\u00fcteeritud [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[Y] deb\u00fc\u00fct [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] vabanemine [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] vabastati [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] vabastatud [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] esilinastus [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] esilinastused [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

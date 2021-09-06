@@ -1,0 +1,4 @@
+{"pattern": "[X] ja [Y] ovat kaksoiskaupunkeja.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] ja [X] ovat kaksoiskaupunkeja.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] on X:n kaksoiskaupunki.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] on [Y:n] kaksoiskaupunki.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

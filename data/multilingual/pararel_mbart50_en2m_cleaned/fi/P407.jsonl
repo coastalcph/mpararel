@@ -1,0 +1,18 @@
+{"pattern": "[X] kirjoitettiin [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] on kirjoitettu [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] oli kirjoitettu [Y] kielell\u00e4.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] on kirjoitettu [Y] kielell\u00e4.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], joka on kirjoitettu [Y] kielell\u00e4.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "x:n kieli on y:n.", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "x:n kieli oli y:n.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] on y-kielinen ty\u00f6.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] on y-kielinen ty\u00f6.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], y-kielinen ty\u00f6.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], y-kielinen ty\u00f6.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] oli y-kielinen ty\u00f6.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] oli y-kielinen ty\u00f6.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] on ty\u00f6 y-kielell\u00e4.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] oli ty\u00f6 y-kielell\u00e4.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "y-kielen luominen", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] on x:n kieli.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "y oli x:n kieli.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

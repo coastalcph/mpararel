@@ -1,0 +1,4 @@
+{"pattern": "[X] \u06a9\u06cc \u0627\u0635\u0644 \u0632\u0628\u0627\u0646 [Y] \u06c1\u06d2.", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X] \u06a9\u06cc \u0645\u0627\u06ba \u06a9\u06cc \u0632\u0628\u0627\u0646 [Y] \u06c1\u06d2.", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] [\u0627\u06cc\u06a9\u0633] \u06a9\u06cc \u0645\u0642\u0627\u0645\u06cc \u0632\u0628\u0627\u0646 \u06c1\u06d2.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[y] [x] \u06a9\u06cc \u0645\u0627\u06ba \u06a9\u06cc \u0632\u0628\u0627\u0646 \u06c1\u06d2.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

@@ -1,0 +1,13 @@
+{"pattern": "[X] sa narodil v [y].", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] je p\u00f4vodne z [y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] bol p\u00f4vodne z [y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] je nat\u00edvne na [y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] bol nat\u00edvne na [y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] vznikol z [y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] poch\u00e1dza z [y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] bola osoba [y].", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] bola osoba [y].", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] je osoba [y].", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] je osoba [y].", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], osoba.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], [y] -born.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

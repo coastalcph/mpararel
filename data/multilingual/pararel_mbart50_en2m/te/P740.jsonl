@@ -1,0 +1,14 @@
+{"pattern": "[X] [Y] \u0c32\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c30\u0c02\u0c2d\u0c3f\u0c02\u0c1a\u0c2c\u0c21\u0c3f\u0c02\u0c26\u0c3f.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], [Y] \u0c32\u0c4b \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1 [Y] \u0c09\u0c02\u0c26\u0c3f [X].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], \u0c06 [Y] \u0c2a\u0c4d\u0c30\u0c3e\u0c30\u0c02\u0c2d\u0c2e\u0c48\u0c02\u0c26\u0c3f.", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] [Y] \u0c32\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c30\u0c02\u0c2d\u0c3f\u0c02\u0c1a\u0c3e\u0c30\u0c41.", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] [Y] \u0c32\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c30\u0c02\u0c2d\u0c3f\u0c02\u0c1a\u0c2c\u0c21\u0c3f\u0c02\u0c26\u0c3f", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X], \u0c06 [Y] \u0c32\u0c4b \u0c1c\u0c28\u0c4d\u0c2e\u0c3f\u0c02\u0c1a\u0c3e\u0c21\u0c41.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], [Y] \u0c32\u0c4b Erstellt.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] [Y] \u0c32\u0c4b \u0c1c\u0c28\u0c4d\u0c2e\u0c3f\u0c02\u0c1a\u0c3e\u0c21\u0c41.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], [Y] \u0c2a\u0c4d\u0c30\u0c3e\u0c30\u0c02\u0c2d\u0c2e\u0c48\u0c28.", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] [Y] \u0c2a\u0c4d\u0c30\u0c3e\u0c30\u0c02\u0c2d\u0c2e\u0c48\u0c02\u0c26\u0c3f.", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] [Y] \u0c32\u0c4b formated.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] [Y] \u0c32\u0c4b \u0c28\u0c3f\u0c30\u0c4d\u0c2e\u0c3e\u0c23\u0c02.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X], \u0c06 [Y] \u0c32\u0c4b \u0c0f\u0c30\u0c4d\u0c2a\u0c3e\u0c1f\u0c41 \u0c1a\u0c47\u0c36\u0c3e\u0c30\u0c41.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

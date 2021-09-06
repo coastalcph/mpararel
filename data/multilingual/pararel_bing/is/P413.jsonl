@@ -1,0 +1,6 @@
+{"pattern": "[X] leikur \u00ed [Y] st\u00f6\u00f0u.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] leikur \u00ed st\u00f6\u00f0unni [Y].", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X], sem leikur \u00ed [Y] st\u00f6\u00f0u.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "spila sem [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "spila sem [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[X] spilar sem [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

@@ -1,0 +1,18 @@
+{"pattern": "[X] ay inilabas sa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] ay napili sa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] ay ipinapakita sa [Y] language.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] ay napili sa [Y] language.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "ang mga ito ay inilathala sa quran at quran.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "ngunit, ang mga ito ay hindi kailangang maging matatagpuan.", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "ang mga ito ay sinasabi sa mga sinasabi ng [X].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] ay isang [Y]-language na trabaho.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] ay isang [Y]-language na trabaho.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] ay isang [Y]-language na trabaho.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] ay isang [Y]-language na trabaho.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] ay isang [Y]-language na trabaho.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] ay isang [Y]-language na trabaho.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] ay isang trabaho sa [Y] language.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] ay isang trabaho sa [Y] language.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "ang mga ito ay nagtatagumpay sa mga ito ayon sa pag-aaral.", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[tingnan mo na lang naman ang mga bagay na ito.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[tingnan mo na lang naman ang mga ito!]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

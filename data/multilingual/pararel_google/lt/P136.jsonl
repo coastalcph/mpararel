@@ -1,0 +1,6 @@
+{"pattern": "[X] groja [y] muzika.", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X], kuris groja [y] muzika", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] groja [y].", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X], kuris groja [y].", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[Y] muzikantai [x].", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "[Y] muzikantai, pvz., [X].", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

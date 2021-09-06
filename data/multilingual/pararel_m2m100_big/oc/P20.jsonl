@@ -1,0 +1,8 @@
+{"pattern": "[X] Morigu\u00e8t en [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] Morigu\u00e8t en [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] es m\u00f2rt en [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] se tr\u00f2ba a l\u2019entorn de [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] qu\u2019ei ua nov\u00e8la de [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "Que p\u00e8rdem lo crin ;", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "La vida de [X] s'acab\u00e8t en [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] se tr\u00f2ba a l\u2019entorn de [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

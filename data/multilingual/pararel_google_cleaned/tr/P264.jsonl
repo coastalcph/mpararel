@@ -1,0 +1,17 @@
+{"pattern": "[X], [Y] m\u00fczik etiketi ile temsil edilir.", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] [Y] kay\u0131t etiketi ile g\u00f6sterilir.", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] [Y] ile temsil edilir.", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], bu [Y] ile temsil edilir.", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], [Y] ile temsil edilir.", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] temsil eden m\u00fczik etiketi [Y] 'dir.", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X]'yi temsil eden m\u00fczik etiketi [Y]'dir.", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] 'nin etiketi [Y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] 'nin kay\u0131t etiketi [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] 'nin kay\u0131t \u015firketi [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] 'nin m\u00fczik etiketi [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] [Y] i\u00e7in kaydedildi.", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] Etiket: [Y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], [Y] taraf\u0131ndan serbest b\u0131rak\u0131ld\u0131.", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] Sanat\u00e7\u0131y\u0131 Kay\u0131t [X].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] [X] gibi sanat\u00e7\u0131lar.", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] [X] de dahil olmak \u00fczere sanat\u00e7\u0131lar.", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

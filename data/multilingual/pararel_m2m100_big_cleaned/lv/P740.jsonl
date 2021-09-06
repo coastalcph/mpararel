@@ -1,0 +1,14 @@
+{"pattern": "[X] tika dibin\u0101ts [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], kas izveidots ar [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "tas ir tas, kas tika izveidots [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], tas tika s\u0101kts ar [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] s\u0101k\u0101s ar [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] s\u0101k\u0101s ar [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "tas ir tas, kas ir rad\u012bts.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], kas ir rad\u012bts [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] tika rad\u012bts [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], kas s\u0101k\u0101s ar [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] s\u0101k\u0101s ar [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] ir izveidots ar [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] tika izveidots ar [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X], kas tika izveidota ar [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

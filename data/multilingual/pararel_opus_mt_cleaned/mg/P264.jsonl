@@ -1,0 +1,17 @@
+{"pattern": "ny mari - pamantarana mozika [X] no mifanitsy amin'ny [X].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "ny mari - pamantarana [X] no mifanitsy amin'ny [X].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "Ny [X] dia mifanitsy amin'i [Y].", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "izany no dikan'ny [X].", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] Mifanitsy amin'i [Y] izy io.", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[Y] no marika famantarana ny [X].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Ny marika mozika aseho [X] dia [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "Ny mari - pamantarana [X] dia [Y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[ teny notsongaina]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[Y] no tompon'andraikitra amin'io orinasa io.", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Ny feon - kiran'i [X] dia [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] nosoratana ho an'i [Y].", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "Mari-tsoratra [X] : [Y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X] navoakan [' i jesosy].", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] nandrakitra an - tsoratra an'ireo mpanao hoso - doko [X].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[ teny notsongaina]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[ teny notsongaina] anisan'izany ireo mpanakanto, anisan'izany ny [X].", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

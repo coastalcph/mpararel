@@ -1,0 +1,11 @@
+{"pattern": "Ny [X] dia ny [Y] amin'ny asa.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "Ny [X] dia ny [Y] amin'ny asa.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "Ny [X] dia ny [Y] amin'ny fampiofanana.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "Ny [X] dia ny [Y] amin'ny fampiofanana.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] miasa toy ny [Y]", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], izay miasa toy ny [Y]", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] ny asa dia ny [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "Ary ny fahatongavan'ny X dia [Y].", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] Ny asany dia ny [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] Ny asany dia ny [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Ny anaran'ny [X] dia ny [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

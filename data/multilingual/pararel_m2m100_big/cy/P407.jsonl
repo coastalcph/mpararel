@@ -1,0 +1,18 @@
+{"pattern": "[X] yn cael ei rannu yn [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[Y] mae'n cael ei adnabod yn [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "Ydych chi'n adnabyddus i'w llwytho i'w llwytho i'w llwytho.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "Ydych chi'n cael ei adnabod yn y Llwybr X.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "Ydych chi'n ddiddordeb yn yr Eiddo.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Ydych chi'n ddiddordeb yn y [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ydych chi'n ddiddordeb \u00e2'r ystyried.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Ydych chi'n ddiddordeb yn yr Eiddo.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "Ydych chi'n ddiddordeb yn yr Eiddo.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "Ydych chi'n dod \u00e2'r ystyried.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "Ydych chi'n dod \u00e2'r ystyried.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "Ydych chi'n ddiddordeb yn yr Eiddo.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "Ydych chi'n ddiddordeb yn yr Eiddo.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] yw'r swydd yn y [Y] dull.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] yn gweithio yn y [Y] dull.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Ydych chi'n credu", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "Ydych chi'n ddiddordeb \u00e2'r ystyried.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Ydych chi'n ddiddordeb \u00e2'r ystyried.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

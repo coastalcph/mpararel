@@ -1,0 +1,14 @@
+{"pattern": "prifddinas [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "prifddinas [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] yw' r modfedd o [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] mae' r ddinas yn cael ei prifddinas [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], prifddinas [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], mae'r ddinas yn cael ei prifddinas [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], dyna yw prifddinas [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], mae'r ddinas yn cael ei prifddinas [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] y mae gan yr prifddinas [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] y mae gan y ddinas [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

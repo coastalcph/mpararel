@@ -1,0 +1,14 @@
+{"pattern": "fogu\u00e8t fondada en [Y].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], fondada en [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "aqu\u00f2 se deban\u00e8t en [i].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "aqu\u00f2 s\u2019acab\u00e8t en [Y].", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] Comen\u00e7\u00e8t en [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t comen\u00e7at en [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "aqu\u00f2 es la creacion.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "lo creator (o creator) es lo creator.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "se vol\u00e8tz pas o creire,", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] qu\u2019ei lo comen\u00e7ament de la gu\u00e8rra.", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t originari de [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "se form\u00e8t en x.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "se vol\u00e8tz pas o creire,", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "aqu\u00f2 se deban\u00e8t en [i].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

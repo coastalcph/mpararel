@@ -1,0 +1,18 @@
+{"pattern": "[X] ha estat escrit en [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] est\u00e0 escrit en [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] ha estat escrit en el llenguatge [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] est\u00e0 escrit en el llenguatge [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], escrit en el llenguatge [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "L' idioma de [X] \u00e9s [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "L' idioma de [X] era [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] \u00e9s un treball en angl\u00e8s.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] \u00e9s un treball d'escriptura [Y].", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], un treball en angl\u00e8s [Y].", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], un treball en angl\u00e8s [Y].", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] era un treball d'escriptura [Y].", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] era un treball d'escriptura [Y].", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] \u00e9s un treball en el llenguatge [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] va ser un treball en el llenguatge [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "la creaci\u00f3 d' idiomes [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] \u00e9s l' idioma de [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] era l' idioma de [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

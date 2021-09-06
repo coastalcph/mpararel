@@ -1,0 +1,4 @@
+{"pattern": "[X] je podklasa od [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], koji je podklasa od [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], jedan od podkategorija od [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], jedan od vrsta [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}

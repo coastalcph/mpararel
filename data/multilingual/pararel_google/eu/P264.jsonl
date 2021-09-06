@@ -1,0 +1,17 @@
+{"pattern": "[X] musikaren etiketaren bidez irudikatzen da [Y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] erregistro-etiketaren bidez irudikatzen da [y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] [Y] -k irudikatzen du.", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], hau da, [y] -k irudikatzen du.", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], hau da, [y] arabera.", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] irudikatzen duen musika etiketa [y] da.", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] irudikatzen ari den musika etiketa [y] da.", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] etiketa [y] da.", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] disko-etiketa [y] da.", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] disko-enpresa [y] da.", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] musikaren etiketa [y] da.", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] [Y] grabatuta.", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] etiketa: [y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], [y] kaleratua.", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] grabazio artista [x].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] bezalako artistak [x].", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] artistak [x] barne.", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

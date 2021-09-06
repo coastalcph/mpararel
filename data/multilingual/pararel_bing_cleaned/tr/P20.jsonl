@@ -1,0 +1,8 @@
+{"pattern": "[X] [Y]'de \u00f6ld\u00fc.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] [Y] de \u00f6ld\u00fc.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] [Y] i\u00e7inde vefat etti.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] [Y] ya\u015f\u0131nda vefat etti.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] s\u00fcresi [Y] olarak doldu.", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] [Y]'de hayat\u0131n\u0131 kaybetti.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X]'in hayat\u0131 [Y] ile sona erdi.", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] [Y]'ye yenik d\u00fc\u015ft\u00fc.", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

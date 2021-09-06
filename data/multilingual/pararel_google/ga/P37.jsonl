@@ -1,0 +1,9 @@
+{"pattern": "Is \u00e9 teanga oifigi\u00fail [X] [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Is \u00e9 teanga oifigi\u00fail [X] an teanga [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Is \u00e9 [Y] teanga oifigi\u00fail [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Is \u00e9 an teanga [y] teanga oifigi\u00fail [x].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "I [x], is \u00e9 [y] an teanga oifigi\u00fail.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "Go hoifigi\u00fail, is \u00e9 [y] teanga [x].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Dearbha\u00edonn an dl\u00ed i [x] an teanga oifigi\u00fail.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Sainmh\u00edn\u00edonn an dl\u00ed i [x] [y] mar an teanga oifigi\u00fail.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Sainmh\u00edn\u00edonn an dl\u00ed i [x] an teanga [y] mar an teanga oifigi\u00fail.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

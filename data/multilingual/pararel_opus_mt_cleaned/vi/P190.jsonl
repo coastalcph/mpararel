@@ -1,0 +1,4 @@
+{"pattern": "[X] v\u00e0 [Y] l\u00e0 hai th\u00e0nh.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] v\u00e0 [X] l\u00e0 c\u00e1c th\u00e0nh.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] l\u00e0 m\u1ed9t th\u00e0nh ph\u1ed1 hai chi\u1ec1u c\u1ee7a [X].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] l\u00e0 m\u1ed9t th\u00e0nh ph\u1ed1 \u0111\u00f4i [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

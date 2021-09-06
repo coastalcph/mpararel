@@ -1,0 +1,14 @@
+{"pattern": "[X] is in [Y] gestig.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], gegrond in [J].", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] wat in [J] gestig is.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X], dit is in [Y] begin.", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] het in [Y] begin.", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] is in [Y] begin", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X], dit is in [Y] geskep.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], geskep in [J].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] is in [Y] geskep.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], wat sy oorsprong in [Y] gehad het.", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] het sy oorsprong in [Y] gehad.", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] in [Y] gevorm.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] is in [Y] gevorm.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X], dit is in [Y] gevorm.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

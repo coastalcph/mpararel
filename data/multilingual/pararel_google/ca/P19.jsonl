@@ -1,0 +1,13 @@
+{"pattern": "[X] va n\u00e9ixer a [Y].", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] \u00e9s originari de [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] va ser originalment de [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] \u00e9s natiu de [y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] era originari de [y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] es va originar de [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] s'origina de [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] era una persona [i].", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] era una persona [y] -born.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] \u00e9s una persona [y] -born.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] \u00e9s una persona [y] -born.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], a [Y] -Born Person.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], una persona [Y].", "lemma": "born", "extended_lemma": "born", "tense": "present"}

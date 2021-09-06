@@ -1,0 +1,11 @@
+{"pattern": "[X] by\u0142 pierwotnie emitowany na [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] ma zadebiutowa\u0107 na [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] ma zadebiutowa\u0107 [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] zadebiutowa\u0142 [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] zadebiutowa\u0142 na [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[Y] debiut [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "wydanie [Y] [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] zosta\u0142 wydany na [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] wydany [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] mia\u0142 swoj\u0105 premier\u0119 na [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] premiera na [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

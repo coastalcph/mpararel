@@ -1,0 +1,16 @@
+{"pattern": "El so t\u00e9rminu municipal ta form\u00e1u por un solu nucleu de poblaci\u00f3n, ocupa una superficie total de 60,17 km2 y seg\u00fan los datos demogr\u00e1ficos recoy\u00edos nel padr\u00f3n municipal ellabor\u00e1u pol INE nel a\u00f1u 2017, cuenta con una poblaci\u00f3n de 934 habitantes.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "El so t\u00e9rminu municipal ta form\u00e1u por un solu nucleu de poblaci\u00f3n, ocupa una superficie total de 60,17 km2 y seg\u00fan los datos demogr\u00e1ficos recoy\u00edos nel padr\u00f3n municipal ellabor\u00e1u pol INE nel a\u00f1u 2017, cuenta con una poblaci\u00f3n de 94 habitantes.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "El so t\u00e9rminu municipal ta form\u00e1u por un solu nucleu de poblaci\u00f3n, ocupa una superficie total de 60,17 km2 y seg\u00fan los datos demogr\u00e1ficos recoy\u00edos nel padr\u00f3n municipal ellabor\u00e1u pol INE nel a\u00f1u 2017, cuenta con una poblaci\u00f3n de 934 habitantes.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "El mandatu pertenez a Al\u00e1 enantes y dempu\u00e9s.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "El so t\u00e9rminu municipal ta form\u00e1u por un solu nucleu de poblaci\u00f3n, ocupa una superficie total de 60,17 km2 y seg\u00fan los datos demogr\u00e1ficos recoy\u00edos nel padr\u00f3n municipal ellabor\u00e1u pol INE nel a\u00f1u 2017, cuenta con una poblaci\u00f3n de 94 habitantes.", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "El mandatu pertenez a Al\u00e1 enantes y dempu\u00e9s.", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] ye un productu de [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] foi un productu de [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], un productu de [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], un productu cre\u00e1u por [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], un productu fabric\u00e1u por [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], un productu desenvueltu por [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "El so t\u00e9rminu municipal ta form\u00e1u por un solu nucleu de poblaci\u00f3n, ocupa una superficie total de 60,17 km2 y seg\u00fan los datos demogr\u00e1ficos recoy\u00edos nel padr\u00f3n municipal ellabor\u00e1u pol INE nel a\u00f1u 2017, cuenta con una poblaci\u00f3n de 94 habitantes.", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "El mandatu pertenez a Al\u00e1 enantes y dempu\u00e9s.", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "El mandatu pertenez a Al\u00e1 enantes.", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] y el so productu [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

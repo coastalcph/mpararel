@@ -1,0 +1,4 @@
+{"pattern": "[X] [Y] sahip olunan.", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] sahibi [Y].", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] [X] var.", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] -downed [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

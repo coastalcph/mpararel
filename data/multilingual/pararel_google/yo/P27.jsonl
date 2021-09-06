@@ -1,0 +1,9 @@
+{"pattern": "[X] j\u1eb9 ofin \u1ecdm\u1ecd ilu.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[X] j\u1eb9 \u1ecdm\u1ecd ilu ti [Y].", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X], \u1ecdm\u1ecd ilu ti [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X], ti o j\u1eb9 \u1ecdm\u1ecd ilu ti [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X] di \u1ecdm\u1ecd ilu kan ti [y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] ni o wa lori ilu [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X], \u1eb9niti o di ara ilu kan ti [y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X], ti o ni ara ilu ti [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "G\u1eb9g\u1eb9bi ara ilu ti [Y], [x]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

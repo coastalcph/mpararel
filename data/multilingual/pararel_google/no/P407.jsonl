@@ -1,0 +1,18 @@
+{"pattern": "[X] ble skrevet i [y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] er skrevet i [y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] ble skrevet i [y] -spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] er skrevet i [y] -spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], skrevet i [y] -spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Spr\u00e5ket i [x] er [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Spr\u00e5ket i [x] var [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] er et [y] -language arbeid.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] er et [y] -language arbeid.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], et [y] -language arbeid.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], et [y] -language arbeid.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] var et [y] -language arbeid.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] var et [y] -language arbeid.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] er et arbeid i [y] -spr\u00e5ket.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] var et arbeid i [y] -spr\u00e5ket.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] -Language Creation [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] er spr\u00e5ket til [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] var spr\u00e5ket til [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

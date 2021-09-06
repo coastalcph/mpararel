@@ -1,0 +1,20 @@
+{"pattern": "Jina lake ni baada ya Y.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "Baada ya hayo, jina hilo liliandikwa.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "Jina la Jina la Jina la Jina", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "Jina lake lilikuwa J.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "Jina lake ni baada ya", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "Baada ya hayo, jina hilo liliandikwa.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "Hiyo ni kwa jina la Mwenyezi Mungu.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "Jina lake ni Jina la Mwenyewe.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "Jina la Jina la Mwenyezi Mungu", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "Jina lake ni baada ya", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "Jina lake ni Jina la Mwenyezi Mungu.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "Jina lake lilikuwa ni Jina la Mwenyezi Mungu.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "Jina lake ni Jina la Mwenyezi Mungu.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "Jina la Jina la Jina la Jina la Jina la Jina", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "Jina lake lilikuwa ni Jina la Mwenyezi Mungu.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "Baada ya hayo, wito huchukuliwa.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Baada ya hayo, wito ulifanyika.", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "Baada ya hayo, wito huchukuliwa.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Hivyo basi, baada ya kuomba.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "Baada ya hayo, wito hufanyika.", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

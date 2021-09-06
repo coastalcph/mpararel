@@ -1,0 +1,13 @@
+{"pattern": "[X] fungerer i feltet [Y].", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] spesialiserer seg p\u00e5 [y].", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] er spesialiseringen av [x].", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Kompetansen til [x] er [y].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[Y] er kompetansen til [x].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Domenet av aktiviteten til [x] er [y].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Domenet til arbeidet med [x] er [y].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y] er Domain of Activity of [X].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] 's arbeidsomr\u00e5de er [y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X] 's Domain of Work er [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X] 's Domain of Activity er [Y].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[X] 's kompetanse er [y].", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] fungerer i omr\u00e5det [Y].", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

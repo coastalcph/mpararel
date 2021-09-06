@@ -1,0 +1,12 @@
+{"pattern": "[X] se te kreye pa [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] se devlope pa [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], devlope pa [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], ki te pwodwi pa [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "Ki te kreye pa [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X], ki te kreye pa [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] se yon pwodwi nan [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], yon pwodwi nan [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], yon pwodwi ki te kreye pa [Y],", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], yon pwodwi devlope pa [Y],", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y] kreyasyon an nan [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] ak pwodwi li yo [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

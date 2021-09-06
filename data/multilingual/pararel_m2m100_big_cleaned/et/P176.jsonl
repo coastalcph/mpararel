@@ -1,0 +1,12 @@
+{"pattern": "[X] on loodud vastavalt [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] on v\u00e4lja t\u00f6\u00f6tatud vastavalt [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], mille on v\u00e4lja t\u00f6\u00f6tanud [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], mille on loonud [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] on loodud l\u00e4bi [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "x, mille on loonud [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] on \u00fcks [Y] toodetest", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], mis on toodetud [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], tootja poolt loodud", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], mille on v\u00e4lja t\u00f6\u00f6tanud [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "ja see, kes on loonud x.", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] ja selle toode [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

@@ -1,0 +1,11 @@
+{"pattern": "[X] kasb bo'yicha a [y].", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] Kasb bo'yicha [y].", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] mashg'ulotlar bilan.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] mashg'ulotlar bilan.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] [y] kabi ishlaydi.", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[Y] kabi ishlaydi.", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] ning kasbi [y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[x] ning kasbi [y].", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] ning kasbi - bu [y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] ning kasbi - bu [y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[x] kasbidir [y].", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

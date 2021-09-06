@@ -1,0 +1,9 @@
+{"pattern": "O halde o da bir millettir.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[X] bir vatanda\u015fa aittir", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X], bir vatanda\u015f i\u00e7in", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "Kim demi\u015f, kim demi\u015f, kim demi\u015f.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X] bir vatanda\u015fl\u0131k hakk\u0131na sahiptir.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] bir vatanda\u015fl\u0131k hakk\u0131 vard\u0131r.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "Kim demi\u015f, kim demi\u015f, kim demi\u015f.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "Kim demi\u015f, kim demi\u015f, kim demi\u015f.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "\u015eehit olarak da,", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

@@ -1,0 +1,18 @@
+{"pattern": "[X] je bilo napisano v [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] je napisana v [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] je bilo napisane v [Y] jeziku.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] je napisana v [Y] jeziku.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], v jeziku [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "jezik [X] je [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "jezik [X] je bil [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] je delo v [Y] jeziku.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] je delo v [Y] jeziku.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], delo v [Y] jeziku.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], delo v [Y] jeziku.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] je bila delo v [Y] jeziku.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] je bila delo v [Y] jeziku.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] je delo v [Y] jeziku.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] je delo v [Y] jeziku.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Stvarovanje [Y] jezika [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "je jezik [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "y je bil jezik x.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

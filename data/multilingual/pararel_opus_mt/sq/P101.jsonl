@@ -1,0 +1,13 @@
+{"pattern": "[X] punon n\u00eb fush\u00ebn e [Y].", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] specializuar n\u00eb [Y].", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] \u00ebsht\u00eb specializimi i [X].", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Specialiteti i [X] \u00ebsht\u00eb [Y].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[Y] \u00ebsht\u00eb ekspertiz\u00eb e [X].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Fusha e aktivitetit [X] \u00ebsht\u00eb [Y].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Fusha e pun\u00ebs [X] \u00ebsht\u00eb [Y].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y] \u00ebsht\u00eb domain e aktivitetit t\u00eb [X].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] zona e pun\u00ebs \u00ebsht\u00eb [Y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "Fusha e pun\u00ebs s\u00eb [X] \u00ebsht\u00eb [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "Fusha e aktivitetit [X] \u00ebsht\u00eb [Y].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[X] ekspertiz\u00eb \u00ebsht\u00eb [Y].", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] punon n\u00eb zon\u00ebn e [Y].", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

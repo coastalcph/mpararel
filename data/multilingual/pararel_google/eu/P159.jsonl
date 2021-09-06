@@ -1,0 +1,10 @@
+{"pattern": "[X] egoitza [y] da.", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "[X] egoitza [y] da.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] egoitza [y] -n dago.", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] [X] egoitza du.", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] du egoitza [y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] du egoitza [x].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] egoitza [y] -en daude.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], zeinen egoitza [y] -n dago.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] [x] etxean dago.", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] [Y] -n oinarritzen da.", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

@@ -1,0 +1,8 @@
+{"pattern": "Fuair [x] b\u00e1s i [y].", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "Fuair [x] b\u00e1s ag [y].", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] a ritheadh amach i [y].", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] a rith amach ag [y].", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] In \u00e9agtha ag [y].", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "Chaill [x] a saol ag [y].", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "Chr\u00edochnaigh saol [x] i [y].", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] g\u00e9illeadh ag [y].", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

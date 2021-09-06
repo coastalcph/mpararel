@@ -1,0 +1,4 @@
+{"pattern": "[X] ialah harta yang dimiliki oleh [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] ialah pemilik", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "Yang mempunyai sifat x.", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "yang mempunyai sifat-sifat yang", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

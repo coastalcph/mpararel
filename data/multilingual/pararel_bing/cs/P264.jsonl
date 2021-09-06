@@ -1,0 +1,17 @@
+{"pattern": "[X] je reprezentov\u00e1n hudebn\u00edm vydavatelstv\u00edm [Y] .", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] je reprezentov\u00e1n nahr\u00e1vac\u00ed spole\u010dnost\u00ed [Y] .", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] je reprezentov\u00e1n [Y] .", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], kter\u00fd je reprezentov\u00e1n [Y].", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], kter\u00fd je reprezentov\u00e1n [Y].", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Hudebn\u00ed vydavatelstv\u00ed p\u0159edstavuj\u00edc\u00ed [X] je [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Hudebn\u00ed vydavatelstv\u00ed, kter\u00e9 p\u0159edstavuje [X], je [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X]je \u0161t\u00edtek [Y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "Nahr\u00e1vac\u00ed spole\u010dnost [X] je [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "Nahr\u00e1vac\u00ed spole\u010dnost [X] je [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Hudebn\u00ed vydavatelstv\u00ed [X] je [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] zaznamen\u00e1no pro [Y].", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] \u0161t\u00edtek : [Y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], vyd\u00e1no [Y].", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] nahr\u00e1vac\u00ed um\u011blec [X].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] um\u011blci jako [X].", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] um\u011blci v\u010detn\u011b [X].", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

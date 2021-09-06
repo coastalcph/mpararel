@@ -1,0 +1,11 @@
+{"pattern": "[\u0a10\u0a15\u0a38] \u0a05\u0a38\u0a32 \u0a35\u0a3f\u0a71\u0a1a [\u0a35\u0a3e\u0a08] \u0a24\u0a47 \u0a2a\u0a4d\u0a30\u0a38\u0a3e\u0a30\u0a3f\u0a24 \u0a15\u0a40\u0a24\u0a3e \u0a17\u0a3f\u0a06 \u0a38\u0a40.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[\u0a10\u0a15\u0a38] \u0a39\u0a48 [\u0a35\u0a3e\u0a08] \u0a28\u0a42\u0a70 \u0a38\u0a3c\u0a41\u0a30\u0a42 \u0a15\u0a30\u0a28\u0a3e.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] \u0a15\u0a30\u0a28\u0a3e \u0a39\u0a48 [\u0a10\u0a15\u0a38].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] \u0a28\u0a42\u0a70 \u0a2a\u0a47\u0a38\u0a3c \u0a15\u0a40\u0a24\u0a3e [x].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] [\u0a35\u0a3e\u0a08] '\u0a24\u0a47 \u0a2a\u0a47\u0a38\u0a3c \u0a15\u0a40\u0a24\u0a3e.", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[\u0a35\u0a3e\u0a08] \u0a26\u0a40 \u0a38\u0a3c\u0a41\u0a30\u0a42\u0a06\u0a24 \u0a15\u0a30\u0a4b.", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[y] \u0a28\u0a42\u0a70 \u0a1c\u0a3e\u0a30\u0a40 \u0a15\u0a30\u0a28\u0a3e.", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[\u0a10\u0a15\u0a38] \u0a28\u0a42\u0a70 [\u0a35\u0a3e\u0a08] '\u0a24\u0a47 \u0a1c\u0a3e\u0a30\u0a40 \u0a15\u0a40\u0a24\u0a3e \u0a17\u0a3f\u0a06 \u0a38\u0a40.", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] \u0a1c\u0a3e\u0a30\u0a40 \u0a15\u0a40\u0a24\u0a3e [\u0a10\u0a15\u0a38].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] \u0a2a\u0a4d\u0a30\u0a40\u0a2c\u0a30\u0a1c\u0a21 [\u0a35\u0a3e\u0a08].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] \u0a2a\u0a4d\u0a30\u0a40\u0a2e\u0a40\u0a05\u0a30 [\u0a35\u0a3e\u0a08].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

@@ -1,0 +1,5 @@
+{"pattern": "[X] ir [Y] loceklis.", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] pieder [Y] organiz\u0101cijai.", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] ir [Y] organiz\u0101cijas da\u013ca.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] ir saist\u012bta ar [Y].", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] ir saist\u012bta ar [Y] organiz\u0101ciju.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

@@ -1,0 +1,11 @@
+{"pattern": "[X] bylo p\u016fvodn\u011b vys\u00edl\u00e1no na [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] bude debutovat na [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] bude debutovat [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debutoval [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debutoval na [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "debut [Y] [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] vyd\u00e1n\u00ed [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] byl vyd\u00e1n na [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] vyd\u00e1no [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] m\u011bl premi\u00e9ru na [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] m\u00e1 premi\u00e9ru na [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

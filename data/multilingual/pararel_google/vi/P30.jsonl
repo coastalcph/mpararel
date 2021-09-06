@@ -1,0 +1,4 @@
+{"pattern": "[X] n\u1eb1m trong [y].", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] n\u1eb1m \u1edf l\u1ee5c \u0111\u1ecba [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] thu\u1ed9c v\u1ec1 l\u1ee5c \u0111\u1ecba c\u1ee7a [y].", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] l\u00e0 m\u1ed9t ph\u1ea7n c\u1ee7a l\u1ee5c \u0111\u1ecba [y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

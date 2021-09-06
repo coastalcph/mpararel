@@ -1,0 +1,20 @@
+{"pattern": "[X] [Y] ad\u0131n\u0131 da\u015f\u0131y\u0131r.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X] ad\u0131n\u0131 da\u015f\u0131y\u0131rd\u0131 [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X] [y] adland\u0131r\u0131lm\u0131\u015fd\u0131r.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] [Y] adland\u0131r\u0131ld\u0131.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], (Y] ad\u0131n\u0131 da\u015f\u0131y\u0131r.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X], (Y] ad\u0131n\u0131 da\u015f\u0131y\u0131r.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X], bu da [Y] adl\u0131d\u0131r.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X], bu da [Y] adl\u0131.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], [y] adl\u0131.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[X], [Y] ad\u0131n\u0131 da\u015f\u0131y\u0131r.", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] [Y]-d\u0259 \u015f\u0259r\u0259f adland\u0131r\u0131lm\u0131\u015fd\u0131r.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] [Y] -d\u0259 \u015f\u0259r\u0259find\u0259 deyildi.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], [y] 'd\u0259 ad\u0131 verildi.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], bu [Y] -d\u0259 ad\u0131 verilmi\u015fdir.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], bu [Y] \u015f\u0259r\u0259find\u0259 olanlar.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] [Y] adlan\u0131r.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X] [Y] adlan\u0131rd\u0131.", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[X], bu, [y] adlan\u0131r.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X], (Y] adland\u0131r\u0131ld\u0131.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X], [Y] adlan\u0131r.", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

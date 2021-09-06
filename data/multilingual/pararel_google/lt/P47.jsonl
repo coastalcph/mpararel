@@ -1,0 +1,9 @@
+{"pattern": "[X] Akcin\u0117s sienos su [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] ribos su [y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] dalijasi siena su [y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] dalijasi savo siena su [y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] pritaria bendra siena su [y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] ribos su [x].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] dalijasi siena su [x].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] dalijasi savo siena su [x].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] dalijasi bendra siena su [x].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] ak [Y] yo se vil jimo.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] ak [X] se vil twin.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] se yon vil jimo [X].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] se yon vil jimo [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

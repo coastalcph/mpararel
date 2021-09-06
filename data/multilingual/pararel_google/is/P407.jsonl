@@ -1,0 +1,18 @@
+{"pattern": "[X] var skrifa\u00f0 \u00ed [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] er skrifa\u00f0 \u00ed [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] var skrifa\u00f0 \u00ed [y] tungum\u00e1linu.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] er skrifa\u00f0 \u00ed [y] tungum\u00e1linu.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], skrifa\u00f0 \u00ed [y] tungum\u00e1linu.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Tungum\u00e1l [x] er [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Tungum\u00e1l [x] var [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] er [y] -language vinna.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] er [y] -language vinna.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], a [y] -language vinna.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], [y] -language vinna.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] var [y] -language vinna.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] var [y] -language vinna.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] er verk \u00ed [y] tungum\u00e1linu.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] var verk \u00ed [y] tungum\u00e1linu.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "The [Y] -language sk\u00f6pun [x]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] er tungum\u00e1l [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] var tungum\u00e1li\u00f0 [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

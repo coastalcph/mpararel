@@ -1,0 +1,8 @@
+{"pattern": "[X] [Y] \u00f6ld\u00fc.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] [Y]-d\u0259 v\u0259fat etdi.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] [Y]-d\u0259 ke\u00e7di.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] [Y]-d\u0259 ke\u00e7di.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] [Y]-d\u0259 ba\u015fa \u00e7atd\u0131.", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] [Y]-d\u0259 h\u0259yat\u0131n\u0131 itirdi.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X]-in h\u0259yat\u0131 [Y]-d\u0259 sona \u00e7atd\u0131.", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] [Y]-d\u0259 t\u0259slim oldu.", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

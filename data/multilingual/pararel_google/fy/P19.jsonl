@@ -1,0 +1,13 @@
+{"pattern": "[X] waard berne yn [y].", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] is oarspronklik fan [y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] wie oarspronklik fan [y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] is l\u00e2nseigen by [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] wie l\u00e2nseigen oan [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] \u00fbntstie \u00fat [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] komt fan [y] \u00fat [y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] wie in [y] -born persoan.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] wie in [y] -born persoan.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] is in [y] -born persoan.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] is in [y] -born persoan.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], A [Y] -Born persoan.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], an [y] -born persoan.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

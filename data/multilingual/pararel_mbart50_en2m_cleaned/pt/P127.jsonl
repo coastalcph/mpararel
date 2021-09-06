@@ -1,0 +1,4 @@
+{"pattern": "[X] \u00e9 propriedade de [Y].", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] dono [Y].", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] tem [X].", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "O [Y] que pertence ao [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

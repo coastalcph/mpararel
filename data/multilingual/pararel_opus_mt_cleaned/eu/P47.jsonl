@@ -1,0 +1,9 @@
+{"pattern": "[X] partekatzeen ertza [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] ertzekin [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] Ertzarekin partekatzen du [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] bere ertzarekin partekatzen du.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] ertz komun bat [Y]rekin partekatzen du.", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "mugak [X]-rekin.", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] Ertzarekin partekatzen du [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] Bere ertzarekin partekatzen du [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] ertz komun bat partekatzen du [X]-rekin.", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

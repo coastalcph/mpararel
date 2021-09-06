@@ -1,0 +1,4 @@
+{"pattern": "[X] \u00e9s [Y] iker v\u00e1rosok.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] \u00e9s [x] iker v\u00e1rosok.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] egy kett\u0151s v\u00e1ros [X].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] egy ikerv\u00e1ros [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

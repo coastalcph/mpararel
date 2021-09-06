@@ -1,0 +1,20 @@
+{"pattern": "Sonraki \u0130\u00e7erikY\u2019den sonra isimlendirilir", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "Sonraki \u0130\u00e7erik\u0130srail\u2019den sonra isimlendirildi", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "Ad\u0131 Soyad\u0131 : X", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "Ad\u0131 Soyad\u0131 : X", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "Sonraki \u0130\u00e7erik\u0130zmir\u2019den sonra isimlendirilecek", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "Sonraki \u0130\u00e7erik\u0130zmir\u2019den sonra isimlendirildi", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "Ad\u0131 Soyad\u0131 : X", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "Ad\u0131 Soyad\u0131 : X", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "Ad\u0131 Soyad\u0131 : Y", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "Sonraki \u0130\u00e7erik\u0130srail\u2019den sonra", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "X\u2019in isminin anlam\u0131,", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "X\u2019in isminin anlam\u0131,", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "Ad\u0131 Soyad\u0131 : X Ad\u0131 Soyad\u0131", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "X) Ad\u0131 Soyad\u0131 : Ad\u0131 Soyad\u0131 : Ad\u0131 Soyad\u0131", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "\u0130sl\u00e2m\u2019\u0131n ad\u0131yla adland\u0131r\u0131l\u0131r.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "Bundan sonra da namaz k\u0131l\u0131n\u0131r.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Sonras\u0131nda da namaz k\u0131l\u0131nd\u0131.", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "Sonras\u0131nda da namaz k\u0131l\u0131n\u0131r.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Bundan sonra da namaz k\u0131l\u0131nm\u0131\u015ft\u0131r.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "Ondan sonra da namaz k\u0131l\u0131n\u0131r.", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

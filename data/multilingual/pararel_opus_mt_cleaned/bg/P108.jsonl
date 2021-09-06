@@ -1,0 +1,4 @@
+{"pattern": "[X] \u0440\u0430\u0431\u043e\u0442\u0438 \u0437\u0430 [Y].", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X], \u043a\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u0438 \u0437\u0430 [Y].", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] \u0441\u0435 \u043f\u0440\u0438\u043b\u0430\u0433\u0430 \u043e\u0442 [Y].", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X], \u043a\u043e\u0438\u0442\u043e \u0441\u0430 \u043d\u0430\u0435\u0442\u0438 \u043e\u0442 [Y].", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

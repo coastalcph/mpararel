@@ -1,0 +1,4 @@
+{"pattern": "[X]\ub294 [Y]\uac00 \uc18c\uc720\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "\u3010 X \u3011 \uc18c\uc720\uc790 \u3010Y \u3011 .", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y]\ub294 [X]\ub97c \uc18c\uc720\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y]\uc18c\uc720 [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

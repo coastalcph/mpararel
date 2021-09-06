@@ -1,0 +1,13 @@
+{"pattern": "[X] dia teraka tao [Y].", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] dia avy amin'ny [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] tany am-boalohany dia avy tamin'ny [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "Ny [X] dia teratany [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] dia teratany [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] dia avy amin'ny [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] avy amin'ny [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] dia olona [Y].", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] dia olona [teraka y].", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] dia olona [teraka y].", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] dia olona [teraka y].", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], olona [Y].", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], olona [teraka y].", "lemma": "born", "extended_lemma": "born", "tense": "present"}

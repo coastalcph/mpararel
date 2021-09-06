@@ -1,0 +1,13 @@
+{"pattern": "[ 10 - cu s\u0259hif\u0259d\u0259ki \u015f\u0259kil]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[yeqova] x\u00fcsusi olaraq.", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[se\u00e7\u0259n\u0259kl\u0259r] x\u00fcsusidir.", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "[ 16 \u2013 c\u0131 s\u0259hif\u0259d\u0259ki \u015f\u0259kil]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[se\u00e7\u0259n\u0259k...] [fayl]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[ 20 \u2013 ci s\u0259hif\u0259d\u0259ki \u015f\u0259kil]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "l\u00fc\u011f\u0259tin i\u015fi [yeqovan\u0131n] [yeqovan\u0131n].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[s\u00fcleyman\u0131n] f\u0259aliyy\u0259tidir.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[s] i\u0307\u015fin tarixi [y\u0259hudi]dir.", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[n] i\u015f [yeqovan\u0131n] [yeqovan\u0131n].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[n] f\u0259aliyy\u0259t] [yeqova].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[n] m\u00fct\u0259x\u0259ssisl\u0259r [yeqova] [yeqova]]", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[ 16 - c\u0131 s\u0259hif\u0259d\u0259ki \u015f\u0259kil]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

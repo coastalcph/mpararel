@@ -1,0 +1,12 @@
+{"pattern": "[X] er produsert av [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] er utviklet av [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], utviklet av [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], produsert av [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "Den er skapt av X.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "som er skapt av Gud.", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] er et produkt av [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], et produkt av [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], et produkt skapt av [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], et produkt utviklet av [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "Han er skaperen av", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] og dets produkt [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

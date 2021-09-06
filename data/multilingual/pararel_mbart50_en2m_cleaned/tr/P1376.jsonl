@@ -1,0 +1,14 @@
+{"pattern": "[X], [Y]'nin ba\u015fkentidir.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y]'nin ba\u015fkenti [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] ba\u015fkenti [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], [Y]'nin ba\u015fkenti.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y]'nin ba\u015fkenti, [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y]'nin ba\u015fkenti, [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y]'nin ba\u015fkenti [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y]'nin ba\u015fkenti [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], [Y]'nin ba\u015fkenti.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], ba\u015fkenti [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], bu da [Y]'nin ba\u015f harfi.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], bu da [Y] ba\u015fkenti.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "Ba\u015flang\u0131\u00e7ta [X] olan [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "ba\u015fkenti olan [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

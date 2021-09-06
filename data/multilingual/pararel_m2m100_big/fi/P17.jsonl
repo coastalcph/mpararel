@@ -1,0 +1,3 @@
+{"pattern": "[x] on sijoitettu [y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X], joka on sijoitettu [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[x], joka sijaitsee [y]", "lemma": "located", "extended_lemma": "located", "tense": "present"}

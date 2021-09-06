@@ -1,0 +1,9 @@
+{"pattern": "[X] h\u00e4lt diplomatesch bez\u00e9iunge mat [Y].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] h\u00e4lt diplomatesch bez\u00e9iunge mat [X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] ties diplomatesch bez\u00e9iunge mat [Y].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] ties diplomatesch bez\u00e9iunge mat [X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] huet diplomatesch bez\u00e9iunge mat [Y].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] huet diplomatesch bez\u00e9iunge mat [X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X], wat diplomatesch bez\u00e9iunge mat [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], wat ass diplomatesch bez\u00e9iunge mat [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], d\u00e9i taucht diplomatesch bez\u00e9iunge mat [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

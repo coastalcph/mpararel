@@ -1,0 +1,4 @@
+{"pattern": "[X] funktioniert f\u00fcr [y].", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X], der f\u00fcr [y] arbeitet.", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] wird von [y] verwendet.", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X], der bei [y] eingesetzt wird.", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

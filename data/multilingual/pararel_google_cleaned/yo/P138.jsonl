@@ -1,0 +1,20 @@
+{"pattern": "[X] ni oruk\u1ecd l\u1eb9hin [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X] ni a daruk\u1ecd l\u1eb9hin [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X] ni oruk\u1ecd fun [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] ni a s\u1ecd oruk\u1ecd fun [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], eyiti o s\u1ecd oruk\u1ecd l\u1eb9hin [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X], eyiti a daruk\u1ecd l\u1eb9hin [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X], eyiti o j\u1eb9 oruk\u1ecd fun [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X], ti o j\u1eb9 oruk\u1ecd fun [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], ti oruk\u1ecd oruk\u1ecd fun [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[X], ni oruk\u1ecd l\u1eb9hin [Y].", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] ni oruk\u1ecd ni [Y] mb\u1ecd.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] ni a daruk\u1ecd ni [b\u1eb9\u1eb9ni] m\u00e0.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], oruk\u1ecd r\u1eb9 ni ibuyi.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], eyiti a daruk\u1ecd ni [Y] bu \u1ecdl\u00e1.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], eyiti a daruk\u1ecd ni [b\u1eb9\u1eb9ni.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] ni a pe l\u1eb9hin [Y].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X] ni a pe l\u1eb9hin [Y].", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[X], eyiti a pe ni l\u1eb9hin [Y].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X], eyiti a pe ni l\u1eb9hin [Y].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X], pe l\u1eb9hin [Y].", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

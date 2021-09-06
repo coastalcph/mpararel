@@ -1,0 +1,6 @@
+{"pattern": "[X] \u091a\u0940 \u092e\u0942\u0933 \u092d\u093e\u0937\u093e \u0906\u0939\u0947 [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[X] \u091a\u0940 \u092e\u0942\u0933 \u092d\u093e\u0937\u093e [Y] \u0939\u094b\u0924\u0940.", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "[X] \u091a\u0940 \u092d\u093e\u0937\u093e \u0906\u0939\u0947 [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] \u091a\u0940 \u092d\u093e\u0937\u093e [Y] \u0939\u094b\u0924\u0940.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] \u0939\u0947 [X] \u091a\u0902 \u092d\u093e\u0937\u093e \u0906\u0939\u0947.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "\u0924 \u094d \u092f\u093e\u091a\u093e (y) \u092d\u093e\u0937\u0947\u091a\u093e (x) \u0939\u094b\u0924\u093e.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

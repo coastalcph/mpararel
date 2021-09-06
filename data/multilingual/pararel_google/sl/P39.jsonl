@@ -1,0 +1,6 @@
+{"pattern": "[X] ima polo\u017eaj [y].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X], ki ima polo\u017eaj [y].", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X], katerega polo\u017eaj je od [y].", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "Polo\u017eaj [X] je [y].", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X], ki ima polo\u017eaj [y].", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] dr\u017ei polo\u017eaj [y].", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

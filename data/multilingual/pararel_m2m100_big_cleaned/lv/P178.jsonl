@@ -1,0 +1,16 @@
+{"pattern": "[X] ir izstr\u0101d\u0101ts ar [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] tika izveidots ar [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X], kas izveidots ar [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] ir rad\u012bts ar [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] tika rad\u012bts ar [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X], kas ir rad\u012bts ar [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] ir produkts no [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] bija produkts no [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X] ir produkts no [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], produkts, ko izveidojis [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], produkts, ko ra\u017eo [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], produkts, ko izstr\u0101d\u0101jis [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], kas ir att\u012bst\u012bjusies [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "tas, kur\u0161 ir rad\u012bjis [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "tas ir rad\u012bt\u0101js [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] un t\u0101s produkts [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

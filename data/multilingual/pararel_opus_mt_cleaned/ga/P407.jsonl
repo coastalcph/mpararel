@@ -1,0 +1,18 @@
+{"pattern": "[X] Bh\u00ed scr\u00edofa i [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] T\u00e1 scr\u00edofa i [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] Bh\u00ed scr\u00edofa sa [Y] teanga.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] T\u00e1 scr\u00edofa sa [Y] teanga.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], scr\u00edofa sa [Y] teanga.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Is \u00e9 an teanga de [X] [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ba \u00ed an teanga [X] [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] Is [Y]-teanga oibre.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] is [Y]-teanga oibre.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], a [Y]-teanga oibre.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], saothar [Y]-teanga.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] Bh\u00ed [Y]-teanga oibre.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] Bh\u00ed [Y]-teanga oibre.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] Is saothar sa [Y] teanga.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] Bh\u00ed saothar sa [Y] teanga.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "An [Y] teanga a chruth\u00fa [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] Is \u00e9 an teanga de [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] Ba \u00ed an teanga de [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

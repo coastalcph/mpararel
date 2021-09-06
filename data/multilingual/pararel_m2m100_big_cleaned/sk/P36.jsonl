@@ -1,0 +1,14 @@
+{"pattern": "hlavn\u00fdm zdrojom je [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "hlavn\u00fdm mestom je [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "je to hlavn\u00e9 mesto [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] je hlavn\u00e9 mesto [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] je hlavn\u00fd kapit\u00e1l, [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] je hlavn\u00e9 mesto [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] je kapit\u00e1lom spolo\u010dnosti [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] hlavn\u00e9 mesto je [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "hlavn\u00fdm mestom je [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "hlavn\u00fdm mestom je [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "a toto je hlavn\u00e1 vec [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "toto je hlavn\u00e9 mesto [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], ktor\u00fd m\u00e1 kapit\u00e1l [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], ktor\u00fd m\u00e1 hlavn\u00e9 mesto [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

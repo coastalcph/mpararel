@@ -1,0 +1,4 @@
+{"pattern": "Is \u00e9 teanga dh\u00fachais [X] [Y].", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Is \u00e9 m\u00e1thairtheanga an [x] [y].", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "Is [y] \u00e9 [x] teanga d\u00fachais.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "Is [Y] \u00e9 [X] 's teanga teanga.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

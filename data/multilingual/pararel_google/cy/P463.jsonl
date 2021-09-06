@@ -1,0 +1,5 @@
+{"pattern": "[X] yn aelod o [y].", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] yn perthyn i sefydliad [y].", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] yn rhan o'r sefydliad [y].", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] yn gysylltiedig \u00e2 [y].", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] yn gysylltiedig \u00e2'r sefydliad [y].", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

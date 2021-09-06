@@ -1,0 +1,12 @@
+{"pattern": "[x] \u0939\u0940 \u0928\u093f\u0930\u094d\u092e\u093f\u0924\u0940 \u0915\u0930\u0940\u0924 \u0906\u0939\u0947.", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[x] \u0939\u0940 \u0935\u093f\u0915\u0938\u093f\u0924 \u0915\u0947\u0932\u0940 \u091c\u093e\u0924\u0947.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[x], \u0935\u093f\u0915\u0938\u093f\u0924 \u0915\u0930\u0923\u094d\u092f\u093e\u0924 \u0906\u0932\u0947\u0932\u094d\u092f\u093e [y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[x], \u0928\u093f\u0930\u094d\u092e\u093f\u0924 \u0915\u0947\u0932\u0947\u0932\u0947 [y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[\u0967] \u0905\u0932\u094d\u0932\u093e\u0939 \u0924\u0938\u093e \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u091d\u093e\u0932\u093e \u0906\u0939\u0947.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "\u092f\u093e\u092e\u0941\u0933\u0947 \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u091d\u093e\u0932\u0947\u0932\u0947", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[x] \u0939\u0940 \u090f\u0915 \u0909\u0924\u094d\u092a\u093e\u0926\u0928\u0947 \u0906\u0939\u0947.", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[x, \u090f\u0915 \u0909\u0924\u094d\u092a\u093e\u0926\u0928\u0947\u091a\u093e [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[x], \u090f\u0915 \u0909\u0924\u094d\u092a\u093e\u0926\u0928\u0947\u091a\u093e \u0928\u093f\u0930\u094d\u092e\u093e\u0924\u093e", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[x], \u090f\u0915 \u0909\u0924\u094d\u092a\u093e\u0926\u0928\u093e\u0928\u0947 \u0935\u093f\u0915\u0938\u093f\u0924 \u0915\u0947\u0932\u0947\u0932\u0940 [y],", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[\u0967] \u0905\u0932\u094d\u0932\u093e\u0939\u091a\u093e \u0928\u093f\u0930\u094d\u092e\u093e\u0924\u093e", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] \u0906\u0923\u093f \u0924\u094d\u092f\u093e\u091a\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0928 [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

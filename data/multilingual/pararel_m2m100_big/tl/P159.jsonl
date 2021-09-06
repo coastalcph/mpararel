@@ -1,0 +1,10 @@
+{"pattern": "Sa kabuuan, ang kabuuan ay nasa kabuuan.", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Ang kabisera ng [X] ay sa [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Ang kabataan ng [X] ay matatagpuan sa [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] ay naglalaman ng mga headquarters ng [X].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] ay nasa kabisera ng [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[I] ay may mga kabataan ng [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] ang mga headquarters ay sa [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], kung saan ang mga headquarters ay sa [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Sa bahay na ito ay may mga bagay na kailangan.", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] ay binubuo sa [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

@@ -1,0 +1,5 @@
+{"pattern": "[X]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] yn perthyn i gyfundrefn y gyfundrefn [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] yn rhan o'r gyfundrefn [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] cael ei bennu gyda [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] Ynghlwm \u00e2'r gyfundrefn [Y].", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

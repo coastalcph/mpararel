@@ -1,0 +1,18 @@
+{"pattern": "x\u2019de yaz\u0131lm\u0131\u015ft\u0131r.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "x\u2019de yaz\u0131lm\u0131\u015ft\u0131r.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "yazar\u0131n dilinde yaz\u0131lm\u0131\u015ft\u0131r.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "yazar\u0131n dilinde yaz\u0131lm\u0131\u015ft\u0131r.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "yazar\u0131n dilinde yaz\u0131lm\u0131\u015ft\u0131r.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "zira bu dil,", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "zira bu dilde,", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] bir [Y] dil \u00e7al\u0131\u015fmas\u0131d\u0131r", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] bir [Y] dil \u00e7al\u0131\u015fmas\u0131d\u0131r", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "yine de, bir dil i\u015faretidir.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] bir dilde \u00e7al\u0131\u015fmak", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] bir dil \u00e7al\u0131\u015fmas\u0131yd\u0131.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] bir dil \u00e7al\u0131\u015fmas\u0131yd\u0131.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] dilinde bir eserdir.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] dilinde bir \u00e7al\u0131\u015fma olmu\u015ftur.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "y\u00fcce y\u00fcce y\u00fcce y\u00fcce yarat\u0131c\u0131", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "zira bu dildir.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "yine de, bu dilde,", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

@@ -1,0 +1,11 @@
+{"pattern": "[X]est[k]perprofessionis.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X]est[a]aprofessionis.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X]est[Y]indisciplina permanent.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X]estet[Y]indisciplina permanent.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X]operaturad[n].", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X],quioperaturin[k].", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X]'sopusest,[Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "etopusdomini[X]autem[a].", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X]professioniest[a].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X]professioniest[a].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "etprofessionisex[X]autem[a].", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

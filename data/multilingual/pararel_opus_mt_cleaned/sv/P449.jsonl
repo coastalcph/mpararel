@@ -1,0 +1,11 @@
+{"pattern": "[X] s\u00e4ndes ursprungligen p\u00e5 [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] \u00e4r att debutera p\u00e5 [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] \u00e4r att debutera [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debuterade [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debuterade p\u00e5 [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[Y] debuten av [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] frisl\u00e4ppning av [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] sl\u00e4pptes p\u00e5 [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] frisl\u00e4ppt [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] hade premi\u00e4r p\u00e5 [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] premi\u00e4rer p\u00e5 [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

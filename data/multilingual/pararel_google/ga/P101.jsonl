@@ -1,0 +1,13 @@
+{"pattern": "Oibr\u00edonn [x] i r\u00e9imse [y].", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "D\u00e9anann [X] speisialt\u00f3ireacht i [y].", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "Is \u00e9 [y] n\u00e1 speisialt\u00f3ireacht [x].", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Is \u00e9 an saineolas [x] n\u00e1 [y].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Is \u00e9 [y] saineolas [x].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Is \u00e9 an fearann gn\u00edomha\u00edochta [x] [y].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Is \u00e9 an r\u00e9imse oibre [x] [Y].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "Is \u00e9 [y] an r\u00e9imse gn\u00edomha\u00edochta [x].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] Is \u00e9 limist\u00e9ar oibre n\u00e1 [y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X] 'Is \u00e9 at\u00e1 i r\u00e9imse na hoibre n\u00e1 [y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "Is \u00e9 at\u00e1 i gceist le r\u00e9imse gn\u00edomha\u00edochta n\u00e1 [y].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "Is \u00e9 at\u00e1 i gceist le saineolas [X] n\u00e1 [y].", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "Oibr\u00edonn [x] i limist\u00e9ar [Y].", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

@@ -1,0 +1,12 @@
+{"pattern": "[ 10 - cu s\u0259hif\u0259d\u0259ki \u015f\u0259kil]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[ 16 - c\u0131 s\u0259hif\u0259d\u0259ki \u015f\u0259kil]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[ 10 - cu s\u0259hif\u0259d\u0259ki \u015f\u0259kil]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[ 10 - cu s\u0259hif\u0259d\u0259ki \u015f\u0259kil]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[yeqova] [yeqova] vasit\u0259sil\u0259]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[yeqova] vasit\u0259sil\u0259 [yeqova].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[yeqovan\u0131n] m\u0259hsuludur.", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[y\u0259hudi]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[yeqova] [yeqova],]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[yeqova], y\u0259ni m\u0259hsulun inki\u015faf\u0131 il\u0259 inki\u015faf etdin", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[se\u00e7\u0259n\u0259k...] [fayl,]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[y\u0259hudi] v\u0259 onun b\u0259hr\u0259si", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

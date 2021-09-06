@@ -1,0 +1,11 @@
+{"pattern": "[X] ay orihinal na na-aired sa [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] ay sa debut sa [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] ay sa debut [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debuted [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debuted sa [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "ang [Y] debut ng [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "ang release ng [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] ay inilabas sa [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] inilabas [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] premiered sa [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] premieres sa [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

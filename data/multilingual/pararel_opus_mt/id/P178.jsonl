@@ -1,0 +1,16 @@
+{"pattern": "[X] dikembangkan oleh [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] dikembangkan oleh [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X], dikembangkan oleh [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] diciptakan oleh [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] diciptakan oleh [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X], diciptakan oleh [Y].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] adalah produk dari [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] adalah produk dari [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], produk [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], sebuah produk yang diciptakan oleh [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], sebuah produk yang diproduksi oleh [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], sebuah produk yang dikembangkan oleh [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], yang dikembangkan [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "Font color = \"# DF01D7\" (Y), yang menciptakan [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "(Yaitu Tuhan yang telah menciptakan segala sesuatu) lafal 'Aalamiina berkedudukan menjadi Badal dari lafal Al-Aalamiina dengan mengulangi huruf Jarr-nya dan huruf Jarr-nya dapat pula dibaca Tas-hil, sehingga bacaannya menjadi lafalnya menjadi 'Abdan dan 'Ad sebagai sifat dari lafal 'Ad dan 'Ad. Kalau dibaca 'Aalimul Ghaibi berarti menjadi Khabar dari Mubtada, sehingga artinya menjadi seperti berikut ini, yaitu, (maka Dia adalah Tuhan Yang Maha Esa, tidak ada Tuhan selain Dia, Maha Esa, tiada sesuatu pun yang dapat menghalang-halangi-halangi-Nya dari datangnya azab-Nya.", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] dan produknya [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

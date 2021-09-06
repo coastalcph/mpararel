@@ -1,0 +1,16 @@
+{"pattern": "\u3010X\u3011\ub294 \u3010Y\u3011\uc5d0 \uc758\ud574 \uac1c\ubc1c\ub429\ub2c8\ub2e4.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "\u3010X\u3011\ub294 [Y]\uc5d0 \uc758\ud574 \uac1c\ubc1c\ub418\uc5c8\uc2b5\ub2c8\ub2e4.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "\u3010Y\u3011\uc5d0 \uc758\ud574 \uac1c\ubc1c \ub41c \u3010 X \u3011.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "\u3010Y\u3011\uc5d0 \uc758\ud574 \ub9cc\ub4e4\uc5b4\uc9c4 \u3010 X \u3011", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "\u3010Y\u3011\uc5d0 \uc758\ud574 \ub9cc\ub4e4\uc5b4\uc9c4 \u3010X\u3011", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[Y]\uc5d0 \uc758\ud574 \ub9cc\ub4e4\uc5b4\uc9c4 [X].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "\u3010 X \u3011\ub294 \u3010 Y \u3011\uc758 \uc0c1\ud488\uc785\ub2c8\ub2e4", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "\u3010 X \u3011\uc758 \uc0c1\ud488\uc774\uc5c8\ub2e4 [ Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "\u3010X\u3011\uc758 \uc0c1\ud488", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "\u3010Y\u3011\uc5d0 \uc758\ud574 \ub9cc\ub4e4\uc5b4\uc9c4 \uc0c1\ud488", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "\u3010X\u3011, \u3010Y]\uc5d0 \uc758\ud574 \uc81c\uc870\ub41c \uc0c1\ud488", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "\u3010Y\u3011\uc5d0 \uc758\ud574 \uac1c\ubc1c\ub41c \uc0c1\ud488", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "\u3010Y\u3011, \uac1c\ubc1c [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "\u3010Y\u3011\ub97c \ub9cc\ub4e0 \u3010X\u3011", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "\u3010Y\u3011\uc758 \ucc3d\uc870\uc790 [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "\u3010 Y \u3011\uc640 \uadf8 \uc0c1\ud488 \u3010X\u3011", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

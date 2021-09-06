@@ -1,0 +1,11 @@
+{"pattern": "[X] wurde urspr\u00fcnglich auf [Y] ausgestrahlt.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] wird auf [Y] deb\u00fctieren.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] wird [X] deb\u00fctieren.", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] deb\u00fctierte [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] deb\u00fctierte auf [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "das [Y]-Deb\u00fct von [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "die [Y]-Freigabe von [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] wurde auf [Y] ver\u00f6ffentlicht.", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] ver\u00f6ffentlichte [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] wurde auf [Y] uraufgef\u00fchrt.", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] feiert Premiere auf [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

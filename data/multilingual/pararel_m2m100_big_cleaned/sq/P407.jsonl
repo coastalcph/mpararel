@@ -1,0 +1,18 @@
+{"pattern": "x) \u00ebsht\u00eb shkruar n\u00eb", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "x) \u00ebsht\u00eb shkruar n\u00eb [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "n\u00eb gjuh\u00ebn shqipe \u00ebsht\u00eb shkruar:", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "x) \u00ebsht\u00eb shkruar n\u00eb gjuh\u00ebn [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "n\u00eb gjuh\u00ebn e shkruar,", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "gjuha e tij \u00ebsht\u00eb xh.", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "gjuha e xhennetit \u00ebsht\u00eb", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "gjuha x \u00ebsht\u00eb nj\u00eb vep\u00ebr [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "gjuha x \u00ebsht\u00eb nj\u00eb vep\u00ebr [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "n\u00eb gjuh\u00ebn shqipe,", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "n\u00eb gjuh\u00ebn shqipe,", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "gjuha e xhennetit \u00ebsht\u00eb nj\u00eb vep\u00ebr e", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "gjuha x \u00ebsht\u00eb nj\u00eb vep\u00ebr e ve\u00e7ant\u00eb.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb vep\u00ebr n\u00eb gjuh\u00ebn [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] ishte nj\u00eb vep\u00ebr n\u00eb gjuh\u00ebn [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "gjuha e krijimit", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "gjuha e tij \u00ebsht\u00eb xh.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "gjuha e tij \u00ebsht\u00eb xh.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

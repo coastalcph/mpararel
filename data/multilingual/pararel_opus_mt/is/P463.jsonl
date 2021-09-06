@@ -1,0 +1,5 @@
+{"pattern": "[X] er me\u00f0limur [Y].", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[ X] tilheyrir skipulagi [Y].", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] er hluti af [Y] skipulaginu.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] tengist [Y].", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[ X] tengist [Y] skipulaginu.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

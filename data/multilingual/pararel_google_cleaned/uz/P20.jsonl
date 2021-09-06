@@ -1,0 +1,8 @@
+{"pattern": "[X] [Y] da vafot etdi.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] [Y] da vafot etdi.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] [Y] o'tib ketdi.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] [Y] o'tib ketdi.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] [Y] da tugadi.", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] [Y] hayotini yo'qotdi.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] ning hayoti [Y] da tugadi.", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] [Y] ga tushib qoldi.", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

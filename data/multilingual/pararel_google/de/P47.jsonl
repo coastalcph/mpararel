@@ -1,0 +1,9 @@
+{"pattern": "[X] Aktienrand mit [y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] grenzt mit [y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] Aktiert den Rand mit [y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] teilt seine Grenze mit [y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] Aktiert eine gemeinsame Grenze mit [y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] grenzt mit [x].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] teilt die Grenze mit [x].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] teilt seine Grenze mit [x].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] teilt eine gemeinsame Grenze mit [x].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

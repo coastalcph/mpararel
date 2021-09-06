@@ -1,0 +1,11 @@
+{"pattern": "[X] ay nagsisimula sa pamamagitan ng [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] ay nagsisimula sa [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Tingnan mo na lang naman ang mga ito!]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Tingnan ang mga ito] sa pamamagitan ng X.", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] ay nagsisimula sa [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "Ang mga ito ay nagsisimula sa [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "Ang mga ito ay nagtataguyod ng [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] ay inilabas sa pamamagitan ng [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] sa loob ng isang taon na ang nakalipas", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] ay nagsisimula sa iyo.", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] ay nagsisimula sa [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] iko katika [y].", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] iko katika bara la [y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] ni wa bara la [y].", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] ni sehemu ya bara la [y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] y [y] son ciudades gemelas.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] y [x] son ciudades gemelas.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] es una ciudad gemela de [x].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] es una ciudad gemela de [y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

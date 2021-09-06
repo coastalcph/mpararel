@@ -1,0 +1,9 @@
+{"pattern": "[X] ametlik keel on [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] ametlik keel on [Y] keel.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] on [X] ametlik keel.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] keel on [x] ametlik keel.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X], [Y] on ametlik keel.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "Ametlikult [Y] on [x] keel.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Seadus [X] deklareerib [y] ametlik keel.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Seadus [X] m\u00e4\u00e4ratleb [Y] kui ametlik keel.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] seaduses m\u00e4\u00e4ratletakse [Y] keel ametliku keelena.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

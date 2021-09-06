@@ -1,0 +1,14 @@
+{"pattern": "[x]\u7684\u9996\u90fd\u662f[Y]\u3002", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[x]\u7684\u9996\u90fd\u662f[Y]\u3002", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y]\u662f[x]\u7684\u9996\u90fd\u3002", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y]\u662f[x]\u7684\u9996\u90fd\u3002", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[x]\u7684\u9996\u90fd\uff0c[Y]\u3002", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[x]\u7684\u9996\u90fd\uff0c[Y]\u3002", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[x]\u7684\u8d44\u672c\u662f[Y]\u3002", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[x]\u9996\u90fd\u662f[Y]\u3002", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[y]\uff0c[x]\u7684\u8d44\u672c\u3002", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[y]\uff0c\u9996\u90fd[x]\u3002", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y]\uff0c\u8fd9\u662f[x]\u7684\u9996\u90fd\u3002", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y]\uff0c\u8fd9\u662f[x]\u7684\u9996\u90fd\u3002", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[x]\uff0c\u6709\u8d44\u672c[y]\u3002", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[x]\uff0c\u62e5\u6709\u9996\u90fd[Y]\u3002", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

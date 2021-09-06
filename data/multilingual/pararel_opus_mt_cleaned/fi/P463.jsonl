@@ -1,0 +1,5 @@
+{"pattern": "[X] on [y:n] j\u00e4sen.", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] kuuluu [y:n] organisaatioon.", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] kuuluu [Y]-j\u00e4rjest\u00f6\u00f6n.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] on sidoksissa [y:hen].", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] liittyy [Y]-j\u00e4rjest\u00f6\u00f6n.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

@@ -1,0 +1,6 @@
+{"pattern": "[X] turi [y] pozicij\u0105.", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X], kuris turi [y] pozicij\u0105.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X], kurio pad\u0117tis yra [y].", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] pozicija yra [y].", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X], kuris turi [y] pozicij\u0105.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] turi [y] pozicij\u0105.", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] An'i [Y].", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "tompon'ny [X].", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "ny [ilay] tompon'ny [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

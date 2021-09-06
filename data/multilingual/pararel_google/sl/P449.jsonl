@@ -1,0 +1,11 @@
+{"pattern": "[X] je bil prvotno predvajan na [y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] je nastopiti na [y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] je nastopanje [x].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debitiral [x].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] Ogruite na [y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[y] prvenec [x].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "izpustitev [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] je bil spro\u0161\u010den na [y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] izpu\u0161\u010den [x].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] premierno na [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Premieres na [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

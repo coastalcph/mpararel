@@ -1,0 +1,9 @@
+{"pattern": "[X] zdie\u013ea hranice s [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] hranice s [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] rozde\u013euje hranicu s [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] zdie\u013ea svoju hranicu s [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] zdie\u013ea spolo\u010dn\u00fa hranicu s [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "Na hraniciach s [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "Zdie\u013ea\u0165 hranicu s [x]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "a rozde\u013euje svoju hranicu s [x].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] zdie\u013ea spolo\u010dn\u00fa hranicu s [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

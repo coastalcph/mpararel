@@ -1,0 +1,6 @@
+{"pattern": "[X] ima polo\u017eaj [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "Tisti, ki ima (in ima) pravico do", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "Tisti, ki je (in \u0161e vedno) v svoji vlogi", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] je polo\u017eaj je [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "Tisti, ki je v polo\u017eaju (in je v polo\u017eaju)", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] ima polo\u017eaj [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

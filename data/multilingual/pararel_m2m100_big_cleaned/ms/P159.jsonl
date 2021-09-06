@@ -1,0 +1,10 @@
+{"pattern": "di dalam al-qur\u2019an terdapat ayat-ayat yang bermaksud:", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "di dalam al-quran terdapat ayat-ayat yang bermaksud:", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "di dalam al-qur\u2019an terdapat ayat-ayat yang bermaksud:", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] mengandungi ibu pejabat [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] terletak di kawasan yang sama.", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "di samping itu, ia juga mempunyai bahagian-bahagian yang berlainan.", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] merupakan ibu pejabat di [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], yang ibu pejabatnya berada di [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "home \u00bb \u00bb \u00bb \u00bb \u00bb \u00bb \u00bb \u00bb \u00bb \u00bb \u00bb \u00bb \u00bb", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] ialah berdasarkan pada [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

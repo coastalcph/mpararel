@@ -1,0 +1,6 @@
+{"pattern": "[X] yn chwarae mewn lleoliad [Y]", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] yn y lleoliad [Y]", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X], pwy sy'n chwarae yn [Y]", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "yn chwarae fel [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "mae'r chwarae fel [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[X]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] \u00e4r \u00e4gd av [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "och \u00e4garen till den,", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "och \u00e4ger X.", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Den som \u00e4ger X", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}
