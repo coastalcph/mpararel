@@ -1,9 +1,0 @@
-{"pattern": "El idioma oficial de [X] es [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "El idioma oficial de [X] es el idioma [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] es el idioma oficial de [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "El idioma [Y] es el idioma oficial de [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "En [X], [Y] es el idioma oficial.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
-{"pattern": "Oficialmente, [Y] es el idioma de [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "La ley en [X] declara [Y] el idioma oficial.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
-{"pattern": "La ley en [X] define [Y] como el idioma oficial.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
-{"pattern": "La ley en [X] define el [Y] como el idioma oficial.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

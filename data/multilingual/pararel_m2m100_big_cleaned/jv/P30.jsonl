@@ -1,4 +1,0 @@
-{"pattern": "[X] ana ing [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] dumunung ing benua [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] ana ing kontinen ing [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
-{"pattern": "[X] iku bagian saka benua [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

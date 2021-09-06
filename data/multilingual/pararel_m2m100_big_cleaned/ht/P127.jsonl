@@ -1,4 +1,0 @@
-{"pattern": "[X] se pwopriyete a nan [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "[X] pwopriyete a nan [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
-{"pattern": "[Y] se pwopriyete a nan [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "nan [Y]-pwopriye [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

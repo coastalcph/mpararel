@@ -1,6 +1,0 @@
-{"pattern": "[X] yn cael ei leoli o [Y].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
-{"pattern": "[X], sy'n cael y lleoliad o [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
-{"pattern": "[X], sy'n cael ei leoli yn y rhan o [Y].", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
-{"pattern": "[X] mae'r lleoliad yn [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
-{"pattern": "[X], sy'n cyswllt \u00e2'r lleoliad o [Y].", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
-{"pattern": "[X] yn cael ei leoli ar y safle [Y].", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

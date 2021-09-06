@@ -1,8 +1,0 @@
-{"pattern": "[X] je umro u [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
-{"pattern": "[X] je umro na [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
-{"pattern": "u me\u0111uvremenu je preminuo u (i)", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
-{"pattern": "onda je do\u0161ao do x-a.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
-{"pattern": "[X] je istekla na [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
-{"pattern": "izgubio je svoj \u017eivot na [Y].", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
-{"pattern": "[X] je \u017eivot zavr\u0161io u [Y].", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
-{"pattern": "[X] je potonuo na [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

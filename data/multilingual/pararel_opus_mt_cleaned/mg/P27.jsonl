@@ -1,9 +1,0 @@
-{"pattern": "olom - pirenena [X] izy io.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
-{"pattern": "olom - pirenen'i [Y] i jesosy.", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
-{"pattern": "[X] olom - pirenen'i [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
-{"pattern": "[X] Olom - pirenen'i [Y] izy.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
-{"pattern": "Manana zom - pirenena [Y] ny [X].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "Manana zom-pirenen'i [Y] ny [X].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "[X] manana zom - pirenena.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X] manana zom - pirenena.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "olom - pirenen'i [Y]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

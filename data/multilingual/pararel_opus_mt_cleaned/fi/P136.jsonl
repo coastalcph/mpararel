@@ -1,6 +1,0 @@
-{"pattern": "[X] soittaa [Y] musiikkia.", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
-{"pattern": "[X], joka soittaa [Y]-musiikkia", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
-{"pattern": "[X] n\u00e4yttelee [Y].", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
-{"pattern": "[X], joka n\u00e4yttelee [Y].", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
-{"pattern": "[Y] muusikot [X].", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
-{"pattern": "[Y] muusikot, kuten [X].", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

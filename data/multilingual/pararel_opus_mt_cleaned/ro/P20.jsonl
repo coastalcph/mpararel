@@ -1,8 +1,0 @@
-{"pattern": "[X] a murit \u00een [Y].", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
-{"pattern": "[X] a murit la [Y].", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
-{"pattern": "[X] a murit \u00een [Y].", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
-{"pattern": "[X] a murit la [Y].", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
-{"pattern": "[X] expirat la [Y].", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
-{"pattern": "[X] \u0219i-au pierdut via\u021ba la [Y].", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
-{"pattern": "via\u0163a lui x s-a sf\u00e2r\u015fit \u00een [Y].", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
-{"pattern": "[X] a cedat la [Y].", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

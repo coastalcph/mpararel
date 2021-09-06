@@ -1,9 +1,0 @@
-{"pattern": "[X] ise [Y] vatanda\u015f\u0131.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
-{"pattern": "[X], [Y]'nin vatanda\u015f\u0131.", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
-{"pattern": "[X], bir [Y] vatanda\u015f\u0131.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
-{"pattern": "[X], yani [Y]'nin vatanda\u015f\u0131.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
-{"pattern": "[X], [Y] vatanda\u015fl\u0131\u011f\u0131na sahip.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X]'nin vatanda\u015fl\u0131\u011f\u0131 [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "[X], [Y] vatanda\u015fl\u0131\u011f\u0131na sahip.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X], [Y] vatanda\u015fl\u0131\u011f\u0131na sahip.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "[Y], [X] vatanda\u015f\u0131 olarak", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

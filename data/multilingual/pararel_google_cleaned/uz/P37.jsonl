@@ -1,9 +1,0 @@
-{"pattern": "[X] ning rasmiy tili [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[X] rasmiy tili [Y] til.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] [X] ning rasmiy tilidir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] til [X] ning rasmiy tilidir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[X], [Y] bu davlat tili.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
-{"pattern": "rasmiy ravishda, [Y] [X] tilidir.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[X] dagi qonun [Y] davlat tilini e'lon qiladi.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
-{"pattern": "[X] dagi qonun [Y] rasmiy til sifatida belgilaydi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
-{"pattern": "[X] tilidagi qonun [Y] tilni rasmiy til deb ta'riflaydi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

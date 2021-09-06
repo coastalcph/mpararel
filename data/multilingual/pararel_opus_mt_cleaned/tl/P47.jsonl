@@ -1,9 +1,0 @@
-{"pattern": "Ibinabahagi ng [X] ang hangganan sa [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "Ang mga hangganan [X] kasama ang [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "Ibinabahagi [X] ang hangganan sa [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "Ibinabahagi ng [X] ang hangganan nito sa [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "Ibinabahagi [X] ang isang karaniwang hangganan sa [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
-{"pattern": "[Y] mga hangganan na may [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "Ibinabahagi [Y] sa hangganan ang [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "Ibinabahagi [Y] ang hangganan nito sa [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] ay kabahagi ng isang karaniwang hangganan sa [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

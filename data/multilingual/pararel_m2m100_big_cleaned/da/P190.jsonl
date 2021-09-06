@@ -1,4 +1,0 @@
-{"pattern": "[X] og [Y] er to byer.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] og [X] er to byer.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] er en to byer af [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] er en to byer af [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

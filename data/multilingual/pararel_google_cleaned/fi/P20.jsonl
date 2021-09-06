@@ -1,8 +1,0 @@
-{"pattern": "[X] Kuollut [Y].", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
-{"pattern": "[X] kuoli [Y].", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
-{"pattern": "[X] kulki pois [Y].", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
-{"pattern": "[X] kulki pois [Y].", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
-{"pattern": "[X] Vanhentunut [Y].", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
-{"pattern": "[X] menetti el\u00e4m\u00e4ns\u00e4 [Y].", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
-{"pattern": "[X]: n el\u00e4m\u00e4 p\u00e4\u00e4ttyi [Y].", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
-{"pattern": "[X] pentynyt [Y].", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

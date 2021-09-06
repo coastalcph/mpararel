@@ -1,5 +1,0 @@
-{"pattern": "[X] yra narys i\u0161 [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
-{"pattern": "[X] priklauso organizacijai i\u0161 [Y].", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[X] yra organizacijos [Y] dalis.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "[X] yra susij\u0119s su [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "[X] yra susij\u0119s su [Y] organizacija.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

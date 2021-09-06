@@ -1,5 +1,0 @@
-{"pattern": "[X] az egyik tagja a [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
-{"pattern": "[X] a [Y] szervezethez tartozik.", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "Az [X] a [Y] szervezet r\u00e9sze.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "Az [X] a [Y] t\u00e1rsas\u00e1g\u00e1ban van.", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "[X] t\u00e1rsult a [Y] szervezethez.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

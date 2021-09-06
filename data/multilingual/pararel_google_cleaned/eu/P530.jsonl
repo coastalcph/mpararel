@@ -1,9 +1,0 @@
-{"pattern": "[X] harreman diplomatikoak mantentzen ditu [Y] -rekin.", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] harreman diplomatikoak (x ]rekin mantentzen ditu.", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] harreman diplomatikoak [Y]rekin lotzen ditu.", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] harreman diplomatikoak [X]rekin lotzen ditu.", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] harreman diplomatikoak ditu [Y] -rekin.", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] harreman diplomatikoak ditu [X]rekin.", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X], [Y]rekin harreman diplomatikoak dituena", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], [X]rekin harreman diplomatikoak dituena", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], [X] harreman diplomatikoak lotzen dituena", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

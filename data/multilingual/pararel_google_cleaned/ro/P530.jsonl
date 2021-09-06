@@ -1,9 +1,0 @@
-{"pattern": "[X] Men\u021bine rela\u021biile diplomatice cu [Y].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] Men\u021bine rela\u021biile diplomatice cu [X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] rela\u021biile diplomatice cu [Y].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] rela\u021biile diplomatice cu [X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] are rela\u021bii diplomatice cu [Y].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] are rela\u021bii diplomatice cu [X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X], care are rela\u021bii diplomatice cu [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], care are rela\u021bii diplomatice cu [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], care leag\u0103 rela\u021biile diplomatice cu [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

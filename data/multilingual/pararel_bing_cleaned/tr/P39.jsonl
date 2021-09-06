@@ -1,6 +1,0 @@
-{"pattern": "[X] [Y] konumuna sahiptir.", "lemma": "position", "extended_lemma": "position", "tense": "present"}
-{"pattern": "[X], [Y] pozisyonuna sahip olan.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
-{"pattern": "[X], konumu [Y]' ye g\u00f6redir.", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
-{"pattern": "[X]'in konumu [Y]' dir.", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
-{"pattern": "[X], [Y] pozisyonundad\u0131r.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
-{"pattern": "[X] [Y] konumunu tutar.", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

@@ -1,9 +1,0 @@
-{"pattern": "Mae'r ystyried swyddogol o [X] yn [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Mae'r ystyried swyddogol o [X] yn y [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] yw'r ystyried swyddogol o [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Mae'r [Y] yw'r ystyried swyddogol o [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Yn [X], [Y] yw'r ddinas swyddogol.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
-{"pattern": "Yn swyddogol, [Y] yw'r dull o [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Mae'r lleoliad yn [X] yn adnabyddus [Y] i mewn i'r gwanwyn swyddogol.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
-{"pattern": "Mae'r lleoliad yn [X] yn definio [Y] fel y ddylunio swyddogol.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
-{"pattern": "Mae'r lleoliad yn [X] yn definio'r [Y] fel y ddylunio swyddogol.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

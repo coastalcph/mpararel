@@ -1,6 +1,0 @@
-{"pattern": "[X] hat die position von [Y].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
-{"pattern": "[X], der die position von [Y] hat.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
-{"pattern": "[X], deren position das von [Y] ist.", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
-{"pattern": "die position von [X] ist [Y].", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
-{"pattern": "[X], der die position von [Y] h\u00e4lt.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
-{"pattern": "[X] h\u00e4lt die position von [Y].", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

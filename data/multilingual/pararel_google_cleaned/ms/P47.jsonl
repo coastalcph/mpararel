@@ -1,9 +1,0 @@
-{"pattern": "[X] Saham sempadan dengan [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] Sempadan dengan [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "[X] saham sempadan dengan [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] Saham sempadannya dengan [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] berkongsi sempadan bersama dengan [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
-{"pattern": "[Y] border dengan [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "[Y] Saham sempadan dengan [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] Saham sempadannya dengan [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] berkongsi sempadan bersama dengan [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

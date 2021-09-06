@@ -1,9 +1,0 @@
-{"pattern": "[X] [Y] bilan chegaradosh.", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] (y] bilan chegaradosh.", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "[X] chegarani [Y] bilan bo'lishadi.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] uning chegarasini [Y] bilan bo'lishadi.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] umumiy chegarani [Y] bilan bo'lishadi.", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
-{"pattern": "[Y] [X] bilan chegaradosh.", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "[Y] chegarani [X] bilan bo'lishadi.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] uning chegarasini [X] bilan bo'lishadi.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] [X] bilan umumiy chegarani baham ko'radi.", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

@@ -1,9 +1,0 @@
-{"pattern": "[X] yn cyswllt cysylltiadau diplomatig gyda [Y].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] yn cyswllt cysylltiadau diplomatig gyda [X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] yn gysylltiad diplomatig gyda [Y].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] yn gysylltiad diplomatig gyda [X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] yn cael cysylltiadau diplomatig gyda [Y].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] yn cael cysylltiadau diplomatig gyda [X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X], sy'n cynnwys cysylltiadau diplomatig gyda [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], sy'n cael cysylltiadau diplomatig gyda [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], sy'n gysylltiad diplomatig gyda [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

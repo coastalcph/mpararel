@@ -1,9 +1,0 @@
-{"pattern": "x. q\u0259hr\u0259man \u0259hm\u0259dov", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
-{"pattern": "x. \u0259hm\u0259dov is\u0259 az\u0259rbaycan v\u0259t\u0259nda\u015f\u0131d\u0131r.", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
-{"pattern": "x\u0259b\u0259rdarliq x\u0259b\u0259rdarliq x\u0259b\u0259rl\u0259r", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
-{"pattern": "x\u0259b\u0259rl\u0259r: x\u0259b\u0259rl\u0259ri\u0307n s\u0259b\u0259rl\u0259ri\u0307 s\u0259b\u0259rl\u0259r", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
-{"pattern": "x\u0259b\u0259rl\u0259r x\u0259b\u0259rl\u0259r x\u0259b\u0259rl\u0259r x\u0259b\u0259rl\u0259r", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "x\u0259b\u0259rl\u0259r x\u0259b\u0259rl\u0259r x\u0259b\u0259rl\u0259r x\u0259b\u0259rl\u0259r", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "x\u0259b\u0259rl\u0259r x\u0259b\u0259rl\u0259r x\u0259b\u0259rl\u0259r x\u0259b\u0259rl\u0259r", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "x\u0259b\u0259rl\u0259r x\u0259b\u0259rl\u0259r x\u0259b\u0259rl\u0259r x\u0259b\u0259rl\u0259r", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "bu bar\u0259d\u0259 \u201cx\u201d \u015firk\u0259ti m\u0259lumat verib.", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

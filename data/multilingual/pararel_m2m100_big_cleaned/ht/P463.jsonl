@@ -1,5 +1,0 @@
-{"pattern": "[X] se yon manm nan [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
-{"pattern": "[X] se nan \u00f2ganizasyon an nan [Y].", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[X] se yon pati nan [Y] \u00f2ganizasyon an.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "[X] se afilye ak [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "[X] se afilye ak [Y] \u00f2ganizasyon an.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

@@ -1,6 +1,0 @@
-{"pattern": "d\u00e9i originell sprooch vun [X] ass [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
-{"pattern": "d\u00e9i originell sprooch vun [X] war [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
-{"pattern": "d'sprooch vun [X] ass [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
-{"pattern": "d'sprooch vun [X] war [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
-{"pattern": "[Y] ass d'sprooch vun [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
-{"pattern": "[Y] war d'sprooch vun [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

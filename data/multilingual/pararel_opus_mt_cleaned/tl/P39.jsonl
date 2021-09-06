@@ -1,6 +1,0 @@
-{"pattern": "[X] ang posisyon ng [Y].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
-{"pattern": "[X], na may posisyong [Y].", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
-{"pattern": "[X], na ang posisyon ay yaong sa [Y].", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
-{"pattern": "Ang katayuan [X] ay [Y].", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
-{"pattern": "[X], na humahawak ng posisyon ng [Y].", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
-{"pattern": "Hinahawakan [X] ang posisyon ng [Y].", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

@@ -1,9 +1,0 @@
-{"pattern": "[X] beh\u00e4lt diplomatesch Bez\u00e9iungen mat [Y] op.", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "et huet diplomatische bez\u00e9iungen mat [X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] verb\u00ebnnt diplomatische Bez\u00e9iungen mat [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "et huet eng diplomatische bez\u00e9iung mat [X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] huet diplomatesch Bez\u00e9iungen mat [Y].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "et huet diplomatische bez\u00e9iungen mat [X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X], d\u00e9i diplomatesch Bez\u00e9iungen mat [Y] huet", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], d\u00e9i diplomatesch Bez\u00e9iungen mat [X] huet", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], d\u00e9i diplomatesch Bez\u00e9iungen mat [X] verbannen", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

@@ -1,9 +1,0 @@
-{"pattern": "[X] ist [Y] B\u00fcrger.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
-{"pattern": "[X] ist ein B\u00fcrger von [Y].", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
-{"pattern": "[X], ein B\u00fcrger von [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
-{"pattern": "[X], der ein B\u00fcrger von [Y] ist.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
-{"pattern": "[X] hat die Staatsb\u00fcrgerschaft von [Y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X] hat die Staatsb\u00fcrgerschaft von [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "[X], der eine Staatsb\u00fcrgerschaft von [Y] besitzt.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X], der eine Staatsb\u00fcrgerschaft von [Y] hat.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "als B\u00fcrger von [Y], [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

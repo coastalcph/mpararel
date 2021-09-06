@@ -1,5 +1,0 @@
-{"pattern": "[X] ni mwanachama wa [Y].", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
-{"pattern": "[X] ni ya shirika la [Y].", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[X] ni sehemu ya shirika [Y].", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "[X] inahusishwa na [Y].", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "[X] inahusishwa na shirika [Y].", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

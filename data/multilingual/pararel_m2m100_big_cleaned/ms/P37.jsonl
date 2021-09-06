@@ -1,9 +1,0 @@
-{"pattern": "Bahasa rasmi [X] ialah [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Bahasa rasmi [X] ialah bahasa [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] ialah bahasa rasmi [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] ialah bahasa rasmi [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Di [X], [Y] ialah bahasa rasmi.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
-{"pattern": "Secara rasmi, [Y] ialah bahasa [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Undang-undang di [X] menyatakan [Y] sebagai bahasa rasmi.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
-{"pattern": "Undang-undang dalam [X] menentukan [Y] sebagai bahasa rasmi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
-{"pattern": "Undang-undang di [X] menentukan bahasa [Y] sebagai bahasa rasmi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

@@ -1,9 +1,0 @@
-{"pattern": "[X] Chia s\u1ebb bi\u00ean gi\u1edbi v\u1edbi [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] bi\u00ean gi\u1edbi v\u1edbi [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "[X] chia r\u1ebd bi\u00ean gi\u1edbi v\u1edbi [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] chia s\u1ebb bi\u00ean gi\u1edbi c\u1ee7a n\u00f3 v\u1edbi [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] chia s\u1ebb m\u1ed9t bi\u00ean gi\u1edbi chung v\u1edbi [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
-{"pattern": "[Y] bi\u00ean gi\u1edbi v\u1edbi [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "[Y] chia ranh gi\u1edbi v\u1edbi [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] chia s\u1ebb bi\u00ean gi\u1edbi c\u1ee7a n\u00f3 v\u1edbi [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] chia s\u1ebb m\u1ed9t bi\u00ean gi\u1edbi chung v\u1edbi [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

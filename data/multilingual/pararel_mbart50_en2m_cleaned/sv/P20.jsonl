@@ -1,8 +1,0 @@
-{"pattern": "[X] dog i [Y].", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
-{"pattern": "[X] dog vid [Y].", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
-{"pattern": "[X] dog i [Y].", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
-{"pattern": "[X] dog vid [Y].", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
-{"pattern": "[X] togs bort vid [Y].", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
-{"pattern": "[X] f\u00f6rlorade livet vid [Y].", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
-{"pattern": "[X]s liv slutade i [Y].", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
-{"pattern": "[X] kapitulerade vid [Y].", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

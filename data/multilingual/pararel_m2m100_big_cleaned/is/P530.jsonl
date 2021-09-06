@@ -1,9 +1,0 @@
-{"pattern": "[X] vi\u00f0halda frj\u00e1lsum samskiptum vi\u00f0 [Y]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] vi\u00f0halda diplomat\u00edskum samskiptum vi\u00f0 [X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] tengir framhaldssamskipti vi\u00f0 [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] tengir diplomat\u00edskum samskiptum vi\u00f0 [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] hefur frj\u00e1ls samskipti vi\u00f0 [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] hefur frj\u00e1ls samskipti vi\u00f0 [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X], sem hefur samskipti vi\u00f0 [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], sem hefur frj\u00e1ls samskipti vi\u00f0 [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], sem tengir diplomat\u00edskum tengslum vi\u00f0 [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

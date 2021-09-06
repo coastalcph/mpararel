@@ -1,6 +1,0 @@
-{"pattern": "De oarspronklike taal fan [X] is [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
-{"pattern": "De oarspronklike taal fan [X] wie [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
-{"pattern": "De taal fan [X] is [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
-{"pattern": "De taal fan [X] wie [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
-{"pattern": "[Y] is de taal fan [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
-{"pattern": "[Y] wie de taal fan [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

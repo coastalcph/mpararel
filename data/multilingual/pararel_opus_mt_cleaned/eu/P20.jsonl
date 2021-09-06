@@ -1,8 +1,0 @@
-{"pattern": "[X] i-n hil zen.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
-{"pattern": "[X] y-n hil zen.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
-{"pattern": "[X] hil zen i-n.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
-{"pattern": "\"x\" hil egin zen, \"b\"-n.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
-{"pattern": "[X] i-n iraungi zen.", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
-{"pattern": "bizia galdu zuten i-n.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
-{"pattern": "[X] bizitza amaitu zen [Y]n.", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
-{"pattern": "y-x galdu egin zen.", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

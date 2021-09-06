@@ -1,6 +1,0 @@
-{"pattern": "lugha ya awali ya [X] ni [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
-{"pattern": "lugha ya awali ya [X] ilikuwa [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
-{"pattern": "lugha ya [X] ni [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
-{"pattern": "lugha ya [X] ilikuwa [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
-{"pattern": "[Y] ni lugha ya [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
-{"pattern": "[Y] ilikuwa lugha ya [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

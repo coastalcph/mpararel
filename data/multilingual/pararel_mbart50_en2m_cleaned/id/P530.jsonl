@@ -1,9 +1,0 @@
-{"pattern": "[X] menjaga hubungan diplomasi dengan [Y].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] menjaga hubungan diplomasi dengan [X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] menghubungkan hubungan diplomasi dengan [Y].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] mengikat hubungan diplomasi dengan [X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] memiliki hubungan diplomasi dengan [Y].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] memiliki hubungan diplomasi dengan [X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X], yang memiliki hubungan diplomasi dengan [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], yang memiliki hubungan diplomasi dengan [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], yang menghubungkan hubungan diplomasi dengan [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

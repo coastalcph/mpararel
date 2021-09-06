@@ -1,8 +1,0 @@
-{"pattern": "hy is in die dood.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
-{"pattern": "[X] het in [Y] gesterf", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
-{"pattern": "[X] het in [Y] gegaan", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
-{"pattern": "[X] het op [Y] gegaan", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
-{"pattern": "[X] het op [Y] gegaan", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
-{"pattern": "[X] het hulle lewe in [Y] verloor.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
-{"pattern": "[X] se lewe het in [Y] ge\u00ebindig.", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
-{"pattern": "[X] het by [Y] geslaag", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

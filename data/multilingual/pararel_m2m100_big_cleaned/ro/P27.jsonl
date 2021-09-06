@@ -1,9 +1,0 @@
-{"pattern": "[X] este cet\u0103\u021beanul [Y]", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
-{"pattern": "[X] este un cet\u0103\u0163ean al [Y]", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
-{"pattern": "[X], un cet\u0103\u021bean al [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
-{"pattern": "[X], care este un cet\u0103\u0163ean al [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
-{"pattern": "[X] de\u021bine o cet\u0103\u021benie de [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X] are o cet\u0103\u021benie de [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "[X], care de\u021bine o cet\u0103\u021benie de [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X], care are o cet\u0103\u0163enie de [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "\u00cen calitate de cet\u0103\u0163ean al [Y], [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

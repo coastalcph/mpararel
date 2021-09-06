@@ -1,9 +1,0 @@
-{"pattern": "Det officielle sprog af [X] er [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Det officielle sprog af [X] er [Y] sproget.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] er det officielle sprog af [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Det [Y] sprog er det officielle sprog af [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "I [X] er [Y] det officielle sprog.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
-{"pattern": "Officielt er [Y] sproget af [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Loven i [X] erkl\u00e6rer [Y] det officielle sprog.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
-{"pattern": "Loven i [X] definerer [Y] som det officielle sprog.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
-{"pattern": "Loven i [X] definerer det [Y] sprog som det officielle sprog.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

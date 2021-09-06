@@ -1,8 +1,0 @@
-{"pattern": "[X] dau\u00f0inn er \u00ed [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
-{"pattern": "[X] dau\u00f0inn \u00e1 [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
-{"pattern": "[X] hefur fari\u00f0 fram \u00ed [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
-{"pattern": "[X] hefur fari\u00f0 fram \u00e1 [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
-{"pattern": "[X] er b\u00fainn a\u00f0 h\u00e6tta \u00e1 [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
-{"pattern": "[X] l\u00e9st \u00ed l\u00edfi s\u00ednu \u00e1 [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
-{"pattern": "[X] l\u00edfi\u00f0 enda\u00f0i \u00ed [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
-{"pattern": "[X] og st\u00f3\u00f0 vi\u00f0 [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

@@ -1,9 +1,0 @@
-{"pattern": "slu\u017ebeni jezik [X] je [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "slu\u017ebeni jezik [X] je jezik [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] je slu\u017ebeni jezik [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "jezik [Y] je slu\u017ebeni jezik [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "u [X], [Y] je slu\u017ebeni jezik.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
-{"pattern": "slu\u017ebeno, [Y] je jezik [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "zakon u [X] izjavljuje da je slu\u017ebeni jezik.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
-{"pattern": "zakon u [X] definira [Y] kao slu\u017ebeni jezik.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
-{"pattern": "zakon u [X] definira jezik [Y] kao slu\u017ebeni jezik.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

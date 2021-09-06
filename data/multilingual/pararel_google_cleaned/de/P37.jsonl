@@ -1,9 +1,0 @@
-{"pattern": "die amtssprache von [X] ist [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "die amtssprache von [X] ist die [Y] sprache.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] ist die amtssprache von [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "die sprache [Y] ist die amtssprache von [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "in [X] ist [Y] die amtssprache.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
-{"pattern": "offiziell ist [Y] die sprache von [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "das gesetz in [X] erkl\u00e4rt [Y] die amtssprache.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
-{"pattern": "das gesetz in [X] definiert [Y] als amtssprache.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
-{"pattern": "das gesetz in [X] definiert die sprache [Y] als amtssprache.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

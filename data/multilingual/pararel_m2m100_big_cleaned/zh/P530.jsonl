@@ -1,9 +1,0 @@
-{"pattern": "\u4e0e(y)\u4fdd\u6301\u5916\u4ea4\u5173\u7cfb\u3002", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "\u4e0e(x)\u4fdd\u6301\u5916\u4ea4\u5173\u7cfb\u3002", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "(\u4e00)\u4e0e(\u4e8c)\u5efa\u7acb\u5916\u4ea4\u5173\u7cfb\u3002", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "\u4e0e(x)\u5efa\u7acb\u5916\u4ea4\u5173\u7cfb\u3002", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "\u8207(y)\u6709\u5916\u4ea4\u95dc\u4fc2\u3002", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "\u8207(x)\u6709\u5916\u4ea4\u95dc\u4fc2\u3002", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X],\u4e0e(y)\u6709\u5916\u4ea4\u5173\u7cfb\u7684", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] \u4e0e [X] \u4fdd\u6301\u5916\u4ea4\u5173\u7cfb", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] \u4e0e [X] \u5efa\u7acb\u5916\u4ea4\u5173\u7cfb", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
