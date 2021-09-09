@@ -4,7 +4,8 @@ import json
 import os
 import argparse
 from logger_utils import get_logger
-from translate_utils import Translator, TRANSLATOR_TO_OBJECT, get_wiki_language_mapping
+from dataset.translate_utils import Translator, TRANSLATOR_TO_OBJECT, get_wiki_language_mapping
+from dataset.translate_populated_templates import translate_populated_templates
 from tqdm import tqdm
 import re
 
@@ -189,7 +190,7 @@ def get_templates(templates_filename):
 
 def translate_templates(templates: List[str], template_key: str,
                         wiki_lang_to_translator_lang: dict,
-                        translator: Translator) -> List[str]:
+                        translator: Translator) -> dict:
     """Translates each template to all the languages in the dict values."""
     translator = TRANSLATOR_TO_OBJECT[translator]
     translated_templates = {}
@@ -229,8 +230,16 @@ def translate_folder(args):
         LOG.info("Translating file: {}, (will reach: {} translations, {} chars "
                  "translated)".format(
                      filename, translations_count, chars_translations_count))
-        for wikiid, templates_translation in translate_templates(
-                templates, "pattern", lang2translateid, args.translator).items():
+        translated_templates = {}
+        if args.translate_populated_templates:
+            LOG.info("Translating *populated* templates.")
+            translated_templates = translate_populated_templates(
+                templates, "pattern", args.tuples_folder, filename,
+                lang2translateid, args.translator)
+        else:
+            translate_templates(templates, "pattern", lang2translateid,
+                                args.translator)
+        for wikiid, templates_translation in translated_templates.items():
             wikiid_to_filename_to_templates[wikiid][filename] = templates_translation
     LOG.info("Writing translated templates...")
     for wikiid, filename_to_templates in wikiid_to_filename_to_templates.items():
@@ -280,6 +289,14 @@ def create_parser():
     parser_translate_folder.add_argument(
         "--translator", type=Translator, default=Translator.GOOGLE,
         choices=list(Translator))
+    parser_translate_folder.add_argument(
+        "--translate_populated_templates", action='store_true', default=False,
+        help="Translate the templates with [X] and [Y] filled with subjects and"
+             " objects.")
+    parser_translate_folder.add_argument(
+        "--tuples_folder", default=None, type=str,
+        help="The folder where to find the subjects and objects per language "
+             "per relation.")
     parser_translate_folder.add_argument(
         "--output_folder", default=None, type=str, required=True, help="")
 

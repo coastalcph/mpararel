@@ -2,7 +2,7 @@ import requests
 import uuid
 from enum import Enum
 import pandas as pd
-from googletrans import Translator
+from googletrans import Translator as GoogleTranslatorAPI
 import numpy as np
 from easynmt import EasyNMT
 from logger_utils import get_logger
@@ -22,8 +22,7 @@ class GoogleTranslator():
     LANGUAGE_CODES_HEADER = "googletranslate"
 
     def translate(self, text, from_lang, to_lang):
-        translator = Translator()
-        result = translator.translate(text, src=from_lang, dest=to_lang)
+        result = GoogleTranslatorAPI().translate(text, src=from_lang, dest=to_lang)
         return result.text
 
 
