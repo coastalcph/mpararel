@@ -12,11 +12,11 @@ python download_trexentities.py \
 --outpath ${WORKDIR}/data/wikidata_entities
 
 # Translate TREx entities.
-mkdir -p ${WORKDIR}/data/multilingual
+mkdir -p ${WORKDIR}/data/multilingual/t_rex_translation
 python translate_trex.py \
 --data ${WORKDIR}/data/TREx \
 --entities ${WORKDIR}/data/wikidata_entities \
---outpath ${WORKDIR}/data/multilingual \
+--outpath ${WORKDIR}/data/multilingual/t_rex_translation \
 --languagemapping mbertlangs.txt
 
 # Get ParaRel data.
@@ -50,54 +50,30 @@ python translate_templates.py translate_folder \
 --language_mapping_file ${WORKDIR}/dataset/languages_mapping.txt \
 --translator google
 
-# Clean templates in place.
-cp -r ${WORKDIR}/data/multilingual/pararel_google ${WORKDIR}/data/multilingual/pararel_google_cleaned
+# Fix templates in place.
+cp -r ${WORKDIR}/data/multilingual/pararel_google ${WORKDIR}/data/multilingual/pararel_google_fixed
 python translate_templates.py fix_translated_dirs \
-	--templates_folder ${WORKDIR}/data/multilingual/pararel_google_cleaned
+	--templates_folder ${WORKDIR}/data/multilingual/pararel_google_fixed
 
-cp -r ${WORKDIR}/data/multilingual/pararel_bing ${WORKDIR}/data/multilingual/pararel_bing_cleaned
+cp -r ${WORKDIR}/data/multilingual/pararel_bing ${WORKDIR}/data/multilingual/pararel_bing_fixed
 python translate_templates.py fix_translated_dirs \
-	--templates_folder ${WORKDIR}/data/multilingual/pararel_bing_cleaned
+	--templates_folder ${WORKDIR}/data/multilingual/pararel_bing_fixed
 
-cp -r ${WORKDIR}/data/multilingual/pararel_m2m100_big ${WORKDIR}/data/multilingual/pararel_m2m100_big_cleaned
+cp -r ${WORKDIR}/data/multilingual/pararel_m2m100_big ${WORKDIR}/data/multilingual/pararel_m2m100_big_fixed
 python translate_templates.py fix_translated_dirs \
-	--templates_folder ${WORKDIR}/data/multilingual/pararel_m2m100_big_cleaned
+	--templates_folder ${WORKDIR}/data/multilingual/pararel_m2m100_big_fixed
 
-cp -r ${WORKDIR}/data/multilingual/pararel_mbart50_en2m ${WORKDIR}/data/multilingual/pararel_mbart50_en2m_cleaned
+cp -r ${WORKDIR}/data/multilingual/pararel_mbart50_en2m ${WORKDIR}/data/multilingual/pararel_mbart50_en2m_fixed
 python translate_templates.py fix_translated_dirs \
-	--templates_folder ${WORKDIR}/data/multilingual/pararel_mbart50_en2m_cleaned
+	--templates_folder ${WORKDIR}/data/multilingual/pararel_mbart50_en2m_fixed
 
-cp -r ${WORKDIR}/data/multilingual/pararel_opus_mt ${WORKDIR}/data/multilingual/pararel_opus_mt_cleaned
+cp -r ${WORKDIR}/data/multilingual/pararel_opus_mt ${WORKDIR}/data/multilingual/pararel_opus_mt_fixed
 python translate_templates.py fix_translated_dirs \
-	--templates_folder ${WORKDIR}/data/multilingual/pararel_opus_mt_cleaned
+	--templates_folder ${WORKDIR}/data/multilingual/pararel_opus_mt_fixed
 
-# Copy templates and relations to an output folder
-mkdir -p ${WORKDIR}/generated_datasets/mpararel_google
-python create_organized_output.py \
-    --infolder ${WORKDIR}/data/multilingual \
-	--templates_folder_name pararel_google_cleaned \
-    --outfolder ${WORKDIR}/generated_datasets/mpararel_google
-
-mkdir -p ${WORKDIR}/generated_datasets/mpararel_bing
-python create_organized_output.py \
-    --infolder ${WORKDIR}/data/multilingual \
-	--templates_folder_name pararel_bing_cleaned \
-    --outfolder ${WORKDIR}/generated_datasets/mpararel_bing
-
-mkdir -p ${WORKDIR}/generated_datasets/mpararel_m2m100_big
-python create_organized_output.py \
-    --infolder ${WORKDIR}/data/multilingual \
-	--templates_folder_name pararel_m2m100_big_cleaned \
-    --outfolder ${WORKDIR}/generated_datasets/mpararel_m2m100_big
-
-mkdir -p ${WORKDIR}/generated_datasets/mpararel_mbart50_en2m
-python create_organized_output.py \
-    --infolder ${WORKDIR}/data/multilingual \
-	--templates_folder_name pararel_mbart50_en2m_cleaned \
-    --outfolder ${WORKDIR}/generated_datasets/mpararel_mbart50_en2m
-
-mkdir -p ${WORKDIR}/generated_datasets/mpararel_opus_mt
-python create_organized_output.py \
-    --infolder ${WORKDIR}/data/multilingual \
-	--templates_folder_name pararel_opus_mt_cleaned \
-    --outfolder ${WORKDIR}/generated_datasets/mpararel_opus_mt
+# Copy valid templates and relations to an output folder
+mkdir -p ${WORKDIR}/cleaned_datasets/
+python cleanup.py \
+    --tuples_folder ${WORKDIR}/data/multilingual/t_rex_translation \
+	--templates_folders_glob=${WORKDIR}/data/multilingual/pararel*fixed \
+    --out_folder ${WORKDIR}/cleaned_datasets
