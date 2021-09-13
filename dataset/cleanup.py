@@ -68,8 +68,8 @@ def main():
     args = parser.parse_args()
 
     # Copy templates files to the output dir.
-    LOG.info("Cleaning templates from the folders: {}".format(
-        glob(args.templates_folders_glob)))
+    LOG.info("Cleaning templates from the folders:\n{}".format(
+        '\n'.join(glob(args.templates_folders_glob))))
     for translation_folder in tqdm(glob(args.templates_folders_glob)):
         translator_name = os.path.basename(translation_folder)
         for language_dirname in os.listdir(translation_folder):
@@ -80,7 +80,7 @@ def main():
                                                   relation_filename)
                 output_templates_filename = os.path.join(
                     args.out_folder, PATTERNS_FOLDER_NAME, translator_name,
-                    language_dirname + ".jsonl")
+                    language_dirname, relation_filename)
                 os.makedirs(
                     output_templates_filename[
                         :-len(os.path.basename(output_templates_filename))],

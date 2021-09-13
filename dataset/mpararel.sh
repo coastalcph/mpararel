@@ -72,8 +72,15 @@ python translate_templates.py fix_translated_dirs \
 	--templates_folder ${WORKDIR}/data/multilingual/pararel_opus_mt_fixed
 
 # Copy valid templates and relations to an output folder
-mkdir -p ${WORKDIR}/cleaned_datasets/
+mkdir -p ${WORKDIR}/data/cleaned_tuples_and_mpatterns/
 python cleanup.py \
     --tuples_folder ${WORKDIR}/data/multilingual/t_rex_translation \
 	--templates_folders_glob=${WORKDIR}/data/multilingual/pararel*fixed \
-    --out_folder ${WORKDIR}/cleaned_datasets
+    --out_folder ${WORKDIR}/data/cleaned_tuples_and_mpatterns/
+
+mkdir -p ${WORKDIR}/data/mpararel
+python create_mpararel.py \
+	--translations_folders_glob=${WORKDIR}/data/cleaned_tuples_and_mpatterns/patterns/* \
+	--min_templates_per_relation 0.2 \
+	--min_relations_count 1.0 \
+	--out_folder ${WORKDIR}/data/mpararel

@@ -77,3 +77,5 @@ last_*
 .nfs*
 
 generated_datasets/**
+cleaned_datasets/**
+.vscode/**
