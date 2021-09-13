@@ -1,10 +1,12 @@
-import re
-import json
-from typing import List
-import os
-from dataset.translate_utils import Translator, TRANSLATOR_TO_OBJECT
-from logger_utils import get_logger
 import collections
+import json
+import os
+import re
+from typing import List
+
+from logger_utils import get_logger
+
+from dataset.translate_utils import TRANSLATOR_TO_OBJECT, Translator
 
 LOG = get_logger(__name__)
 
@@ -217,11 +219,20 @@ def translate_populated_templates(templates: List[str], template_key: str,
         for template in templates:
             LOG.info("Translating template: '{}'".format(
                 template[template_key]))
+            en_tuples_file = os.path.join(tuples_folder, "en", relation_filename)
+            translated_tuples_file = os.path.join(tuples_folder, wikiid, relation_filename)
+            if (not os.path.isfile(en_tuples_file) or
+                    not os.path.isfile(translated_tuples_file)):
+                LOG.info(
+                    "There are no tuples files for this relation (Not found: "
+                    "{} and {}).".format(
+                        en_tuples_file, translated_tuples_file))
+                break
             en_tuples = get_k_subject_object_tuples(
-                os.path.join(tuples_folder, "en", relation_filename),
+                en_tuples_file,
                 K_POPULATED_TEMPLATES)
             translated_tuples = get_subject_object_tuples_from_lines(
-                os.path.join(tuples_folder, wikiid, relation_filename),
+                translated_tuples_file,
                 en_tuples.keys())
             populated_phrases = get_populated_phrases(
                 template[template_key], en_tuples.values())
@@ -240,4 +251,8 @@ def translate_populated_templates(templates: List[str], template_key: str,
             LOG.warning(
                 "Skipping language '{}', not one translation was succesful!".format(wikiid))
             continue
+        LOG.info(
+            "Successful translations. Received {} templates, created {} "
+            "translations".format(
+                len(templates), len(translated_templates[wikiid])))
     return translated_templates
