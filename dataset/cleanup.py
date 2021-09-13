@@ -8,6 +8,8 @@ from logger_utils import get_logger
 from tqdm import tqdm
 
 LOG = get_logger(__name__)
+TUPLES_FOLDER_NAME = "tuples"
+PATTERNS_FOLDER_NAME = "patterns"
 
 
 def is_template_valid(template):
@@ -29,7 +31,8 @@ def get_cleaned_valid_templates(templates_lines):
     clean_templates_lines = []
     patterns = set()
     for line in templates_lines:
-        if is_template_valid(line["pattern"]) and line["pattern"] not in patterns:
+        if (is_template_valid(line["pattern"]) and
+                line["pattern"] not in patterns):
             clean_templates_lines.append(drop_unused_data(line))
             patterns.add(line["pattern"])
     return clean_templates_lines
@@ -65,7 +68,8 @@ def main():
     args = parser.parse_args()
 
     # Copy templates files to the output dir.
-    LOG.info("Cleaning templates from the folders: {}".format(glob(args.templates_folders_glob)))
+    LOG.info("Cleaning templates from the folders: {}".format(
+        glob(args.templates_folders_glob)))
     for translation_folder in tqdm(glob(args.templates_folders_glob)):
         translator_name = os.path.basename(translation_folder)
         for language_dirname in os.listdir(translation_folder):
@@ -75,9 +79,12 @@ def main():
                 templates_filename = os.path.join(language_folder_path,
                                                   relation_filename)
                 output_templates_filename = os.path.join(
-                    args.out_folder, "patterns", translator_name,
+                    args.out_folder, PATTERNS_FOLDER_NAME, translator_name,
                     language_dirname + ".jsonl")
-                os.makedirs(output_templates_filename[:-len(os.path.basename(output_templates_filename))],  exist_ok=True)
+                os.makedirs(
+                    output_templates_filename[
+                        :-len(os.path.basename(output_templates_filename))],
+                    exist_ok=True)
                 with open(templates_filename) as templates_file, \
                         open(output_templates_filename, "w") as fout:
                     cleaned_templates = get_cleaned_valid_templates(
@@ -92,18 +99,20 @@ def main():
             continue
         # If a folder with the translated tuples already exists then we don't
         # write it again.
-        if os.path.isdir(os.path.join(args.out_folder, "tuples", language_dirname)):
+        if os.path.isdir(os.path.join(args.out_folder, TUPLES_FOLDER_NAME,
+                                      language_dirname)):
             continue
         language_folder_path = os.path.join(
             args.tuples_folder, language_dirname)
         if not os.path.isdir(language_folder_path):
             continue
-        os.makedirs(os.path.join(args.out_folder, "tuples", language_dirname))
+        os.makedirs(os.path.join(args.out_folder,
+                    TUPLES_FOLDER_NAME, language_dirname))
         for relation_filename in os.listdir(language_folder_path):
             tuples_filename = os.path.join(
                 language_folder_path, relation_filename)
             output_tuples_filename = os.path.join(
-                args.out_folder, "tuples", language_dirname,
+                args.out_folder, TUPLES_FOLDER_NAME, language_dirname,
                 relation_filename)
             with open(tuples_filename) as tuples_file, \
                     open(output_tuples_filename, "w") as fout:
