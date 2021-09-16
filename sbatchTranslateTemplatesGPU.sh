@@ -5,9 +5,11 @@
 export PYTHONPATH=$(pwd)
 export WORKDIR="/home/wsr217/mpararel"
 
-mkdir -p ${WORKDIR}/data/multilingual/mbart50_en2m
+mkdir -p ${WORKDIR}/data/multilingual/pararel_populated_opus_mt
 python dataset/translate_templates.py translate_folder \
 --templates_folder ${WORKDIR}/data/pararel \
---output_folder ${WORKDIR}/data/multilingual/mbart50_en2m \
+--translate_populated_templates \
+--tuples_folder ${WORKDIR}/data/multilingual/t_rex_translation \
+--output_folder ${WORKDIR}/data/multilingual/pararel_populated_opus_mt \
 --language_mapping_file ${WORKDIR}/dataset/languages_mapping.txt \
---translator mbart50_en2m
+--translator opus_mt

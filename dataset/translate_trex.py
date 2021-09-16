@@ -21,9 +21,10 @@ def get_entity_surface(basepath: Text, uri: Text, language: Text) -> Text:
         with open(filename) as fp:
             data = json.load(fp)
         if uri not in data['entities']:
-            LOG.info("File '{}' doesn't contain uri '{}', going to use the uri "
-                     "found instead '{}'".format(filename, uri,
-                                                 data['entities'].keys()))
+            LOG.info(
+                "File '{}' doesn't contain uri '{}', going to use the uri "
+                "found instead '{}'".format(filename, uri,
+                                            data['entities'].keys()))
             if len(data['entities'].keys()) > 1:
                 LOG.warning("Defaulting to first uri from the list available.")
             uri = list(data['entities'].keys())[0]
@@ -41,14 +42,26 @@ def get_entity_surface(basepath: Text, uri: Text, language: Text) -> Text:
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data", default=None,
-                        type=str, required=True, help="")
-    parser.add_argument("--entities", default=None,
-                        type=str, required=True, help="")
-    parser.add_argument("--outpath", default=None,
-                        type=str, required=True, help="")
-    parser.add_argument("--languagemapping", default=None,
-                        type=str, required=True, help="")
+    parser.add_argument("--data",
+                        default=None,
+                        type=str,
+                        required=True,
+                        help="")
+    parser.add_argument("--entities",
+                        default=None,
+                        type=str,
+                        required=True,
+                        help="")
+    parser.add_argument("--outpath",
+                        default=None,
+                        type=str,
+                        required=True,
+                        help="")
+    parser.add_argument("--languagemapping",
+                        default=None,
+                        type=str,
+                        required=True,
+                        help="")
     args = parser.parse_args()
     wiki_languages = get_wiki_languages(args.languagemapping)
 
@@ -62,10 +75,13 @@ def main():
             LOG.info("Processing relation: {}".format(filename))
             outdirectory = os.path.join(args.outpath, lang)
             os.makedirs(outdirectory, exist_ok=True)
-            with open(os.path.join(outdirectory, filename + ".jsonl"), "w") as fout:
+            with open(os.path.join(outdirectory, filename + ".jsonl"),
+                      "w") as fout:
                 for relation in relations:
                     count["in_file"] += 1
-                    if ("sub_uri" in relation and "obj_uri" in relation and "sub_label" in relation and "obj_label" in relation):
+                    if ("sub_uri" in relation and "obj_uri" in relation
+                            and "sub_label" in relation
+                            and "obj_label" in relation):
                         count["available"] += 1
                         obj_uri = relation["obj_uri"]
                         sub_uri = relation["sub_uri"]
@@ -77,12 +93,22 @@ def main():
                         # write out
                         if obj_surface and sub_surface:
                             count["converted"] += 1
-                            to_write = {"sub_uri": sub_uri, "obj_uri": obj_uri,
-                                        "obj_label": obj_surface, "sub_label": sub_surface, "from_english": False}
+                            to_write = {
+                                "sub_uri": sub_uri,
+                                "obj_uri": obj_uri,
+                                "obj_label": obj_surface,
+                                "sub_label": sub_surface,
+                                "from_english": False
+                            }
                         else:
                             # use english surface forms
-                            to_write = {"sub_uri": sub_uri, "obj_uri": obj_uri,
-                                        "obj_label": relation["obj_label"], "sub_label": relation["sub_label"], "from_english": True}
+                            to_write = {
+                                "sub_uri": sub_uri,
+                                "obj_uri": obj_uri,
+                                "obj_label": relation["obj_label"],
+                                "sub_label": relation["sub_label"],
+                                "from_english": True
+                            }
                         fout.write(json.dumps(to_write) + "\n")
             summary = "{}|{}|{}|(converted/available/in_file)".format(
                 count["converted"], count["available"], count["in_file"])

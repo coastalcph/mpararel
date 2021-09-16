@@ -1,10 +1,11 @@
-import requests
 import uuid
 from enum import Enum
-import pandas as pd
-from googletrans import Translator as GoogleTranslatorAPI
+
 import numpy as np
+import pandas as pd
+import requests
 from easynmt import EasyNMT
+from googletrans import Translator as GoogleTranslatorAPI
 from logger_utils import get_logger
 
 LOG = get_logger(__name__)
@@ -22,7 +23,9 @@ class GoogleTranslator():
     LANGUAGE_CODES_HEADER = "googletranslate"
 
     def translate(self, text, from_lang, to_lang):
-        result = GoogleTranslatorAPI().translate(text, src=from_lang, dest=to_lang)
+        result = GoogleTranslatorAPI().translate(text,
+                                                 src=from_lang,
+                                                 dest=to_lang)
         return result.text
 
 
@@ -36,13 +39,11 @@ class BingTranslator():
         params = '&from={}&to={}'.format(from_lang, to_lang)
         constructed_url = BingTranslator.BING_ENDPOINT + path + params
         headers = {
-            'Ocp-Apim-Subscription-Key': BingTranslator.__name__BING_SUBSCRIPTION_KEY,
+            'Ocp-Apim-Subscription-Key': BingTranslator.BING_SUBSCRIPTION_KEY,
             'Content-type': 'application/json',
             'X-ClientTraceId': str(uuid.uuid4())
         }
-        body = [{
-            'text': text
-        }]
+        body = [{'text': text}]
         request = requests.post(constructed_url, headers=headers, json=body)
         response = request.json()
         return response[0]["translations"][0]["text"]
@@ -69,8 +70,9 @@ class EasyNmtTranslator():
             EasyNmtTranslator.model = EasyNMT(self.model_name)
             LOG.info("{} from EasyNMT was loaded in the device: {}".format(
                 self.model_name, EasyNmtTranslator.model.device))
-        translations = EasyNmtTranslator.model.translate(
-            [text], source_lang=from_lang, target_lang=to_lang)
+        translations = EasyNmtTranslator.model.translate([text],
+                                                         source_lang=from_lang,
+                                                         target_lang=to_lang)
         return translations[0]
 
 
@@ -119,13 +121,15 @@ TRANSLATOR_TO_OBJECT = {
 def get_wiki_language_mapping(path: str, translator: Translator) -> dict:
     """Returns the language codes mapping between wikipedia and the translator."""
     language_mapping = pd.read_csv(path, sep='\t')
-    translator_codes_header = (TRANSLATOR_TO_OBJECT[translator]
-                               .LANGUAGE_CODES_HEADER)
+    translator_codes_header = (
+        TRANSLATOR_TO_OBJECT[translator].LANGUAGE_CODES_HEADER)
     translator_codes = language_mapping[translator_codes_header].values
     wiki_to_translator_code = {}
-    for wiki_lang, translator_lang in zip(language_mapping.wiki.values, translator_codes):
+    for wiki_lang, translator_lang in zip(language_mapping.wiki.values,
+                                          translator_codes):
         # Empty codes are read as NaN by pandas.
-        if not isinstance(translator_lang, str) and translator == Translator.GOOGLE:
+        if not isinstance(translator_lang,
+                          str) and translator == Translator.GOOGLE:
             # For Google translate we try the wiki language code.
             translator_lang = wiki_lang
         if isinstance(translator_lang, str):

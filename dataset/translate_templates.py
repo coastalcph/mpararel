@@ -1,13 +1,16 @@
-from typing import List
+import argparse
 import collections
 import json
 import os
-import argparse
-from logger_utils import get_logger
-from dataset.translate_utils import Translator, TRANSLATOR_TO_OBJECT, get_wiki_language_mapping
-from dataset.translate_populated_templates import translate_populated_templates
-from tqdm import tqdm
 import re
+from typing import List
+
+from logger_utils import get_logger
+from tqdm import tqdm
+
+from dataset.translate_populated_templates import translate_populated_templates
+from dataset.translate_utils import (TRANSLATOR_TO_OBJECT, Translator,
+                                     get_wiki_language_mapping)
 
 LOG = get_logger(__name__)
 
@@ -24,14 +27,14 @@ def fix_template(template, lang):
         template = template.replace("Y", "[Y]", 1)
 
     if lang == "tl":
-        template = template.replace(
-            "Naglalaro ang [X] sa posisyon.", "Naglalaro si [X] sa posisyon na [Y]", 1)
-        template = template.replace(
-            "Sumali sa [X] ang [X].", "Sumali ang [X] sa [Y].", 1)
-        template = template.replace(
-            "Naglalaro ang [X] ng musika.", "Naglalaro si [X] ng [Y] musika.", 1)
-        template = template.replace(
-            "Naglalaro ang [X].", "Ginawa ni [X] ang [Y].", 1)
+        template = template.replace("Naglalaro ang [X] sa posisyon.",
+                                    "Naglalaro si [X] sa posisyon na [Y]", 1)
+        template = template.replace("Sumali sa [X] ang [X].",
+                                    "Sumali ang [X] sa [Y].", 1)
+        template = template.replace("Naglalaro ang [X] ng musika.",
+                                    "Naglalaro si [X] ng [Y] musika.", 1)
+        template = template.replace("Naglalaro ang [X].",
+                                    "Ginawa ni [X] ang [Y].", 1)
     if lang == "el":
         template = template.replace("[Χ]", "[X]", 1)
         template = template.replace("[Υ]", "[Y]", 1)
@@ -41,10 +44,10 @@ def fix_template(template, lang):
             template = template.replace("[Ο]", "[Y]", 1)
     if lang == "ceb":
         # to be checked
-        template = template.replace(
-            "Natawo sa [Y].", "Natawo ang [X] sa [Y].", 1)
-        template = template.replace(
-            "Nag-apil sa [X] ang [X].", "Ang [X] miapil sa [Y].", 1)
+        template = template.replace("Natawo sa [Y].", "Natawo ang [X] sa [Y].",
+                                    1)
+        template = template.replace("Nag-apil sa [X] ang [X].",
+                                    "Ang [X] miapil sa [Y].", 1)
 
     if lang == "pa":
         template = template.replace("[ਐਕਸ]", "[X]", 1)
@@ -54,7 +57,8 @@ def fix_template(template, lang):
         template = template.replace("[ஒய்]", "[Y]", 1)
     if lang == "mg":
         template = template.replace(
-            "Tamin'ny voalohany, nalefan'i [Y] tany am-boalohany.", "Tamin'ny voalohany, ny X [X] dia nalefa tamin'ny [Y].", 1)
+            "Tamin'ny voalohany, nalefan'i [Y] tany am-boalohany.",
+            "Tamin'ny voalohany, ny X [X] dia nalefa tamin'ny [Y].", 1)
     if lang == "gu":
         template = template.replace("[એક્સ]", "[X]", 1)
         template = template.replace("[વાય]", "[Y]", 1)
@@ -65,13 +69,13 @@ def fix_template(template, lang):
     if lang == "sr":
         template = template.replace("[Кс]", "[X]", 1)
         template = template.replace("[И]", "[Y]", 1)
-        template = template.replace(
-            "[X] је рођен у И.", "[X] је рођен у [Y].", 1)
+        template = template.replace("[X] је рођен у И.", "[X] је рођен у [Y].",
+                                    1)
     if lang == "kk":
-        template = template.replace(
-            "[Х] университетте білім алған.", "[X] [Y] университетінде білім алған.", 1)
-        template = template.replace(
-            "Ана тілі [Х] болып табылады.", "[Х] -дің ана тілі - [Y].", 1)
+        template = template.replace("[Х] университетте білім алған.",
+                                    "[X] [Y] университетінде білім алған.", 1)
+        template = template.replace("Ана тілі [Х] болып табылады.",
+                                    "[Х] -дің ана тілі - [Y].", 1)
         template = template.replace("[Х]", "[X]", 1)
         template = template.replace("[Y]", "[Y]", 1)
     if lang == "kn":
@@ -84,19 +88,20 @@ def fix_template(template, lang):
         template = template.replace("[X]", "[X]", 1)
         template = template.replace("[Յ]", "[Y]", 1)
     if lang == "uz":
-        template = template.replace(
-            "[X] universitetida tahsil olgan.", "[X] [Y] universitetida tahsil olgan.", 1)
-        template = template.replace(
-            "[X] din bilan bog'liq.", "[X] [Y] diniga mansub.", 1)
+        template = template.replace("[X] universitetida tahsil olgan.",
+                                    "[X] [Y] universitetida tahsil olgan.", 1)
+        template = template.replace("[X] din bilan bog'liq.",
+                                    "[X] [Y] diniga mansub.", 1)
     if lang == "tg":
-        template = template.replace(
-            "[X] аз рӯи касб аст.", "[X] аз рӯи касб [Y] аст.", 1)
+        template = template.replace("[X] аз рӯи касб аст.",
+                                    "[X] аз рӯи касб [Y] аст.", 1)
         template = template.replace("[Ю]", "[Y]", 1)
         template = template.replace("[Х]", "[X]", 1)
         template = template.replace("[Y]", "[Y]", 1)
     if lang == "lt":
         template = template.replace(
-            "Buvo įgijęs išsilavinimą [Y] universitete.", "[X] įgijo išsilavinimą [Y] universitete.", 1)
+            "Buvo įgijęs išsilavinimą [Y] universitete.",
+            "[X] įgijo išsilavinimą [Y] universitete.", 1)
     if lang == "bn":
         template = template.replace("[এক্স]", "[X]", 1)
         template = template.replace("[ওয়াই]", "[Y]", 1)
@@ -150,8 +155,8 @@ def _fix_translated_files(templates_folder, template_json_key):
                 if not line:
                     continue
                 template = json.loads(line)
-                if (template[template_json_key].count("[X]") == 1 and
-                        template[template_json_key].count("[Y]") == 1):
+                if (template[template_json_key].count("[X]") == 1
+                        and template[template_json_key].count("[Y]") == 1):
                     new_templates.append(template)
                     continue
                 initial_broken += 1
@@ -159,11 +164,10 @@ def _fix_translated_files(templates_folder, template_json_key):
                 template[template_json_key] = fix_template(
                     template[template_json_key],
                     get_language_from_filename(templates_folder, file))
-                if (template[template_json_key].count("[X]") != 1 or
-                        template[template_json_key].count("[Y]") != 1):
-                    LOG.info(
-                        "Wasn't able to fix [{} (line = {})]: {}".format(
-                            file, i, template))
+                if (template[template_json_key].count("[X]") != 1
+                        or template[template_json_key].count("[Y]") != 1):
+                    LOG.info("Wasn't able to fix [{} (line = {})]: {}".format(
+                        file, i, template))
                     final_broken += 1
                     final_incorrect_files.add(file)
                 new_templates.append(template)
@@ -199,9 +203,9 @@ def translate_templates(templates: List[str], template_key: str,
         translated_templates[wikiid] = []
         for template in templates:
             try:
-                translated_text = translator.translate(
-                    template[template_key], from_lang="en",
-                    to_lang=translator_id)
+                translated_text = translator.translate(template[template_key],
+                                                       from_lang="en",
+                                                       to_lang=translator_id)
                 translated_template = template.copy()
                 translated_template[template_key] = translated_text
             except Exception as e:
@@ -221,15 +225,16 @@ def translate_folder(args):
     translations_count = 0
     chars_translations_count = 0
     for filename in tqdm(os.listdir(args.templates_folder)):
-        templates = get_templates(os.path.join(
-            args.templates_folder, filename))
-        translations_count += len(templates)*len(lang2translateid)
+        templates = get_templates(os.path.join(args.templates_folder,
+                                               filename))
+        translations_count += len(templates) * len(lang2translateid)
         chars_translations_count += (
-            len(''.join([t["pattern"] for t in templates])) *
-            len(lang2translateid))
-        LOG.info("Translating file: {}, (will reach: {} translations, {} chars "
-                 "translated)".format(
-                     filename, translations_count, chars_translations_count))
+            len(''.join([t["pattern"]
+                         for t in templates])) * len(lang2translateid))
+        LOG.info(
+            "Translating file: {}, (will reach: {} translations, {} chars "
+            "translated)".format(filename, translations_count,
+                                 chars_translations_count))
         translated_templates = {}
         if args.translate_populated_templates:
             LOG.info("Translating *populated* templates.")
@@ -240,13 +245,15 @@ def translate_folder(args):
             translate_templates(templates, "pattern", lang2translateid,
                                 args.translator)
         for wikiid, templates_translation in translated_templates.items():
-            wikiid_to_filename_to_templates[wikiid][filename] = templates_translation
+            wikiid_to_filename_to_templates[wikiid][
+                filename] = templates_translation
     LOG.info("Writing translated templates...")
-    for wikiid, filename_to_templates in wikiid_to_filename_to_templates.items():
+    for wikiid, filename_to_templates in wikiid_to_filename_to_templates.items(
+    ):
         os.makedirs(os.path.join(args.output_folder, wikiid), exist_ok=True)
         for filename, templates in filename_to_templates.items():
-            output_filename = os.path.join(
-                args.output_folder, wikiid, filename)
+            output_filename = os.path.join(args.output_folder, wikiid,
+                                           filename)
             with open(output_filename, "w") as fout:
                 for template in templates:
                     fout.write("{}\n".format(json.dumps(template)))
@@ -256,10 +263,14 @@ def translate_file(args):
     lang2translateid = get_wiki_language_mapping(args.language_mapping_file,
                                                  args.translator)
     templates = get_templates(args.templates_file)
-    wikiid_to_translated = translate_templates(
-        templates, "template", lang2translateid, args.translator)
+    wikiid_to_translated = translate_templates(templates, "template",
+                                               lang2translateid,
+                                               args.translator)
     for wikiid, translated in wikiid_to_translated.items():
-        with open(os.path.join(args.output_folder, "relations_{}.jsonl".format(wikiid)), "w") as fout:
+        with open(
+                os.path.join(args.output_folder,
+                             "relations_{}.jsonl".format(wikiid)),
+                "w") as fout:
             for template in translated:
                 fout.write("{}\n".format(json.dumps(template)))
 
@@ -270,53 +281,87 @@ def create_parser():
 
     parser_translate = subparsers.add_parser('translate_file')
     parser_translate.set_defaults(func=translate_file)
-    parser_translate.add_argument(
-        "--templates_file", default=None, type=str, required=True, help="")
-    parser_translate.add_argument(
-        "--language_mapping_file", default=None, type=str, required=True, help="")
-    parser_translate.add_argument(
-        "--translator", type=Translator, default=Translator.GOOGLE,
-        choices=list(Translator))
-    parser_translate.add_argument(
-        "--output_folder", default=None, type=str, required=True, help="")
+    parser_translate.add_argument("--templates_file",
+                                  default=None,
+                                  type=str,
+                                  required=True,
+                                  help="")
+    parser_translate.add_argument("--language_mapping_file",
+                                  default=None,
+                                  type=str,
+                                  required=True,
+                                  help="")
+    parser_translate.add_argument("--translator",
+                                  type=Translator,
+                                  default=Translator.GOOGLE,
+                                  choices=list(Translator))
+    parser_translate.add_argument("--output_folder",
+                                  default=None,
+                                  type=str,
+                                  required=True,
+                                  help="")
 
     parser_translate_folder = subparsers.add_parser('translate_folder')
     parser_translate_folder.set_defaults(func=translate_folder)
+    parser_translate_folder.add_argument("--templates_folder",
+                                         default=None,
+                                         type=str,
+                                         required=True,
+                                         help="")
+    parser_translate_folder.add_argument("--language_mapping_file",
+                                         default=None,
+                                         type=str,
+                                         required=True,
+                                         help="")
+    parser_translate_folder.add_argument("--translator",
+                                         type=Translator,
+                                         default=Translator.GOOGLE,
+                                         choices=list(Translator))
     parser_translate_folder.add_argument(
-        "--templates_folder", default=None, type=str, required=True, help="")
-    parser_translate_folder.add_argument(
-        "--language_mapping_file", default=None, type=str, required=True, help="")
-    parser_translate_folder.add_argument(
-        "--translator", type=Translator, default=Translator.GOOGLE,
-        choices=list(Translator))
-    parser_translate_folder.add_argument(
-        "--translate_populated_templates", action='store_true', default=False,
+        "--translate_populated_templates",
+        action='store_true',
+        default=False,
         help="Translate the templates with [X] and [Y] filled with subjects and"
-             " objects.")
+        " objects.")
     parser_translate_folder.add_argument(
-        "--tuples_folder", default=None, type=str,
+        "--tuples_folder",
+        default=None,
+        type=str,
         help="The folder where to find the subjects and objects per language "
-             "per relation.")
-    parser_translate_folder.add_argument(
-        "--output_folder", default=None, type=str, required=True, help="")
+        "per relation.")
+    parser_translate_folder.add_argument("--output_folder",
+                                         default=None,
+                                         type=str,
+                                         required=True,
+                                         help="")
 
     parser_clean = subparsers.add_parser('fix_translated_files')
     parser_clean.set_defaults(func=fix_translated_files)
+    parser_clean.add_argument("--templates_folder",
+                              default=None,
+                              type=str,
+                              required=True,
+                              help="")
     parser_clean.add_argument(
-        "--templates_folder", default=None, type=str, required=True, help="")
-    parser_clean.add_argument(
-        "--template_json_key", default="template", type=str,
+        "--template_json_key",
+        default="template",
+        type=str,
         help="The key that contains the template or pattern in each line of the"
-             " templates files.")
+        " templates files.")
 
     parser_clean_dir = subparsers.add_parser('fix_translated_dirs')
     parser_clean_dir.set_defaults(func=fix_translated_dirs)
+    parser_clean_dir.add_argument("--templates_folder",
+                                  default=None,
+                                  type=str,
+                                  required=True,
+                                  help="")
     parser_clean_dir.add_argument(
-        "--templates_folder", default=None, type=str, required=True, help="")
-    parser_clean_dir.add_argument(
-        "--template_json_key", default="pattern", type=str,
+        "--template_json_key",
+        default="pattern",
+        type=str,
         help="The key that contains the template or pattern in each line of the"
-             " templates files.")
+        " templates files.")
     return parser
 
 

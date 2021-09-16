@@ -19,10 +19,16 @@ def download_entity(url: Text, outfile: Text) -> None:
 
 def download_from_wikidata() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--datapath", default=None,
-                        type=str, required=True, help="")
-    parser.add_argument("--outpath", default=None,
-                        type=str, required=True, help="")
+    parser.add_argument("--datapath",
+                        default=None,
+                        type=str,
+                        required=True,
+                        help="")
+    parser.add_argument("--outpath",
+                        default=None,
+                        type=str,
+                        required=True,
+                        help="")
     parser.add_argument("--use", action="store_true", help="")
     args = parser.parse_args()
     t = Relations(args.datapath)
@@ -31,8 +37,8 @@ def download_from_wikidata() -> None:
     entities = t.get_all_entities(["obj_uri", "sub_uri"])
     base_url = "https://www.wikidata.org/wiki/Special:EntityData/{}.json"
     for entity in tqdm.tqdm(entities):
-        download_entity(base_url.format(entity), os.path.join(
-            args.outpath, entity + ".json"))
+        download_entity(base_url.format(entity),
+                        os.path.join(args.outpath, entity + ".json"))
 
 
 if __name__ == '__main__':

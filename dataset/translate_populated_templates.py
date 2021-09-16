@@ -19,8 +19,8 @@ def get_k_subject_object_tuples(filename, k_tuples):
     with open(filename) as fp:
         for i, line in enumerate(fp):
             line_data = json.loads(line)
-            if (line_data["sub_label"] not in added and
-                    line_data["obj_label"] not in added):
+            if (line_data["sub_label"] not in added
+                    and line_data["obj_label"] not in added):
                 tuples[i] = (line_data["sub_label"], line_data["obj_label"])
                 added.add(line_data["sub_label"])
                 added.add(line_data["obj_label"])
@@ -35,8 +35,7 @@ def get_subject_object_tuples_from_lines(filename, lineas_to_add):
         for i, line in enumerate(fp):
             line_data = json.loads(line)
             if i in lineas_to_add:
-                tuples[i] = (
-                    line_data["sub_label"], line_data["obj_label"])
+                tuples[i] = (line_data["sub_label"], line_data["obj_label"])
     return tuples
 
 
@@ -48,7 +47,8 @@ def get_populated_phrases(template, tuples):
     return populated_phrases
 
 
-def get_template_from_common_indexes(common_indexes, string_list_1, string_list_2):
+def get_template_from_common_indexes(common_indexes, string_list_1,
+                                     string_list_2):
     str_sequence = []
     skipped = []
     for i_common in range(len(common_indexes)):
@@ -58,22 +58,24 @@ def get_template_from_common_indexes(common_indexes, string_list_1, string_list_
             1 if i_common == 0 else common_indexes[i_common-1][0]
         last_common_index_2nd_word = - \
             1 if i_common == 0 else common_indexes[i_common-1][1]
-        if (common_indexes[i_common][0] > last_common_index_1st_word + 1
-                and common_indexes[i_common][1] > last_common_index_2nd_word + 1):
+        if (common_indexes[i_common][0] > last_common_index_1st_word + 1 and
+                common_indexes[i_common][1] > last_common_index_2nd_word + 1):
             str_sequence.append('[X/Y]')
             skipped_str_1 = ' '.join(
-                string_list_1[last_common_index_1st_word + 1: common_indexes[i_common][0]])
+                string_list_1[last_common_index_1st_word +
+                              1:common_indexes[i_common][0]])
             skipped_str_2 = ' '.join(
-                string_list_2[last_common_index_2nd_word + 1: common_indexes[i_common][1]])
+                string_list_2[last_common_index_2nd_word +
+                              1:common_indexes[i_common][1]])
             skipped.append((skipped_str_1, skipped_str_2))
         str_sequence.append(string_list_1[common_indexes[i_common][0]])
-    if (len(string_list_1) > common_indexes[i_common][0] + 1 and
-            len(string_list_2) > common_indexes[i_common][1] + 1):
+    if (len(string_list_1) > common_indexes[i_common][0] + 1
+            and len(string_list_2) > common_indexes[i_common][1] + 1):
         str_sequence.append('[X/Y]')
-        skipped_str_1 = ' '.join(
-            string_list_1[common_indexes[i_common][0] + 1:])
-        skipped_str_2 = ' '.join(
-            string_list_2[common_indexes[i_common][1] + 1:])
+        skipped_str_1 = ' '.join(string_list_1[common_indexes[i_common][0] +
+                                               1:])
+        skipped_str_2 = ' '.join(string_list_2[common_indexes[i_common][1] +
+                                               1:])
         skipped.append((skipped_str_1, skipped_str_2))
     return ' '.join(str_sequence), skipped
 
@@ -82,23 +84,25 @@ def longest_common_subsequence(string_list_1, string_list_2):
     m = len(string_list_1)
     n = len(string_list_2)
     # L[i][j] contains the length of the LCS of X[0..i-1] and Y[0..j-1].
-    L = [[None]*(n + 1) for i in range(m + 1)]
-    sequence = [[None]*(n + 1) for i in range(m + 1)]
+    L = [[None] * (n + 1) for i in range(m + 1)]
+    sequence = [[None] * (n + 1) for i in range(m + 1)]
     for i in range(m + 1):
         for j in range(n + 1):
             if i == 0 or j == 0:
                 L[i][j] = 0
                 sequence[i][j] = []
-            elif string_list_1[i-1] == string_list_2[j-1]:
-                L[i][j] = L[i-1][j-1] + 1
-                sequence[i][j] = sequence[i-1][j-1].copy() + [(i-1, j-1)]
+            elif string_list_1[i - 1] == string_list_2[j - 1]:
+                L[i][j] = L[i - 1][j - 1] + 1
+                sequence[i][j] = sequence[i - 1][j - 1].copy() + [
+                    (i - 1, j - 1)
+                ]
             else:
-                if L[i-1][j] > L[i][j-1]:
-                    L[i][j] = L[i-1][j]
-                    sequence[i][j] = sequence[i-1][j]
+                if L[i - 1][j] > L[i][j - 1]:
+                    L[i][j] = L[i - 1][j]
+                    sequence[i][j] = sequence[i - 1][j]
                 else:
-                    L[i][j] = L[i][j-1]
-                    sequence[i][j] = sequence[i][j-1]
+                    L[i][j] = L[i][j - 1]
+                    sequence[i][j] = sequence[i][j - 1]
     lcs = sequence[m][n]
     if not lcs:
         return None, None
@@ -117,8 +121,8 @@ def set_cleaned_words(list, index=None):
     return output
 
 
-def get_object_subject_order(set_first_position, set_second_position, en_tuples,
-                             translated_tuples):
+def get_object_subject_order(set_first_position, set_second_position,
+                             en_tuples, translated_tuples):
     set_first_position = set_cleaned_words(set_first_position)
     set_second_position = set_cleaned_words(set_second_position)
     subj_en = set_cleaned_words(en_tuples, 0)
@@ -127,22 +131,23 @@ def get_object_subject_order(set_first_position, set_second_position, en_tuples,
     obj_translated = set_cleaned_words(translated_tuples, 1)
     total_subj = len(subj_en) + len(subj_translated)
     total_obj = len(obj_en) + len(obj_translated)
-    first_subj = (len(set_first_position.intersection(subj_en)) +
-                  len(set_first_position.intersection(subj_translated)))/total_subj
-    first_obj = (len(set_first_position.intersection(obj_en)) +
-                 len(set_first_position.intersection(obj_translated)))/total_obj
-    second_subj = (len(set_second_position.intersection(subj_en)) +
-                   len(set_second_position.intersection(subj_translated)))/total_subj
-    second_obj = (len(set_second_position.intersection(obj_en)) +
-                  len(set_second_position.intersection(obj_translated)))/total_obj
+    first_subj = (len(set_first_position.intersection(subj_en)) + len(
+        set_first_position.intersection(subj_translated))) / total_subj
+    first_obj = (len(set_first_position.intersection(obj_en)) + len(
+        set_first_position.intersection(obj_translated))) / total_obj
+    second_subj = (len(set_second_position.intersection(subj_en)) + len(
+        set_second_position.intersection(subj_translated))) / total_subj
+    second_obj = (len(set_second_position.intersection(obj_en)) + len(
+        set_second_position.intersection(obj_translated))) / total_obj
     if first_subj > second_subj and first_obj < second_obj:
         return ["[X]", "[Y]"]
     elif first_subj < second_subj and first_obj > second_obj:
         return ["[Y]", "[X]"]
     else:
-        LOG.info("Error: couldn't conclude on order of X and Y (first_subj={}, "
-                 "first_obj={}, second_subj={}, second_obj={}).".format(
-                     first_subj, first_obj, second_subj, second_obj))
+        LOG.info(
+            "Error: couldn't conclude on order of X and Y (first_subj={}, "
+            "first_obj={}, second_subj={}, second_obj={}).".format(
+                first_subj, first_obj, second_subj, second_obj))
         return None, None
 
 
@@ -168,23 +173,22 @@ def get_templates_from_populated_translations(translated_phrases: List,
     # Each set contains the phrases for the object/subject found.
     non_overlapping_phrases = [set(), set()]
     for i in range(0, len(translated_phrases)):
-        for j in range(i+1, len(translated_phrases)):
+        for j in range(i + 1, len(translated_phrases)):
             lcs, non_overlapping = longest_common_subsequence(
                 translated_phrases[i].split(' '),
                 translated_phrases[j].split(' '))
             if not lcs:
                 continue
             if lcs.count("[X/Y]") != 2:
-                LOG.info("Error in lcs, there aren't two '[X/Y]', skipping "
-                         "template: {}".format(lcs))
                 continue
             for subject_or_object in non_overlapping[0]:
                 non_overlapping_phrases[0].add(subject_or_object)
             for subject_or_object in non_overlapping[1]:
                 non_overlapping_phrases[1].add(subject_or_object)
             potential_templates[lcs] += 1
-    first_str, second_str = get_object_subject_order(
-        *non_overlapping_phrases, en_tuples, translated_tuples)
+    first_str, second_str = get_object_subject_order(*non_overlapping_phrases,
+                                                     en_tuples,
+                                                     translated_tuples)
     if first_str is None:
         return []
     final_templates = []
@@ -219,40 +223,43 @@ def translate_populated_templates(templates: List[str], template_key: str,
         for template in templates:
             LOG.info("Translating template: '{}'".format(
                 template[template_key]))
-            en_tuples_file = os.path.join(tuples_folder, "en", relation_filename)
-            translated_tuples_file = os.path.join(tuples_folder, wikiid, relation_filename)
-            if (not os.path.isfile(en_tuples_file) or
-                    not os.path.isfile(translated_tuples_file)):
+            en_tuples_file = os.path.join(tuples_folder, "en",
+                                          relation_filename)
+            translated_tuples_file = os.path.join(tuples_folder, wikiid,
+                                                  relation_filename)
+            if (not os.path.isfile(en_tuples_file)
+                    or not os.path.isfile(translated_tuples_file)):
                 LOG.info(
                     "There are no tuples files for this relation (Not found: "
-                    "{} and {}).".format(
-                        en_tuples_file, translated_tuples_file))
+                    "{} and {}).".format(en_tuples_file,
+                                         translated_tuples_file))
                 break
-            en_tuples = get_k_subject_object_tuples(
-                en_tuples_file,
-                K_POPULATED_TEMPLATES)
+            en_tuples = get_k_subject_object_tuples(en_tuples_file,
+                                                    K_POPULATED_TEMPLATES)
             translated_tuples = get_subject_object_tuples_from_lines(
-                translated_tuples_file,
-                en_tuples.keys())
-            populated_phrases = get_populated_phrases(
-                template[template_key], en_tuples.values())
+                translated_tuples_file, en_tuples.keys())
+            populated_phrases = get_populated_phrases(template[template_key],
+                                                      en_tuples.values())
             try:
                 translated_phrases = [
-                    translator.translate(text, from_lang="en",
+                    translator.translate(text,
+                                         from_lang="en",
                                          to_lang=translator_id)
-                    for text in populated_phrases]
+                    for text in populated_phrases
+                ]
             except Exception as e:
                 LOG.info("Exception: {}".format(e))
                 break
             final_templates = get_templates_from_populated_translations(
-                translated_phrases, en_tuples.values(), translated_tuples.values())
+                translated_phrases, en_tuples.values(),
+                translated_tuples.values())
             translated_templates[wikiid].update(final_templates)
         if len(translated_templates[wikiid]) == 0:
             LOG.warning(
-                "Skipping language '{}', not one translation was succesful!".format(wikiid))
+                "Skipping language '{}', not one translation was succesful!".
+                format(wikiid))
             continue
-        LOG.info(
-            "Successful translations. Received {} templates, created {} "
-            "translations".format(
-                len(templates), len(translated_templates[wikiid])))
+        LOG.info("Successful translations. Received {} templates, created {} "
+                 "translations".format(len(templates),
+                                       len(translated_templates[wikiid])))
     return translated_templates
