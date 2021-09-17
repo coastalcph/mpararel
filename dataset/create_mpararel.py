@@ -28,7 +28,7 @@ def get_agreed_translations_and_stats(translations_folders):
         x.replace(".jsonl", "")
         for x in os.listdir(os.path.join(translations_folders[0], "en"))
     ]
-    lang_relation_counts = []
+    language_and_relation_counts = []
     agreed_translations = collections.defaultdict(
         lambda: collections.defaultdict(list))
     for relation in tqdm(relations):
@@ -65,12 +65,12 @@ def get_agreed_translations_and_stats(translations_folders):
                         template_translation)
                 else:
                     not_agreed_templates_count += 1
-            lang_relation_counts.append(
+            language_and_relation_counts.append(
                 (language, relation, agreed_templates_count,
                  not_agreed_templates_count,
                  lang_to_translators_count[language]))
     return (agreed_translations,
-            pd.DataFrame(lang_relation_counts,
+            pd.DataFrame(language_and_relation_counts,
                          columns=[
                              'language', 'relation', 'agreed_templates_count',
                              'not_agreed_templates_count', 'translators_count'
@@ -103,8 +103,8 @@ def main():
         "--min_templates_per_relation",
         type=float,
         default=0.2,
-        help="The minimum number of templates per relation that a language has "
-        "to have to be included. The number is the fraction (0-1) of "
+        help="The minimum number of templates in each relation that a language"
+        "has to have to be included. The number is the fraction (0-1) of "
         "templates compared to the english total available for that "
         "relation.")
     parser.add_argument(

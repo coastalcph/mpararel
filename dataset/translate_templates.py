@@ -3,6 +3,7 @@ import collections
 import json
 import os
 import re
+from glob import glob
 from typing import List
 
 from logger_utils import get_logger
@@ -133,21 +134,22 @@ def get_language_from_filename(folder, filename):
 
 
 def fix_translated_dirs(args):
-    for directory in os.listdir(args.templates_folder):
-        LOG.info("Cleaning directory {}".format(directory))
-        _fix_translated_files(os.path.join(args.templates_folder, directory),
-                              args.template_json_key)
-
-
-def fix_translated_files(args):
-    _fix_translated_files(args.templates_folder, args.template_json_key)
+    initial_broken_count, final_broken_count = 0, 0
+    for dir_to_fix in tqdm(glob(args.templates_folder_glob)):
+        LOG.info("Cleaning folder {}".format(dir_to_fix))
+        for sub_folder in tqdm(os.listdir(dir_to_fix)):
+            initial_broken, final_broken = _fix_translated_files(
+                os.path.join(dir_to_fix, sub_folder), args.template_json_key)
+            initial_broken_count += initial_broken
+            final_broken_count += final_broken
+    LOG.info("Initial broken templates {} remain broken {}".format(
+        initial_broken_count, final_broken_count))
 
 
 def _fix_translated_files(templates_folder, template_json_key):
     initial_broken = 0
     final_broken = 0
     inital_incorrect_files = set()
-    final_incorrect_files = set()
     for file in os.listdir(templates_folder):
         new_templates = []
         with open(os.path.join(templates_folder, file), "r") as fp:
@@ -155,32 +157,33 @@ def _fix_translated_files(templates_folder, template_json_key):
                 if not line:
                     continue
                 template = json.loads(line)
-                if (template[template_json_key].count("[X]") == 1
-                        and template[template_json_key].count("[Y]") == 1):
+                try:
+                    if (template[template_json_key].count("[X]") == 1
+                            and template[template_json_key].count("[Y]") == 1):
+                        new_templates.append(template)
+                        continue
+                    initial_broken += 1
+                    inital_incorrect_files.add(file)
+                    template[template_json_key] = fix_template(
+                        template[template_json_key],
+                        get_language_from_filename(templates_folder, file))
+                    if (template[template_json_key].count("[X]") != 1
+                            or template[template_json_key].count("[Y]") != 1):
+                        final_broken += 1
                     new_templates.append(template)
-                    continue
-                initial_broken += 1
-                inital_incorrect_files.add(file)
-                template[template_json_key] = fix_template(
-                    template[template_json_key],
-                    get_language_from_filename(templates_folder, file))
-                if (template[template_json_key].count("[X]") != 1
-                        or template[template_json_key].count("[Y]") != 1):
-                    LOG.info("Wasn't able to fix [{} (line = {})]: {}".format(
-                        file, i, template))
-                    final_broken += 1
-                    final_incorrect_files.add(file)
-                new_templates.append(template)
+                except Exception as e:
+                    LOG.info(
+                        "Exception {} while trying to fix template '{}' in file"
+                        " '{}'".format(e, template,
+                                       os.path.join(templates_folder, file)))
+                    raise Exception(e)
         if file not in inital_incorrect_files:
             continue
         # Overwrite the fixed template.
         with open(os.path.join(templates_folder, file), "w") as fp:
             for line in new_templates:
                 fp.write(json.dumps(line) + "\n")
-    LOG.info("Initial broken templates {} (in {} files)".format(
-        initial_broken, len(inital_incorrect_files)))
-    LOG.info("Remain broken templates {} (in {} files)".format(
-        final_broken, len(final_incorrect_files)))
+    return initial_broken, final_broken
 
 
 def get_templates(templates_filename):
@@ -259,47 +262,9 @@ def translate_folder(args):
                     fout.write("{}\n".format(json.dumps(template)))
 
 
-def translate_file(args):
-    lang2translateid = get_wiki_language_mapping(args.language_mapping_file,
-                                                 args.translator)
-    templates = get_templates(args.templates_file)
-    wikiid_to_translated = translate_templates(templates, "template",
-                                               lang2translateid,
-                                               args.translator)
-    for wikiid, translated in wikiid_to_translated.items():
-        with open(
-                os.path.join(args.output_folder,
-                             "relations_{}.jsonl".format(wikiid)),
-                "w") as fout:
-            for template in translated:
-                fout.write("{}\n".format(json.dumps(template)))
-
-
 def create_parser():
     parser = argparse.ArgumentParser()
     subparsers = parser.add_subparsers()
-
-    parser_translate = subparsers.add_parser('translate_file')
-    parser_translate.set_defaults(func=translate_file)
-    parser_translate.add_argument("--templates_file",
-                                  default=None,
-                                  type=str,
-                                  required=True,
-                                  help="")
-    parser_translate.add_argument("--language_mapping_file",
-                                  default=None,
-                                  type=str,
-                                  required=True,
-                                  help="")
-    parser_translate.add_argument("--translator",
-                                  type=Translator,
-                                  default=Translator.GOOGLE,
-                                  choices=list(Translator))
-    parser_translate.add_argument("--output_folder",
-                                  default=None,
-                                  type=str,
-                                  required=True,
-                                  help="")
 
     parser_translate_folder = subparsers.add_parser('translate_folder')
     parser_translate_folder.set_defaults(func=translate_folder)
@@ -335,27 +300,17 @@ def create_parser():
                                          required=True,
                                          help="")
 
-    parser_clean = subparsers.add_parser('fix_translated_files')
-    parser_clean.set_defaults(func=fix_translated_files)
-    parser_clean.add_argument("--templates_folder",
-                              default=None,
-                              type=str,
-                              required=True,
-                              help="")
-    parser_clean.add_argument(
-        "--template_json_key",
-        default="template",
-        type=str,
-        help="The key that contains the template or pattern in each line of the"
-        " templates files.")
-
     parser_clean_dir = subparsers.add_parser('fix_translated_dirs')
     parser_clean_dir.set_defaults(func=fix_translated_dirs)
-    parser_clean_dir.add_argument("--templates_folder",
-                                  default=None,
-                                  type=str,
-                                  required=True,
-                                  help="")
+    parser_clean_dir.add_argument(
+        "--templates_folder_glob",
+        default=None,
+        type=str,
+        required=True,
+        help=
+        "The glob to the directories with the translations. Each directory has"
+        " a folder for each language containing a json files with the patterns"
+        " translations.")
     parser_clean_dir.add_argument(
         "--template_json_key",
         default="pattern",

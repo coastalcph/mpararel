@@ -253,7 +253,10 @@ def translate_populated_templates(templates: List[str], template_key: str,
             final_templates = get_templates_from_populated_translations(
                 translated_phrases, en_tuples.values(),
                 translated_tuples.values())
-            translated_templates[wikiid].update(final_templates)
+            for final_template in final_templates:
+                this_template = template.copy()
+                this_template["pattern"] = final_template
+                translated_templates[wikiid].add(this_template)
         if len(translated_templates[wikiid]) == 0:
             LOG.warning(
                 "Skipping language '{}', not one translation was succesful!".
