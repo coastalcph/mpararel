@@ -61,7 +61,7 @@ cp -r ${WORKDIR}/data/multilingual/pararel_populated_m2m100_big_with_metadata ${
 cp -r ${WORKDIR}/data/multilingual/pararel_populated_mbart50_en2m_with_metadata ${WORKDIR}/data/multilingual/pararel_populated_mbart50_en2m_fixed
 cp -r ${WORKDIR}/data/multilingual/pararel_populated_opus_mt_with_metadata ${WORKDIR}/data/multilingual/pararel_populated_opus_mt_fixed
 python translate_templates.py fix_translated_dirs \
-	--templates_folder_glob ${WORKDIR}/data/multilingual/pararel_*_fixed
+	--templates_folder_glob=${WORKDIR}/data/multilingual/pararel_*_fixed
 
 # (7) Copy only clean and valid templates and relations to an output folder.
 mkdir -p ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/
@@ -77,7 +77,9 @@ rm -r ${WORKDIR}/data/multilingual/pararel_*_fixed
 mkdir -p ${WORKDIR}/mpararel
 python create_mpararel.py \
 	--translations_folders_glob=${WORKDIR}/data/cleaned_mtrex_and_mpatterns/patterns/* \
+	--tuples_folder ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/tuples \
 	--min_templates_per_relation 0.2 \
+	--min_phrases_per_relation 0.2 \
 	--min_relations_count 1.0 \
 	--out_folder ${WORKDIR}/mpararel/patterns
 mv ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/tuples ${WORKDIR}/mpararel/tuples
