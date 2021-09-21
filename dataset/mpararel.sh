@@ -73,7 +73,6 @@ rm -r ${WORKDIR}/data/multilingual/pararel_*_fixed
 
 # (8) Create the mParaRel resource by selecting the agreed template translations
 # and the languages with a minimum coverage. 
-# TODO: add to the count the wikidata entities
 mkdir -p ${WORKDIR}/mpararel
 python create_mpararel.py \
 	--translations_folders_glob=${WORKDIR}/data/cleaned_mtrex_and_mpatterns/patterns/* \

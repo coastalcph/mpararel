@@ -1,5 +1,8 @@
+"""Store in a file the LM model representations for the masked token (the object
+of the templates).
+"""
 import argparse
-from typing import List, Dict
+from typing import List, Dict, Tuple
 
 import numpy as np
 import torch
@@ -14,10 +17,7 @@ def log_wandb(args):
     pattern = args.patterns_file.split('/')[-1].split('.')[0]
     lm = args.lm
 
-    config = dict(
-        pattern=pattern,
-        lm=lm
-    )
+    config = dict(pattern=pattern, lm=lm)
 
     wandb.init(
         entity='consistency',
@@ -49,16 +49,36 @@ def build_model_by_name(lm: str):
     return model, tokenizer
 
 
-def run_query(model, tokenizer, vals_dic: List[Dict], prompt: str, bs: int = 20)\
-        -> (List[Dict], List[Dict]):
+def run_query(model,
+              tokenizer,
+              vals_dic: List[Dict],
+              prompt: str,
+              bs: int = 20) -> Tuple(List[Dict], List[Dict]):
+    """Obtains the model's representation of the object in the prompt.
+    Args:
+        model: the model that we're going to query.
+        tokenizer: the tokenizer to prepare the input to the model.
+        vals_dic: List containing the tuples subject-object.
+        prompt: the template that's going to be populated with the data in
+            vals_dic.
+    Returns:
+        A list with the output representation of the mask token in each of the
+        phrases (populated prompt).
+    """
     data = []
 
     mask_token = tokenizer.mask_token
 
     # create the text prompt
     for sample in vals_dic:
-        data.append({'prompt': parse_prompt(prompt, sample["sub_label"], mask_token),
-                     'sub_label': sample["sub_label"], 'obj_label': sample["obj_label"]})
+        data.append({
+            'prompt':
+            parse_prompt(prompt, sample["sub_label"], mask_token),
+            'sub_label':
+            sample["sub_label"],
+            'obj_label':
+            sample["obj_label"]
+        })
 
     predictions = []
     for batch in tqdm(data):
@@ -71,7 +91,9 @@ def run_query(model, tokenizer, vals_dic: List[Dict], prompt: str, bs: int = 20)
             outputs = model(tokens_tensor)
             encoded_layers = outputs[0]
 
-        mask_ind = [ind for ind, x in enumerate(tokenized_text) if x == mask_token]
+        mask_ind = [
+            ind for ind, x in enumerate(tokenized_text) if x == mask_token
+        ]
         assert len(mask_ind) == 1
         mask_ind = mask_ind[0]
 
@@ -84,10 +106,21 @@ def run_query(model, tokenizer, vals_dic: List[Dict], prompt: str, bs: int = 20)
 
 def main():
     parse = argparse.ArgumentParser("")
-    parse.add_argument("--lm", type=str, help="name of the used masked language model", default="bert-base-uncased")
-    parse.add_argument("--patterns_file", type=str, help="Path to templates for each prompt", default="data/LAMA_data/TREx")
-    parse.add_argument("--data_file", type=str, help="", default="data/LAMA_data/TREx/P449.jsonl")
-    parse.add_argument("--pred_file", type=str, help="Path to store LM predictions for each prompt")
+    parse.add_argument("--lm",
+                       type=str,
+                       help="name of the used masked language model",
+                       default="bert-base-uncased")
+    parse.add_argument("--patterns_file",
+                       type=str,
+                       help="Path to templates for each prompt",
+                       default="data/pattern_data/graphs_json/P106.jsonl")
+    parse.add_argument("--data_file",
+                       type=str,
+                       help="",
+                       default="data/trex_lms_vocab/P106.jsonl")
+    parse.add_argument("--pred_file",
+                       type=str,
+                       help="Path to store LM predictions for each prompt")
     parse.add_argument("--wandb", action='store_true')
 
     args = parse.parse_args()

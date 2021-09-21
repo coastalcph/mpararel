@@ -1,3 +1,6 @@
+"""Filter the TRex tuples to only include the ones with an object in the
+vocabulary of the inspected LM.
+"""
 import argparse
 from typing import List
 

@@ -1,3 +1,11 @@
+```bash
+python3 -m venv mpararel-venv
+source mpararel-venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+
 # mLAMA: multilingual LAnguage Model Analysis
 
 This repository contains code for the EACL 2021 paper ["Multilingual LAMA: Investigating Knowledge in Multilingual Pretrained Language Models"](https://arxiv.org/abs/2102.00894).
