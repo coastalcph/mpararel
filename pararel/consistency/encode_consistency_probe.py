@@ -1,3 +1,4 @@
+"""Measure consistency."""
 import argparse
 import json
 from collections import Counter
@@ -19,10 +20,7 @@ def log_wandb(args):
     if args.baseline:
         lm = 'majority-baseline'
 
-    config = dict(
-        pattern=pattern,
-        lm=lm
-    )
+    config = dict(pattern=pattern, lm=lm)
 
     if 'consistency' in lm:
         params = lm.split('consistency_')[-1].split('/')[0]
@@ -48,7 +46,7 @@ def log_wandb(args):
         config['model_name'] = model_name
 
     wandb.init(
-        entity='consistency',
+        #entity='consistency',
         name=f'{pattern}_consistency_probe_{lm}',
         project="consistency",
         tags=[pattern, 'probe'],
@@ -72,12 +70,15 @@ def get_first_object(preds, possible_objects):
 
 
 def parse_lm_results(lm_results: Dict, possible_objects: List[str]) -> Dict:
+    """Returns a map from patterns to subjects to the tuple (predicted object, real object)."""
     output_dic = defaultdict(dict)
     c = 0
     for pattern, dic in lm_results.items():
         for data, preds in zip(dic['data'], dic['predictions']):
             subj = data['sub_label']
             obj = data['obj_label']
+            # TODO: is this necessary? shouldn't the preds be only the
+            # possible_objects?
             first_object = get_first_object(preds, possible_objects)
             output_dic[pattern][subj] = (first_object, obj)
     return output_dic
@@ -99,9 +100,11 @@ def filter_a_an_vowel_mismatch(pattern, gold_object):
         return False
 
     vowels = ['a', 'e', 'i', 'o', 'u']
-    if words[y_index - 1] == 'a' and any([gold_object.lower().startswith(x) for x in vowels]):
+    if words[y_index - 1] == 'a' and any(
+        [gold_object.lower().startswith(x) for x in vowels]):
         return True
-    elif words[y_index - 1] == 'an' and not any([gold_object.lower().startswith(x) for x in vowels]):
+    elif words[y_index - 1] == 'an' and not any(
+        [gold_object.lower().startswith(x) for x in vowels]):
         return True
     return False
 
@@ -135,6 +138,9 @@ def analyze_results(lm_results: Dict, patterns_graph) -> None:
             graph_node = get_node(patterns_graph, pattern)
             if graph_node is None:
                 continue
+            # We don't consider the cases where the pattern is wrong for this
+            # gold_obj, i.e. the pattern says 'a [Y]' and [Y] in this case is
+            # 'iMac'.
             if filter_a_an_vowel_mismatch(pattern, gold_obj):
                 continue
 
@@ -158,31 +164,37 @@ def analyze_results(lm_results: Dict, patterns_graph) -> None:
                 base_pattern_success.append(int(success))
                 consistency_performance[subj].append(success)
 
-                points_by_edge[graph_node.lm_pattern + '_' + ent_node.lm_pattern].append(int(success))
+                points_by_edge[graph_node.lm_pattern + '_' +
+                               ent_node.lm_pattern].append(int(success))
                 edges_out[graph_node.lm_pattern].append(int(success))
 
-                if entailment_type['edge_type'].syntactic_change and not entailment_type['edge_type'].lexical_change \
-                        and not entailment_type['edge_type'].determiner_change:
+                if (entailment_type['edge_type'].syntactic_change
+                        and not entailment_type['edge_type'].lexical_change and
+                        not entailment_type['edge_type'].determiner_change):
                     if success:
                         points_syn += 1
                     total_syn += 1
-                elif entailment_type['edge_type'].lexical_change and not entailment_type['edge_type'].syntactic_change \
-                        and not entailment_type['edge_type'].determiner_change:
+                elif (entailment_type['edge_type'].lexical_change
+                      and not entailment_type['edge_type'].syntactic_change
+                      and not entailment_type['edge_type'].determiner_change):
                     if success:
                         points_lex += 1
                     total_lex += 1
-                elif entailment_type['edge_type'].lexical_change and entailment_type['edge_type'].syntactic_change \
-                        and not entailment_type['edge_type'].determiner_change:
+                elif (entailment_type['edge_type'].lexical_change
+                      and entailment_type['edge_type'].syntactic_change
+                      and not entailment_type['edge_type'].determiner_change):
                     if success:
                         points_both += 1
                     total_both += 1
-                if not entailment_type['edge_type'].syntactic_change and not entailment_type['edge_type'].lexical_change \
-                        and not entailment_type['edge_type'].determiner_change:
+                if (not entailment_type['edge_type'].syntactic_change
+                        and not entailment_type['edge_type'].lexical_change and
+                        not entailment_type['edge_type'].determiner_change):
                     if success:
                         points_no += 1
                     total_no += 1
 
-            base_success = sum(base_pattern_success) / len(base_pattern_success)
+            base_success = sum(base_pattern_success) / len(
+                base_pattern_success)
             ent = entropy([base_success, 1.0 - base_success], base=2)
             avg_entropy.append(ent)
 
@@ -218,29 +230,34 @@ def analyze_results(lm_results: Dict, patterns_graph) -> None:
         eo = sum(edges_out[k.split('_')[0]]) / len(edges_out[k.split('_')[0]])
         avg_out_normalized.append(eo * (sum(vals) / len(vals)))
         out_edges_total += eo
-    wandb.run.summary['avg_consistency_by_edge_out'] = sum(avg_out_normalized) / out_edges_total
+    wandb.run.summary['avg_consistency_by_edge_out'] = sum(
+        avg_out_normalized) / out_edges_total
 
     all_consistent = 0
     for subj, preds in consistent_subjects.items():
         preds_set = set(preds)
         if len(preds_set) == 1:
             all_consistent += 1
-    wandb.run.summary['consistent_subjects'] = all_consistent / len(consistent_subjects)
+    wandb.run.summary['consistent_subjects'] = all_consistent / len(
+        consistent_subjects)
 
     successful_subjects = 0
     for subj, success in correct_patterns_per_subject.items():
         if success > 0:
             successful_subjects += 1
-    wandb.run.summary['successful_subjects'] = successful_subjects / len(correct_patterns_per_subject)
+    wandb.run.summary['successful_subjects'] = successful_subjects / len(
+        correct_patterns_per_subject)
 
     successful_patterns = 0
     for pattern, success in correct_subjects_per_pattern.items():
         if success > 0:
             successful_patterns += 1
-    wandb.run.summary['successful_patterns'] = successful_patterns / len(correct_subjects_per_pattern)
+    wandb.run.summary['successful_patterns'] = successful_patterns / len(
+        correct_subjects_per_pattern)
 
     success_for_knowledgable_patterns, total_for_knowledgable_patterns = 0, 0
-    success_for_unknowledgable_patterns, total_for_unknowledgable_patterns = 0, 0
+    success_for_unknowledgable_patterns = 0
+    total_for_unknowledgable_patterns = 0
     for subj, success in consistency_performance.items():
         if correct_patterns_per_subject[subj] > 0:
             success_for_knowledgable_patterns += sum(success)
@@ -249,13 +266,15 @@ def analyze_results(lm_results: Dict, patterns_graph) -> None:
             success_for_unknowledgable_patterns += sum(success)
             total_for_unknowledgable_patterns += len(success)
     if total_for_knowledgable_patterns > 0:
-        wandb.run.summary[
-            'knowledgable_consistency'] = success_for_knowledgable_patterns / total_for_knowledgable_patterns
+        wandb.run.summary['knowledgable_consistency'] = (
+            success_for_knowledgable_patterns /
+            total_for_knowledgable_patterns)
     else:
         wandb.run.summary['knowledgable_consistency'] = 0
     if total_for_unknowledgable_patterns > 0:
-        wandb.run.summary['unknowledgable_consistency'] = success_for_unknowledgable_patterns \
-                                                          / total_for_unknowledgable_patterns
+        wandb.run.summary['unknowledgable_consistency'] = (
+            success_for_unknowledgable_patterns /
+            total_for_unknowledgable_patterns)
     else:
         wandb.run.summary['unknowledgable_consistency'] = 0
 
@@ -277,14 +296,17 @@ def analyze_graph(patterns_graph):
     for node in patterns_graph:
         for ent_node in patterns_graph.successors(node):
             entailment_type = patterns_graph.edges[node, ent_node]['edge_type']
-            if entailment_type.syntactic_change and not entailment_type.lexical_change \
-                    and not entailment_type.determiner_change:
+            if (entailment_type.syntactic_change
+                    and not entailment_type.lexical_change
+                    and not entailment_type.determiner_change):
                 syn_edges += 1
-            elif entailment_type.lexical_change and not entailment_type.syntactic_change \
-                    and not entailment_type.determiner_change:
+            elif (entailment_type.lexical_change
+                  and not entailment_type.syntactic_change
+                  and not entailment_type.determiner_change):
                 lex_edges += 1
-            elif entailment_type.lexical_change and entailment_type.syntactic_change \
-                    and not entailment_type.determiner_change:
+            elif (entailment_type.lexical_change
+                  and entailment_type.syntactic_change
+                  and not entailment_type.determiner_change):
                 both_edges += 1
 
     wandb.run.summary['n_patterns'] = len(patterns_graph)
@@ -295,8 +317,10 @@ def analyze_graph(patterns_graph):
 
 
 def evaluate_lama(pattern: str, lm_results: Dict):
+    """Computes the accuracy of the predictions in the given pattern."""
     points = 0
-    data, predictions = lm_results[pattern]['data'], lm_results[pattern]['predictions']
+    data = lm_results[pattern]['data']
+    predictions = lm_results[pattern]['predictions']
     for datum, preds in zip(data, predictions):
         subj = datum['sub_label']
         obj = datum['obj_label']
@@ -307,6 +331,7 @@ def evaluate_lama(pattern: str, lm_results: Dict):
 
 
 def group_score_lama_eval(lm_results: Dict):
+    """Computes the accuracy-consistent score."""
     patterns = list(lm_results.keys())
 
     points = 0
@@ -327,6 +352,8 @@ def group_score_lama_eval(lm_results: Dict):
 
 
 def group_score_incorrect_ans_eval(lm_results: Dict):
+    """Computes the ratio of wrong predictions that are agreed among all the
+    paraphrases."""
     patterns = list(lm_results.keys())
 
     points = 0
@@ -347,7 +374,10 @@ def group_score_incorrect_ans_eval(lm_results: Dict):
 def create_majority_baseline(data):
     data_reduced = []
     for row in data:
-        data_reduced.append({'sub_label': row['sub_label'], 'obj_label': row['obj_label']})
+        data_reduced.append({
+            'sub_label': row['sub_label'],
+            'obj_label': row['obj_label']
+        })
 
     objs = [x['obj_label'] for x in data]
     most_common = Counter(objs).most_common()[0][0]
@@ -360,9 +390,18 @@ def create_majority_baseline(data):
 
 def main():
     parse = argparse.ArgumentParser("")
-    parse.add_argument("--lm", type=str, help="name of the used masked language model", default="bert-base-uncased")
-    parse.add_argument("--data_file", type=str, help="", default="data/trex_lms_vocab/P449.jsonl")
-    parse.add_argument("-graph", "--graph", type=str, help="graph file",
+    parse.add_argument("--lm",
+                       type=str,
+                       help="name of the used masked language model",
+                       default="bert-base-uncased")
+    parse.add_argument("--data_file",
+                       type=str,
+                       help="",
+                       default="data/trex_lms_vocab/P449.jsonl")
+    parse.add_argument("-graph",
+                       "--graph",
+                       type=str,
+                       help="graph file",
                        default="data/pattern_data/graphs/P449.graph")
 
     parse.add_argument("--gpu", type=int, default=-1)
@@ -370,9 +409,12 @@ def main():
     parse.add_argument("--wandb", action='store_true')
     parse.add_argument("--no_subj", type=bool, default=False)
     parse.add_argument("--baseline", action='store_true', default=False)
-    parse.add_argument("--use_targets", action='store_true', default=False, help="use the set of possible objects"
-                                                                                 "from the data as the possible"
-                                                                                 "candidates")
+    parse.add_argument("--use_targets",
+                       action='store_true',
+                       default=False,
+                       help="use the set of possible objects"
+                       "from the data as the possible"
+                       "candidates")
 
     args = parse.parse_args()
 
@@ -392,7 +434,7 @@ def main():
     model = build_model_by_name(model_name, args)
 
     patterns_graph = read_graph(args.graph)
-
+    # TODO: remove?
     subj_obj = {}
     for row in data:
         subj_obj[row['sub_label']] = row['obj_label']
@@ -415,12 +457,19 @@ def main():
     if args.baseline:
         for prompt_id, prompt in enumerate(prompts):
             filtered_data, predictions = create_majority_baseline(data)
-            results_dict[prompt] = {"data": filtered_data, "predictions": predictions}
+            results_dict[prompt] = {
+                "data": filtered_data,
+                "predictions": predictions
+            }
     else:
         for prompt_id, prompt in enumerate(prompts):
             results_dict[prompt] = []
-            filtered_data, predictions = run_query(model, data, prompt, all_objects, args.bs)
-            results_dict[prompt] = {"data": filtered_data, "predictions": predictions}
+            filtered_data, predictions = run_query(model, data, prompt,
+                                                   all_objects, args.bs)
+            results_dict[prompt] = {
+                "data": filtered_data,
+                "predictions": predictions
+            }
 
     # Evaluate on LAMA
     lama_acc = evaluate_lama(prompts[0], results_dict)
@@ -441,7 +490,9 @@ def main():
     if 'models' in model_name or 'nyu' in model_name:
         model_name = model_name.replace('/', '_')
     pattern = args.data_file.split('/')[-1].split('.')[0]
-    with open('data/output/predictions_lm/trex_lms_vocab/{}_{}.json'.format(pattern, model_name), 'w') as f:
+    with open(
+            'data/output/predictions_lm/trex_lms_vocab/{}_{}.json'.format(
+                pattern, model_name), 'w') as f:
         json.dump(lm_results, f)
 
 

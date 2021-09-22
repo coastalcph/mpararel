@@ -63,7 +63,23 @@ def run_query(pipeline_model: Pipeline,
               vals_dic: List[Dict],
               prompt: str,
               possible_objects: List[str],
-              bs: int = 20) -> Tuple(List[Dict], List[Dict]):
+              bs: int = 20) -> Tuple(List[Dict], List[List[Dict]]):
+    """
+    Args:
+        pipeline: Pipeline of the model that we're going to query.
+        vals_dic: List containing the tuples subject-object.
+        prompt: the template that's going to be populated with the data in
+            vals_dic.
+        possible_objects: The tokens to limit the prediction.
+    Returns:
+        A tuple with:
+        - A list containing a dict with the subject and the token for the
+        object.
+        - A list containing the predictions for each phrase (each prompt
+        populated with the subject in vals_dic). Each prediction is a list of
+        the top_5 tokens, each token is described with 'score', 'token',
+        'token_str'.
+    """
     data = []
 
     mask_token = pipeline_model.tokenizer.mask_token
@@ -89,6 +105,8 @@ def run_query(pipeline_model: Pipeline,
         # targets instead of looking up in the whole vocab. If the provided
         # targets are not in the model vocab, they will be tokenized and the
         # first resulting token will be used.
+        # TODO: does this mean that the softmax is performed on just the
+        # targets? or is simply that just targets are returned?
         preds = pipeline_model([sample["prompt"] for sample in batch],
                                targets=possible_objects)
         # Pipeline returns a list in case there is only 1 item to predict (in

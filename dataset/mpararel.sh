@@ -23,14 +23,14 @@ python translate_trex.py \
 # (4) Get ParaRel data.
 mkdir ${WORKDIR}/data/pararel
 git clone git@github.com:yanaiela/pararel.git
-mv pararel/data/pattern_data/graphs_json/* ${WORKDIR}/data/pararel
+mv pararel/data/* ${WORKDIR}/data/pararel
 rm -r pararel
 
 # (5) Translate ParaRel
 # E.g. Translate ParaRel with Google.
 mkdir -p ${WORKDIR}/data/multilingual/pararel_google
 python translate_templates.py translate_folder \
---templates_folder ${WORKDIR}/data/pararel \
+--templates_folder ${WORKDIR}/data/pararel/pattern_data/graphs_json/ \
 --output_folder ${WORKDIR}/data/multilingual/pararel_google \
 --language_mapping_file mbertlangs.txt \
 --translator google
@@ -38,7 +38,7 @@ python translate_templates.py translate_folder \
 # E.g. Translate ParaRel on the populated templates with Bing
 mkdir -p ${WORKDIR}/data/multilingual/pararel_populated_bing
 python dataset/translate_templates.py translate_folder \
---templates_folder ${WORKDIR}/data/pararel \
+--templates_folder ${WORKDIR}/data/pararel/pattern_data/graphs_json/ \
 --translate_populated_templates \
 --tuples_folder ${WORKDIR}/data/multilingual/t_rex_translation \
 --output_folder ${WORKDIR}/data/multilingual/pararel_populated_bing \
