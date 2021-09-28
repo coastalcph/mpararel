@@ -273,17 +273,18 @@ def main():
         default=0.2,
         help="The minimum total number of phrases. The number is the fraction "
         "(0-1) of relations compared to the english total available.")
+    parser.add_argument("--wandb_run_name", type=str)
     parser.add_argument("--out_folder",
                         default=None,
                         type=str,
                         required=True,
                         help="")
     args = parser.parse_args()
-    wandb.init(project="mpararel-creation",
-               name="mpararel_{}_{}_{}_{}".format(
-                   args.min_templates_per_relation,
-                   args.min_phrases_per_relation, args.min_relations_count,
-                   args.min_total_phrases))
+    if not args.wandb_run_name:
+        args.wandb_run_name = "mpararel_{}_{}_{}_{}".format(
+            args.min_templates_per_relation, args.min_phrases_per_relation,
+            args.min_relations_count, args.min_total_phrases)
+    wandb.init(project="mpararel-creation", name=args.wandb_run_name)
     wandb.config.update(args)
 
     LOG.info("Getting agreed translations from folders:\n{}".format('\n'.join(
