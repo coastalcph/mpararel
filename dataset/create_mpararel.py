@@ -15,13 +15,35 @@ from tqdm import tqdm
 LOG = get_logger(__name__)
 
 
+def filter_repeated_across_languages(agreed_translations,
+                                     language_and_relation_counts):
+    for i in range(len(language_and_relation_counts)):
+        (language, relation, agreed_templates_count,
+         translators_count) = language_and_relation_counts[i]
+        remove_templates = []
+        for template in agreed_translations[language][relation]:
+            for other_relation, other_templates in agreed_translations[
+                    language].items():
+                if other_relation == relation:
+                    continue
+                if template in other_templates:
+                    remove_templates.append(template)
+        agreed_templates_count -= len(remove_templates)
+        for template in remove_templates:
+            agreed_translations[language][relation].remove(template)
+        language_and_relation_counts[i] = (language, relation,
+                                           agreed_templates_count,
+                                           translators_count)
+    return agreed_translations, language_and_relation_counts
+
+
 def get_agreed_translations_and_stats(translations_folders):
     relations = [
         x.replace(".jsonl", "")
         for x in os.listdir(os.path.join(translations_folders[0], "en"))
     ]
     language_and_relation_counts = []
-    agreed_translations = defaultdict(lambda: defaultdict(list))
+    agreed_translations = defaultdict(lambda: defaultdict(set))
     for relation in tqdm(relations):
         lang_to_translations_to_votes = defaultdict(lambda: defaultdict(int))
         lang_to_translators_count = defaultdict(int)
@@ -47,23 +69,21 @@ def get_agreed_translations_and_stats(translations_folders):
         for language in all_languages:
             translations_to_votes = lang_to_translations_to_votes[language]
             agreed_templates_count = 0
-            not_agreed_templates_count = 0
             for template_translation, votes in translations_to_votes.items():
                 if votes > 1:
                     agreed_templates_count += 1
-                    agreed_translations[language][relation].append(
+                    agreed_translations[language][relation].add(
                         template_translation)
-                else:
-                    not_agreed_templates_count += 1
             language_and_relation_counts.append(
                 (language, relation, agreed_templates_count,
-                 not_agreed_templates_count,
                  lang_to_translators_count[language]))
+    agreed_translations, counts = filter_repeated_across_languages(
+        agreed_translations, language_and_relation_counts)
     return (agreed_translations,
-            pd.DataFrame(language_and_relation_counts,
+            pd.DataFrame(counts,
                          columns=[
                              'language', 'relation', 'agreed_templates_count',
-                             'not_agreed_templates_count', 'translators_count'
+                             'translators_count'
                          ]))
 
 
@@ -167,21 +187,23 @@ def log_statistics(df_valid, agreed_translations):
         "count_patterns"].max()
     wandb.run.summary["avg #patterns in a relation"] = df[
         "count_patterns"].mean()
-    bar_plots = defaultdict(list)
+    data = []
+    columns = [
+        "language", "#relations", "min #patterns", "max #patterns",
+        "avg #patterns", "total patterns"
+    ]
     for lang in df.lang.unique():
         this_df = df[df["lang"] == lang]
         relations = this_df.relation.unique()
-        bar_plots["#relations"].append((lang, len(relations)))
-        bar_plots["min #patterns"].append(
-            (lang, this_df["count_patterns"].min()))
-        bar_plots["max #patterns"].append(
-            (lang, this_df["count_patterns"].max()))
-        bar_plots["avg #patterns"].append(
-            (lang, this_df["count_patterns"].mean()))
-    for name, data in bar_plots.items():
-        table = wandb.Table(data=data, columns=["language", "value"])
+        data.append(
+            (lang, len(relations), this_df["count_patterns"].min(),
+             this_df["count_patterns"].max(), this_df["count_patterns"].mean(),
+             this_df["count_patterns"].sum()))
+    table = wandb.Table(data=data, columns=columns)
+    wandb.log({"Patterns statistics per language": table})
+    for column in columns[1:]:
         wandb.log(
-            {name: wandb.plot.bar(table, "language", "value", title=name)})
+            {column: wandb.plot.bar(table, "language", column, title=column)})
 
 
 def log_translators_count_per_template(total_translators, df):
