@@ -1,24 +1,27 @@
 import argparse
-import collections
 import json
 import os
 import re
+import traceback
+from collections import defaultdict
 from glob import glob
-from typing import List
+from typing import List, Tuple
 
+import wandb
 from logger_utils import get_logger
 from tqdm import tqdm
 
-from dataset.translate_populated_templates import translate_populated_templates
+from dataset.translate_populated_templates import translate_populated_template
 from dataset.translate_utils import (TRANSLATOR_TO_OBJECT, Translator,
                                      get_wiki_language_mapping)
 
 LOG = get_logger(__name__)
 
+TRANSLATIONS_COUNT_LOG = "translations_count"
+
 
 def fix_template(template, lang):
     # General rules.
-    template = template.lower()
     # Remove extra spaces and extra brackets, and capitalize.
     template = re.sub('\[+ ?[xX] ?\]+', '[X]', template)
     template = re.sub('\[+ ?[yY] ?\]+', '[Y]', template)
@@ -118,6 +121,12 @@ def fix_template(template, lang):
             template = template.replace("[एक्स]", "[X]", 1)
         if "[Y]" not in template:
             template = template.replace("[वाई]", "[Y]", 1)
+    if lang == "ko":
+        template = template.replace("【", "[")
+        template = template.replace("】", "]")
+        # Remove extra spaces and extra brackets, and capitalize.
+        template = re.sub('\[+ ?[xX] ?\]+', '[X]', template)
+        template = re.sub('\[+ ?[yY] ?\]+', '[Y]', template)
     # Remove extra brackets that could have been added by the [X] and [Y]
     # replacements above.
     template = re.sub('\[+[X]\]+', '[X]', template)
@@ -195,71 +204,115 @@ def get_templates(templates_filename):
     return templates
 
 
-def translate_templates(templates: List[str], template_key: str,
-                        wiki_lang_to_translator_lang: dict,
-                        translator: Translator) -> dict:
+def translate_template(template: str, template_key: str, translator,
+                       translate_to_id) -> Tuple[dict, dict]:
     """Translates each template to all the languages in the dict values."""
-    translator = TRANSLATOR_TO_OBJECT[translator]
-    translated_templates = {}
-    for wikiid, translator_id in wiki_lang_to_translator_lang.items():
-        LOG.info("Translating {}".format(wikiid))
-        translated_templates[wikiid] = []
-        for template in templates:
-            try:
-                translated_text = translator.translate(template[template_key],
-                                                       from_lang="en",
-                                                       to_lang=translator_id)
-                translated_template = template.copy()
-                translated_template[template_key] = translated_text
-            except Exception as e:
-                LOG.info("Exception: {}".format(e))
-                break
-            translated_templates[wikiid].append(translated_template)
-        if len(translated_templates[wikiid]) != len(templates):
-            LOG.warning("Skipping language, not all translations succesful!")
-            continue
-    return translated_templates
+    translated_text = translator.translate(template[template_key],
+                                           from_lang="en",
+                                           to_lang=translate_to_id)
+    translated_template = template.copy()
+    translated_template[template_key] = translated_text
+    return translated_template
 
 
-def translate_folder(args):
-    lang2translateid = get_wiki_language_mapping(args.language_mapping_file,
-                                                 args.translator)
-    wikiid_to_filename_to_templates = collections.defaultdict(dict)
-    translations_count = 0
-    chars_translations_count = 0
-    for filename in tqdm(os.listdir(args.templates_folder)):
-        templates = get_templates(os.path.join(args.templates_folder,
-                                               filename))
-        translations_count += len(templates) * len(lang2translateid)
-        chars_translations_count += (
-            len(''.join([t["pattern"]
-                         for t in templates])) * len(lang2translateid))
-        LOG.info(
-            "Translating file: {}, (will reach: {} translations, {} chars "
-            "translated)".format(filename, translations_count,
-                                 chars_translations_count))
-        translated_templates = {}
-        if args.translate_populated_templates:
-            LOG.info("Translating *populated* templates.")
-            translated_templates = translate_populated_templates(
-                templates, "pattern", args.tuples_folder, filename,
-                lang2translateid, args.translator)
-        else:
-            translate_templates(templates, "pattern", lang2translateid,
-                                args.translator)
-        for wikiid, templates_translation in translated_templates.items():
-            wikiid_to_filename_to_templates[wikiid][
-                filename] = templates_translation
-    LOG.info("Writing translated templates...")
+def init_wandb(args):
+    translator = str(args.translator.name.lower())
+    name = translator
+    tags = [translator]
+    if args.translate_populated_templates:
+        name += "_populated"
+        tags.append("populated")
+    wandb.init(settings=wandb.Settings(start_method="fork"),
+               project="translate-pararel",
+               name=name,
+               tags=tags)
+    wandb.config.update(args)
+
+
+def wandb_log_table(value_name, values):
+    data = [[i + 1, val] for i, val in enumerate(values)]
+    table = wandb.Table(data=data, columns=["index", "value_name"])
+    wandb.log({value_name: table})
+
+
+def write_translated_templates(wikiid_to_filename_to_templates, output_folder):
     for wikiid, filename_to_templates in wikiid_to_filename_to_templates.items(
     ):
-        os.makedirs(os.path.join(args.output_folder, wikiid), exist_ok=True)
+        os.makedirs(os.path.join(output_folder, wikiid), exist_ok=True)
         for filename, templates in filename_to_templates.items():
-            output_filename = os.path.join(args.output_folder, wikiid,
-                                           filename)
+            output_filename = os.path.join(output_folder, wikiid, filename)
             with open(output_filename, "w") as fout:
                 for template in templates:
                     fout.write("{}\n".format(json.dumps(template)))
+
+
+def export_counts_to_wandb(relation_to_lang_to_counts):
+    table_data = []
+    for relation, lang_to_counts in relation_to_lang_to_counts.items():
+        for lang, counts in lang_to_counts.items():
+            for key, count in counts.items():
+                table_data.append([relation, lang, key, count])
+    wandb.log({
+        "Templates translations summary":
+        wandb.Table(
+            data=table_data,
+            columns=["Relation", "Language", "Result", "Templates count"])
+    })
+
+
+def translate_folder(args):
+    wiki_lang_to_translator_lang = get_wiki_language_mapping(
+        args.language_mapping_file, args.translator)
+    translator = TRANSLATOR_TO_OBJECT[args.translator]
+    init_wandb(args)
+    wandb_log_table("relations", os.listdir(args.templates_folder))
+    wikiid_to_filename_to_templates = defaultdict(lambda: defaultdict(list))
+    wandb_stats = defaultdict(int)
+    relation_to_lang_to_counts = defaultdict(
+        lambda: defaultdict(lambda: defaultdict(int)))
+    for i_filename, relation_filename in enumerate(
+            tqdm(os.listdir(args.templates_folder)), 1):
+        templates = get_templates(
+            os.path.join(args.templates_folder, relation_filename))
+        for wikiid, translate_to_id in wiki_lang_to_translator_lang.items():
+            for template in templates:
+                print(relation_to_lang_to_counts)
+                try:
+                    if args.translate_populated_templates:
+                        translated_templates = translate_populated_template(
+                            template, "pattern", args.tuples_folder,
+                            relation_filename, translator, translate_to_id)
+                    else:
+                        translated_template = translate_template(
+                            template, "pattern", translator, translate_to_id)
+                        translated_templates = [translated_template]
+                except Exception as e:
+                    LOG.info(
+                        "Exception: '{}' when translating relation '{}' (template '{}') to "
+                        "language='{}'".format(e, relation_filename, template,
+                                               wikiid))
+                    wandb_stats[str(e)] += 1
+                    relation_to_lang_to_counts[
+                        relation_filename[:-len(".jsonl")]][wikiid][str(
+                            e)] += 1
+                    print(traceback.format_exc())
+                    continue
+                relation_to_lang_to_counts[relation_filename[:-len(".jsonl")]][
+                    wikiid]["successful"] += 1
+                wikiid_to_filename_to_templates[wikiid][
+                    relation_filename].extend(translated_templates)
+                wandb_stats[TRANSLATIONS_COUNT_LOG] += len(
+                    translated_templates)
+        wandb_stats["relation_translated"] = i_filename
+        wandb.log({k: v for k, v in wandb_stats.items() if isinstance(v, int)})
+        # TODO: delete
+        if i_filename == 2:
+            break
+    LOG.info("Writing translated templates...")
+    write_translated_templates(wikiid_to_filename_to_templates,
+                               args.output_folder)
+    LOG.info("Logging translations counts to wandb...")
+    export_counts_to_wandb(relation_to_lang_to_counts)
 
 
 def create_parser():

@@ -10,6 +10,13 @@ from tqdm import tqdm
 LOG = get_logger(__name__)
 TUPLES_FOLDER_NAME = "tuples"
 PATTERNS_FOLDER_NAME = "patterns"
+VALID_RELATIONS = set([
+    'P937', 'P1412', 'P127', 'P103', 'P276', 'P159', 'P140', 'P136', 'P495',
+    'P17', 'P361', 'P36', 'P740', 'P264', 'P407', 'P138', 'P30', 'P131',
+    'P176', 'P449', 'P279', 'P19', 'P101', 'P364', 'P106', 'P1376', 'P178',
+    'P37', 'P413', 'P27', 'P20', 'P190', 'P1303', 'P39', 'P108', 'P463',
+    'P530', 'P47'
+])
 
 
 def is_template_valid(template):
@@ -18,11 +25,19 @@ def is_template_valid(template):
             and not re.match(r'^[\b\[X\]\b\b\[Y\]\b., ]+$', template))
 
 
-def drop_unused_data(data):
-    """Keeps only relevant keys from the template."""
-    relevant_keys = {"relation", "pattern"}
-    result = {k: v for k, v in data.items() if k in relevant_keys}
-    return result
+def clean_template(data):
+    """Cleans the pattern and keeps only relevant keys."""
+    template = data["pattern"].lower()
+    # Remove extra spaces and extra brackets from the subject/object.
+    template = re.sub('\[+ ?[X] ?\]+', '[X]', template)
+    template = re.sub('\[+ ?[Y] ?\]+', '[Y]', template)
+    # Remove final puntuaction
+    template = re.sub(r'[.:。]', '', template)
+    # Remove extra spaces
+    template = re.sub(r' +', ' ', template)
+    template = re.sub(r' $', '', template)
+    data["pattern"] = template
+    return data
 
 
 def get_cleaned_valid_templates(templates_lines):
@@ -31,8 +46,8 @@ def get_cleaned_valid_templates(templates_lines):
     patterns = set()
     for line in templates_lines:
         if (is_template_valid(line["pattern"])
-                and line["pattern"] not in patterns):
-            clean_templates_lines.append(drop_unused_data(line))
+                and clean_template(line)["pattern"] not in patterns):
+            clean_templates_lines.append(clean_template(line))
             patterns.add(line["pattern"])
     return clean_templates_lines
 
@@ -84,6 +99,11 @@ def main():
             language_folder_path = os.path.join(translation_folder,
                                                 language_dirname)
             for relation_filename in os.listdir(language_folder_path):
+                if relation_filename[:-len(".jsonl")] not in VALID_RELATIONS:
+                    LOG.info(
+                        f"Ignoring relation '{relation_filename}' as it's "
+                        "not in VALID_RELATIONS.")
+                    continue
                 templates_filename = os.path.join(language_folder_path,
                                                   relation_filename)
                 output_templates_filename = os.path.join(

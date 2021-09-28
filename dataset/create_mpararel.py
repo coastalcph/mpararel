@@ -2,11 +2,11 @@
 translations.
 """
 import argparse
-import collections
 import json
 import os
-import re
+from collections import defaultdict
 from glob import glob
+import wandb
 
 import pandas as pd
 from logger_utils import get_logger
@@ -15,26 +15,16 @@ from tqdm import tqdm
 LOG = get_logger(__name__)
 
 
-# TODO: we should move this cleaning to the cleanup.py
-def clean_template(template):
-    template = re.sub(r'[.:]', '', template)
-    template = re.sub(r' +', ' ', template)
-    template = re.sub(r' $', '', template)
-    return template
-
-
 def get_agreed_translations_and_stats(translations_folders):
     relations = [
         x.replace(".jsonl", "")
         for x in os.listdir(os.path.join(translations_folders[0], "en"))
     ]
     language_and_relation_counts = []
-    agreed_translations = collections.defaultdict(
-        lambda: collections.defaultdict(list))
+    agreed_translations = defaultdict(lambda: defaultdict(list))
     for relation in tqdm(relations):
-        lang_to_translations_to_votes = collections.defaultdict(
-            lambda: collections.defaultdict(int))
-        lang_to_translators_count = collections.defaultdict(int)
+        lang_to_translations_to_votes = defaultdict(lambda: defaultdict(int))
+        lang_to_translators_count = defaultdict(int)
         all_languages = set()
         for translation_folder in translations_folders:
             for language_dirname in os.listdir(translation_folder):
@@ -48,17 +38,17 @@ def get_agreed_translations_and_stats(translations_folders):
                 with open(patterns_file) as patterns:
                     for line in patterns:
                         data = json.loads(line)
-                        # Since the patterns are unique for each trasnlation we
-                        # only count one vote per translator.
+                        vote = 1
+                        if ("bing" in translation_folder
+                                and not "populated" in translation_folder):
+                            vote = 2
                         lang_to_translations_to_votes[language_dirname][
-                            clean_template(data["pattern"])] += 1
+                            data["pattern"]] += vote
         for language in all_languages:
-            # LOG.info("language '{}'".format(language))
             translations_to_votes = lang_to_translations_to_votes[language]
             agreed_templates_count = 0
             not_agreed_templates_count = 0
             for template_translation, votes in translations_to_votes.items():
-                # LOG.info("({}) {}".format(votes, template_translation))
                 if votes > 1:
                     agreed_templates_count += 1
                     agreed_translations[language][relation].append(
@@ -122,9 +112,37 @@ def get_language_and_relations_count(valid_df):
     return language_relations_count
 
 
-def write_mpararel(agreed_translations, out_folder):
-    for language, relation_to_templates in agreed_translations.items():
-        for relation, templates in relation_to_templates.items():
+def get_language_and_phrases_count(valid_df):
+    language_relations_count = []
+    for language in valid_df['language'].unique():
+        phrases_count = sum(
+            valid_df[valid_df['language'] == language].phrases_count)
+        language_relations_count.append((language, phrases_count))
+    return language_relations_count
+
+
+def get_valid_langs(language_and_counts, min_en_fraction,
+                    min_description_text):
+    """Returns the languages that have the minimum fraction for the given counts compared to english."""
+    valid_df = pd.DataFrame(language_and_counts,
+                            columns=['language', 'this_count'])
+    en_relations_count = valid_df[valid_df['language'] ==
+                                  'en'].this_count.values[0]
+    min_count = en_relations_count * min_en_fraction
+    valid_languages = set(
+        valid_df[valid_df['this_count'] >= min_count].language.values)
+    LOG.info("{} languages have >= {}*{} number of {}".format(
+        len(valid_languages), en_relations_count, min_en_fraction,
+        min_description_text))
+    return valid_languages
+
+
+def write_mpararel(df_valid, agreed_translations, out_folder):
+    """Writes to the output folder the translations in the df_valid."""
+    for language in df_valid.language.unique():
+        for relation in df_valid[df_valid.language ==
+                                 language].relation.unique():
+            templates = agreed_translations[language][relation]
             this_folder = os.path.join(out_folder, language)
             os.makedirs(this_folder, exist_ok=True)
             with open(os.path.join(this_folder, relation + ".jsonl"),
@@ -132,6 +150,56 @@ def write_mpararel(agreed_translations, out_folder):
                 for template in templates:
                     fout.write("{}\n".format(json.dumps({"pattern":
                                                          template})))
+
+
+def log_statistics(df_valid, agreed_translations):
+    df_data = []
+    for language in df_valid.language.unique():
+        for relation in df_valid[df_valid.language ==
+                                 language].relation.unique():
+            templates = agreed_translations[language][relation]
+            #TODO: add syntactic and lexical variation.
+            df_data.append((language, relation, len(templates)))
+    df = pd.DataFrame(df_data, columns=["lang", "relation", "count_patterns"])
+    wandb.run.summary["min #patterns in a relation"] = df[
+        "count_patterns"].min()
+    wandb.run.summary["max #patterns in a relation"] = df[
+        "count_patterns"].max()
+    wandb.run.summary["avg #patterns in a relation"] = df[
+        "count_patterns"].mean()
+    bar_plots = defaultdict(list)
+    for lang in df.lang.unique():
+        this_df = df[df["lang"] == lang]
+        relations = this_df.relation.unique()
+        bar_plots["#relations"].append((lang, len(relations)))
+        bar_plots["min #patterns"].append(
+            (lang, this_df["count_patterns"].min()))
+        bar_plots["max #patterns"].append(
+            (lang, this_df["count_patterns"].max()))
+        bar_plots["avg #patterns"].append(
+            (lang, this_df["count_patterns"].mean()))
+    for name, data in bar_plots.items():
+        table = wandb.Table(data=data, columns=["language", "value"])
+        wandb.log(
+            {name: wandb.plot.bar(table, "language", "value", title=name)})
+
+
+def log_translators_count_per_template(total_translators, df):
+    translators_count = []
+    for i in range(1, total_translators + 1):
+        translators_count.append(
+            [i, len(df[df['translators_count'] == i]) / len(df)])
+    label = "#Translators used to translate template"
+    value = "Templates count"
+    table = wandb.Table(data=translators_count, columns=[label, value])
+    wandb.log({
+        "translators_count":
+        wandb.plot.bar(
+            table,
+            label,
+            value,
+            title="Number of translators used to translate each template.")
+    })
 
 
 def main():
@@ -155,7 +223,7 @@ def main():
     parser.add_argument(
         "--min_templates_per_relation",
         type=float,
-        default=0.2,
+        default=0.0,
         help="The minimum number of templates that a relation (in each "
         "language) needs to have to be considered valid. The number is the "
         "fraction (0-1) of templates compared to the english total available "
@@ -163,7 +231,7 @@ def main():
     parser.add_argument(
         "--min_phrases_per_relation",
         type=float,
-        default=0.2,
+        default=0.0,
         help="The minimum number of phrases (templates populated with the "
         "available subject and object pairs) that a relation (in each language)"
         " needs to have to be considered valid. The number is the fraction "
@@ -172,27 +240,37 @@ def main():
     parser.add_argument(
         "--min_relations_count",
         type=float,
-        default=1.0,
+        default=0.6,
         help="The minimum number of valid relations that a language has to have"
         " to be included. A relation is consider valid if it has the "
         "minimum number of templates. The number is the fraction (0-1) of "
         "relations compared to the english total available.")
+    parser.add_argument(
+        "--min_total_phrases",
+        type=float,
+        default=0.2,
+        help="The minimum total number of phrases. The number is the fraction "
+        "(0-1) of relations compared to the english total available.")
     parser.add_argument("--out_folder",
                         default=None,
                         type=str,
                         required=True,
                         help="")
     args = parser.parse_args()
+    wandb.init(project="mpararel-creation",
+               name="mpararel_{}_{}_{}_{}".format(
+                   args.min_templates_per_relation,
+                   args.min_phrases_per_relation, args.min_relations_count,
+                   args.min_total_phrases))
+    wandb.config.update(args)
 
     LOG.info("Getting agreed translations from folders:\n{}".format('\n'.join(
         glob(args.translations_folders_glob))))
     agreed_translations, df = get_agreed_translations_and_stats(
         glob(args.translations_folders_glob))
 
-    for i in range(1, len(glob(args.translations_folders_glob)) + 1):
-        LOG.info("Relations translated with {0} translators: {1:.2%}".format(
-            i,
-            len(df[df['translators_count'] == i]) / len(df)))
+    log_translators_count_per_template(
+        len(glob(args.translations_folders_glob)), df)
 
     df = add_tuples_counts(df, args.tuples_folder)
     df["phrases_count"] = df["agreed_templates_count"] * df["tuples_count"]
@@ -203,43 +281,57 @@ def main():
     add_ratio_column(df, 'phrases_count')
 
     # Filter relations that don't have enough templates.
-    enough_templates_df = df[
-        df['agreed_templates_rate'] >= args.min_templates_per_relation]
+    enough_templates_df = df[df['agreed_templates_count'] > 1]
+    enough_templates_df = enough_templates_df[
+        enough_templates_df['agreed_templates_rate'] >=
+        args.min_templates_per_relation]
     LOG.info(
         "From a total of {} relations across all languages, {} relations have "
-        "at least {} of the total patterns for the same relation in "
-        "english.".format(len(df), len(enough_templates_df),
-                          args.min_templates_per_relation))
+        "more than 1 template and at least {} of the total patterns for the "
+        "same relation in english.".format(len(df), len(enough_templates_df),
+                                           args.min_templates_per_relation))
     # Filter relations that don't have enough phrases.
-    valid_df = enough_templates_df[
-        df['phrases_rate'] >= args.min_phrases_per_relation]
+    valid_df = enough_templates_df[enough_templates_df['tuples_count'] > 0]
+    valid_df = valid_df[
+        valid_df['phrases_rate'] >= args.min_phrases_per_relation]
     LOG.info(
         "From a total of {} relations across all languages, {} relations have "
         "at least {} of the total phrases for the same relation in "
         "english.".format(len(enough_templates_df), len(valid_df),
                           args.min_phrases_per_relation))
+
     # Filter languages that don't have enough valid relations.
-    valid_df = pd.DataFrame(get_language_and_relations_count(valid_df),
-                            columns=['language', 'relations_count'])
-    en_relations_count = valid_df[valid_df['language'] ==
-                                  'en'].relations_count.values[0]
-    min_relations_count = en_relations_count * args.min_relations_count
-    valid_languages = valid_df[
-        valid_df['relations_count'] >= min_relations_count].language.values
-    LOG.info(
-        "{} languages have at least {}*{} relations with the minimum number of"
-        " patterns.".format(len(valid_languages), en_relations_count,
-                            args.min_relations_count))
+    enough_relations_langs = get_valid_langs(
+        get_language_and_relations_count(valid_df), args.min_relations_count,
+        "relations")
+    # Filter languages that don't have enough total phrases.
+    enough_phrases_langs = get_valid_langs(
+        get_language_and_phrases_count(valid_df), args.min_total_phrases,
+        "total phrases")
+    valid_languages = enough_relations_langs.intersection(enough_phrases_langs)
+    valid_df = valid_df[valid_df["language"].isin(valid_languages)]
+    summary = {
+        "#templates translated across all languages":
+        len(df),
+        "(1) #templates with minimum #templates per relation":
+        len(enough_templates_df),
+        "(2) #templates with minimum #phrases per relation and (1)":
+        len(valid_df),
+        "(3) #languages with minimum #relations and (2)":
+        len(enough_relations_langs),
+        "(4) #languages with minimum total #phrases and (2)":
+        len(enough_phrases_langs),
+        "valid #languages [(3) and (4)]":
+        len(valid_languages)
+    }
+    for k, v in summary.items():
+        wandb.run.summary[k] = v
     LOG.info("The valid languages are: {}".format(valid_languages))
-    # Remove the non valid languages from the translations.
-    not_valid_languages = set(df.language.unique()).difference(
-        set(valid_languages))
-    for language in not_valid_languages:
-        if language in agreed_translations:
-            agreed_translations.pop(language)
     LOG.info("Writing valid languages data to the output folder.")
     # Write mpararel.
-    write_mpararel(agreed_translations, args.out_folder)
+    write_mpararel(valid_df[['language', 'relation']], agreed_translations,
+                   args.out_folder)
+    log_statistics(valid_df[['language', 'relation']], agreed_translations)
 
 
 if __name__ == '__main__':

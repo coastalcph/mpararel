@@ -2,11 +2,9 @@ import collections
 import json
 import os
 import re
-from typing import List
+from typing import List, Tuple
 
 from logger_utils import get_logger
-
-from dataset.translate_utils import TRANSLATOR_TO_OBJECT, Translator
 
 LOG = get_logger(__name__)
 
@@ -144,11 +142,7 @@ def get_object_subject_order(set_first_position, set_second_position,
     elif first_subj < second_subj and first_obj > second_obj:
         return ["[Y]", "[X]"]
     else:
-        LOG.info(
-            "Error: couldn't conclude on order of X and Y (first_subj={}, "
-            "first_obj={}, second_subj={}, second_obj={}).".format(
-                first_subj, first_obj, second_subj, second_obj))
-        return None, None
+        raise RuntimeError("Error: couldn't conclude on order of X and Y.")
 
 
 def get_templates_from_populated_translations(translated_phrases: List,
@@ -168,6 +162,8 @@ def get_templates_from_populated_translations(translated_phrases: List,
         en_tuples: List containing the tuples (subject, object) that are the translation of the tuples in english.
     Returns:
         List of templates where each contains exactly one [X] and one [Y].
+    Raises:
+        RuntimeError when the ordering of X and Y cannot be concluded.
     """
     potential_templates = collections.defaultdict(int)
     # Each set contains the phrases for the object/subject found.
@@ -189,8 +185,6 @@ def get_templates_from_populated_translations(translated_phrases: List,
     first_str, second_str = get_object_subject_order(*non_overlapping_phrases,
                                                      en_tuples,
                                                      translated_tuples)
-    if first_str is None:
-        return []
     final_templates = []
     for template, _ in filter(lambda x: x[1] > 1, potential_templates.items()):
         final_tempalte = template.replace("[X/Y]", first_str, 1)
@@ -198,71 +192,54 @@ def get_templates_from_populated_translations(translated_phrases: List,
     return final_templates
 
 
-def translate_populated_templates(templates: List[str], template_key: str,
-                                  tuples_folder: str, relation_filename: str,
-                                  wiki_lang_to_translator_lang: dict,
-                                  translator: Translator) -> dict:
+def translate_populated_template(template: dict, template_key: str,
+                                 tuples_folder: str, relation_filename: str,
+                                 translator,
+                                 translate_to_id: str) -> Tuple[dict, dict]:
     """Translates each template to all the languages after filling the [X] and [Y].
 
     Args:
-        templates: List of templates to translate.
+        template: the dict containing the template to translate.
         template_key: string key to access the actual template in the templates dict.
         tuples_folder: path to the folder containing the objects and subjects in each language.
         relation_filename: filename corresponding to the relation of this
             tuples, used to access the tuples in the tuples folder.
-        wiki_lang_to_translator_lang: dict that maps wiki languages to the translator languages.
         translator: Translator to use for the translations.
+        translate_to_id: the code to which translate the template.
     Returns:
-        A dictionary mapping from languages to a list containing the translated templates.
+        A list containing the templates with the text in the template_key
+        translated.
     """
-    translator = TRANSLATOR_TO_OBJECT[translator]
-    translated_templates = {}
-    for wikiid, translator_id in wiki_lang_to_translator_lang.items():
-        LOG.info("Translating {}".format(wikiid))
-        translated_templates[wikiid] = set()
-        for template in templates:
-            LOG.info("Translating template: '{}'".format(
-                template[template_key]))
-            en_tuples_file = os.path.join(tuples_folder, "en",
+    translated_templates = []
+    # Get tuples.
+    en_tuples_file = os.path.join(tuples_folder, "en", relation_filename)
+    translated_tuples_file = os.path.join(tuples_folder, translate_to_id,
                                           relation_filename)
-            translated_tuples_file = os.path.join(tuples_folder, wikiid,
-                                                  relation_filename)
-            if (not os.path.isfile(en_tuples_file)
-                    or not os.path.isfile(translated_tuples_file)):
-                LOG.info(
-                    "There are no tuples files for this relation (Not found: "
-                    "{} and {}).".format(en_tuples_file,
-                                         translated_tuples_file))
-                break
-            en_tuples = get_k_subject_object_tuples(en_tuples_file,
-                                                    K_POPULATED_TEMPLATES)
-            translated_tuples = get_subject_object_tuples_from_lines(
-                translated_tuples_file, en_tuples.keys())
-            populated_phrases = get_populated_phrases(template[template_key],
-                                                      en_tuples.values())
-            try:
-                translated_phrases = [
-                    translator.translate(text,
-                                         from_lang="en",
-                                         to_lang=translator_id)
-                    for text in populated_phrases
-                ]
-            except Exception as e:
-                LOG.info("Exception: {}".format(e))
-                break
-            final_templates = get_templates_from_populated_translations(
-                translated_phrases, en_tuples.values(),
-                translated_tuples.values())
-            for final_template in final_templates:
-                this_template = template.copy()
-                this_template["pattern"] = final_template
-                translated_templates[wikiid].add(this_template)
-        if len(translated_templates[wikiid]) == 0:
-            LOG.warning(
-                "Skipping language '{}', not one translation was succesful!".
-                format(wikiid))
-            continue
-        LOG.info("Successful translations. Received {} templates, created {} "
-                 "translations".format(len(templates),
-                                       len(translated_templates[wikiid])))
+    if (not os.path.isfile(en_tuples_file)
+            or not os.path.isfile(translated_tuples_file)):
+        raise Exception(
+            "There are no tuples files for this relation (Not found: "
+            "{} or {}).".format(en_tuples_file, translated_tuples_file))
+    en_tuples = get_k_subject_object_tuples(en_tuples_file,
+                                            K_POPULATED_TEMPLATES)
+    translated_tuples = get_subject_object_tuples_from_lines(
+        translated_tuples_file, en_tuples.keys())
+
+    # Populate template and translate the phrases.
+    populated_phrases = get_populated_phrases(template[template_key],
+                                              en_tuples.values())
+    translated_phrases = [
+        translator.translate(text, from_lang="en", to_lang=translate_to_id)
+        for text in populated_phrases
+    ]
+
+    # Try to find common templates from the translated phrases.
+    final_templates = get_templates_from_populated_translations(
+        translated_phrases, en_tuples.values(), translated_tuples.values())
+
+    # Copy the metadata and add the found templates.
+    for final_template in final_templates:
+        this_template = template.copy()
+        this_template["pattern"] = final_template
+        translated_templates.append(this_template)
     return translated_templates

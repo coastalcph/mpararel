@@ -8,13 +8,13 @@ unzip ${WORKDIR}/data.zip -d ${WORKDIR} && rm ${WORKDIR}/data.zip
 
 # (2) Download entity data
 mkdir -p ${WORKDIR}/data/wikidata_entities
-python download_trexentities.py \
+python dataset/download_trexentities.py \
 --datapath ${WORKDIR}/data/TREx \
 --outpath ${WORKDIR}/data/wikidata_entities
 
 # (3) Translate TREx entities.
 mkdir -p ${WORKDIR}/data/multilingual/t_rex_translation
-python translate_trex.py \
+python dataset/translate_trex.py \
 --data ${WORKDIR}/data/TREx \
 --entities ${WORKDIR}/data/wikidata_entities \
 --outpath ${WORKDIR}/data/multilingual/t_rex_translation \
@@ -29,7 +29,7 @@ rm -r pararel
 # (5) Translate ParaRel
 # E.g. Translate ParaRel with Google.
 mkdir -p ${WORKDIR}/data/multilingual/pararel_google
-python translate_templates.py translate_folder \
+python dataset/translate_templates.py translate_folder \
 --templates_folder ${WORKDIR}/data/pararel/pattern_data/graphs_json/ \
 --output_folder ${WORKDIR}/data/multilingual/pararel_google \
 --language_mapping_file mbertlangs.txt \
@@ -60,26 +60,25 @@ cp -r ${WORKDIR}/data/multilingual/pararel_populated_bing_with_metadata ${WORKDI
 cp -r ${WORKDIR}/data/multilingual/pararel_populated_m2m100_big_with_metadata ${WORKDIR}/data/multilingual/pararel_populated_m2m100_big_fixed
 cp -r ${WORKDIR}/data/multilingual/pararel_populated_mbart50_en2m_with_metadata ${WORKDIR}/data/multilingual/pararel_populated_mbart50_en2m_fixed
 cp -r ${WORKDIR}/data/multilingual/pararel_populated_opus_mt_with_metadata ${WORKDIR}/data/multilingual/pararel_populated_opus_mt_fixed
-python translate_templates.py fix_translated_dirs \
+python dataset/translate_templates.py fix_translated_dirs \
 	--templates_folder_glob=${WORKDIR}/data/multilingual/pararel_*_fixed
 
 # (7) Copy only clean and valid templates and relations to an output folder.
-mkdir -p ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/
-python cleanup.py \
+python dataset/cleanup.py \
     --tuples_folder ${WORKDIR}/data/multilingual/t_rex_translation \
 	--templates_folders_glob=${WORKDIR}/data/multilingual/pararel*fixed \
     --out_folder ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/
 rm -r ${WORKDIR}/data/multilingual/pararel_*_fixed
 
 # (8) Create the mParaRel resource by selecting the agreed template translations
-# and the languages with a minimum coverage. 
-mkdir -p ${WORKDIR}/mpararel
-python create_mpararel.py \
+# and the languages with a minimum coverage.
+python dataset/create_mpararel.py \
 	--translations_folders_glob=${WORKDIR}/data/cleaned_mtrex_and_mpatterns/patterns/* \
 	--tuples_folder ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/tuples \
-	--min_templates_per_relation 0.2 \
-	--min_phrases_per_relation 0.2 \
-	--min_relations_count 1.0 \
-	--out_folder ${WORKDIR}/mpararel/patterns
+	--min_templates_per_relation 0.0 \
+	--min_phrases_per_relation 0.0 \
+	--min_relations_count 0.6 \
+	--min_total_phrases 0.2 \
+	--out_folder ${WORKDIR}/data/mpararel_00_00_06_02/patterns
 mv ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/tuples ${WORKDIR}/mpararel/tuples
 rm -r ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/
