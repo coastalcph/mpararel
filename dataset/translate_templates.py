@@ -222,10 +222,7 @@ def init_wandb(args):
     if args.translate_populated_templates:
         name += "_populated"
         tags.append("populated")
-    wandb.init(settings=wandb.Settings(start_method="fork"),
-               project="translate-pararel",
-               name=name,
-               tags=tags)
+    wandb.init(project="pararel-translations", name=name, tags=tags)
     wandb.config.update(args)
 
 
@@ -270,8 +267,8 @@ def translate_folder(args):
     wandb_stats = defaultdict(int)
     relation_to_lang_to_counts = defaultdict(
         lambda: defaultdict(lambda: defaultdict(int)))
-    for i_filename, relation_filename in enumerate(
-            tqdm(os.listdir(args.templates_folder)), 1):
+    for i_filename, relation_filename in tqdm(
+            enumerate(os.listdir(args.templates_folder), 1)):
         templates = get_templates(
             os.path.join(args.templates_folder, relation_filename))
         for wikiid, translate_to_id in wiki_lang_to_translator_lang.items():
@@ -305,9 +302,6 @@ def translate_folder(args):
                     translated_templates)
         wandb_stats["relation_translated"] = i_filename
         wandb.log({k: v for k, v in wandb_stats.items() if isinstance(v, int)})
-        # TODO: delete
-        if i_filename == 2:
-            break
     LOG.info("Writing translated templates...")
     write_translated_templates(wikiid_to_filename_to_templates,
                                args.output_folder)

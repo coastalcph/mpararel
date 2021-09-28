@@ -15,19 +15,24 @@ from tqdm import tqdm
 LOG = get_logger(__name__)
 
 
-def filter_repeated_across_languages(agreed_translations,
+def filter_repeated_across_relations(agreed_translations,
                                      language_and_relation_counts):
+    """Filters repeated templates across relations.
+    
+    Really simple and short templates are created by the populated translation
+    algorithm and are common in different relations, example [X] is [Y].
+    """
     for i in range(len(language_and_relation_counts)):
         (language, relation, agreed_templates_count,
          translators_count) = language_and_relation_counts[i]
-        remove_templates = []
+        remove_templates = set()
         for template in agreed_translations[language][relation]:
             for other_relation, other_templates in agreed_translations[
                     language].items():
                 if other_relation == relation:
                     continue
                 if template in other_templates:
-                    remove_templates.append(template)
+                    remove_templates.add(template)
         agreed_templates_count -= len(remove_templates)
         for template in remove_templates:
             agreed_translations[language][relation].remove(template)
@@ -77,7 +82,7 @@ def get_agreed_translations_and_stats(translations_folders):
             language_and_relation_counts.append(
                 (language, relation, agreed_templates_count,
                  lang_to_translators_count[language]))
-    agreed_translations, counts = filter_repeated_across_languages(
+    agreed_translations, counts = filter_repeated_across_relations(
         agreed_translations, language_and_relation_counts)
     return (agreed_translations,
             pd.DataFrame(counts,
