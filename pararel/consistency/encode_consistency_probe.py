@@ -1,16 +1,15 @@
 """Measure consistency."""
 import argparse
 import json
-from collections import Counter
-from collections import defaultdict
-from typing import List, Dict
+import os
+from collections import Counter, defaultdict
+from typing import Dict, List
 
 import numpy as np
 import wandb
-from scipy.stats import entropy
-
 from pararel.consistency.lm_pipeline import build_model_by_name, run_query
-from pararel.consistency.utils import read_jsonl_file, read_graph
+from pararel.consistency.utils import read_graph, read_jsonl_file
+from scipy.stats import entropy
 
 
 def log_wandb(args):
@@ -490,9 +489,10 @@ def main():
     if 'models' in model_name or 'nyu' in model_name:
         model_name = model_name.replace('/', '_')
     pattern = args.data_file.split('/')[-1].split('.')[0]
-    with open(
-            'data/output/predictions_lm/trex_lms_vocab/{}_{}.json'.format(
-                pattern, model_name), 'w') as f:
+    out_dir = 'data/output/predictions_lm/trex_lms_vocab/'
+    os.makedirs(out_dir)
+    with open(os.path.join(out_dir, '{}_{}.json'.format(pattern, model_name)),
+              'w') as f:
         json.dump(lm_results, f)
 
 
