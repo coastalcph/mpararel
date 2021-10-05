@@ -31,7 +31,7 @@ class GoogleTranslator():
 
 class BingTranslator():
     LANGUAGE_CODES_HEADER = "bing_BCP_47"
-    BING_SUBSCRIPTION_KEY = ""
+    BING_SUBSCRIPTION_KEY = "116942a2615b481d835e51af3cf569c0"
     BING_ENDPOINT = "https://api.cognitive.microsofttranslator.com/"
 
     def translate(self, text, from_lang, to_lang):

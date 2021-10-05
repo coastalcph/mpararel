@@ -79,6 +79,7 @@ python dataset/create_mpararel.py \
 	--min_phrases_per_relation 0.0 \
 	--min_relations_count 0.6 \
 	--min_total_phrases 0.2 \
-	--out_folder ${WORKDIR}/data/mpararel_00_00_06_02/patterns
-mv ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/tuples ${WORKDIR}/mpararel/tuples
+	--out_folder ${WORKDIR}/data/mpararel_00_00_06_02_filter/patterns
+mkdir ${WORKDIR}/data/mpararel_00_00_06_02_filter/tuples
+mv ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/tuples ${WORKDIR}/data/mpararel_00_00_06_02_filter/tuples
 rm -r ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/
