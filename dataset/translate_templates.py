@@ -267,8 +267,8 @@ def translate_folder(args):
     wandb_stats = defaultdict(int)
     relation_to_lang_to_counts = defaultdict(
         lambda: defaultdict(lambda: defaultdict(int)))
-    for i_filename, relation_filename in tqdm(
-            enumerate(os.listdir(args.templates_folder), 1)):
+    relations = os.listdir(args.templates_folder)[args.skip_first_k_relations:]
+    for i_filename, relation_filename in tqdm(enumerate(relations, 1)):
         templates = get_templates(
             os.path.join(args.templates_folder, relation_filename))
         for wikiid, translate_to_id in wiki_lang_to_translator_lang.items():
@@ -344,6 +344,11 @@ def create_parser():
     parser_translate_folder.add_argument("--output_folder",
                                          default=None,
                                          type=str,
+                                         required=True,
+                                         help="")
+    parser_translate_folder.add_argument("--skip_first_k_relations",
+                                         default=0,
+                                         type=int,
                                          required=True,
                                          help="")
 
