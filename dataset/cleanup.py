@@ -28,9 +28,10 @@ def is_template_valid(template):
 def clean_template(data):
     """Cleans the pattern and keeps only relevant keys."""
     template = data["pattern"].lower()
-    # Remove extra spaces and extra brackets from the subject/object.
-    template = re.sub('\[+ ?[X] ?\]+', '[X]', template)
-    template = re.sub('\[+ ?[Y] ?\]+', '[Y]', template)
+    # Remove extra spaces and extra brackets from the subject/object and
+    # capitalize them.
+    template = re.sub('\[+ ?[x] ?\]+', '[X]', template)
+    template = re.sub('\[+ ?[y] ?\]+', '[Y]', template)
     # Remove final puntuaction
     template = re.sub(r'[.:。]', '', template)
     # Remove extra spaces
