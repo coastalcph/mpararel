@@ -9,6 +9,7 @@ python get_model_predictions.py \
 import argparse
 import json
 import os
+import time
 from collections import defaultdict
 from dataclasses import dataclass
 
@@ -56,8 +57,7 @@ class BatchTemplates():
                 each example in the batch.
         """
         batch_input, batch_candidates_to_ids, batch_data = [], [], []
-        for i, language in enumerate(self.languages, 1):
-            wandb.log({"languages_processed": i})
+        for i, language in tqdm(enumerate(self.languages, 1)):
             for relation in self.relations:
                 tokens_count_to_obj_to_ids = defaultdict(
                     lambda: defaultdict(list))
@@ -170,10 +170,13 @@ def main(args):
                                      get_tuples)
     model_queries_count = 0
     for (encoded_input, batch_mask_indices, batch_candidates_to_ids,
-         batch_data) in tqdm(batch_templates):
+         batch_data) in batch_templates:
+        init_time_model_query = time.time()
         output = model(**encoded_input)
+        total_time_model_query = time.time() - init_time_model_query
         model_queries_count += 1
         # Iterate over each example in the batch to check the predictions.
+        init_time_example_iter = time.time()
         for i, (mask_indices, candidates_to_ids, example_data) in enumerate(
                 zip(batch_mask_indices, batch_candidates_to_ids, batch_data)):
             # This has the shape: [masks_count, vocab_size].
@@ -196,6 +199,15 @@ def main(args):
                 f"{example_data.subject}-{example_data.object}"].append(
                     (example_data.template, candidates_and_prob[0][0],
                      correct_rank))
+        total_time_iter = time.time() - init_time_example_iter
+        wandb.log({
+            "Time model query":
+            total_time_model_query,
+            "Time iteration over batch examples":
+            total_time_iter,
+            "Average time checking the candidates of one example":
+            total_time_iter / len(batch_data)
+        })
     wandb.run.summary["#model_queries"] = model_queries_count
     write_predictions(results, args.output_folder)
 
