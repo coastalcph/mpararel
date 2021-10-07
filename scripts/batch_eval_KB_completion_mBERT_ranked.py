@@ -25,6 +25,7 @@ import time, sys
 import torch
 import numpy as np
 
+
 def load_file(filename):
     data = []
     with open(filename, "r") as f:
@@ -66,8 +67,7 @@ def init_logging(log_directory):
     # logging format
     # "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
     formatter = logging.Formatter(
-        "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
-    )
+        "%(asctime)s - %(name)s - %(levelname)s - %(message)s")
 
     # file handler
     fh = logging.FileHandler(str(log_directory) + "/info.log")
@@ -97,8 +97,7 @@ def batchify(data, batch_size):
 
     # sort to group togheter sentences with similar length
     for sample in sorted(
-        data, key=lambda k: len(" ".join(k["masked_sentences"]).split())
-    ):
+            data, key=lambda k: len(" ".join(k["masked_sentences"]).split())):
         masked_sentences = sample["masked_sentences"]
         current_samples_batch.append(sample)
         current_sentences_batches.append(masked_sentences)
@@ -155,7 +154,8 @@ def lowercase_samples(samples, use_negated_probes=False):
     return new_samples
 
 
-def filter_samples(model, samples, vocab_subset, max_sentence_length, template):
+def filter_samples(model, samples, vocab_subset, max_sentence_length,
+                   template):
     msg = ""
     new_samples = []
     samples_exluded = 0
@@ -167,8 +167,7 @@ def filter_samples(model, samples, vocab_subset, max_sentence_length, template):
 
             if obj_label_ids:
                 recostructed_word = " ".join(
-                    [model.vocab[x] for x in obj_label_ids]
-                ).strip()
+                    [model.vocab[x] for x in obj_label_ids]).strip()
             else:
                 recostructed_word = None
 
@@ -178,8 +177,7 @@ def filter_samples(model, samples, vocab_subset, max_sentence_length, template):
                 text = " ".join(masked_sentences)
                 if len(text.split()) > max_sentence_length:
                     msg += "\tEXCLUDED for exeeding max sentence length: {}\n".format(
-                        masked_sentences
-                    )
+                        masked_sentences)
                     samples_exluded += 1
                     excluded = True
             """if sample['from_english']:
@@ -192,16 +190,14 @@ def filter_samples(model, samples, vocab_subset, max_sentence_length, template):
                     if x not in vocab_subset:
                         excluded = True
                         msg += "\tEXCLUDED object label {} not in vocab subset\n".format(
-                            sample["obj_label"]
-                        )
+                            sample["obj_label"])
                         samples_exluded += 1
                         break
             if excluded:
                 pass
             elif obj_label_ids is None:
                 msg += "\tEXCLUDED object label is {} None\n".format(
-                    sample["obj_label"]
-                )
+                    sample["obj_label"])
                 samples_exluded += 1
 
             #   samples_exluded+=1
@@ -223,17 +219,25 @@ def filter_samples(model, samples, vocab_subset, max_sentence_length, template):
                 new_samples.append(sample)
         else:
             msg += "\tEXCLUDED since 'obj_label' not sample or 'sub_label' not in sample: {}\n".format(
-                sample
-            )
+                sample)
             samples_exluded += 1
     msg += "samples exluded  : {}\n".format(samples_exluded)
     return new_samples, msg
 
 
 def main(args, NUM_MASK, candidates, shuffle_data=True, model=None):
+    """
+    Args:
+        args: argparse object with configurations
+        NUM_MASK: the maximum number of tokens that a candidate object can be
+            tokenized into.
+        candidates: dict[int, dict[str, list]], dictionary that maps the tokens
+            length to the object string to the list of tokens ids. 
+    """
 
     if len(args.models_names) > 1:
-        raise ValueError('Please specify a single language model (e.g., --lm "bert").')
+        raise ValueError(
+            'Please specify a single language model (e.g., --lm "bert").')
 
     msg = ""
 
@@ -271,8 +275,7 @@ def main(args, NUM_MASK, candidates, shuffle_data=True, model=None):
         model.optimize_top_layer(vocab_subset)
 
         filter_logprob_indices, index_list = model.init_indices_for_filter_logprobs(
-            vocab_subset, logger
-        )
+            vocab_subset, logger)
 
     logger.info("\n" + msg + "\n")
 
@@ -286,12 +289,10 @@ def main(args, NUM_MASK, candidates, shuffle_data=True, model=None):
         # lowercase all samples
         logger.info("lowercasing all samples...")
         all_samples = lowercase_samples(
-            data, use_negated_probes=args.use_negated_probes
-        )
+            data, use_negated_probes=args.use_negated_probes)
     else:
         # keep samples as they are
         all_samples = data
-
 
     # create uuid if not present
     i = 0
@@ -299,12 +300,9 @@ def main(args, NUM_MASK, candidates, shuffle_data=True, model=None):
         sample["uuid"] = i
         i += 1
 
-
-
-
-    all_samples, ret_msg = filter_samples(
-        model, data, vocab_subset, args.max_sentence_length, args.template
-    )
+    all_samples, ret_msg = filter_samples(model, data, vocab_subset,
+                                          args.max_sentence_length,
+                                          args.template)
 
     # OUT_FILENAME = "{}.jsonl".format(args.dataset_filename)
     # with open(OUT_FILENAME, 'w') as outfile:
@@ -313,7 +311,6 @@ def main(args, NUM_MASK, candidates, shuffle_data=True, model=None):
     #         outfile.write('\n')
 
     logger.info("\n" + ret_msg + "\n")
-
 
     # if template is active (1) use a single example for (sub,obj) and (2) ...
     if args.template and args.template != "":
@@ -333,8 +330,7 @@ def main(args, NUM_MASK, candidates, shuffle_data=True, model=None):
             sample = {"sub_label": sub, "obj_label": obj, "uuid": uuid}
             # substitute all sentences with a standard template
             sample["masked_sentences"] = parse_template(
-                args.template.strip(), sample["sub_label"].strip(), base.MASK
-            )
+                args.template.strip(), sample["sub_label"].strip(), base.MASK)
 
             all_samples.append(sample)
 
@@ -342,7 +338,8 @@ def main(args, NUM_MASK, candidates, shuffle_data=True, model=None):
     if shuffle_data:
         shuffle(all_samples)
 
-    samples_batches, sentences_batches, ret_msg = batchify(all_samples, args.batch_size)
+    samples_batches, sentences_batches, ret_msg = batchify(
+        all_samples, args.batch_size)
     logger.info("\n" + ret_msg + "\n")
 
     # ThreadPool
@@ -353,6 +350,7 @@ def main(args, NUM_MASK, candidates, shuffle_data=True, model=None):
     pool = ThreadPool(num_threads)
     list_of_results = []
 
+    # Iterate over the templates of this relation.
     for i in tqdm(range(len(samples_batches))):
 
         samples_b = samples_batches[i]
@@ -360,13 +358,15 @@ def main(args, NUM_MASK, candidates, shuffle_data=True, model=None):
         current_batch_size = len(samples_b)
         for i, sample in enumerate(samples_b):
             masked_sentences = []
-            for num_mask in range(1, NUM_MASK+1):
+            for num_mask in range(1, NUM_MASK + 1):
                 sentence = sample["masked_sentences"][0]
                 sentence = sentence.replace(base.MASK, base.MASK * num_mask)
                 sentence = sentence.replace("][", "] [")
                 masked_sentences.append(sentence)
                 sentences_b.append([sentence])
             samples_b[i]["masked_sentences"] = masked_sentences
+        # Get the predicted probabilities for each t_k where t_1 is the template
+        # with just 1 mask token.
         (
             original_log_probs_list,
             token_ids_list,
@@ -376,8 +376,7 @@ def main(args, NUM_MASK, candidates, shuffle_data=True, model=None):
         if vocab_subset is not None:
             # filter log_probs
             filtered_log_probs_list = model.filter_logprobs(
-                original_log_probs_list, filter_logprob_indices
-            )
+                original_log_probs_list, filter_logprob_indices)
         else:
             filtered_log_probs_list = original_log_probs_list
 
@@ -387,38 +386,47 @@ def main(args, NUM_MASK, candidates, shuffle_data=True, model=None):
 
             # MAKE SURE THAT obj_label IS IN VOCABULARIES
             if obj_label_id is None:
-                raise ValueError(
-                    "object label id {} is None".format(
-                        sample["obj_label"]
-                    )
-                )
+                raise ValueError("object label id {} is None".format(
+                    sample["obj_label"]))
 
             label_index_list.append(obj_label_id)
 
-        dim_reshape = (current_batch_size, int(original_log_probs_list.shape[0]/current_batch_size), original_log_probs_list.shape[1], original_log_probs_list.shape[2])
-        original_log_probs_list = torch.reshape(original_log_probs_list, dim_reshape)
-        filtered_log_probs_list = torch.reshape(filtered_log_probs_list, dim_reshape)
+        dim_reshape = (current_batch_size,
+                       int(original_log_probs_list.shape[0] /
+                           current_batch_size),
+                       original_log_probs_list.shape[1],
+                       original_log_probs_list.shape[2])
+        original_log_probs_list = torch.reshape(original_log_probs_list,
+                                                dim_reshape)
+        filtered_log_probs_list = torch.reshape(filtered_log_probs_list,
+                                                dim_reshape)
 
-        masked_indices_list = np.reshape(np.array(masked_indices_list), (current_batch_size, int(len(masked_indices_list)/current_batch_size)))
-        arguments = [
-            {
-                "original_log_probs": original_log_probs,
-                "filtered_log_probs": filtered_log_probs,
-                "token_ids": token_ids,
-                "vocab": model.vocab,
-                "label_index": label_index,
-                "masked_indices": masked_indices,
-                "interactive": args.interactive,
-                "index_list": index_list,
-                "sample": sample,
-                "candidates": candidates,
-            }
-            for sample, original_log_probs, filtered_log_probs, token_ids, label_index, masked_indices in zip(
-                samples_b, original_log_probs_list, filtered_log_probs_list, token_ids_list, label_index_list, masked_indices_list,
-            )
-        ]
+        masked_indices_list = np.reshape(
+            np.array(masked_indices_list),
+            (current_batch_size,
+             int(len(masked_indices_list) / current_batch_size)))
+        arguments = [{
+            "original_log_probs": original_log_probs,
+            "filtered_log_probs": filtered_log_probs,
+            "token_ids": token_ids,
+            "vocab": model.vocab,
+            "label_index": label_index,
+            "masked_indices": masked_indices,
+            "interactive": args.interactive,
+            "index_list": index_list,
+            "sample": sample,
+            "candidates": candidates,
+        } for sample, original_log_probs, filtered_log_probs, token_ids,
+                     label_index, masked_indices in zip(
+                         samples_b,
+                         original_log_probs_list,
+                         filtered_log_probs_list,
+                         token_ids_list,
+                         label_index_list,
+                         masked_indices_list,
+                     )]
 
-        # multithread
+        # Run metrics.get_ranking on multithread.
         res = pool.map(run_thread, arguments)
 
         for idx, result in enumerate(res):
@@ -429,9 +437,14 @@ def main(args, NUM_MASK, candidates, shuffle_data=True, model=None):
 
             sample = samples_b[idx]
 
-            element = {"sample": sample, "uuid": sample["uuid"], "token_ids": token_ids_list[0],
-                       "masked_indices": masked_indices_list[0], "label_index": label_index_list[0],
-                       "masked_topk": result_masked_topk}
+            element = {
+                "sample": sample,
+                "uuid": sample["uuid"],
+                "token_ids": token_ids_list[0],
+                "masked_indices": masked_indices_list[0],
+                "label_index": label_index_list[0],
+                "masked_topk": result_masked_topk
+            }
 
             list_of_results.append(element)
 
@@ -439,9 +452,7 @@ def main(args, NUM_MASK, candidates, shuffle_data=True, model=None):
     pool.join()
 
     # dump pickle with the result of the experiment
-    all_results = dict(
-        list_of_results=list_of_results
-    )
+    all_results = dict(list_of_results=list_of_results)
     with open("{}/result.pkl".format(log_directory), "wb") as f:
         pickle.dump(all_results, f)
 

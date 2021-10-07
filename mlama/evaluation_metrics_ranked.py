@@ -17,14 +17,22 @@ def __max_probs_values_indices(masked_indices, log_probs, topk=1000):
 
     log_probs = log_probs[masked_index]
 
-    value_max_probs, index_max_probs = torch.topk(input=log_probs,k=topk,dim=1)
+    value_max_probs, index_max_probs = torch.topk(input=log_probs,
+                                                  k=topk,
+                                                  dim=1)
     index_max_probs = index_max_probs.numpy().astype(int)
     value_max_probs = value_max_probs.detach().numpy()
 
     return log_probs, index_max_probs, value_max_probs
 
 
-def __print_top_k(value_max_probs, index_max_probs, vocab, mask_topk, index_list, candidates_obj, max_printouts = 10):
+def __print_top_k(value_max_probs,
+                  index_max_probs,
+                  vocab,
+                  mask_topk,
+                  index_list,
+                  candidates_obj,
+                  max_printouts=10):
     result = []
     msg = "\n| Top{} predictions\n".format(max_printouts)
     for i in range(mask_topk):
@@ -48,15 +56,25 @@ def __print_top_k(value_max_probs, index_max_probs, vocab, mask_topk, index_list
             idx_joined.append(idx)
             if i < max_printouts:
                 msg += "{:<8d}{:<20s}{:<12.3f}\n".format(
-                    i,
-                    word_form,
-                    log_prob
-                )
-        element = {'i' : i, 'token_idx': idx_joined, 'log_prob': log_prob, 'token_word_form': word_form_joined}
+                    i, word_form, log_prob)
+        element = {
+            'i': i,
+            'token_idx': idx_joined,
+            'log_prob': log_prob,
+            'token_word_form': word_form_joined
+        }
         result.append(element)
     return result, msg
 
-def get_prediction(log_probs, masked_indices, vocab, label_index = None, index_list = None, topk = 1000, P_AT = 10, print_generation=True):
+
+def get_prediction(log_probs,
+                   masked_indices,
+                   vocab,
+                   label_index=None,
+                   index_list=None,
+                   topk=1000,
+                   P_AT=10,
+                   print_generation=True):
 
     experiment_result = {}
 
@@ -66,23 +84,37 @@ def get_prediction(log_probs, masked_indices, vocab, label_index = None, index_l
     masked_index = masked_indices[0]
     log_probs = log_probs[masked_index]
 
-    value_max_probs, index_max_probs = torch.topk(input=log_probs,k=topk,dim=0)
+    value_max_probs, index_max_probs = torch.topk(input=log_probs,
+                                                  k=topk,
+                                                  dim=0)
     index_max_probs = index_max_probs.numpy().astype(int)
     value_max_probs = value_max_probs.detach().numpy()
 
-    result_masked_topk, return_msg = __print_top_k(value_max_probs, index_max_probs, vocab, topk, index_list)
+    result_masked_topk, return_msg = __print_top_k(value_max_probs,
+                                                   index_max_probs, vocab,
+                                                   topk, index_list)
 
     return result_masked_topk, return_msg
 
 
-def get_ranking(log_probs, sample, masked_indices, vocab, candidates, label_index = None, index_list = None, topk = 10, P_AT = 10, print_generation=True):
+def get_ranking(log_probs,
+                sample,
+                masked_indices,
+                vocab,
+                candidates,
+                label_index=None,
+                index_list=None,
+                topk=10,
+                P_AT=10,
+                print_generation=True):
+    """Computes the probability of each candidate to be selected."""
     experiment_result = {}
     dict_probs = {}
     return_msg = ""
     objects_true = sample["obj_label"]
 
     for i, num_masks in enumerate(candidates):
-        if len(masked_indices) >1:
+        if len(masked_indices) > 1:
             masked_idx = masked_indices[i]
         else:
             masked_idx = [masked_indices[i]]
@@ -90,18 +122,20 @@ def get_ranking(log_probs, sample, masked_indices, vocab, candidates, label_inde
 
         for object in candidates[num_masks]:
             probs = []
-            for id, prediction in zip(candidates[num_masks][object], predictions):
+            for id, prediction in zip(candidates[num_masks][object],
+                                      predictions):
                 #print(id)
                 #print("pred", prediction)
                 probs.append(prediction[id])
             dict_probs[object] = np.mean(probs)
     object_keys = np.array(list(dict_probs.keys()))
     object_values = np.array(list(dict_probs.values()))
- 
-    idx_true = np.argwhere(objects_true == object_keys)[0][0]
-    idcs = np.argsort(object_values)
-    rank = len(object_values) - np.argwhere(idcs==idx_true)[0][0]
 
+    idx_true = np.argwhere(objects_true == object_keys)[0][0]
+    idcs = np.argsort(object_values)  # sort ascending
+    rank = len(object_values) - np.argwhere(idcs == idx_true)[0][0]
+
+    # The rank is the position of the correct object in descending order of P.
     experiment_result["rank"] = rank - 1
     experiment_result["prob_true"] = dict_probs[objects_true]
     experiment_result["predicted"] = object_keys[idcs]
