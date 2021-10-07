@@ -1,10 +1,10 @@
 """Queries the model and saves the predictions.
 
-python get_model_predictions.py \
-    --mpararel_folder="$WORKDIR/data/mpararel" \ 
-    --model_name="bert-base-multilingual-cased" \
-    --batch_size=32 \
-    --output_folder="$WORKDIR/data/mpararel_results/mbert_cased"
+python evaluate_consistency/get_model_predictions.py \
+    --mpararel_folder=$WORKDIR/data/mpararel_00_00_06_02_logging \
+    --model_name="bert-base-multilingual-cased" --batch_size=32 \
+    --output_folder=$WORKDIR/data/mpararel_predictions/mbert_cased
+
 """
 import argparse
 import json
@@ -19,13 +19,13 @@ import wandb
 from dataset.constants import OBJECT_KEY, SUBJECT_KEY
 from logger_utils import get_logger
 from tqdm import tqdm
-from transformers import AutoModel, AutoTokenizer
+from transformers import AutoModelForMaskedLM, AutoTokenizer
 
 LOG = get_logger(__name__)
 
 
 @dataclass
-class TemplateExample():
+class TemplateTuple():
     language: str
     relation: str
     template: str
@@ -33,10 +33,9 @@ class TemplateExample():
     object: str
 
 
-class BatchTemplates():
-    def __init__(self, batch_size, tokenizer, languages, relations,
-                 get_candidates, get_templates, get_tuples) -> None:
-        self.batch_size = batch_size
+class GenerateTemplateTupleExamples():
+    def __init__(self, tokenizer, languages, relations, get_candidates,
+                 get_templates, get_tuples) -> None:
         self.tokenizer = tokenizer
         self.languages = languages
         self.relations = relations
@@ -46,6 +45,7 @@ class BatchTemplates():
 
     def __iter__(self):
         """Yields the encoded batch, the indices of the masks, and the targets.
+
         Returns:
             encoded_input: The tokenized batch
             mask_indexes: Tensor of same shape than encoded_input.input_ids with
@@ -53,10 +53,10 @@ class BatchTemplates():
             batch_candidates_to_ids: List[Dict], the list contains a dict for
                 each example of the batch mapping from the possible objects
                 strings to its tokens ids.
-            batch_data: List[TemplateExample] containing the data that defines
+            batch_data: List[TemplateTuple] containing the data that defines
                 each example in the batch.
         """
-        batch_input, batch_candidates_to_ids, batch_data = [], [], []
+        inputs, candidates_to_ids = [], []
         for i, language in tqdm(enumerate(self.languages, 1)):
             for relation in self.relations:
                 tokens_count_to_obj_to_ids = defaultdict(
@@ -71,41 +71,23 @@ class BatchTemplates():
                 for template in self.get_templates(language, relation):
                     for tuple in self.get_tuples(language, relation):
                         for masks_count in tokens_count_to_obj_to_ids.keys():
-                            batch_input.append(
+                            inputs.append(
                                 get_populated_template(
                                     template, tuple, self.tokenizer.mask_token,
                                     masks_count))
-                            batch_candidates_to_ids.append(
+                            candidates_to_ids.append(
                                 tokens_count_to_obj_to_ids[masks_count])
-                            batch_data.append(
-                                TemplateExample(language, relation, template,
-                                                tuple[SUBJECT_KEY],
-                                                tuple[OBJECT_KEY]))
-                            if len(batch_input) == self.batch_size:
-                                encoded_input = self.tokenizer(
-                                    batch_input,
-                                    padding=True,
-                                    return_tensors='pt')
-                                mask_indexes = torch.where(
-                                    encoded_input.input_ids ==
-                                    self.tokenizer.mask_token_id, 1, 0)
-                                yield (encoded_input, mask_indexes,
-                                       batch_candidates_to_ids, batch_data)
-                                batch_input = []
-                                batch_candidates_to_ids = []
-                                batch_data = []
-        if batch_input:
-            encoded_input = self.tokenizer(batch_input,
-                                           padding=True,
-                                           return_tensors='pt')
-            mask_indexes = torch.where(
-                encoded_input.input_ids == self.tokenizer.mask_token_id, 1, 0)
-            yield (encoded_input, mask_indexes, batch_candidates_to_ids,
-                   batch_data)
+                        this_template_tuple = TemplateTuple(
+                            language, relation, template, tuple[SUBJECT_KEY],
+                            tuple[OBJECT_KEY])
+                        yield (inputs, candidates_to_ids, this_template_tuple)
+                        inputs, candidates_to_ids = [], []
 
 
 def get_items(path_to_file, key_item=None):
     items = []
+    if not os.path.exists(path_to_file):
+        return items
     with open(path_to_file) as file:
         for line in file:
             data = json.loads(line)
@@ -117,8 +99,8 @@ def get_items(path_to_file, key_item=None):
     return items
 
 
-def build_model_by_name(model_name):
-    model = AutoModel.from_pretrained(model_name)
+def build_model_by_name(model_name, device):
+    model = AutoModelForMaskedLM.from_pretrained(model_name).to(device)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     return model, tokenizer
 
@@ -134,9 +116,9 @@ def write_predictions(results, output_folder):
     for language, relation_to_predictions in results.items():
         os.makedirs(os.path.join(output_folder, language), exist_ok=True)
         for relation, tuple_to_predictions in relation_to_predictions.items():
-            filename = os.path.join(output_folder, language,
-                                    relation + ".jsonl")
-            json.dump(tuple_to_predictions, filename)
+            filename = os.path.join(output_folder, language, relation)
+            with open(filename, 'w') as f:
+                json.dump(tuple_to_predictions, f)
 
 
 def init_wandb(args):
@@ -152,7 +134,10 @@ def main(args):
     pair to (template, prediction, rank correct).
     """
     init_wandb(args)
-    model, tokenizer = build_model_by_name(args.model_name)
+    if torch.cuda.is_available():
+        LOG.info("Using GPU")
+        args.device = "cuda:" + str(torch.cuda.current_device())
+    model, tokenizer = build_model_by_name(args.model_name, args.device)
     results = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
     languages = os.listdir(os.path.join(args.mpararel_folder, "patterns"))
     relations = os.listdir(os.path.join(args.mpararel_folder, "tuples", "en"))
@@ -160,55 +145,67 @@ def main(args):
         os.path.join(args.mpararel_folder, "tuples", lang, relation),
         OBJECT_KEY)
     get_templates = lambda lang, relation: get_items(
-        os.path.join(args.mpararel_folder, "patterns", lang, relation +
-                     ".jsonl"), "pattern")
+        os.path.join(args.mpararel_folder, "patterns", lang, relation),
+        "pattern")
     get_tuples = lambda lang, relation: get_items(
-        os.path.join(args.mpararel_folder, "tuples", lang, relation + ".jsonl")
-    )
-    batch_templates = BatchTemplates(args.batch_size, tokenizer, languages,
-                                     relations, get_candidates, get_templates,
-                                     get_tuples)
+        os.path.join(args.mpararel_folder, "tuples", lang, relation))
+    template_tuple_examples = GenerateTemplateTupleExamples(
+        tokenizer, languages, relations, get_candidates, get_templates,
+        get_tuples)
     model_queries_count = 0
-    for (encoded_input, batch_mask_indices, batch_candidates_to_ids,
-         batch_data) in batch_templates:
-        init_time_model_query = time.time()
-        output = model(**encoded_input)
-        total_time_model_query = time.time() - init_time_model_query
-        model_queries_count += 1
-        # Iterate over each example in the batch to check the predictions.
-        init_time_example_iter = time.time()
-        for i, (mask_indices, candidates_to_ids, example_data) in enumerate(
-                zip(batch_mask_indices, batch_candidates_to_ids, batch_data)):
-            # This has the shape: [masks_count, vocab_size].
-            mask_predictions = output.last_hidden_state[i][
-                mask_indices.nonzero(as_tuple=True)]
-            candidates_to_prob = {}
-            # Each example has multiple possible candidates so we check the
-            # probability of each.
-            for candidate, token_ids in candidates_to_ids.items():
-                candidates_to_prob[candidate] = np.mean([
-                    mask_predictions[i][token_id]
-                    for i, token_id in enumerate(token_ids)
-                ])
-            candidates_and_prob = sorted(candidates_to_prob.items(),
-                                         key=lambda x: x[1])
-            correct_rank = np.argwhere(
-                np.array(candidates_and_prob)[:,
-                                              0] == example_data.object)[0][0]
-            results[example_data.language][example_data.relation][
-                f"{example_data.subject}-{example_data.object}"].append(
-                    (example_data.template, candidates_and_prob[0][0],
-                     correct_rank))
-        total_time_iter = time.time() - init_time_example_iter
-        wandb.log({
-            "Time model query":
-            total_time_model_query,
-            "Time iteration over batch examples":
-            total_time_iter,
-            "Average time checking the candidates of one example":
-            total_time_iter / len(batch_data)
-        })
+    for template_tuple_i, (inputs, candidates_to_ids,
+                           this_template_tuple) in enumerate(
+                               template_tuple_examples, 1):
+        candidates_to_prob = {}
+        for batch_i in range(0, len(inputs), args.batch_size):
+            input_batch = inputs[batch_i:min(len(inputs), batch_i +
+                                             args.batch_size)]
+            candidates_to_ids_batch = candidates_to_ids[
+                batch_i:min(len(inputs), batch_i + args.batch_size)]
+            encoded_input = tokenizer(input_batch,
+                                      padding=True,
+                                      return_tensors='pt')
+            encoded_input = encoded_input.to(args.device)
+            mask_indexes = torch.where(
+                encoded_input.input_ids == tokenizer.mask_token_id, 1, 0)
+            init_time_model_query = time.time()
+            output = model(**encoded_input)
+            total_time_model_query = time.time() - init_time_model_query
+            model_queries_count += 1
+            # Iterate over each example in the batch to check the predictions.
+            init_time_example_iter = time.time()
+            for i, (mask_indexes_i, candidates_to_ids_i) in enumerate(
+                    zip(mask_indexes, candidates_to_ids_batch)):
+                # This has the shape: [masks_count, vocab_size].
+                mask_predictions = output.logits[i][mask_indexes_i.nonzero(
+                    as_tuple=True)]
+                # Each example has multiple possible candidates so we check the
+                # probability of each.
+                for candidate, token_ids in candidates_to_ids_i.items():
+                    candidates_to_prob[candidate] = np.mean([
+                        mask_predictions[i][token_id].item()
+                        for i, token_id in enumerate(token_ids)
+                    ])
+            total_time_iter = time.time() - init_time_example_iter
+            wandb.log({
+                "Model inference time":
+                total_time_model_query,
+                "Total time iterating over batch examples":
+                total_time_iter,
+                "Average time checking the candidates of each example":
+                total_time_iter / len(input_batch)
+            })
+        candidates_and_prob = sorted(candidates_to_prob.items(),
+                                     key=lambda x: x[1])
+        correct_rank = np.argwhere(
+            np.array(candidates_and_prob)[:, 0] ==
+            this_template_tuple.object)[0][0]
+        results[this_template_tuple.language][this_template_tuple.relation][
+            f"{this_template_tuple.subject}-{this_template_tuple.object}"].append(
+                (this_template_tuple.template, candidates_and_prob[0][0],
+                 str(correct_rank)))
     wandb.run.summary["#model_queries"] = model_queries_count
+    wandb.run.summary["#template_tuple_examples"] = template_tuple_i
     write_predictions(results, args.output_folder)
 
 
@@ -234,6 +231,7 @@ def create_parser():
                         type=str,
                         required=True,
                         help="")
+    parser.add_argument("--device", default="cpu", type=str, help="")
     return parser
 
 
