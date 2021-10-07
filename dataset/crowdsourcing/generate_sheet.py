@@ -14,6 +14,7 @@ import json
 import os
 import time
 from collections import defaultdict
+from math import floor
 
 import gspread
 import numpy as np
@@ -21,7 +22,6 @@ import pandas as pd
 from logger_utils import get_logger
 from oauth2client.service_account import ServiceAccountCredentials
 from tqdm import tqdm
-
 
 LOG = get_logger(__name__)
 
@@ -34,7 +34,8 @@ SCOPES = [
 CREDENTIALS_PATH = '/home/wsr217/mpararel/dataset/crowdsourcing/credentials.json'
 REVIEWERS_SHEET = "1LT6qo2BwdDfRr1Eusq7avLysPg-yDmfIxM53bxACoY0"
 TEMPLATE_SHEET = "1JYKEM6t12VzlYO0pM543Rv1wozpEvlMkEzbYVY65yeU"
-SECONDS_PER_TEMPLATE = 3
+PERCENTAGE_TO_REVIEW = 0.4
+SECONDS_PER_TEMPLATE = 6
 CONTEXT_WORKSHEET = "Context"
 RELATION_TEMPLATE_WORKSHEET = "Relation template"
 PERSONAL_MAIL = "c.fierro@di.ku.dk"
@@ -56,7 +57,7 @@ def edit_context_description(sheet, reviewer_name, templates_count):
     context.update_cell(9, 2, example)
     time_expectation = context.cell(13, 2).value
     time_expectation = time_expectation.replace(
-        "<minutes>", str(templates_count * SECONDS_PER_TEMPLATE/60))
+        "<minutes>", str(templates_count * SECONDS_PER_TEMPLATE / 60))
     context.update_cell(13, 2, time_expectation)
 
 
@@ -68,6 +69,16 @@ def edit_relation_description(worksheet, relation_lemmas, tuples_examples):
     for i, (sub, obj) in enumerate(tuples_examples, 1):
         examples = examples.replace(f"<example_{i}>", f"{sub}, {obj}")
     worksheet.update_cell(2, 2, examples)
+
+
+def filter_longer_templates(relation_to_templates, percentage):
+    """Keeps the percentage portion of the templates sorted by length."""
+    for relation in relation_to_templates.keys():
+        templates_to_keep = floor(
+            len(relation_to_templates[relation]) * PERCENTAGE_TO_REVIEW)
+        templates_sorted = sorted(relation_to_templates[relation],
+                                  key=lambda t: len(t))
+        relation_to_templates[relation] = templates_sorted[:templates_to_keep]
 
 
 def main(args):
@@ -83,6 +94,7 @@ def main(args):
                 template = json.loads(line)
                 relation_to_templates[relation].append(template["pattern"])
                 total_templates += 1
+    filter_longer_templates(relation_to_templates, 0.4)
     relation_to_tuples = defaultdict(list)
     tuples_folder = os.path.join(args.mpararel_folder, "tuples",
                                  args.language_code)
@@ -126,7 +138,8 @@ def main(args):
                                   relation_to_tuples[relation])
         total_templates = len(relation_to_templates[relation])
         worksheet.update(f"B5:B{5+total_templates-2}",
-                         [[row] for row in relation_to_templates[relation][:-1]])
+                         [[row]
+                          for row in relation_to_templates[relation][:-1]])
         worksheet.update_cell(81, 2, relation_to_templates[relation][-1])
         # Remove extra templates rows.
         worksheet.delete_rows(5 + len(relation_to_templates[relation]) - 1, 80)
