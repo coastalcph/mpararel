@@ -1,10 +1,10 @@
 """Script to create a spreedsheet for review.
 
-python generate_sheet.py \
---mpararel_folder=$WORKDIR/data/mpararel_00_00_06_02_filter \
---pararel_patterns_folder=$WORKDIR/data/pararel/pattern_data/graphs_json \
---reviewer_name="constanza" --reviewer_mail="my_mail@gmail.com" \
---language_code="es"
+python dataset/crowdsourcing/generate_sheet.py \
+    --mpararel_folder=$WORKDIR/data/mpararel_00_00_06_02_logging \
+    --pararel_patterns_folder=$WORKDIR/data/pararel/pattern_data/graphs_json \
+    --reviewer_name="constanza" --reviewer_mail="my_mail@gmail.com" \
+    --language_code="es"
 """
 
 from __future__ import print_function
@@ -14,7 +14,7 @@ import json
 import os
 import time
 from collections import defaultdict
-from math import floor
+from math import ceil
 
 import gspread
 import numpy as np
@@ -35,10 +35,14 @@ CREDENTIALS_PATH = '/home/wsr217/mpararel/dataset/crowdsourcing/credentials.json
 REVIEWERS_SHEET = "1LT6qo2BwdDfRr1Eusq7avLysPg-yDmfIxM53bxACoY0"
 TEMPLATE_SHEET = "1JYKEM6t12VzlYO0pM543Rv1wozpEvlMkEzbYVY65yeU"
 PERCENTAGE_TO_REVIEW = 0.4
-SECONDS_PER_TEMPLATE = 6
+SECONDS_PER_TEMPLATE = 9
 CONTEXT_WORKSHEET = "Context"
 RELATION_TEMPLATE_WORKSHEET = "Relation template"
 PERSONAL_MAIL = "c.fierro@di.ku.dk"
+
+# Template coordinates
+REVIEWER_NAME_CONTEXT_COLUMN = 8
+TOTAL_TIME_CONTEXT_COLUMN = 20
 
 
 def create_copy_spreadsheet(client, sheet_to_copy, new_sheet_name,
@@ -52,13 +56,13 @@ def create_copy_spreadsheet(client, sheet_to_copy, new_sheet_name,
 
 def edit_context_description(sheet, reviewer_name, templates_count):
     context = sheet.worksheet(CONTEXT_WORKSHEET)
-    example = context.cell(9, 2).value
+    example = context.cell(REVIEWER_NAME_CONTEXT_COLUMN, 2).value
     example = example.replace("<reviewer_name>", reviewer_name)
-    context.update_cell(9, 2, example)
-    time_expectation = context.cell(13, 2).value
+    context.update_cell(REVIEWER_NAME_CONTEXT_COLUMN, 2, example)
+    time_expectation = context.cell(TOTAL_TIME_CONTEXT_COLUMN, 2).value
     time_expectation = time_expectation.replace(
-        "<minutes>", str(templates_count * SECONDS_PER_TEMPLATE / 60))
-    context.update_cell(13, 2, time_expectation)
+        "<minutes>", str(ceil(templates_count * SECONDS_PER_TEMPLATE / 60)))
+    context.update_cell(TOTAL_TIME_CONTEXT_COLUMN, 2, time_expectation)
 
 
 def edit_relation_description(worksheet, relation_lemmas, tuples_examples):
@@ -73,18 +77,20 @@ def edit_relation_description(worksheet, relation_lemmas, tuples_examples):
 
 def filter_longer_templates(relation_to_templates, percentage):
     """Keeps the percentage portion of the templates sorted by length."""
+    total_templates = 0
     for relation in relation_to_templates.keys():
-        templates_to_keep = floor(
-            len(relation_to_templates[relation]) * PERCENTAGE_TO_REVIEW)
+        templates_to_keep = max(
+            ceil(len(relation_to_templates[relation]) * percentage), 2)
         templates_sorted = sorted(relation_to_templates[relation],
                                   key=lambda t: len(t))
         relation_to_templates[relation] = templates_sorted[:templates_to_keep]
+        total_templates += templates_to_keep
+    return total_templates
 
 
 def main(args):
     LOG.info("Reading patterns, tuples, and relations descriptions...")
     relation_to_templates = defaultdict(list)
-    total_templates = 0
     relations_folder = os.path.join(args.mpararel_folder, "patterns",
                                     args.language_code)
     for relation_file in os.listdir(relations_folder):
@@ -93,8 +99,8 @@ def main(args):
             for line in templates:
                 template = json.loads(line)
                 relation_to_templates[relation].append(template["pattern"])
-                total_templates += 1
-    filter_longer_templates(relation_to_templates, 0.4)
+    total_templates = filter_longer_templates(relation_to_templates,
+                                              PERCENTAGE_TO_REVIEW)
     relation_to_tuples = defaultdict(list)
     tuples_folder = os.path.join(args.mpararel_folder, "tuples",
                                  args.language_code)
@@ -123,7 +129,7 @@ def main(args):
     client = gspread.authorize(creds)
     template_sheet = client.open_by_key(TEMPLATE_SHEET)
     sheet = create_copy_spreadsheet(
-        client, template_sheet, f"{args.language_code} {args.reviewer_name}",
+        client, template_sheet, f"{args.reviewer_name} - {args.language_code}",
         [args.reviewer_mail, PERSONAL_MAIL])
     LOG.info(f"Sheet created {sheet.url}")
     edit_context_description(sheet, args.reviewer_name, total_templates)
@@ -144,7 +150,7 @@ def main(args):
         # Remove extra templates rows.
         worksheet.delete_rows(5 + len(relation_to_templates[relation]) - 1, 80)
         # There's a maximum number of requests per minute in gspread.
-        time.sleep(4)
+        time.sleep(5)
     sheet.del_worksheet(sheet.worksheet(RELATION_TEMPLATE_WORKSHEET))
     worksheets = sheet.worksheets()
     worksheets.reverse()
