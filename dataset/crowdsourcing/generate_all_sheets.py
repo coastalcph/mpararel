@@ -42,7 +42,7 @@ def main(args):
 
     # Create spreadsheets.
     for _, name, mail, languages in form_answers:
-        for lang_name in languages.split(','):
+        for lang_name in languages.split(', '):
             key = name + mail + lang_name_to_code[lang_name]
             if key in created_sheets or lang_name_to_code[lang_name] == "en":
                 continue
