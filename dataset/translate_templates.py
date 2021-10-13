@@ -256,10 +256,15 @@ def export_counts_to_wandb(relation_to_lang_to_counts):
             columns=["Relation", "Language", "Result", "Templates count"])
     })
 
-
 def translate_folder(args):
     wiki_lang_to_translator_lang = get_wiki_language_mapping(
         args.language_mapping_file, args.translator)
+    if args.only_wiki_codes:
+        wiki_lang_to_translator_lang = {
+            k: v
+            for k, v in wiki_lang_to_translator_lang.items()
+            if k in args.only_wiki_codes
+        }
     translator = TRANSLATOR_TO_OBJECT[args.translator]
     init_wandb(args)
     wandb_log_table("relations", os.listdir(args.templates_folder))
@@ -351,6 +356,10 @@ def create_parser():
                                          default=0,
                                          type=int,
                                          required=True,
+                                         help="")
+    parser_translate_folder.add_argument("--only_wiki_codes",
+                                         nargs="*",
+                                         default=[],
                                          help="")
 
     parser_clean_dir = subparsers.add_parser('fix_translated_dirs')
