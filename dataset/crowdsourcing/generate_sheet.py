@@ -41,7 +41,7 @@ PERSONAL_MAIL = "c.fierro@di.ku.dk"
 
 # Template coordinates
 REVIEWER_NAME_CONTEXT_COLUMN = 8
-TOTAL_TIME_CONTEXT_COLUMN = 20
+TOTAL_TIME_CONTEXT_COLUMN = 22
 
 
 def create_copy_spreadsheet(client, sheet_to_copy, new_sheet_name,
@@ -74,15 +74,15 @@ def edit_relation_description(worksheet, relation_lemmas, tuples_examples):
     worksheet.update_cell(2, 2, examples)
 
 
-def filter_longer_templates(relation_to_templates, percentage):
-    """Keeps the percentage portion of the templates sorted by length."""
+def pick_percentage_randomly(relation_to_templates, percentage):
+    """Picks randomly the percentage of the templates for each relation."""
     total_templates = 0
     for relation in relation_to_templates.keys():
         templates_to_keep = max(
             ceil(len(relation_to_templates[relation]) * percentage), 2)
-        templates_sorted = sorted(relation_to_templates[relation],
-                                  key=lambda t: len(t))
-        relation_to_templates[relation] = templates_sorted[:templates_to_keep]
+        templates = np.array(relation_to_templates[relation])
+        np.random.shuffle(templates)
+        relation_to_templates[relation] = templates[:templates_to_keep]
         total_templates += templates_to_keep
     return total_templates
 
@@ -98,8 +98,8 @@ def main(args):
             for line in templates:
                 template = json.loads(line)
                 relation_to_templates[relation].append(template["pattern"])
-    total_templates = filter_longer_templates(relation_to_templates,
-                                              PERCENTAGE_TO_REVIEW)
+    total_templates = pick_percentage_randomly(relation_to_templates,
+                                               PERCENTAGE_TO_REVIEW)
     relation_to_tuples = defaultdict(list)
     tuples_folder = os.path.join(args.mpararel_folder, "tuples",
                                  args.language_code)
@@ -155,10 +155,10 @@ def main(args):
     worksheets.reverse()
     sheet.reorder_worksheets(worksheets)
 
-    # Add sheet url to
+    # Add sheet url.
     reviewers_worksheet = client.open_by_key(REVIEWERS_SHEET).get_worksheet(1)
     next_empty_row = len(reviewers_worksheet.col_values(1)) + 1
-    reviewers_worksheet.update(f"A{next_empty_row}:C{next_empty_row}", [[
+    reviewers_worksheet.update(f"A{next_empty_row}:D{next_empty_row}", [[
         args.language_code, args.reviewer_name, args.reviewer_mail, sheet.url
     ]])
 
