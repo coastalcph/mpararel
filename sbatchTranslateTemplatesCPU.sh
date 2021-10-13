@@ -11,6 +11,6 @@ mkdir -p ${WORKDIR}/data/multilingual_logging/pararel_bing
 python dataset/translate_templates.py translate_folder \
     --templates_folder ${WORKDIR}/data/pararel/pattern_data/graphs_json/ \
     --output_folder ${WORKDIR}/data/multilingual_logging/pararel_bing \
-    --language_mapping_file ${WORKDIR}/dataset/languages_mapping_2.txt \
+    --language_mapping_file ${WORKDIR}/dataset/languages_mapping.txt \
     --only_wiki_codes zh zh-classical \
     --translator bing

@@ -49,26 +49,19 @@ python dataset/translate_templates.py translate_folder \
 # faster with a GPU. Check https://github.com/UKPLab/EasyNMT#available-models
 
 # (6) Fix templates translations errors in place.
-cp -r ${WORKDIR}/data/multilingual/pararel_google ${WORKDIR}/data/multilingual/pararel_google_fixed
-cp -r ${WORKDIR}/data/multilingual/pararel_bing ${WORKDIR}/data/multilingual/pararel_bing_fixed
-cp -r ${WORKDIR}/data/multilingual/pararel_m2m100_big ${WORKDIR}/data/multilingual/pararel_m2m100_big_fixed
-cp -r ${WORKDIR}/data/multilingual/pararel_mbart50_en2m ${WORKDIR}/data/multilingual/pararel_mbart50_en2m_fixed
-cp -r ${WORKDIR}/data/multilingual/pararel_opus_mt ${WORKDIR}/data/multilingual/pararel_opus_mt_fixed
-
-cp -r ${WORKDIR}/data/multilingual/pararel_populated_google_with_metadata ${WORKDIR}/data/multilingual/pararel_populated_google_fixed
-cp -r ${WORKDIR}/data/multilingual/pararel_populated_bing_with_metadata ${WORKDIR}/data/multilingual/pararel_populated_bing_fixed
-cp -r ${WORKDIR}/data/multilingual/pararel_populated_m2m100_big_with_metadata ${WORKDIR}/data/multilingual/pararel_populated_m2m100_big_fixed
-cp -r ${WORKDIR}/data/multilingual/pararel_populated_mbart50_en2m_with_metadata ${WORKDIR}/data/multilingual/pararel_populated_mbart50_en2m_fixed
-cp -r ${WORKDIR}/data/multilingual/pararel_populated_opus_mt_with_metadata ${WORKDIR}/data/multilingual/pararel_populated_opus_mt_fixed
+cp -r ${WORKDIR}/data/multilingual_logging/pararel_google ${WORKDIR}/data/multilingual_logging/pararel_google_fixed
+cp -r ${WORKDIR}/data/multilingual_logging/pararel_bing ${WORKDIR}/data/multilingual_logging/pararel_bing_fixed
+cp -r ${WORKDIR}/data/multilingual_logging/pararel_m2m100_big ${WORKDIR}/data/multilingual_logging/pararel_m2m100_big_fixed
+cp -r ${WORKDIR}/data/multilingual_logging/pararel_mbart50_en2m ${WORKDIR}/data/multilingual_logging/pararel_mbart50_en2m_fixed
+cp -r ${WORKDIR}/data/multilingual_logging/pararel_opus_mt ${WORKDIR}/data/multilingual_logging/pararel_opus_mt_fixed
 python dataset/translate_templates.py fix_translated_dirs \
-	--templates_folder_glob=${WORKDIR}/data/multilingual/pararel_*_fixed
+	--templates_folder_glob=${WORKDIR}/data/multilingual_logging/pararel_*_fixed
 
 # (7) Copy only clean and valid templates and relations to an output folder.
 python dataset/cleanup.py \
     --tuples_folder ${WORKDIR}/data/multilingual/t_rex_translation \
-	--templates_folders_glob=${WORKDIR}/data/multilingual/pararel*fixed \
+	--templates_folders_glob=${WORKDIR}/data/multilingual_logging/pararel*fixed \
     --out_folder ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/
-rm -r ${WORKDIR}/data/multilingual/pararel_*_fixed
 
 # (8) Create the mParaRel resource by selecting the agreed template translations
 # and the languages with a minimum coverage.
@@ -79,7 +72,7 @@ python dataset/create_mpararel.py \
 	--min_phrases_per_relation 0.0 \
 	--min_relations_count 0.6 \
 	--min_total_phrases 0.2 \
-	--out_folder ${WORKDIR}/data/mpararel_00_00_06_02_filter/patterns
-mkdir ${WORKDIR}/data/mpararel_00_00_06_02_filter/tuples
-mv ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/tuples ${WORKDIR}/data/mpararel_00_00_06_02_filter/tuples
+	--out_folder ${WORKDIR}/data/mpararel_no_populated/patterns
+	--wandb_run_name mpararel_no_populated_with_chinese
+mv ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/tuples ${WORKDIR}/data/mpararel_no_populated/
 rm -r ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/

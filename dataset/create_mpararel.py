@@ -1,5 +1,16 @@
 """Writes mpararel dataset files based on the agreements between multiple
 translations.
+
+python dataset/create_mpararel.py \
+	--translations_folders_glob=${WORKDIR}/data/cleaned_mtrex_and_mpatterns/patterns/* \
+	--tuples_folder ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/tuples \
+    --pararel_patterns_folder=$WORKDIR/data/pararel/pattern_data/graphs_json \
+	--min_templates_per_relation 0.0 \
+	--min_phrases_per_relation 0.0 \
+	--min_relations_count 0.6 \
+	--min_total_phrases 0.2 \
+	--out_folder ${WORKDIR}/data/<some_folder>/patterns
+	--wandb_run_name <run_name>
 """
 import argparse
 import json
@@ -14,32 +25,7 @@ from tqdm import tqdm
 
 LOG = get_logger(__name__)
 
-
-def filter_repeated_across_relations(agreed_translations,
-                                     language_and_relation_counts):
-    """Filters repeated templates across relations.
-    
-    Really simple and short templates are created by the populated translation
-    algorithm and are common in different relations, example [X] is [Y].
-    """
-    for i in range(len(language_and_relation_counts)):
-        (language, relation, agreed_templates_count,
-         translators_count) = language_and_relation_counts[i]
-        remove_templates = set()
-        for template in agreed_translations[language][relation]:
-            for other_relation, other_templates in agreed_translations[
-                    language].items():
-                if other_relation == relation:
-                    continue
-                if template in other_templates:
-                    remove_templates.add(template)
-        agreed_templates_count -= len(remove_templates)
-        for template in remove_templates:
-            agreed_translations[language][relation].remove(template)
-        language_and_relation_counts[i] = (language, relation,
-                                           agreed_templates_count,
-                                           translators_count)
-    return agreed_translations, language_and_relation_counts
+DOUBLE_VOTE_KEYWORD = "_2vote"
 
 
 def get_agreed_translations_and_stats(translations_folders):
@@ -48,13 +34,15 @@ def get_agreed_translations_and_stats(translations_folders):
         for x in os.listdir(os.path.join(translations_folders[0], "en"))
     ]
     language_and_relation_counts = []
-    agreed_translations = defaultdict(lambda: defaultdict(set))
+    agreed_translations = defaultdict(lambda: defaultdict(list))
     for relation in tqdm(relations):
-        lang_to_translations_to_votes = defaultdict(lambda: defaultdict(int))
+        lang_to_translations_to_votes = defaultdict(lambda: defaultdict(set))
         lang_to_translators_count = defaultdict(int)
         all_languages = set()
         for translation_folder in translations_folders:
             for language_dirname in os.listdir(translation_folder):
+                if language_dirname == "en":
+                    continue
                 all_languages.add(language_dirname)
                 patterns_file = os.path.join(translation_folder,
                                              language_dirname,
@@ -65,27 +53,27 @@ def get_agreed_translations_and_stats(translations_folders):
                 with open(patterns_file) as patterns:
                     for line in patterns:
                         data = json.loads(line)
-                        vote = 1
+                        vote = [os.path.basename(translation_folder)]
                         if ("bing" in translation_folder
                                 and not "populated" in translation_folder):
-                            vote = 2
+                            vote.append(
+                                os.path.basename(translation_folder) +
+                                DOUBLE_VOTE_KEYWORD)
                         lang_to_translations_to_votes[language_dirname][
-                            data["pattern"]] += vote
+                            data["pattern"]].extend(vote)
         for language in all_languages:
             translations_to_votes = lang_to_translations_to_votes[language]
             agreed_templates_count = 0
             for template_translation, votes in translations_to_votes.items():
-                if votes > 1:
+                if len(votes) > 1:
                     agreed_templates_count += 1
-                    agreed_translations[language][relation].add(
-                        template_translation)
+                    agreed_translations[language][relation].append(
+                        (template_translation, votes))
             language_and_relation_counts.append(
                 (language, relation, agreed_templates_count,
                  lang_to_translators_count[language]))
-    agreed_translations, counts = filter_repeated_across_relations(
-        agreed_translations, language_and_relation_counts)
     return (agreed_translations,
-            pd.DataFrame(counts,
+            pd.DataFrame(language_and_relation_counts,
                          columns=[
                              'language', 'relation', 'agreed_templates_count',
                              'translators_count'
@@ -117,6 +105,27 @@ def add_tuples_counts(df, tuples_folder):
                     lang_relation_tuples_count,
                     on=["language", "relation"],
                     how="left")
+
+
+def add_english_stats(df, agreed_translations, pararel_patterns_folder):
+    # 'language', 'relation', 'agreed_templates_count', 'translators_count'
+    en_columns = []
+    for relation_file in os.listdir(pararel_patterns_folder):
+        relation = relation_file[:-len(".jsonl")]
+        with open(os.path.join(pararel_patterns_folder,
+                               relation_file)) as pararel_patterns:
+            for line in pararel_patterns:
+                json_dict = json.loads(line)
+                agreed_translations["en"][relation].add(
+                    (json_dict["pattern"], 0))
+            en_columns.append(
+                ("en", relation, len(agreed_translations["en"][relation]), 0))
+    en_df = pd.DataFrame(en_columns,
+                         columns=[
+                             'language', 'relation', 'agreed_templates_count',
+                             'translators_count'
+                         ])
+    return agreed_translations, pd.concat([df, en_df])
 
 
 def add_ratio_column(df, count_column, base_lang="en"):
@@ -167,24 +176,44 @@ def write_mpararel(df_valid, agreed_translations, out_folder):
     for language in df_valid.language.unique():
         for relation in df_valid[df_valid.language ==
                                  language].relation.unique():
-            templates = agreed_translations[language][relation]
             this_folder = os.path.join(out_folder, language)
             os.makedirs(this_folder, exist_ok=True)
             with open(os.path.join(this_folder, relation + ".jsonl"),
                       'w') as fout:
-                for template in templates:
+                for template, _ in agreed_translations[language][relation]:
                     fout.write("{}\n".format(json.dumps({"pattern":
                                                          template})))
 
 
 def log_statistics(df_valid, agreed_translations):
     df_data = []
+    translators_count_to_patterns_count = defaultdict(int)
     for language in df_valid.language.unique():
         for relation in df_valid[df_valid.language ==
                                  language].relation.unique():
-            templates = agreed_translations[language][relation]
+            templates = []
+            for template, translators in agreed_translations[language][
+                    relation]:
+                templates.append(template)
+                translators_count = len([
+                    t for t in translators
+                    if not t.endswith(DOUBLE_VOTE_KEYWORD)
+                ])
+                translators_count_to_patterns_count[translators_count] += 1
             #TODO: add syntactic and lexical variation.
             df_data.append((language, relation, len(templates)))
+
+    # Log statistics of the number of translators.
+    wandb.log({
+        "translators_count_by_pattern":
+        wandb.plot.bar(
+            wandb.Table(translators_count_to_patterns_count.items(),
+                        columns=["#translators", "#patterns"]),
+            "#translators",
+            "#patterns",
+            title="Number of patterns that were agreed by X translators")
+    })
+    # Log statistics about #patterns in each relation.
     df = pd.DataFrame(df_data, columns=["lang", "relation", "count_patterns"])
     wandb.run.summary["min #patterns in a relation"] = df[
         "count_patterns"].min()
@@ -192,6 +221,8 @@ def log_statistics(df_valid, agreed_translations):
         "count_patterns"].max()
     wandb.run.summary["avg #patterns in a relation"] = df[
         "count_patterns"].mean()
+
+    # Log statistics per language.
     data = []
     columns = [
         "language", "#relations", "min #patterns", "max #patterns",
@@ -248,6 +279,12 @@ def main():
         " named by language code, where each inside has a file for each "
         "relation tuples.")
     parser.add_argument(
+        "--pararel_patterns_folder",
+        default=None,
+        type=str,
+        required=True,
+        help="The path to the folder with the pararel json patterns.")
+    parser.add_argument(
         "--min_templates_per_relation",
         type=float,
         default=0.0,
@@ -299,6 +336,9 @@ def main():
 
     log_translators_count_per_template(
         len(glob(args.translations_folders_glob)), df)
+
+    agreed_translations, df = add_english_stats(df, agreed_translations,
+                                                args.pararel_patterns_folder)
 
     df = add_tuples_counts(df, args.tuples_folder)
     df["phrases_count"] = df["agreed_templates_count"] * df["tuples_count"]
