@@ -256,6 +256,7 @@ def export_counts_to_wandb(relation_to_lang_to_counts):
             columns=["Relation", "Language", "Result", "Templates count"])
     })
 
+
 def translate_folder(args):
     wiki_lang_to_translator_lang = get_wiki_language_mapping(
         args.language_mapping_file, args.translator)
@@ -355,7 +356,6 @@ def create_parser():
     parser_translate_folder.add_argument("--skip_first_k_relations",
                                          default=0,
                                          type=int,
-                                         required=True,
                                          help="")
     parser_translate_folder.add_argument("--only_wiki_codes",
                                          nargs="*",
