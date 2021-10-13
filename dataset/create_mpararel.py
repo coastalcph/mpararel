@@ -9,7 +9,7 @@ python dataset/create_mpararel.py \
 	--min_phrases_per_relation 0.0 \
 	--min_relations_count 0.6 \
 	--min_total_phrases 0.2 \
-	--out_folder ${WORKDIR}/data/<some_folder>/patterns
+	--out_folder ${WORKDIR}/data/<some_folder>/patterns \
 	--wandb_run_name <run_name>
 """
 import argparse
@@ -60,7 +60,7 @@ def get_agreed_translations_and_stats(translations_folders):
                                 os.path.basename(translation_folder) +
                                 DOUBLE_VOTE_KEYWORD)
                         lang_to_translations_to_votes[language_dirname][
-                            data["pattern"]].extend(vote)
+                            data["pattern"]].update(vote)
         for language in all_languages:
             translations_to_votes = lang_to_translations_to_votes[language]
             agreed_templates_count = 0
@@ -116,8 +116,11 @@ def add_english_stats(df, agreed_translations, pararel_patterns_folder):
                                relation_file)) as pararel_patterns:
             for line in pararel_patterns:
                 json_dict = json.loads(line)
-                agreed_translations["en"][relation].add(
-                    (json_dict["pattern"], 0))
+                agreed_translations["en"][relation].append(
+                    (json_dict["pattern"], []))
+            if len(agreed_translations["en"][relation]) == 1:
+                agreed_translations["en"].pop(relation)
+                continue
             en_columns.append(
                 ("en", relation, len(agreed_translations["en"][relation]), 0))
     en_df = pd.DataFrame(en_columns,
@@ -165,9 +168,10 @@ def get_valid_langs(language_and_counts, min_en_fraction,
     min_count = en_relations_count * min_en_fraction
     valid_languages = set(
         valid_df[valid_df['this_count'] >= min_count].language.values)
-    LOG.info("{} languages have >= {}*{} number of {}".format(
+    LOG.info("The following {} languages have >= {}*{} number of {}".format(
         len(valid_languages), en_relations_count, min_en_fraction,
         min_description_text))
+    LOG.info(valid_languages)
     return valid_languages
 
 
@@ -207,7 +211,7 @@ def log_statistics(df_valid, agreed_translations):
     wandb.log({
         "translators_count_by_pattern":
         wandb.plot.bar(
-            wandb.Table(translators_count_to_patterns_count.items(),
+            wandb.Table(data=list(translators_count_to_patterns_count.items()),
                         columns=["#translators", "#patterns"]),
             "#translators",
             "#patterns",
