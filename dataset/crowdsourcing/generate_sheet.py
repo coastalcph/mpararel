@@ -18,7 +18,6 @@ from math import ceil
 
 import gspread
 import numpy as np
-import pandas as pd
 from logger_utils import get_logger
 from oauth2client.service_account import ServiceAccountCredentials
 from tqdm import tqdm
@@ -159,9 +158,9 @@ def main(args):
     # Add sheet url to
     reviewers_worksheet = client.open_by_key(REVIEWERS_SHEET).get_worksheet(1)
     next_empty_row = len(reviewers_worksheet.col_values(1)) + 1
-    reviewers_worksheet.update(
-        f"A{next_empty_row}:C{next_empty_row}",
-        [[args.language_code, args.reviewer_name, sheet.url]])
+    reviewers_worksheet.update(f"A{next_empty_row}:C{next_empty_row}", [[
+        args.language_code, args.reviewer_name, args.reviewer_mail, sheet.url
+    ]])
 
 
 def create_parser():
