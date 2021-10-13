@@ -39,12 +39,15 @@ def main(args):
     created_sheets = set([
         lang_code + name + mail for lang_code, name, mail, _ in created_sheets
     ])
+    LOG.info("Already created sheets: {}".format(created_sheets))
 
     # Create spreadsheets.
     for _, name, mail, languages in form_answers:
         for lang_name in languages.split(', '):
-            key = name + mail + lang_name_to_code[lang_name]
+            key = lang_name_to_code[lang_name] + name + mail
             if key in created_sheets or lang_name_to_code[lang_name] == "en":
+                LOG.info("Ignoring (already created or 'en'): {} {} {}".format(
+                    name, mail, lang_name))
                 continue
             args.reviewer_name = name
             args.reviewer_mail = mail
