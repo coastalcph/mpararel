@@ -15,11 +15,16 @@ from dataclasses import dataclass
 
 import numpy as np
 import torch
+import torch.multiprocessing as mp
 import wandb
 from dataset.constants import OBJECT_KEY, SUBJECT_KEY
 from logger_utils import get_logger
 from tqdm import tqdm
-import torch.multiprocessing as mp
+
+try:
+    mp.set_start_method('spawn')
+except RuntimeError:
+    pass
 from transformers import AutoModelForMaskedLM, AutoTokenizer
 
 LOG = get_logger(__name__)
@@ -156,11 +161,11 @@ def main(args):
         args.device = "cuda:" + str(torch.cuda.current_device())
     # Pararelism variables needed.
     os.environ["TOKENIZERS_PARALLELISM"] = "false"
-    mp.set_start_method('spawn')
-    processes_pool = mp.Pool(args.cpus)
+    processes_pool = mp.Pool(processes=args.cpus)
 
     model, tokenizer = build_model_by_name(args.model_name, args.device)
-    results = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+    tuples_predictions = defaultdict(
+        lambda: defaultdict(lambda: defaultdict(list)))
     languages = os.listdir(os.path.join(args.mpararel_folder, "patterns"))
     relations = os.listdir(os.path.join(args.mpararel_folder, "tuples", "en"))
     get_candidates = lambda lang, relation: get_items(
@@ -200,10 +205,10 @@ def main(args):
             threads_args = [(output.logits[i], m, c) for i, (
                 m, c) in enumerate(zip(mask_indexes, candidates_to_ids_batch))]
             # We check the predictions of each example concurrently.
-            results = processes_pool.map(get_candidates_probabilities,
-                                         threads_args)
-            for result in results:
-                for candidate, probability in result.items():
+            processes_results = processes_pool.starmap(
+                get_candidates_probabilities, threads_args)
+            for process_result in processes_results:
+                for candidate, probability in process_result.items():
                     candidates_to_prob[candidate] = probability
             processes_pool.close()
             processes_pool.join()
@@ -224,13 +229,14 @@ def main(args):
         correct_rank = np.argwhere(
             np.array(candidates_and_prob)[:, 0] ==
             this_template_tuple.object)[0][0]
-        results[this_template_tuple.language][this_template_tuple.relation][
-            f"{this_template_tuple.subject}-{this_template_tuple.object}"].append(
-                (this_template_tuple.template, candidates_and_prob[0][0],
-                 str(correct_rank)))
+        tuples_predictions[this_template_tuple.language][
+            this_template_tuple.relation][
+                f"{this_template_tuple.subject}-{this_template_tuple.object}"].append(
+                    (this_template_tuple.template, candidates_and_prob[0][0],
+                     str(correct_rank)))
     wandb.run.summary["#model_queries"] = model_queries_count
     wandb.run.summary["#template_tuple_examples"] = template_tuple_i
-    write_predictions(results, args.output_folder)
+    write_predictions(tuples_predictions, args.output_folder)
 
 
 def create_parser():
