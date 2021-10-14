@@ -19,6 +19,7 @@ import wandb
 from dataset.constants import OBJECT_KEY, SUBJECT_KEY
 from logger_utils import get_logger
 from tqdm import tqdm
+import multiprocessing
 from transformers import AutoModelForMaskedLM, AutoTokenizer
 
 LOG = get_logger(__name__)
@@ -44,17 +45,17 @@ class GenerateTemplateTupleExamples():
         self.get_tuples = get_tuples
 
     def __iter__(self):
-        """Yields the encoded batch, the indices of the masks, and the targets.
+        """Yields the encoded batch, the indices of the masks, and the target.
+
+        Each batch will contain examples of only one template and tuple, but
+        they may have different number of masks.
 
         Returns:
-            encoded_input: The tokenized batch
-            mask_indexes: Tensor of same shape than encoded_input.input_ids with
-                1's if the token is a mask and 0 if not.
-            batch_candidates_to_ids: List[Dict], the list contains a dict for
-                each example of the batch mapping from the possible objects
-                strings to its tokens ids.
-            batch_data: List[TemplateTuple] containing the data that defines
-                each example in the batch.
+            encoded_input: The tokenized batch.
+            candidates_to_ids: List[Dict], list contains a dict for each
+                example of the batch mapping from the possible objects strings
+                to its tokens ids.
+            template_tuple: TemplateTuple
         """
         inputs, candidates_to_ids = [], []
         for i, language in tqdm(enumerate(self.languages, 1)):
@@ -112,6 +113,22 @@ def get_populated_template(template, tuple, mask_token, mask_token_count):
     return template
 
 
+def get_candidates_probabilities(logits_i, mask_indexes_i,
+                                 candidates_to_ids_i):
+    """Returns the probabilities of each candidate."""
+    candidates_to_prob = {}
+    # This has the shape: [masks_count, vocab_size].
+    masks_probabilities = logits_i[mask_indexes_i.nonzero(as_tuple=True)]
+    # Each example has multiple possible candidates so we check the
+    # probability of each.
+    for candidate, token_ids in candidates_to_ids_i.items():
+        candidates_to_prob[candidate] = np.mean([
+            masks_probabilities[i][token_id].item()
+            for i, token_id in enumerate(token_ids)
+        ])
+    return candidates_to_prob
+
+
 def write_predictions(results, output_folder):
     for language, relation_to_predictions in results.items():
         os.makedirs(os.path.join(output_folder, language), exist_ok=True)
@@ -137,6 +154,7 @@ def main(args):
     if torch.cuda.is_available():
         LOG.info("Using GPU")
         args.device = "cuda:" + str(torch.cuda.current_device())
+    processes_pool = multiprocessing.Pool(args.cpus)
     model, tokenizer = build_model_by_name(args.model_name, args.device)
     results = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
     languages = os.listdir(os.path.join(args.mpararel_folder, "patterns"))
@@ -172,20 +190,16 @@ def main(args):
             output = model(**encoded_input)
             total_time_model_query = time.time() - init_time_model_query
             model_queries_count += 1
-            # Iterate over each example in the batch to check the predictions.
             init_time_example_iter = time.time()
-            for i, (mask_indexes_i, candidates_to_ids_i) in enumerate(
-                    zip(mask_indexes, candidates_to_ids_batch)):
-                # This has the shape: [masks_count, vocab_size].
-                mask_predictions = output.logits[i][mask_indexes_i.nonzero(
-                    as_tuple=True)]
-                # Each example has multiple possible candidates so we check the
-                # probability of each.
-                for candidate, token_ids in candidates_to_ids_i.items():
-                    candidates_to_prob[candidate] = np.mean([
-                        mask_predictions[i][token_id].item()
-                        for i, token_id in enumerate(token_ids)
-                    ])
+            # Each arg corresponds to one example in the batch.
+            threads_args = [(output.logits[i], m, c) for i, (
+                m, c) in enumerate(zip(mask_indexes, candidates_to_ids_batch))]
+            # We check the predictions of each example concurrently.
+            results = processes_pool.map(get_candidates_probabilities,
+                                         threads_args)
+            for result in results:
+                for candidate, probability in result.items():
+                    candidates_to_prob[candidate] = probability
             total_time_iter = time.time() - init_time_example_iter
             wandb.log({
                 "Model inference time":
@@ -195,8 +209,10 @@ def main(args):
                 "Average time checking the candidates of each example":
                 total_time_iter / len(input_batch)
             })
+        # Sort in descending probability.
         candidates_and_prob = sorted(candidates_to_prob.items(),
-                                     key=lambda x: x[1])
+                                     key=lambda x: x[1],
+                                     reverse=True)
         correct_rank = np.argwhere(
             np.array(candidates_and_prob)[:, 0] ==
             this_template_tuple.object)[0][0]
@@ -222,6 +238,11 @@ def create_parser():
                         required=True,
                         help="")
     parser.add_argument("--batch_size",
+                        default=None,
+                        type=int,
+                        required=True,
+                        help="")
+    parser.add_argument("--cpus",
                         default=None,
                         type=int,
                         required=True,
