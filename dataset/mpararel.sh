@@ -72,7 +72,7 @@ python dataset/create_mpararel.py \
 	--min_phrases_per_relation 0.0 \
 	--min_relations_count 0.6 \
 	--min_total_phrases 0.2 \
-	--out_folder ${WORKDIR}/data/mpararel_no_populated/patterns
+	--out_folder ${WORKDIR}/data/mpararel_no_populated_with_chinese/patterns
 	--wandb_run_name mpararel_no_populated_with_chinese
-mv ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/tuples ${WORKDIR}/data/mpararel_no_populated/
+mv ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/tuples ${WORKDIR}/data/mpararel_no_populated_with_chinese/
 rm -r ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/
