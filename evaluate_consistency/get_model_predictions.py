@@ -185,6 +185,7 @@ def main(args):
                                template_tuple_examples, 1):
         candidates_to_prob = {}
         for batch_i in range(0, len(inputs), args.batch_size):
+            # Prepare the batch.
             input_batch = inputs[batch_i:min(len(inputs), batch_i +
                                              args.batch_size)]
             candidates_to_ids_batch = candidates_to_ids[
@@ -195,6 +196,7 @@ def main(args):
             encoded_input = encoded_input.to(args.device)
             mask_indexes = torch.where(
                 encoded_input.input_ids == tokenizer.mask_token_id, 1, 0)
+            # Query the model.
             init_time_model_query = time.time()
             with torch.no_grad():
                 output = model(**encoded_input)
@@ -210,9 +212,6 @@ def main(args):
             for process_result in processes_results:
                 for candidate, probability in process_result.items():
                     candidates_to_prob[candidate] = probability
-            processes_pool.close()
-            processes_pool.join()
-
             total_time_iter = time.time() - init_time_example_iter
             wandb.log({
                 "Model inference time":
@@ -234,6 +233,8 @@ def main(args):
                 f"{this_template_tuple.subject}-{this_template_tuple.object}"].append(
                     (this_template_tuple.template, candidates_and_prob[0][0],
                      str(correct_rank)))
+    processes_pool.close()
+    processes_pool.join()
     wandb.run.summary["#model_queries"] = model_queries_count
     wandb.run.summary["#template_tuple_examples"] = template_tuple_i
     write_predictions(tuples_predictions, args.output_folder)
