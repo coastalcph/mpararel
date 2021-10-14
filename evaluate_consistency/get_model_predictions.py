@@ -19,7 +19,7 @@ import wandb
 from dataset.constants import OBJECT_KEY, SUBJECT_KEY
 from logger_utils import get_logger
 from tqdm import tqdm
-import multiprocessing
+import torch.multiprocessing as mp
 from transformers import AutoModelForMaskedLM, AutoTokenizer
 
 LOG = get_logger(__name__)
@@ -154,7 +154,11 @@ def main(args):
     if torch.cuda.is_available():
         LOG.info("Using GPU")
         args.device = "cuda:" + str(torch.cuda.current_device())
-    processes_pool = multiprocessing.Pool(args.cpus)
+    # Pararelism variables needed.
+    os.environ["TOKENIZERS_PARALLELISM"] = "false"
+    mp.set_start_method('spawn')
+    processes_pool = mp.Pool(args.cpus)
+
     model, tokenizer = build_model_by_name(args.model_name, args.device)
     results = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
     languages = os.listdir(os.path.join(args.mpararel_folder, "patterns"))
@@ -187,7 +191,8 @@ def main(args):
             mask_indexes = torch.where(
                 encoded_input.input_ids == tokenizer.mask_token_id, 1, 0)
             init_time_model_query = time.time()
-            output = model(**encoded_input)
+            with torch.no_grad():
+                output = model(**encoded_input)
             total_time_model_query = time.time() - init_time_model_query
             model_queries_count += 1
             init_time_example_iter = time.time()
@@ -200,6 +205,9 @@ def main(args):
             for result in results:
                 for candidate, probability in result.items():
                     candidates_to_prob[candidate] = probability
+            processes_pool.close()
+            processes_pool.join()
+
             total_time_iter = time.time() - init_time_example_iter
             wandb.log({
                 "Model inference time":
