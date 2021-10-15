@@ -1,0 +1,14 @@
+{"pattern": "[X] - \u0430\u0441\u0442\u0430\u043d\u0430\u0441\u044b [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] \u0430\u0441\u0442\u0430\u043d\u0430\u0441\u044b [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "\u0410\u0441\u0442\u0430\u043d\u0430\u0441\u044b [Y] [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] - \u0430\u0441\u0442\u0430\u043d\u0430\u043b\u044b\u049b \u049b\u0430\u043b\u0430.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] '' 'kapeal, [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] ''s Capital city, [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] ''s capity [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y]'s capity city [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], \u0430\u0441\u0442\u0430\u043d\u0430\u0441\u044b [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], \u0430\u0441\u0442\u0430\u043d\u0430\u043b\u044b\u049b \u049b\u0430\u043b\u0430 [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], \u044f\u0493\u043d\u0438 [Y] \u0430\u0441\u0442\u0430\u043d\u0430\u0441\u044b.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], \u0431\u04b1\u043b \u0430\u0441\u0442\u0430\u043d\u0430\u043b\u044b\u049b \u049b\u0430\u043b\u0430.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], \u043e\u043d\u044b\u04a3 \u0430\u0441\u0442\u0430\u043d\u0430\u0441\u044b \u0431\u0430\u0440 [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], \u049b\u0430\u0439\u0441\u044b\u0441\u044b \u0430\u0441\u0442\u0430\u043d\u0430\u0441\u044b \u0431\u0430\u0440 [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

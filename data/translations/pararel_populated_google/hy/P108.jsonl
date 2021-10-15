@@ -1,0 +1,12 @@
+{"pattern": "[X] \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [Y] \u056b \u0570\u0561\u0574\u0561\u0580:", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [Y] \u0570\u0561\u0574\u0561\u0580:", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] \u0576 \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [Y] \u056b \u0570\u0561\u0574\u0561\u0580:", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] \u0578\u057e \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [Y] \u056b \u0570\u0561\u0574\u0561\u0580:", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] \u0578\u057e \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [Y] \u0570\u0561\u0574\u0561\u0580:", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [Y] \u056b \u056f\u0578\u0572\u0574\u056b\u0581:", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] \u0576 \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [Y] \u056b \u056f\u0578\u0572\u0574\u056b\u0581:", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] \u0578\u057e \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [Y] \u056b \u056f\u0578\u0572\u0574\u056b\u0581:", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] \u0578\u057e \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] \u0561\u0577\u056d\u0561\u057f\u0578\u0582\u0574 \u0567 [Y] \u0578\u057e:", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

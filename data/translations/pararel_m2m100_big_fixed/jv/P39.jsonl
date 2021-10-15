@@ -1,0 +1,6 @@
+{"pattern": "[X] duwe posisi saka [Y].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X], kang duwe posisi saka [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X], kang posisi iku saka [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "Tiyang-tiyangipun ingkang gadhah, ingkang gadhahipun ingkang gadhah.", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X], kang njaluk posisi saka [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] nglakoni posisi saka [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

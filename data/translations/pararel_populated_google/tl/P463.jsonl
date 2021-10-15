@@ -1,0 +1,23 @@
+{"pattern": "Ang [X] ay miyembro ng [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "Ang [X] ay isang miyembro ng [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] ay miyembro ng [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] ay isang miyembro ng [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "Si [X] ay miyembro ng [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "Ang [X] ay kabilang sa samahan ng [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] ay kabilang sa samahan ng [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] ay kabilang sa organisasyon ng [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "Ang [X] ay bahagi ng [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] ay bahagi ng [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "Ang [X] ay bahagi ng organisasyon ng [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] ay bahagi ng organisasyon ng [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "Si [X] ay bahagi ng organisasyon ng [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "Ang [X] ay kaakibat sa [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] ay kaakibat sa [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "Ang [X] ay kaakibat [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] ay kaakibat [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "Ang [X] ay [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] ay kaakibat ng [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "Ang [X] ay kaakibat sa organisasyon ng [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
+{"pattern": "[X] ay kaakibat sa organisasyon ng [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
+{"pattern": "Ang [X] ay kaakibat sa [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
+{"pattern": "[X] ay kaakibat sa [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

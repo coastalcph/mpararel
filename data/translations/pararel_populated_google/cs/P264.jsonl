@@ -1,0 +1,50 @@
+{"pattern": "[X] hudebn\u00edm [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] je reprezentov\u00e1n hudebn\u00edm [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] hudebn\u00edm popiskem [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] jsou reprezentov\u00e1ny [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] je reprezentov\u00e1n hudebn\u00edm popiskem [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] hudebn\u00edm \u0161t\u00edtkem [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] je reprezentov\u00e1n [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] z\u00e1znamov\u00fdm [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u0161t\u00edtkem [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] jsou reprezentov\u00e1ny [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] jsou reprezentov\u00e1ny [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] je reprezentov\u00e1na [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] kter\u00fd je reprezentov\u00e1n [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] je reprezentov\u00e1no [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] kter\u00e9 [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] kter\u00fd je reprezentov\u00e1n [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] kter\u00e9 jsou reprezentov\u00e1ny [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Hudebn\u00ed ozna\u010den\u00ed p\u0159edstavuj\u00edc\u00ed [X] je [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Hudebn\u00ed popis p\u0159edstavuj\u00edc\u00ed [X] je [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Hudebn\u00ed \u0161t\u00edtek, kter\u00fd [X] je [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "Hudebn\u00ed \u0161t\u00edtek, kter\u00fd p\u0159edstavuje [X] je [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "\u0160t\u00edtek [X] je [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "Z\u00e1znamov\u00fd \u0161t\u00edtek [X] je [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] Record Label je [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "Record [X] je [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Record Company [X] je [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] Record Company je [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] spole\u010dnost je [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Hudebn\u00ed \u0161t\u00edtek [X] je [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "Hudebn\u00ed [X] je [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] pro [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] zaznamenan\u00e9 pro [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] Label: [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X] vydan\u00fd [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] vydan\u00e9 [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] nahr\u00e1v\u00e1n\u00ed um\u011blc\u016f [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] nahr\u00e1v\u00e1n\u00ed [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] um\u011blci, jako [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] um\u011blci, jako je [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] jako je [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] um\u011blci, jako jsou [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] jako [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] um\u011blci v\u010detn\u011b [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

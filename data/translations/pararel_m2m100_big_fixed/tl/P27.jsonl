@@ -1,0 +1,9 @@
+{"pattern": "[X] ay isa sa mga tao.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[X] ay isang citizen ng [Y]", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X], isang tao sa [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X], kung saan ay isang citizen ng [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X] ay may isang citizenship ng [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] ay may isang citizenship ng [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X], kung saan ay may isang citizen ng [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X], kung saan ay may isang citizen ng [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "Ako ay isang manlalaro ng [Y], [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

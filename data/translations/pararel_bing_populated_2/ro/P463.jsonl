@@ -1,0 +1,13 @@
+{"pattern": "[X] este [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] este membru al [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] este membru [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] face parte din [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] face parte din organiza\u021bia [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] apar\u021bine organiza\u021biei [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] face parte din organiza\u021bia [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] este [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] este afiliat\u0103 la [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] este afiliat [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] este afiliat cu [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] este afiliat\u0103 la organiza\u021bia [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
+{"pattern": "[X] este afiliat la organiza\u021bia [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

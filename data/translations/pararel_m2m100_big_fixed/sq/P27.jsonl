@@ -1,0 +1,9 @@
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb qytetar [Y]", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb qytetar i [Y]", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "Qytetari i [X]hennetit,", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X], i cili \u00ebsht\u00eb qytetar i [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "Qytetar\u00ebt e Qytetar\u00ebve t\u00eb Qytetar\u00ebve t\u00eb Qytetar\u00ebve t\u00eb Qytetar\u00ebve t\u00eb Qytetar\u00ebve t\u00eb Qytetar\u00ebve t\u00eb Qytetar\u00ebve t\u00eb Qytetar\u00ebve", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] ka nj\u00eb shtet\u00ebsi t\u00eb [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "Qytetar\u00ebt, t\u00eb cil\u00ebt do t\u00eb marrin pjes\u00eb n\u00eb", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "Qytetar\u00ebt, t\u00eb cil\u00ebt kan\u00eb t\u00eb drejt\u00ebn e", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "Qytetar\u00ebt e Qytetit t\u00eb Qytetit t\u00eb Qytetit t\u00eb Qytetit t\u00eb Qytetit t\u00eb Qytetit", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

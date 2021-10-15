@@ -1,0 +1,7 @@
+{"pattern": "[Y] \u1014\u103e\u1004\u1037\u103a\u1021\u1010\u1030 [X] \u104b", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] \u1014\u103e\u1004\u1037\u103a\u1021\u1010\u1030 [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] \u1014\u103e\u1004\u1037\u103a\u1021\u1010\u1030 [X] \u1014\u101a\u103a\u1014\u102d\u1019\u102d\u1010\u103a\u104b", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] \u101e\u100a\u103a [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] \u101e\u100a\u103a [Y] \u1014\u103e\u1004\u1037\u103a\u1018\u102f\u1036\u1014\u101a\u103a\u1014\u102d\u1019\u102d\u1010\u103a\u1000\u102d\u102f\u1019\u103b\u103e\u101d\u1031\u101e\u100a\u103a\u104b", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] \u101e\u100a\u103a [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] \u101e\u100a\u103a [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

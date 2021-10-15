@@ -1,0 +1,6 @@
+{"pattern": "[X] y [Y] son ciudaes ximielgues.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] y [X] son ciudaes ximielgues.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] ye una ciud\u00e1 gemela [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[Y] ye una ciud\u00e1 gemela de [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] ye una ciud\u00e1 gemela [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] ye una ciud\u00e1 gemela de [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

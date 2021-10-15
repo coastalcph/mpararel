@@ -1,0 +1,9 @@
+{"pattern": "[X] dia [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] no misy any [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] misy any [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] ao [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] dia hita ao [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] amin'ny kaontinanta [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "Ny [X] dia ao amin'ny kaontinanta [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] dia ampahany amin'ny kaontinanta [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}
+{"pattern": "[X] kaontinanta [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

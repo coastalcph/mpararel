@@ -1,0 +1,55 @@
+{"pattern": "[X] originalmente [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] foi originalmente emitido [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "O [X] foi originalmente emitido na [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] foi originalmente [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] foi originalmente emitido na [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "A [X] foi originalmente emitida no [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] foi originalmente emitida no [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] debutar na [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] debutar [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] vai [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] vai debutar [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] vai debutar na [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "A [X] vai debutar no [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "A [Y] vai fazer o debut [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] vai fazer o [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "A [Y] o [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] vai fazer o debut [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "A [Y] vai fazer o [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] vai [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] o [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "O [Y] vai [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "A [Y] lan\u00e7ou [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] lan\u00e7ou [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "A [Y] o [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] debutou [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] na [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "O [X] na [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] debutou [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] debutou no [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] no [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "A [X] debutou no [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[Y] de [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "o debuto [Y] da [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "a publica\u00e7\u00e3o [Y] de [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "a publica\u00e7\u00e3o da [Y] de [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] na [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] foi lan\u00e7ado [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] foi [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "A [Y] lan\u00e7ou [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] lan\u00e7ou [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "A [Y] o [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "O [Y] lan\u00e7ou [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] na [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] tiveram a estreia [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] a estreia [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] foi [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] no [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] estreia no [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "A [X] no [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] na [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] estreia [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "\"\" [X] \"\" na [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] aparece na [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] estreia no [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "A [X] estreia no [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

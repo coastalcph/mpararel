@@ -1,0 +1,23 @@
+{"pattern": "Bahasa asal [X] ialah [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Bahasa asal The [X] ialah bahasa [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Bahasa asal [X] ialah bahasa [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Bahasa [X] ialah bahasa [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Bahasa asal [X] ialah Bahasa [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Bahasa [X] ialah [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Bahasa asal [X] ialah [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Bahasa asal The [X] ialah bahasa [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Bahasa asal [X] ialah bahasa [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Bahasa [X] ialah bahasa [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Bahasa asal [X] ialah Bahasa [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Bahasa [X] ialah [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Bahasa [X] ialah [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Bahasa [X] ialah bahasa [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Bahasa [X] ialah Bahasa [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Bahasa [X] ialah [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Bahasa [X] ialah Bahasa [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Bahasa [X] ialah bahasa [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Bahasa [Y] ialah bahasa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] ialah bahasa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Bahasa [Y] ialah bahasa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] ialah bahasa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Bahasa [Y] bahasa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

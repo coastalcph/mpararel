@@ -1,0 +1,45 @@
+{"pattern": "[X] foi escrito en [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] escrito en [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] en [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] en lingua [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "O [X] en lingua [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] en [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] est\u00e1 [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] est\u00e1 escrita [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] escrito en [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] est\u00e1 escrito en [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] escrito en [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] en [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] \u00e9 unha obra en [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] \u00e9 unha obra [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] \u00e9 unha obra en [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] \u00e9 unha obra [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] era [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] en [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] era unha obra [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] era unha obra en [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] unha obra en [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "O [X] unha obra [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] unha obra [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "O [X] unha obra en [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] era [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] en [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] era unha obra [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] era unha obra en [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] unha obra en [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "O [X] unha obra [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] unha obra [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "O [X] unha obra en [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] \u00e9 un traballo en [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] \u00e9 [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] \u00e9 unha obra en [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "O [X] \u00e9 unha obra [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "O [X] \u00e9 unha obra en [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] \u00e9 unha obra [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] en [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] unha obra en [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] foi unha obra en [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] era unha obra en [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "O [X] unha obra en [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] en lingua [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] era unha obra [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}

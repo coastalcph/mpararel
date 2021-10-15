@@ -1,0 +1,9 @@
+{"pattern": "[X], [Y] ile diplomatik ili\u015fkileri s\u00fcrd\u00fcr\u00fcyor.", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], [X] ile diplomatik ili\u015fkiler s\u00fcrd\u00fcr\u00fcyor.", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X], [Y] ile diplomatik ili\u015fkiler kuruyor.", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], [X] ile diplomatik ili\u015fkiler kuruyor.", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X], [Y] ile diplomatik ili\u015fkileri var.", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], [X] ile diplomatik ili\u015fkileri var.", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X], [Y] ile diplomatik ili\u015fkileri olan bir \u00fclke.", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], [X] ile diplomatik ili\u015fkileri olan [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], diplomatik ili\u015fkileri [X] ile ba\u011flayan", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

@@ -1,0 +1,27 @@
+{"pattern": "Ang [X] sa relihiyon sa [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] sa relihiyon sa [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "Ang [X] anaa sa relihiyon sa [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] anaa sa relihiyon sa [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "Ang [X] gihisgotan sa relihiyon sa [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] gihisgotan sa relihiyon sa [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "Ang [X] gihisgotan sa [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] nagpatin-aw sa relihiyon sa [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] sa [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] sa relihiyon sa [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] nagpatin-aw sa [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "Ang [X] nagpatin-aw sa relihiyon sa [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "Ang [X] sa relihiyon sa [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "Ang [X] nagpatin-aw sa [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "Si [X] sa [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] mao ang [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] mao ang mga [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "Ang [X] mao ang [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "Ang [X] mao ang mga [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "Si [X] mao ang mga [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "Ang [Y] mao ang relihiyon sa [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "Ang [Y] mao ang relihiyon [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] mao ang relihiyon [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "Ang [Y] mao ang opisyal nga relihiyon sa [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] mao ang opisyal nga relihiyon [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] mao ang relihiyon ni [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

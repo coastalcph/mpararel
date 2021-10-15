@@ -1,0 +1,9 @@
+{"pattern": "[X] \uc218\ub3c4, [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] \uc218\ub3c4 \uc778 [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] \uc218\ub3c4, [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] \uc218\ub3c4 \uc778 [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] \uc218\ub3c4 [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] \uc218\ub3c4 \uc778 [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] \uadf8\uac83\uc740 [X] \uc218\ub3c4\uc785\ub2c8\ub2e4.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] \uadf8\uac83\uc740 [X] \uc218\ub3c4 \ub3c4\uc2dc\uc785\ub2c8\ub2e4.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] \uadf8\uac83\uc740 [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

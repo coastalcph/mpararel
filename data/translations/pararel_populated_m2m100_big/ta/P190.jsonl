@@ -1,0 +1,6 @@
+{"pattern": "[X] \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd [Y] \u0b87\u0bb0\u0bc1 \u0ba8\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bbe\u0b95\u0bc1\u0bae\u0bcd.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[X] \u0b87\u0bb0\u0bc1 [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] is a twin city of [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[Y] is a twin city of [X] \u0b8e\u0ba9\u0bcd\u0bb1 \u0ba8\u0bbe\u0b9f\u0bc1.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] is a twin city of [Y] \u0b8e\u0ba9\u0bcd\u0bb1 \u0ba8\u0bbe\u0b9f\u0bc1.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] is a twin city of [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

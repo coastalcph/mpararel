@@ -1,0 +1,12 @@
+{"pattern": "[X] toimii [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] toimii [Y] lle.", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] joka ty\u00f6skentelee [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] joka [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] joka [Y] lle.", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] ty\u00f6skentelee [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] toimii [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] ty\u00f6skentelee [Y] palveluksessa.", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] joka [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] joka ty\u00f6skentelee [Y] palveluksessa.", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] joka ty\u00f6skentelee [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] joka [Y] palveluksessa.", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

@@ -1,0 +1,7 @@
+{"pattern": "[X] u shkrua n\u00eb [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] n\u00eb [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] \u00ebsht\u00eb shkruar n\u00eb [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "Gjuha e [X] \u00ebsht\u00eb [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Gjuha e [X] ishte [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] \u00ebsht\u00eb gjuha e [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] ishte gjuha e [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

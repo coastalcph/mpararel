@@ -1,0 +1,4 @@
+{"pattern": "[X] eta [Y] hiri bikiak dira.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] eta [X] hiri bikiak dira.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] [X] hiriko bikia da.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] [Y] hiriko hiria da.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

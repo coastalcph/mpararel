@@ -1,0 +1,11 @@
+{"pattern": "[X] aksyon fwontye ak [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] ak [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] fontye ak [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] pataje fwontye a ak [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] pataje fwontye li yo ak [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] pataje yon fwontye komen ak [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] fontye ak [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] ak [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] pataje fwontye a ak [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] pataje fwontye li yo ak [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] pataje yon fwontye komen ak [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

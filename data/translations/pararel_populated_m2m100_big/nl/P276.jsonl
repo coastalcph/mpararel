@@ -1,0 +1,8 @@
+{"pattern": "[X] in [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "De [X] in [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] is gevestigd in [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "Het [X] is gevestigd in [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] ligt in [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] in [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "De [X] in [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "De [X] ligt in [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}

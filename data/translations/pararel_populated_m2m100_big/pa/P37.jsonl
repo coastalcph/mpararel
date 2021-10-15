@@ -1,0 +1,23 @@
+{"pattern": "[X] \u0a26\u0a47 \u0a38\u0a30\u0a15\u0a3e\u0a30\u0a40 \u0a38\u0a2b\u0a3c\u0a3e [Y] \u0a39\u0a48.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a26\u0a47 \u0a38\u0a30\u0a15\u0a3e\u0a30\u0a40 [Y] \u0a39\u0a48.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a26\u0a47 [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a26\u0a47 \u0a38\u0a30\u0a15\u0a3e\u0a30\u0a40 [Y] \u0a39\u0a48.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a26\u0a47 \u0a38\u0a30\u0a15\u0a3e\u0a30\u0a40 \u0a38\u0a2b\u0a3c\u0a3e [Y] \u0a39\u0a48.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a26\u0a47 [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a26\u0a47 \u0a38\u0a30\u0a15\u0a3e\u0a30\u0a40 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e [Y] \u0a39\u0a48.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a35\u0a3f\u0a71\u0a1a, [Y] \u0a38\u0a30\u0a15\u0a3e\u0a30\u0a40 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e \u0a39\u0a48.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a35\u0a3f\u0a71\u0a1a, [Y] \u0a39\u0a48.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a35\u0a3f\u0a71\u0a1a, [Y] \u0a07\u0a71\u0a15 \u0a38\u0a30\u0a15\u0a3e\u0a30\u0a40 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e \u0a39\u0a48.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a07\u0a71\u0a15 \u0a38\u0a30\u0a15\u0a3e\u0a30\u0a40 [Y] \u0a39\u0a48.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a38\u0a30\u0a15\u0a3e\u0a30\u0a40 [Y] \u0a39\u0a48.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a26\u0a47 [Y]", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "\u0a38\u0a30\u0a15\u0a3e\u0a30\u0a40 \u0a38\u0a2b\u0a3c\u0a3e: [Y] is the language of [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] \u0a24\u0a4c\u0a30 [X] \u0a26\u0a47 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e \u0a39\u0a48.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] \u0a26\u0a47 [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "\u0a38\u0a30\u0a15\u0a3e\u0a30\u0a40 \u0a24\u0a4c\u0a30 '\u0a24\u0a47, [Y] \u0a26\u0a47 [X] \u0a39\u0a48.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a26\u0a47 [Y]", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a38\u0a30\u0a15\u0a3e\u0a30\u0a40 [Y] \u0a39\u0a48.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a26\u0a47 [Y]", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a26\u0a47 \u0a39\u0a71\u0a15 \u0a30\u0a3e\u0a16\u0a35\u0a47\u0a02 \u0a39\u0a28, \u0a1c\u0a4b \u0a15\u0a3f [Y]", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "\u0a15\u0a3e\u0a2a\u0a40\u0a30\u0a3e\u0a08\u0a1f [X] \u0a26\u0a47 [Y]", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] \u0a26\u0a47 [Y]", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

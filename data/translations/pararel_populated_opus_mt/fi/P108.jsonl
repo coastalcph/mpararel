@@ -1,0 +1,5 @@
+{"pattern": "[X] ty\u00f6skentelee [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] joka ty\u00f6skentelee [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] ty\u00f6skentelev\u00e4 [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] on [Y] palveluksessa.", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[Y] palveluksessa oleva [X]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

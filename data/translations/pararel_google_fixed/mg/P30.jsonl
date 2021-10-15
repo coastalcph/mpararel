@@ -1,0 +1,4 @@
+{"pattern": "[X] dia ao amin'ny [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] dia hita ao amin'ny kaontinanta [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] dia ao amin'ny kaontinanta [Y].", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] dia ampahany amin'ny kaontinanta [Y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

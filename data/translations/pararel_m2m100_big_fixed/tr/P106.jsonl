@@ -1,0 +1,11 @@
+{"pattern": "Zira bu, bir meslektir.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "Zira bu, bir meslektir.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] bir [Y] i\u00e7in bir e\u011fitimdir.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] bir [Y] taraf\u0131ndan e\u011fitilmi\u015ftir.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "T\u0131pk\u0131 [X] gibi i\u015fler yapar.", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "Kim demi\u015f gibi i\u015f yapar.", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X]\u2019in mesle\u011fi ise [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X]\u2019in i\u015fleyi\u015fidir.", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X]\u2019in mesle\u011fi bir [Y] dir.", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X]\u2019in mesle\u011fi bir [Y] dir.", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X]\u2019in i\u015fleyi\u015fidir.", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

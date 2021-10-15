@@ -1,0 +1,16 @@
+{"pattern": "P\u016fvodn\u00edm jazykem [X] je [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[X] byl [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "P\u016fvodn\u00ed jazyk [X] byl [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "P\u016fvodn\u00edm jazykem [X] byla [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "[X] je [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Jazykem [X] je [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] byl [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Jazyk [X] byl [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Jazykem [X] byla [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Jazykem [X] byl [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] je jazykem [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] je [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] jazykem [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] byl [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] byla jazykem [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

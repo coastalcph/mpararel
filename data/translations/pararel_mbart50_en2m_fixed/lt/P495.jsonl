@@ -1,0 +1,17 @@
+{"pattern": "[X] buvo sukurta [Y].", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X], kuris buvo sukurtas [Y].", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X], sukurta [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], kuri atsirado [Y].", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] kilm\u0117 [Y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] susiformavo [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] buvo suformuota [Y].", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X], kuris buvo suformuotas [Y].", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] buvo suformuluota [Y].", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X], formuluota [Y].", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X], kad buvo suformuluota [Y].", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] buvo i\u0161 [Y].", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], kuris buvo i\u0161 [Y].", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], i\u0161 [Y].", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X], kuris buvo sukurtas [Y].", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] buvo sukurta [Y].", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X], i\u0161sivyst\u0117 [Y].", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

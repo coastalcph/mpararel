@@ -1,0 +1,20 @@
+{"pattern": "Bahasa resmi [X] iku [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Bahasa resmi [X] iku [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Bahasa resmi [X] iku basa [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] iku basa resmi [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] iku basa resmi [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Bahasa [Y] iku basa resmi [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ing [X] basa [Y] basa resmi.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "[Y] iku basa [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] iku basa saka [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Resmi, [Y] iku basa [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Hukum ing [X] ngumumake [Y] minangka basa resmi.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Hukum ing [X] ngumumake basa [Y] minangka basa resmi.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Hukum ing [X] basa [Y] minangka basa resmi.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Hukum ing [X] ndadekake [Y] minangka basa resmi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Hukum ing [X] nyetel basa [Y] minangka basa resmi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Hukum ing [X] basa [Y] minangka basa resmi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Hukum ing [X] nyetel [Y] minangka basa resmi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Hukum ing [X] nyetel basa [Y] minangka basa resmi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Hukum ing [X] basa [Y] minangka basa resmi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Hukum ing [X] ngatur basa [Y] minangka basa resmi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

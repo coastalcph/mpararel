@@ -1,0 +1,42 @@
+{"pattern": "[X] ye represent\u00e1u pola [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "The [X] ye represent\u00e1u pola etiqueta musical [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] ye represent\u00e1u pola etiqueta musical [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] ye represent\u00e1u pola [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] ye represent\u00e1u pola discogr\u00e1fica [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] pola discogr\u00e1fica [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] ye represent\u00e1u pola marca de discos [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] pola [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] por [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] ye represent\u00e1u por [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] que ye represent\u00e1u por [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] que ye represent\u00e1u por [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] represent\u00e1u por [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "La etiqueta musical que representa a [X] ye [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "La etiqueta musical que representa [X] ye [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "La etiqueta musical que [X] ye [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "La etiqueta musical que representa The [X] ye [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "La etiqueta musical que representa a [X] ye [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "La etiqueta musical que representa [X] ye [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "La etiqueta musical que representa a The [X] ye [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] de [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "La etiqueta de [X] ye [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "La marca de discos de [X] ye [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "L'\u00e1lbum de [X] ye [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "La compa\u00f1\u00eda de [X] ye [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "La compa\u00f1\u00eda discogr\u00e1fica de [X] ye [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "La m\u00fasica de [X] ye [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] de [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "La etiqueta musical de [X] ye [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] pa [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] foi [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] etiqueta : [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X] de [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X] llanz\u00e1u por [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] por [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "The [X] llanz\u00e1u por [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] graba'l cantar [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] de [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] The [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] grab\u00e1u por [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] como [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] artistes como [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}

@@ -1,0 +1,13 @@
+{"pattern": "[X] yra [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] yra [Y] nar\u0117.", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] yra [Y] narys.", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] priklauso [Y] organizacijai.", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] priklauso [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] yra [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] yra [Y] organizacijos dalis.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] yra [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] yra susij\u0119s su [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] yra susijusi su [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] yra [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
+{"pattern": "[X] yra susij\u0119s su [Y] organizacija.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
+{"pattern": "[X] yra susijusi su [Y] organizacija.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

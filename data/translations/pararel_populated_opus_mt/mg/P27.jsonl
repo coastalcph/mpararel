@@ -1,0 +1,22 @@
+{"pattern": "Olom-pirenena [Y] i [X]", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[Y] i [X]", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "Olom-pirenen'i [Y] i [X]", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X] olom-pirenen'i [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X] olom-pirenena [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X] olom-pirenen'i [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "Manana [Y] i [X]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "Manana zom-pirenen'i [Y] i [X]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X] izay manana [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] izay manana zom-pirenena [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] manana [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] manana zom-pirenen'i [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] izay manana zom-pirenen'i [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] zom-pirenena [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X] manana zom-pirenena [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X] manana [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X] mizaka [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X] mizaka zom-pirenen'i [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X] zom-pirenen'i [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[Y] i [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}
+{"pattern": "Amin'ny maha-olom-pirenen'i [Y] azy, [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}
+{"pattern": "Olom - pirenen'i [Y] i [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

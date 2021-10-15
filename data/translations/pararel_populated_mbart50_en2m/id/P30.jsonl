@@ -1,0 +1,5 @@
+{"pattern": "[X] di [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] di benua [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] terletak di benua [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] adalah bagian dari benua [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] adalah bagian dari benua [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

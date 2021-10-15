@@ -1,0 +1,9 @@
+{"pattern": "[X] \u7684\u6b63\u5f0f\u8bed\u6587\u4e3a[Y]\u3002", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] \u7684\u6b63\u5f0f\u8bed\u6587\u4e3a[Y] \u8bed\u6587\u3002", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y]\u662f[X]\u7684\u6b63\u5f0f\u8bed\u6587\u3002", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y]\u79cd\u8bed\u6587\u662f[X]\u56fd\u7684\u6b63\u5f0f\u8bed\u6587\u3002", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "\u5728[X]\u4e2d,[Y]\u4e3a\u6b63\u5f0f\u8bed\u6587\u3002", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "\u6b63\u5f0f\u800c\u8a00,[Y]\u662f[X]\u7684\u8bed\u6587\u3002", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X]\u4e2d\u7684\u6cd5\u5f8b\u5ba3\u5e03[Y]\u4e3a\u5b98\u65b9\u8bed\u8a00\u3002", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "[X]\u4e2d\u7684\u6cd5\u5f8b\u5c06[Y]\u5b9a\u4e49\u4e3a\u5b98\u65b9\u8bed\u8a00\u3002", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X]\u4e2d\u7684\u6cd5\u5f8b\u5c06[Y]\u8bed\u754c\u5b9a\u4e3a\u5b98\u65b9\u8bed\u8a00\u3002", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

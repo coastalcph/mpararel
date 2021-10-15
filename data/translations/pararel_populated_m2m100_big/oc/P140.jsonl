@@ -1,0 +1,14 @@
+{"pattern": "[X] a la religion [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] es afiliat a la religion [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] es afiliat a la religion de [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] la religion [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] segu\u00eds la religion [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] la religion de [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] es un [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] es un seguidor [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] de [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] es un seguidor de [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "Lo [Y] es la religion oficiala [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] es la religion oficiala [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "Lo [Y] es la religion oficiala de [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] es la religion oficiala de [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

@@ -1,0 +1,36 @@
+{"pattern": "[X] e [Y]", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "D'ar c'henta\u00f1 [X] e [Y]", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "[X] e [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "D'ar c'henta\u00f1 [X] e [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] e [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] gant [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[Y] eo bet [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[Y] eo bet ar [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[Y] eo bet ar c'henta\u00f1 [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] e [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[X] gant [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "D'ar c'henta\u00f1 [X] e [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[X] eo bet [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[X] eo [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[X] bet [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[X] a [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] da [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[Y] bet [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[Y] eo bet [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[Y] e oa [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[Y] bet ar c'henta\u00f1 [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[Y] ar c'henta\u00f1 [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] a zo a zo e [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] a [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] e [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] ema\u00f1 e [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] e [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] eo ar c'henta\u00f1 [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[Y] eo ar [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[Y] eo [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[Y] eo a [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[Y] eo bet [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] eo bet [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}
+{"pattern": "[X] bet [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}
+{"pattern": "[X] eo [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}
+{"pattern": "[X] e [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

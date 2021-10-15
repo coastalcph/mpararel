@@ -1,0 +1,29 @@
+{"pattern": "[X] en [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] foi a\u00e9reo [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "O [X] foi a\u00e9reo [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] foi a\u00e9reo en [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] \u00e9 [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] \u00e9 debuto en [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] \u00e9 [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debuted [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debuted en [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] en [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[Y] debuto [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] debuto de [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] de [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "o [Y] debuto [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] liberaci\u00f3n de [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "a [Y] de [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[Y] liberaci\u00f3n do [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[Y] de [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] foron liberados en [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] en [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] foi liberado [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] foi liberado en [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] botou [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] a [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] botou a [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] en [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] en [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] ponse [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] ponse en [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

@@ -1,0 +1,41 @@
+{"pattern": "[X] natus in [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] natus est in [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] natus [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] est primum [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] est primum ab [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] est primum a [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] est primum ex [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] erat primum [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] erat [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] ab [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] principio [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] erat principio [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] est patria [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] est [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] patria est [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] patria [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] est patria ad [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] erat indigena [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] erat [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] ad [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] patria [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] patria ad [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] est [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] ex [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] originated [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] Originated [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] ex [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] originem ex [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] erat [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] natus [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] erat [Y] est.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] erat [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] erat [Y] est.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] est [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] est [Y] est.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] est [Y] est persona.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] est [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] est [Y] est.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] est [Y] est persona.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] est [Y] natus est.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

@@ -1,0 +1,14 @@
+{"pattern": "Lugha rasmi ya [X] ni [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Lugha rasmi ya [X] ni lugha ya [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] ni lugha rasmi ya [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Lugha ya [Y] ni lugha rasmi ya [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Rasmi, [Y] ni lugha ya [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] ni lugha ya [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Sheria ya [X] inasema [Y] lugha rasmi.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Sheria [X] inasema [Y] lugha rasmi.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Sheria katika [X] inasema [Y] lugha rasmi.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Sheria katika [X] inafafanua [Y] kama lugha rasmi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Sheria [X] inafafanua [Y] kama lugha rasmi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Sheria ya [X] inafafanua [Y] kama lugha rasmi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Sheria katika [X] inafafanua lugha ya [Y] kama lugha rasmi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Sheria [X] inafafanua lugha ya [Y] kama lugha rasmi.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

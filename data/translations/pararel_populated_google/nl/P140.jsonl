@@ -1,0 +1,16 @@
+{"pattern": "[X] aangesloten bij de [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] is aangesloten bij de [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] de [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] is [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] is gelieerd aan religie van het [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] volgt de religie van het [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] volgt de [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] volgt de religie van [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] volgt het [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] volgt de [Y] religie.", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] volgt [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] is volger van het [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] van [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] is volger van [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] volgeling van [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[Y] is de offici\u00eble religie van [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

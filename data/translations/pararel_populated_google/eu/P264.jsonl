@@ -1,0 +1,22 @@
+{"pattern": "[X] ordezkatzen duen [Y] da.", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] ordezkatzen duen musika-etiketa [Y] da.", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] musika-etiketa [Y] da.", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] musika etiketa [Y] da.", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] ordezkatzen duen musika etiketa [Y] da.", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] ordezkatzen [Y] da.", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] musika etiketa [Y] da.", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] ordezkatzen duen musika etiketa [Y] da.", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] duen musika etiketa [Y] da.", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] etiketa [Y] da.", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] diskoetxea [Y] da.", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] etiketa [Y] da.", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] erregistroaren etiketa [Y] da.", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] diskoetxea [Y] da.", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] musika etiketa [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] musika etiketa [Y] da.", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] etiketa: [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X] Label: [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[Y] Grabaketa [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] artista [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] Artista [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] artistak [X] barne.", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

@@ -1,0 +1,18 @@
+{"pattern": "[X] foi escrito em [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] est\u00e1 escrito em [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] foi escrito na [Y] l\u00edngua.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] \u00e9 escrito na l\u00edngua [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], escrito em [Y] a l\u00edngua", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "A l\u00edngua de [X] \u00e9 [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "A l\u00edngua de [X] foi [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] \u00e9 uma obra de [Y] linguagem.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] \u00e9 um trabalho de [Y] linguagem.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "A l\u00edngua (ou a l\u00edngua) \u00e9 a l\u00edngua de", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "A l\u00edngua (ou a l\u00edngua) \u00e9 a l\u00edngua de", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] foi um trabalho de [Y] linguagem.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] foi um trabalho de [Y] linguagem.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] \u00e9 um trabalho em [Y] linguagem.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] foi um trabalho em [Y] a l\u00edngua.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "A linguagem da cria\u00e7\u00e3o [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "\u00c9 a l\u00edngua do [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "A l\u00edngua \u00e9 a l\u00edngua de Deus.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

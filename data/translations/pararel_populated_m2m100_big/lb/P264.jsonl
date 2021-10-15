@@ -1,0 +1,73 @@
+{"pattern": "[X] g\u00ebtt vum Musiklabel [Y] vertreten.", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum [Y] vertreten.", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum [Y] represent\u00e9iert.", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum Label [Y] represent\u00e9iert.", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] vum Rekordlabel [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] vum [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum Rekordlabel [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum [Y] vertreten.", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] vum Record Label [Y] represent\u00e9iert.", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum Record Label [Y] represent\u00e9iert.", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "De [X] g\u00ebtt vum [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum [Y] represent\u00e9iert.", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum [Y] vertreten.", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] d\u00e9i vun [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] vun [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] d\u00e9i [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] d\u00e9i vun [Y] ver\u00ebffentlecht g\u00ebtt.", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] d\u00e9i vun [Y] vertreten ass.", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] vun der [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] d\u00e9i [Y] ass.", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] d\u00e9i [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] d\u00e9i vun [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] vun [Y] g\u00ebtt.", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] d\u00e9i vun [Y] ver\u00ebffentlecht g\u00ebtt.", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] d\u00e9i [Y] vertreten ass.", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] d\u00e9i [Y] ass.", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] d\u00e9i vum [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "D'Musiklabell, d\u00e9i [X] repr\u00e4sentiert, ass [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] ass [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "D'Musiklabell d\u00e9i [X] ass [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "D'Musiklabell, d\u00e9i [X] ass [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "D'Label vum [X] ass [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "D'Label [X] ass [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] ass [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "D'Label vun [X] ass [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "De [X] huet [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] ass [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "D'Label vun [X] ass [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "D'Label [X] ass [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] ass [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "D'Recordfirma vun [X] ass [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "D'Recordfirma [X] ass [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] ass [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "D'Musik [X] ass [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "De [X] huet fir [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] huet fir [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] fir [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] huet fir [Y] opgenannt.", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] fir [Y] opgenannt.", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] ass [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X] : [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X] vun [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "De [X] vum [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum [Y] publiz\u00e9iert.", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] vum [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] publiz\u00e9iert vum [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] publiz\u00e9iert [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "De [Y] huet d'K\u00fcnstler [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] huet [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] vum [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] ass [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] w\u00e9i [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] K\u00ebnschtler w\u00e9i [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "D'K\u00fcnstler [Y] w\u00e9i [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "D'K\u00fcnstler [Y] och [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "[Y] w\u00e9i och [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "[Y] w\u00e9i [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "[Y] och [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "[Y] K\u00ebnschtler, [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] va [Y] egizak shaharlari.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] va [X] egizak shaharlari.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] - bu [X] ning egizak shahri.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] - bu egizak shahri.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

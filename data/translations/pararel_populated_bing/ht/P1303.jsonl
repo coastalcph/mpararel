@@ -1,0 +1,5 @@
+{"pattern": "[X] jwe [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[Y] jwe [X] ", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "[X] jwe [Y] la.", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] jwe [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] se yon jwe [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

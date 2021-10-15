@@ -1,0 +1,35 @@
+{"pattern": "Si [X] ay ipinanganak sa [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] ay ipinanganak sa [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "Ang [X] ay orihinal na mula sa [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] ay orihinal na mula sa [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "Si [X] ay orihinal na mula sa [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "Si [X] ay orihinal na mula [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "Si [X] ay orihinal na mula sa [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] ay orihinal na mula sa [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] ay katutubong sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "Si [X] ay katutubong sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "Si [X] ay katutubong sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] ay katutubong sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "Si [X] ay nagmula sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] ay nagmula sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "Si [X] ay nagmula sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "Si [X] ay isang taong ipinanganak [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] ay isang taong ipinanganak [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "Si [X] ay isang taong ipinanganak sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "Si [X] ay isang taong ipinanganak [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] ay isang taong ipinanganak [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "Si [X] ay isang taong ipinanganak sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] ay isang taong ipinanganak [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "Si [X] ay isang taong ipinanganak [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "Si [X] ay isang taong ipinanganak sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ay isang taong ipinanganak sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ay isang taong ipinanganak [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "Si [X] ay isang taong ipinanganak sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ay isang taong ipinanganak sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] isang taong ipinanganak [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] isang taong ipinanganak sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] isang taong ipinanganak [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] isang taong ipinanganak ng [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] isang taong ipinanganak sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

@@ -1,0 +1,12 @@
+{"pattern": "[X] ni i\u1e63el\u1ecdp\u1ecd nipas\u1eb9 [Y].", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] ni idagbasoke nipas\u1eb9 [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], idagbasoke nipas\u1eb9 [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], ti i\u1e63el\u1ecdp\u1ecd nipas\u1eb9 [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] \u1e63\u1eb9da nipas\u1eb9 [Y] [Y].", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X], ti a da nipas\u1eb9 [Y].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] j\u1eb9 \u1ecdja ti [Y].", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], \u1ecdja kan ti [Y],", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], \u1ecdja ti a \u1e63\u1eb9da nipas\u1eb9,,", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], \u1ecdja ti o dagbasoke nipas\u1eb9 [Y],", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], Eleda ti [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] ati \u1eccja r\u1eb9 [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

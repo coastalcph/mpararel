@@ -1,0 +1,9 @@
+{"pattern": "[X] \u00e9 [Y] cidad\u00e3o.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[X] \u00e9 um cidad\u00e3o de [Y].", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X], um cidad\u00e3o de [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X], que \u00e9 um cidad\u00e3o de [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X] tem uma cidadania de [Y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] tem uma cidadania de [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X], que tem uma cidadania de [Y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X], que tem uma cidadania de [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "como cidad\u00e3o de [Y], [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

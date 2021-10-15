@@ -1,0 +1,66 @@
+{"pattern": "[X] dia aseho amin'ny alalan'ny marika [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] marika mozika [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] dia aseho amin'ny alalan'ny marika mozika [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] dia aseho amin'ny alalan'ny mozika [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "Ny [X] dia aseho amin'ny alalan'ny marika [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "Ny [X] dia aseho amin'ny alalan'ny [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] dia aseho amin'ny alalan'ny fandraketana an-tsoratra [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] dia aseho amin'ny [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] dia aseho amin'ny alalan'ny [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "Ny [X] dia aseho amin'ny alalan'ny [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] dia aseho an-tsary amin'ny marika [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] an'i [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] ny [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] dia [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "Ny [X] dia [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] no misolo tena [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] izay [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] amin'ny [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] izay [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] amin'ny [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] izay aseho an'ohatra ao amin'ny [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Ny [Y] dia [X]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[Y] marika famantarana an'i [X]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "Ny mari-pamantarana [Y] dia [X]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "Ny mari-pamantarana ny [Y] dia [X]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[Y] ny [X]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[Y] an'i [X]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "Ny mari-pamantarana [Y] dia [X]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[Y] mari-pamantarana an'i [X]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "Ny mari-pamantarana an'i [Y] dia [X]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[Y] mari-pamantarana [X]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[Y] no [X]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[Y] an'i [X]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[Y] ny [X]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[Y] no [X]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Ny [Y] dia [X]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[Y] marika mozikan'i [X]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[Y] mari-pamantarana ny mozikan'ny [X]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "Ny mari-pamantarana ny [Y] dia [X]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[Y] mozikan'ny [X]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[Y] ny [X]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[Y] no [X]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[Y] mari-pamantarana ny [X]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[Y] mozikan'i [X]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] ho [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] voarakitra ho [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] voarakitra an-tsoratra ho an'ny [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] ho an'ny [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] voarakitra an-tsoratra ho [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] ho an'i [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] : [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X] navoakan'i [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] navoakan'ny [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "Mpanakanto [Y] tahaka [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "Mpanakanto [Y] an'i [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "Mpanakanto [Y] tahaka an'i [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] tahaka [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] tahaka an'i [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] ny The [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] tahaka ny [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "Mpanakanto [Y] tahaka ny [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] ny [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "Mpanakanto [Y] anisan'izany [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "Mpanakanto [Y] anisan'izany ny [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "[Y] anisan'izany [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "[Y] anisan'izany ny [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

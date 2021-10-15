@@ -1,0 +1,29 @@
+{"pattern": "[X] har [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] har stillingen [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] har stillingen som [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] har stillingen af [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] der har [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] der har stillingen [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] har stillingen [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] der har stillingen som [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] har stillingen som [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] har [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] har stillingen af [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] som har stillingen [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] hvis stilling er [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] hvis stilling er den af [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] stilling er [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] er [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] position er [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] der [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] holder stillingen som [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] holder stillingen [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] stillingen som [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] der har stillingen som [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] har stillingen som [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] stillingen [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] indtager [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] indtager stillingen som [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] indtager stillingen [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] af [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] er [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

@@ -1,0 +1,11 @@
+{"pattern": "== Altri progetti ==== Collegamenti esterni ==", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] \u00e8 quello di debuttare su [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] \u00e8 quello di debuttare [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] ha debuttato [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] ha debuttato su [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "il debutto [Y] di [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "il rilascio [Y] di [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] \u00e8 stato rilasciato su [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] rilasciato [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] \u00e8 stato presentato in anteprima su [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] premiere su [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

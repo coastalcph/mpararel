@@ -1,0 +1,5 @@
+{"pattern": "[X] - [Y] \u043c\u04af\u0447\u04e9\u0441\u04af.", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] - \u0431\u0443\u043b [Y] \u043c\u04af\u0447\u04e9\u0441\u04af.", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] - [Y] \u0431\u0438\u0440 \u0431\u04e9\u043b\u04af\u0433\u04af.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] - [Y] \u0431\u04e9\u043b\u04af\u0433\u04af.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] - \u0431\u0443\u043b [Y] \u0431\u04e9\u043b\u04af\u0433\u04af.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}

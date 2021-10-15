@@ -1,0 +1,52 @@
+{"pattern": "[X] naci\u00f3 en [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] naci\u00f3 [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] ye [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] ye orixinariu [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] ye orixinariu de [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] orixinalmente de [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] orixinalmente [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] yera orixinalmente [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] yera orixinalmente de [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] ye nativu [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] ye [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] ye nativu de [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] yera nativu [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] yera [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] yera nativu de [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] ye orixinariu [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] ye [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] ye orixinariu de [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] ye orixinariu [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] ye [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] ye orixinariu de [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] una persona nac\u00edu en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] una persona [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] foi una persona nac\u00edu en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] foi una persona [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] una persona nacida [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] foi una persona nacida en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] foi una persona nacida [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] una persona nac\u00edu en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] una persona [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] foi una persona nac\u00edu en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] foi una persona [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] una persona nacida [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] foi una persona nacida en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] foi una persona nacida [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] ye una persona nac\u00edu en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ye una persona [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ye una persona nacida [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ye una persona nacida en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ye una persona nac\u00edu en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ye una persona [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ye una persona nacida [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ye una persona nacida en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] una persona nac\u00edu en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] nac\u00edu [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] nac\u00edu en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] una persona nacida en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] nac\u00edu [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] nac\u00edu en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] una persona nacida en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] en [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

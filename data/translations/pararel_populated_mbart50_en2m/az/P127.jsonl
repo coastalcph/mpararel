@@ -1,0 +1,2 @@
+{"pattern": "[X] sahibi [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] sahibi [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

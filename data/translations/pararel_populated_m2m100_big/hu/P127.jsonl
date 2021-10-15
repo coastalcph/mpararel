@@ -1,0 +1,14 @@
+{"pattern": "[X] az [Y] tulajdon\u00e1ban van.", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "A [X] a [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "A [X] a [Y] tulajdon\u00e1ban van.", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] a [Y] tulajdon\u00e1ban van.", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] tulajdonosa [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] tulajdonosa [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] tulajdonosa az [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Az [Y] tulajdonosa [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "A [Y] tulajdonosa a [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] a [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "A [Y] tulajdonosa [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] tulajdonosa a [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] l\u00e9v\u0151 [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}
+{"pattern": "A [Y] l\u00e9v\u0151 [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

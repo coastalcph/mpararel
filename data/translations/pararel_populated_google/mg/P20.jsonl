@@ -1,0 +1,25 @@
+{"pattern": "[Y] tany [X]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "Maty tany [Y] i [X]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "Maty [Y] i [X]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[Y] tany [X]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "Maty tany [Y] i [X]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "Maty [Y] i [X]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] tany [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] dia lasa tany [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] lasa tany [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] dia maty tany [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] tao [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] dia [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] tany [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] dia maty [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] tao [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] dia lany tao [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] dia lany [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] lany tao [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] lany [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] ny [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] dia namoy ny ainy tany [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] dia namoy ny ainy [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] tany [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] dia resin'ny [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] dia [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

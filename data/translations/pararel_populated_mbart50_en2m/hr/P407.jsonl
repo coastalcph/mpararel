@@ -1,0 +1,27 @@
+{"pattern": "Jezik [X] je [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Jezik [X] bio [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Jezik [X] je bio [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] je bio [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] je [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Jezik [X] je [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Jezik [X] bio je [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] bio [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] je djelo na [Y] jeziku.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] je [Y] jeziku.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] je [Y] rad.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] je djelo na [Y] jeziku.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] je [Y] jeziku.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] je [Y] rad.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] je bio [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] je bio rad [Y] jeziku.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] je [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] je [Y] rad.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] je bio [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] je bio rad [Y] jeziku.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] je [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] je [Y] rad.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[Y] je jezik [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] je bio jezik [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

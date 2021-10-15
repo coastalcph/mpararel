@@ -1,0 +1,61 @@
+{"pattern": "[X] foi fundado em [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] foi fundado [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] em [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "A [X] foi fundada em [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] foi [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] foi fundada em [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] em [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] fundado em [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] fundada em [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] fundada [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] foi fundado em [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] em [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] foi fundada em [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] fundada [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] que foi fundada em [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] em [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] que [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] foi [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] que foi [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] come\u00e7ou em [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] em [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] come\u00e7ou [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "O [X] come\u00e7ou em [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] foi criado em [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] em [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] foi criado em [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] que foi criada em [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] que foi [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] que foi criado [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] que foi criado em [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] em [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] criado em [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] criado [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] criada em [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] foi criado em [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] foi criado [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] em [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] foi [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] foi criada em [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] que nasceu em [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] que originou-se em [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] em [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] originaram-se [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] nasceu em [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] originou-se em [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "O [X] em [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] em [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] formou-se em [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] formou-se [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "O [X] formou-se em [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] foi formado em [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] foi formado [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] em [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "O [X] foi formado em [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] foi [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] foi formado em [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] em [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] que foi [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] que foi criada em [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] que foi formado [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] que foi formado em [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

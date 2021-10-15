@@ -1,0 +1,17 @@
+{"pattern": "[X] [Y]-n sortu zen.", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] Hori sortu zen [Y]n.", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X]-n sortua [Y]-n.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] Hori sortu zen [B]an.", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X]([Y])ren jatorria.", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[Y]-Z-k eratua.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "\"[X]\" -hau da, \"B\"-.", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X], I-n eratua zegoen.", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] formulatua izan zen [Y]-n.", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "\"[X]\", formulatua [Y]n.", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "Hori formulatua izan zen [Y]n.", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] [Y]-tik dator.", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] B-tik zetorrena.", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X]tik, B-tik.", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X] Hori garatu zen.", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] garatu zen [Y]-n.", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X], garatua [Y]-n.", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

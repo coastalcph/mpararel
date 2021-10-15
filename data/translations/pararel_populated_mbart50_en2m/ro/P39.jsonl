@@ -1,0 +1,18 @@
+{"pattern": "[X] are pozi\u0163ia de [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] de [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] are pozi\u0163ia [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] func\u0163ia de [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] are [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] care de\u0163ine func\u0163ia de [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] care [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] care are pozi\u0163ia de [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] care are pozi\u0163ia [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] a c\u0103rui pozi\u0163ie este cea a [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] a c\u0103rui pozi\u0163ie este [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "Pozi\u0163ia lui [X] este [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] este [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] care de\u0163ine func\u0163ia de [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] care de\u0163ine [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] care de\u0163ine pozi\u0163ia [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] de\u0163ine func\u0163ia de [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] de\u0163ine [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

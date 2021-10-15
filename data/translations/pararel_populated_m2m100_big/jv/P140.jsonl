@@ -1,0 +1,9 @@
+{"pattern": "[X] karo agama [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] afiliasi karo agama [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] agama [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] ana afiliasi karo agama [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] iku [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] iku pengikut agama [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] iku agama [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] iku pengikut [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[Y] iku agama resmi [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

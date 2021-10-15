@@ -1,0 +1,17 @@
+{"pattern": "[X] l\u1ecd si [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] l\u1ecd [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] ti o ti k\u1ecd ni [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] ni [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] l\u1ecd si [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] ti k\u1ecd ni [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] l\u1ecd si [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] l\u1ecd si [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] ti t\u1eb9siwaju ni [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] l\u1ecd si [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] ti t\u1eb9siwaju ni [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] ti wa ni if\u1ecdw\u1ecdkan ni [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] k\u00e1 aye ni [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] k\u00e1 aye [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] ni [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] ti [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] l\u1ecd si [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

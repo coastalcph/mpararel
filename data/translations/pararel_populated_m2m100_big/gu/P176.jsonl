@@ -1,0 +1,5 @@
+{"pattern": "[X] \u0a8f\u0a95 [Y] \u0a89\u0aa4\u0acd\u0aaa\u0abe\u0aa6\u0aa8,", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X] \u0a8f\u0a95 [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[Y] \u0a85\u0aa8\u0ac7 \u0aa4\u0ac7\u0aa8\u0abe [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
+{"pattern": "[Y] \u0a85\u0aa8\u0ac7 [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
+{"pattern": "[Y] \u0a85\u0aa8\u0ac7 \u0aa4\u0ac7\u0aa8\u0abe \u0a89\u0aa4\u0acd\u0aaa\u0abe\u0aa6\u0aa8\u0acb [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

@@ -1,0 +1,6 @@
+{"pattern": "[X] lan [Y] iku kutha kembar.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] lan [X] iku kutha kembar.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] iku kutha kembar [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[Y] iku kutha kembar saka [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] iku kutha kembar [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] iku kutha kembar saka [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

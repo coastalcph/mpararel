@@ -1,0 +1,45 @@
+{"pattern": "[X] miasa ao amin'ny sehatry ny [Y]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] dia miasa ao amin'ny sehatry ny [Y]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] dia manam-pahaizana [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[X] dia manam-pahaizana momba ny [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[X] dia manam-pahaizana amin'ny [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[X] dia manam-pahaizana manokana amin'ny [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "Ny [Y] dia ny [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Ny [Y] dia [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Ny [Y] dia ny fahaiza-manaon'i [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "[Y] dia ny [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Ny fahaiza-manaon'i [X] dia ny [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Ny fahaiza-manaon'i [X] dia [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Ny [Y] dia ny fahaiza-manaon'i [X]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Ny [Y] dia [X]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[Y] dia ny fahaiza-manaon'i [X]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Ny sehatry ny [X] dia ny [Y]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Ny sehatry ny [X] dia [Y]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Ny sehatry ny asan'i [X] dia ny [Y]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Ny sehatry ny asan'i [X] dia [Y]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Ny sehatry ny asa nataon'i [X] dia ny [Y]", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "Ny sehatry ny asa [X] dia ny [Y]", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "Ny sehatry ny asa nataon'i [X] dia [Y]", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "Ny sehatry ny asa [X] dia [Y]", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "Ny [Y] dia ny sehatry ny [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Ny [Y] dia ny [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[Y] dia ny sehatry ny [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Ny [Y] dia ny sehatry ny asan'i [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[Y] dia ny sehatry ny asan'i [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Ny [Y] dia ny sehatry ny asa [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Ny sehatry ny asa nataon'i [X] dia ny [Y]", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "Ny sehatry ny asa [X] dia ny [Y]", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "Ny sehatry ny asa [X] dia [Y]", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "Ny sehatry ny asa an'i [X] dia ny [Y]", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "Ny sehatry ny asa an'i [X] dia [Y]", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "Ny sehatry ny asa nataon'i [X] dia ny [Y]", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "Ny sehatry ny asa [X] dia ny [Y]", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "Ny sehatry ny asa [X] dia [Y]", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "Ny sehatry ny [X] dia ny [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "Ny sehatry ny [X] dia [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "Ny sehatry ny asan'i [X] dia ny [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "Ny sehatry ny asan'i [X] dia [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "Ny fahaiza-manaon'i [X] dia ny [Y]", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "Ny fahaiza-manaon'i [X] dia [Y]", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] miasa ao amin'ny sehatry ny [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}
+{"pattern": "[X] dia miasa ao amin'ny sehatry ny [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

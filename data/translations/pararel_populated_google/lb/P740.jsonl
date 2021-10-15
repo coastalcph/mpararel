@@ -1,0 +1,56 @@
+{"pattern": "[X] an [Y] gegr\u00ebnnt.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] gouf [Y] gegr\u00ebnnt.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] gouf am [Y] gegr\u00ebnnt.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] gegr\u00ebnnt [Y] gegr\u00ebnnt.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] gegr\u00ebnnt [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] gegr\u00ebnnt am [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] am [Y] gegr\u00ebnnt gouf.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] am [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] dat [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] gegr\u00ebnnt [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] dat am [Y] gegr\u00ebnnt gouf.", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] dat am [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] am [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] dat war [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] dat war am [Y] ugefaang.", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] dat [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] dat war [Y] ugefaang.", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] huet am [Y] ugefaang.", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] huet [Y] ugefaang.", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] huet am [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] huet [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] gouf [Y] ugefaang", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] gouf am [Y] ugefaang", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] gouf [Y] erstallt.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] am [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] dat gouf zu [Y] erstallt.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] dat gouf [Y] erstallt.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] erstallt [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] zu [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] erstallt am [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] gouf zu [Y] erstallt.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] gouf [Y] erstallt.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] gouf am [Y] erstallt.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] an [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] deen [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] dat staamt [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] staamt [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] stamen [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] zu [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] geformt [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] geformt am [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] a [Y] geformt.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] gouf am [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] gouf [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] gouf [Y] geformt.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] gouf am [Y] geformt.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] am [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] d\u00e9i [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] dat am [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] dat [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] gouf [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] dat gouf [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] dat gouf [Y] geformt.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] dat gouf am [Y] geformt.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

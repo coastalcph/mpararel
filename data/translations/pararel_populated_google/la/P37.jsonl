@@ -1,0 +1,32 @@
+{"pattern": "[X] est [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Et [X] est [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "De officialis lingua [X] est [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "De officialis [X] est [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Et officialis lingua [X] est [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Et officialis [X] est [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] est [Y] lingua.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Et [X] est [Y] lingua.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "De officialis lingua [X] est [Y] lingua.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "De officialis [X] est [Y] lingua.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "De officialis [X] est [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] est officialis lingua [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] est officialis [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] est officialis linguam [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Et [Y] lingua est officialis [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] officialis linguam [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Et [Y] est officialis [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Et [Y] est officialis linguam de [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Et [Y] lingua est officialis lingua [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] officialis [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Et [Y] est officialis lingua [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Publice, [Y] est lingua [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Publice, [Y] est [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] lingua [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] lingua de [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Lex in [X] declarat [Y] in officialis lingua.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Lex in [X] definit [Y] sicut officialis lingua.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Lex in [X] definit [Y] sicut in officialis lingua.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Lex in [X] definit [Y] in officialis lingua.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Lex in [X] definit [Y] officialis lingua.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Lex in [X] definit [Y] linguam sicut officialis lingua.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Lex in [X] definit [Y] lingua.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

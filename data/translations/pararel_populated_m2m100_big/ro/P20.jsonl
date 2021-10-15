@@ -1,0 +1,21 @@
+{"pattern": "[X] a murit [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] a murit la [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] a murit [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] a murit la [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] a murit [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] a murit la [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] a murit [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] a murit la [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] a murit [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] la [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] pierdut [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] \u015fi-a pierdut via\u0163a [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] \u0219i-a pierdut via\u021ba la [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] \u015fi-a pierdut via\u0163a la [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "Via\u021ba lui [X] s-a \u00eencheiat [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "Via\u021ba lui [X] s-a \u00eencheiat la [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] a cedat [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] la [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] a cedat la [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

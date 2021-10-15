@@ -1,0 +1,13 @@
+{"pattern": "Rugadh [X] i [Y].", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "Is as [Y] \u00e9 [X] ar dt\u00fas.", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] a bh\u00ed [X] ar dt\u00fas.", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "T\u00e1 [X] d\u00fachasach go [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "Bh\u00ed [X] d\u00fachasach go [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] a th\u00e1inig as [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] a eascra\u00edonn as [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "Ba \u00e9 [X] duine aborn \u00e9.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] duine [Y] -born.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "Is duine [Y] \u00e9 [X].", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] Is duine [Y] -born \u00e9.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], duine [Y] -born.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], an duine [Y] -born.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

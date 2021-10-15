@@ -1,0 +1,18 @@
+{"pattern": "Sede a nan [X] se nan [Y]", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Sede a nan [X] se nan [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Sede a nan [X] sitiye nan [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "Sede a nan [X] se sitiye nan [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] gen seleksyon an nan [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[Y] nan [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[Y] chan\u00e8l la nan [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[Y] gen chan\u00e8l la nan [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] se sitiye nan [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] gen chan\u00e8l la nan [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[Y] nan [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "Sede a nan [X] se nan [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] se nan [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] ki se santral la nan [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] ki sitiye nan [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] se kay la nan [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] ki baze nan [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}
+{"pattern": "[X] nan [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

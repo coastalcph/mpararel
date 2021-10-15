@@ -1,0 +1,27 @@
+{"pattern": "La sede de [X] en [Y]", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "La sede de [X] ta en [Y]", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "La sede [X] ta en [Y]", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "La sede de [X] en [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "La sede de [X] ta en [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "La sede [X] ta en [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "La sede de [X] at\u00f3pase en [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "La sede de [X] en [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "La [X] en [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "La [X] ta en [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] conti\u00e9n la see de [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[Y] conti\u00e9n la see [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[Y] conti\u00e9n la see de la [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] tien la so see en [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[X] en [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] tien la see de [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[Y] tien la see [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[Y] tien la see de la [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] tien la so see en [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] en [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "La sede de [X] ta en [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "La sede de [X] en [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] que tien la so see en [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] ye'l llar de [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[Y] ye'l llar [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] ta bas\u00e1u en [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}
+{"pattern": "[X] ta [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

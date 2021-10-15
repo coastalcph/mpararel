@@ -1,0 +1,9 @@
+{"pattern": "[X] Hlutabr\u00e9f Border vi\u00f0 [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] landam\u00e6ri me\u00f0 [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] deilir landam\u00e6rum [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] deilir landam\u00e6rum s\u00ednum vi\u00f0 [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] deilir sameiginlegum landam\u00e6rum me\u00f0 [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] landam\u00e6ri me\u00f0 [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] deilir landam\u00e6runum me\u00f0 [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] deilir landam\u00e6rum s\u00ednum me\u00f0 [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] deilir sameiginlegum landam\u00e6rum me\u00f0 [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

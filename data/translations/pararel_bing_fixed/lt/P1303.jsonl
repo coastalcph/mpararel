@@ -1,0 +1,4 @@
+{"pattern": "[X] vaidina [Y] .", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[Y] grotuvas [X] ", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "[X] vaidina [Y] .", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] yra [Y] grotuvas.", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

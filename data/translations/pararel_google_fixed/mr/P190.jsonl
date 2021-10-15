@@ -1,0 +1,4 @@
+{"pattern": "[X] \u0906\u0923\u093f [Y] twin \u0936\u0939\u0930 \u0906\u0939\u0947\u0924.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] \u0906\u0923\u093f [X] \u091c\u0941\u0933\u094d\u092f\u093e \u0936\u0939\u0930 \u0906\u0939\u0947\u0924.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] \u090f\u0915 \u091c\u0941\u0933\u093e \u0936\u0939\u0930 \u0906\u0939\u0947 [X].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] \u090f\u0915 \u091c\u0941\u0933\u093e \u0936\u0939\u0930 \u0906\u0939\u0947 [Y] \u0906\u0939\u0947.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

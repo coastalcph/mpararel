@@ -1,0 +1,9 @@
+{"pattern": "Az [X] az \u00e1llampolg\u00e1r", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "Az [X] a [Y] \u00e1llampolg\u00e1ra", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X], egy polg\u00e1r a [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X], aki a [Y] \u00e1llampolg\u00e1ra", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X] \u00e1llampolg\u00e1rs\u00e1ggal rendelkezik a [Y] \u00e1llampolg\u00e1rs\u00e1g\u00e1val kapcsolatban.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] \u00e1llampolg\u00e1rs\u00e1g\u00e1val rendelkezik a [Y] \u00e1llampolg\u00e1rs\u00e1g\u00e1val szemben.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X], aki a [Y] \u00e1llampolg\u00e1rs\u00e1g\u00e1t birtokolja", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X], akinek \u00e1llampolg\u00e1rs\u00e1ga van a [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "Mint a [Y] \u00e1llampolg\u00e1ra, [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

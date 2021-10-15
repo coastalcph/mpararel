@@ -1,0 +1,18 @@
+{"pattern": "[X] je napisan u [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] je napisano u [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] je napisan na [Y] jeziku.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] je napisano na [Y] jeziku.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], napisano na [Y] jeziku.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Jezik [X] je [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Jezik [X] bio je [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] je [Y] -anguage posao.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] je [Y] -anguage posao.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], [Y] -anguage radovi.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], [Y] -anguage radovi.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] je bio [Y] -anguage posao.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] je bio [Y] -anguage posao.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] je rad na [Y] jeziku.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] je bio posao na [Y] jeziku.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] -anguage kreacija [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] je jezik [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] bio je jezik [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

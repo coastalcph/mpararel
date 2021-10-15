@@ -1,0 +1,4 @@
+{"pattern": "[X] musiqi etiketi [Y] t\u0259r\u0259find\u0259n temsil edilir.", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] musiqi etiketi [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] kimi [Y]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[X] da [Y]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

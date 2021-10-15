@@ -1,0 +1,8 @@
+{"pattern": "[X] gra [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] gra na [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[Y] Gracz [X]", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "[X] odgrywa [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] gra na [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] gra [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] to gracz [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "[X] to [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

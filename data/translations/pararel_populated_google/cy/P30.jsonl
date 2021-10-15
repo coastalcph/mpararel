@@ -1,0 +1,13 @@
+{"pattern": "[X] leoli yn [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] yn [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "Mae [X] wedi'i leoli yn [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "Mae [X] leoli [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "Mae [X] wedi'i leoli yn [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "Mae [X] wedi'i leoli yn y [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] yn y Cyfandir [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "Mae [X] yn y Cyfandir [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "Mae [X] yn perthyn i gyfandir [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] yn perthyn i gyfandir [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "Mae [X] yn perthyn [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "Mae [X] yn rhan o gyfandir [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}
+{"pattern": "[X] yn rhan o gyfandir [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

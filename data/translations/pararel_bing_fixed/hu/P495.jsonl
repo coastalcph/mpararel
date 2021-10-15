@@ -1,0 +1,17 @@
+{"pattern": "[X] j\u00f6tt l\u00e9tre [Y].", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X], amely [Y]-ban j\u00f6tt l\u00e9tre.", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X], [Y]-ban l\u00e9trehozva.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], amely [Y]-b\u00f3l sz\u00e1rmazik.", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] [Y]-b\u00f3l sz\u00e1rmazik.", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] alakult [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] alakult [Y].", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X], amely [Y]-ban alakult.", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] fogalmaz\u00f3dott meg [Y].", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X], [Y]-ban fogalmazva.", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X], ezt [Y]-ban fogalmazt\u00e1k meg.", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] [Y]-b\u00f3l sz\u00e1rmazik.", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], aki [Y]-b\u00f3l sz\u00e1rmazott.", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], az [Y]-t\u00f3l.", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X], amelyet [Y]-ban fejlesztettek ki.", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] -ben fejlesztett\u00e9k ki [Y].", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X], [Y]-ban fejlesztve.", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

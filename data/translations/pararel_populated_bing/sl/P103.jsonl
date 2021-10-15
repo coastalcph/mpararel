@@ -1,0 +1,12 @@
+{"pattern": "[X] je [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Domorodec [X] je [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X] jezik je [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Domorodski jezik [X] je [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Materni jezik [X] je [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] je jezik [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] je [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] jezik [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] je [X] jezik.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] je domorodski [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] je materni jezik [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] je materni [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] atrodas [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] atrodas kontinent\u0101 [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] pieder [Y] kontinentam.", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] ir da\u013ca no kontinenta [Y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

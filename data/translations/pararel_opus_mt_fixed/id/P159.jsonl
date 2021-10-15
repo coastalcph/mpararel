@@ -1,0 +1,10 @@
+{"pattern": "Pusat [X] berada di [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Kantor pusat [X] berada di [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Pusat [X] terletak di [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "Font color = \"# 404040\" [Y]: berisi markas [X].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "Font color = \"# 404040\" [X]: adalah pusat di [Y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "Font color = \"# 404040\" [Y]: memiliki markas [X].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "Font color = \"# 404040\" [X]: markas berada di [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], yang markas berada di [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] adalah rumah untuk [X].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] berbasis [Y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

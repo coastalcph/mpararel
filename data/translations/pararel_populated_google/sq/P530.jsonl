@@ -1,0 +1,15 @@
+{"pattern": "[X] mban marr\u00ebdh\u00ebnie diplomatike me [Y]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] mban marr\u00ebdh\u00ebnie diplomatike me [X]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] lidh marr\u00ebdh\u00ebniet diplomatike me [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] lidh marr\u00ebdh\u00ebniet diplomatike me [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] ka marr\u00ebdh\u00ebnie diplomatike me [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] ka marr\u00ebdh\u00ebnie diplomatike me [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] ka marr\u00ebdh\u00ebnie diplomatike me [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] i cili ka marr\u00ebdh\u00ebnie diplomatike me [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] e cila ka marr\u00ebdh\u00ebnie diplomatike me [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] ka marr\u00ebdh\u00ebnie diplomatike me [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] e cila ka marr\u00ebdh\u00ebnie diplomatike me [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] i cili ka marr\u00ebdh\u00ebnie diplomatike me [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] lidh marr\u00ebdh\u00ebniet diplomatike me [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] e cila lidh marr\u00ebdh\u00ebniet diplomatike me [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] i cili lidh marr\u00ebdh\u00ebniet diplomatike me [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

@@ -1,0 +1,21 @@
+{"pattern": "[X] on [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] is to debut on [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": ".) [X] is to debut on [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] is to debut [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[X] debuted on [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] debuted on [Y] (\u0430\u043d\u0433\u043b.).", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[Y] debut of [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "The [Y] debut of [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] The [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[Y] release of [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[Y] of [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "The [Y] release of [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] released on [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] released on [Y] (\u0430\u043d\u0433\u043b.)", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] on [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] was released on [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] released [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] Premiere on [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] on [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Premieres on [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] on [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

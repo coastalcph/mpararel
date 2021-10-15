@@ -1,0 +1,8 @@
+{"pattern": "[X] yang meninggal dunia di dalamnya", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] yang telah meninggal dunia di", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "Maka ia pun meninggal dunia.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "Maka ia pun meninggal dunia.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] yang berakhir di [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "Mereka telah kehilangan nyawa mereka di [Y].", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "Maka hidupnya pun berakhir.", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] yang telah diserahkan kepada", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

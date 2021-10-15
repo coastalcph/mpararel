@@ -1,0 +1,5 @@
+{"pattern": "[X] \u00ebsht\u00eb an\u00ebtar i [Y].", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] i takon organizimit t\u00eb [Y].", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb pjes\u00eb e organizat\u00ebs [Y].", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb e lidhur me [Y].", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb e lidhur me organizat\u00ebn [Y].", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

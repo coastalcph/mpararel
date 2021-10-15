@@ -1,0 +1,5 @@
+{"pattern": "[X] toca [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] toca [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] toca el [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] toca la [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] la [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}

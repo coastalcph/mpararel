@@ -1,0 +1,17 @@
+{"pattern": "[X] dia aseho amin'ny lamba mozika [Y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] dia aseho amin'ny taratasy marika [Y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] no niseho tamin'ny [Y].", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "ary Salmona niteraka an'i Boaza tamin-dRahaba ; ary Boaza niteraka an'i Obeda tamin-dRota ; ary Obeda niteraka an'i Jese ;", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "ary Salmona niteraka an'i Boaza tamin-dRahaba ; ary Boaza niteraka an'i Obeda tamin-dRota ;", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Ny marika mozika izay maneho ny [X] dia [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Ny marika mozika izay maneho ny [X] dia [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "Ny marika [X] dia ny [Y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] Ny lisitry ny rakitra dia [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] Ny orinasa rakitra dia [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] Ny marika mozika dia [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "Ao anaty fitafiana vita amin'ny lamba.", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] Ny marika dia : [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "Ao anaty fitafiana vita amin'ny lamba.", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Na: Fa inona no fanantenan'ny mpihatsaravelatsihy]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "Ary ireo mpanakanto toy ny [X].", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "Ireo mpanakanto ao amin'ny [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

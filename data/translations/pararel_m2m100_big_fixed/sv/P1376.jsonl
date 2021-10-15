@@ -1,0 +1,14 @@
+{"pattern": "[X] \u00e4r huvudstaden i [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Huvudstaden [Y] \u00e4r [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Huvudstaden i [Y] \u00e4r [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] \u00e4r huvudstaden i [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] \u00e4r huvudstaden i [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] \u00e4r huvudstad i staden [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y]s huvudstad \u00e4r [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y]s huvudstad \u00e4r [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], huvudstaden i [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], huvudstaden i [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], detta \u00e4r huvudstaden av [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], detta \u00e4r huvudstaden i [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "och som har kapitalet [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] som har huvudstaden [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

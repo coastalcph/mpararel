@@ -1,0 +1,10 @@
+{"pattern": "Lang orijinal la nan [X] se [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Lang orijinal nan [X] se [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Lang orijinal la nan [X] te [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Lang orijinal nan [X] te [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Lang la nan [X] se [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Lang la nan [X] te [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] se lang la nan [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] te lang la nan [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] lang la nan [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] se lang la nan [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

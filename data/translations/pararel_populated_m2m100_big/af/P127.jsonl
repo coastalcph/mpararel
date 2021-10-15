@@ -1,0 +1,9 @@
+{"pattern": "[X] is in besit van [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "Die [X] is in besit van [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] eienaar van [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[X] eienaar [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[X] van [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[X] se [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] besit [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] die [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] besit die [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}

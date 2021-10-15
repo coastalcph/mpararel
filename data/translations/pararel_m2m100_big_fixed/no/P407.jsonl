@@ -1,0 +1,18 @@
+{"pattern": "Dette ble skrevet i [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] er skrevet i [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "Det er skrevet p\u00e5 spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "Skriften er skrevet p\u00e5 spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "Skrevet p\u00e5 spr\u00e5ket,", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Spr\u00e5ket er det samme som spr\u00e5ket.", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Spr\u00e5ket er det samme som spr\u00e5ket.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] er et [Y] spr\u00e5k arbeid.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] er et [Y] spr\u00e5k arbeid.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "Spr\u00e5ket (og spr\u00e5ket som brukes)", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "Spr\u00e5ket (og spr\u00e5ket som brukes)", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "Spr\u00e5ket er (og er) i ferd med \u00e5 vokse.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "Spr\u00e5ket er (og er) i ferd med \u00e5 vokse.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] er et verk p\u00e5 [Y] spr\u00e5k.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] var et verk p\u00e5 [Y] spr\u00e5k.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Spr\u00e5ket som ble skapt", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "Det er spr\u00e5ket som er til stede.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Dette er spr\u00e5ket som er til stede.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

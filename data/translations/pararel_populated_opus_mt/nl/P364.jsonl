@@ -1,0 +1,12 @@
+{"pattern": "De oorspronkelijke taal van [X] is [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "De oorspronkelijke taal van The [X] is [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "De oorspronkelijke taal van [X] was [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "De oorspronkelijke taal van The [X] was [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "De taal van [X] is [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "De taal van The [X] is [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "De taal van [X] was [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "De taal van The [X] was [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] is de taal van [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] is de taal van The [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] was de taal van [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] was de taal van The [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

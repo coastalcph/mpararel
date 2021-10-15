@@ -1,0 +1,21 @@
+{"pattern": "[X] ing [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] ana ing [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] mati ing [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] ing [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] ana ing [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] mati ing [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] ing [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] ana ing [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] ing [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] ana ing [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] ing [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] ana ing [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] diwiwiti ing [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] ing [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] menehi urip ing [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] ing [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] ana ing [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] diakhiri ing [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "Kehidupan [X] diakhiri ing [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] ngluwihi ing [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] ing [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

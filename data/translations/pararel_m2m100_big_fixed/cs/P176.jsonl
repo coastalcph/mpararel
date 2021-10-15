@@ -1,0 +1,12 @@
+{"pattern": "[X] je vytvo\u0159ena z [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] je vytvo\u0159ena z [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], vyvinut\u00fd podle [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], vyroben\u00e9 z [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "B\u016fh stvo\u0159il \u010dlov\u011bka,", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "B\u016fh stvo\u0159il \u010dlov\u011bka,", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] je produktem z [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], v\u00fdrobek z [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], produkt vytvo\u0159en\u00fd podle [Y],", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], v\u00fdrobek vyvinut\u00fd spole\u010dnost\u00ed [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "B\u016fh stvo\u0159il \u010dlov\u011bka,", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] a jeho v\u00fdrobek [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

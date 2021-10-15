@@ -1,0 +1,4 @@
+{"pattern": "[X] volg die [Y] godsdiens.", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] volg die [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] is 'n volgeling van [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[Y] is die amptelike godsdiens van [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

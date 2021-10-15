@@ -1,0 +1,10 @@
+{"pattern": "[X] ilk olaraq [Y] g\u00f6sterilecek.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] ilk olaraq [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] ilk [Y] g\u00f6sterilecek.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] ilk [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] ilk olaraq [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] ilk [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] formas\u0131 [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] 'nin ilk izdaq\u0131s\u0131 \"\" [X] \"\" idi.", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] ilk [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] ilk d\u0259f\u0259 [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}

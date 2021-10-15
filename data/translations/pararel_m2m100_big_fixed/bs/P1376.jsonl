@@ -1,0 +1,14 @@
+{"pattern": "[X] je glavni grad [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Glavni grad [Y] je [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Glavni grad [Y] je [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] je glavni grad [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] je glavni grad [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] je glavni grad [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] je glavni [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] je glavni grad [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], glavni grad [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], glavni grad [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "To je glavni grad [i].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "To je glavni grad (i glavni grad).", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "koji ima kapital [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], koji ima glavni grad [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

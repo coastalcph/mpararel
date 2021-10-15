@@ -1,0 +1,18 @@
+{"pattern": "[X] zosta\u0142a napisana w [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] jest napisane w [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] zosta\u0142a napisana w j\u0119zyku [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] jest napisane w j\u0119zyku [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "w j\u0119zyku pisemnym,", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "J\u0119zyk [X] jest j\u0119zykiem [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "J\u0119zyk [X] by\u0142 [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] jest j\u0119zykiem [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] jest j\u0119zykiem [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "J\u0119zyk J\u0119zyk J\u0119zyk J\u0119zyk J\u0119zyk", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "J\u0119zyk J\u0119zyk J\u0119zyk J\u0119zyk J\u0119zyk", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] by\u0142 j\u0119zykiem [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] by\u0142 j\u0119zykiem [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] jest dzie\u0142em w j\u0119zyku [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] by\u0142o dzie\u0142em w j\u0119zyku [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "J\u0119zyk J\u0119zyk J\u0119zyk [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "J\u0119zyk J\u0119zyk J\u0119zyk [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "J\u0119zyk J\u0119zyk J\u0119zyk [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] [Y] -tarako balio du.", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X], nork lan egiten du [Y].", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] [Y] -k erabiltzen du.", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X], nork erabiltzen du [Y].", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

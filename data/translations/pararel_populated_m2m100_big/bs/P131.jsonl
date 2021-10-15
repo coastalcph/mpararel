@@ -1,0 +1,17 @@
+{"pattern": "[X] se nalazi u [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] nalazi u [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] se [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] nalazi se [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] nalazi se u [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] se u [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] u [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] se nalazi [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] nalazi [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] se nalazi u [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] nalazi u [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] nalazi se u [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] se u [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] mo\u017ee se na\u0107i [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "[X] mo\u017ee se na\u0107i u [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "[X] se na\u0107i u [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "[X] se na\u0107i [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}

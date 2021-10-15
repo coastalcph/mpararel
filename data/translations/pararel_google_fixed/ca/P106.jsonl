@@ -1,0 +1,11 @@
+{"pattern": "[X] \u00e9s una [Y] per professi\u00f3.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] \u00e9s una [Y] per professi\u00f3.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] \u00e9s una formaci\u00f3.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] \u00e9s una formaci\u00f3 [Y].", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] funciona com [Y].", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], que treballa com [Y].", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "L'ocupaci\u00f3 [X] \u00e9s [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "L'ocupaci\u00f3 de [X] \u00e9s [Y].", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "La professi\u00f3 [X] \u00e9s una [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "La professi\u00f3 [X] \u00e9s una [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "La professi\u00f3 de [X] \u00e9s [Y].", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

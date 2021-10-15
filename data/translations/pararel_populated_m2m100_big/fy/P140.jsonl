@@ -1,0 +1,10 @@
+{"pattern": "[X] is ferb\u00fbn mei de [Y] religy.", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] ferb\u00fbn mei de [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] is ferb\u00fbn mei de [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] fan [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] is in fan [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] is folgger fan [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "De [X] fan [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] fan de [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[Y] is de offisjele religy fan [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] is de offisjele religy [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

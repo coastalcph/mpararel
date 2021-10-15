@@ -1,0 +1,6 @@
+{"pattern": "[X] spielt in [y] -Position.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] spielt in der Position von [y].", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X], die in [y] -Position spielt.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "Spielen als [y], [x]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "Spielen als [y], [x]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[X] spielt als [y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

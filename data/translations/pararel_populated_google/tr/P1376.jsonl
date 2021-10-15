@@ -1,0 +1,6 @@
+{"pattern": "[X] olan [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] sahip olan [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Ba\u015fkent [X] olan [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] sahip [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Ba\u015fkent [X] olan [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] olan [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

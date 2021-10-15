@@ -1,0 +1,13 @@
+{"pattern": "Dylunio [X] yn [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X] yn [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Dylunio [X] yn [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[X] yn [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] yw'r [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] yw'r ystyried [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] o [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] yn ddiddordeb [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "Mae'r [Y] yn ddiddordeb [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] o [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] yw'r [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "Mae'r [Y] yn [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] yn ddiddordeb [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

@@ -1,0 +1,9 @@
+{"pattern": "[X] Ostit relationes Diplomatic relationes cum [y].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[V] maintains legatorum relationes cum [x].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] necessitudines relationes cum [y].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Ego] necessitudines relationes cum [x].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] Relationes legatorum est [y].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Ego] habet legatorum relationes cum [x].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X], quod habet relationes diplomatic cum [y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Ego], quod habet legatorum relationes cum [x]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Ego], quod necessitudines relationes cum [x]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

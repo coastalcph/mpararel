@@ -1,0 +1,4 @@
+{"pattern": "[X] is located in [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] ar a [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] a [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}
+{"pattern": "[X] ar a [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

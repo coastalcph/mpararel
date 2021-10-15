@@ -1,0 +1,15 @@
+{"pattern": "[X] The [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[X] jest [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "J\u0119zykiem oryginalnym [X] jest [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Oryginalnym j\u0119zykiem [X] jest [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Oryginalnym j\u0119zykiem The [X] by\u0142 [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Oryginalnym j\u0119zykiem [X] by\u0142 [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "J\u0119zykiem [X] jest [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "J\u0119zykiem urz\u0119dowym [X] jest [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] by\u0142 [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "J\u0119zykiem [X] by\u0142 [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] jest [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "J\u0119zykiem [Y] jest [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] jest j\u0119zykiem [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] by\u0142 j\u0119zykiem [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "J\u0119zyk [Y] by\u0142 j\u0119zykiem [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

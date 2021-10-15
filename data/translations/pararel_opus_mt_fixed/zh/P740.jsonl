@@ -1,0 +1,14 @@
+{"pattern": "[X] \u6210\u7acb\u4e8e[Y]\u3002", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X],\u8bbe\u7acb\u4e8e[Y]\u3002", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] \u4ee5[Y]\u6210\u7acb\u3002", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X],\u5f00\u59cb\u4e8e[Y]\u3002", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] \u59cb\u4e8e[Y]\u3002", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X]\u59cb\u4e8e[Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X],\u5728[Y]\u4e2d\u521b\u5efa\u7684\u3002", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], \u521b\u5efa\u4e8e [Y] \u3002", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] \u521b\u5efa\u4e8e[Y]\u5e74\u3002", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X],\u539f\u4ea7\u4e8e[Y]\u3002", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X]\u539f\u4ea7\u4e8e[Y]\u3002", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] \u7ec4\u6210\u4e8e[Y]\u3002", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X]\u7ec4\u6210\u4e8e[Y]\u5e74\u3002", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X],\u5176\u7ec4\u6210\u4e8e[Y]\u5e74\u3002", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

@@ -1,0 +1,23 @@
+{"pattern": "Datblygir [X] gan [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] gan [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "Datblygwyd [X] gan [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X] a ddatblygwyd gan [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "Cr\u00ebir [X] gan [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] gan [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "Mae [X] yn cael ei greu gan [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "Mae [X] yn [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "Cr\u00ebwyd [X] gan [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X] a gr\u00ebwyd gan [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "Mae [X] yn gynnyrch [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "Roedd [X] yn gynnyrch [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X] cynnyrch [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X] cynnyrch a gr\u00ebwyd gan [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X] cynnyrch a weithgynhyrchir gan [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X] cynnyrch a ddatblygwyd gan [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y] a ddatblygodd [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y] a greodd [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] y [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] cr\u00ebwr [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] cr\u00ebwr y [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] cr\u00ebwr yr [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] a'i gynnyrch [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

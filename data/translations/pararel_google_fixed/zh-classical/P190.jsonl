@@ -1,0 +1,4 @@
+{"pattern": "[X]\u548c[Y]\u662f\u96d9\u57ce\u5e02\u3002", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y]\u548c[X]\u662f\u96d9\u57ce\u5e02\u3002", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y]\u662f[X]\u7684\u96d9\u80de\u80ce\u57ce\u5e02\u3002", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X]\u662f\u4e00\u500b\u96d9\u57ce\u5e02[Y]\u3002", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

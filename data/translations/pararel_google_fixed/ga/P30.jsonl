@@ -1,0 +1,4 @@
+{"pattern": "T\u00e1 [X] suite i [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "T\u00e1 [X] suite sa mh\u00f3r-roinn [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "Baineann [X] le m\u00f3r-roinn [Y].", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "Is cuid de mh\u00f3r-roinn \u00e9 [Y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

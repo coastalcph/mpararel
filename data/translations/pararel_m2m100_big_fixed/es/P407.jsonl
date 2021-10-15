@@ -1,0 +1,18 @@
+{"pattern": "[X] fue escrito en [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] est\u00e1 escrito en [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] fue escrito en el idioma [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] est\u00e1 escrito en el idioma [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "En el lenguaje de la escritura,", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "El lenguaje de [X] es [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "El lenguaje de [X] fue [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] es un trabajo de [Y] lenguaje.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] es un trabajo de [Y] lenguaje.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "El lenguaje de la obra.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "El lenguaje de la obra.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] fue un trabajo de [Y] lenguaje.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] fue un trabajo de [Y] lenguaje.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] es una obra en el idioma [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] fue un trabajo en el idioma [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "El lenguaje de la creaci\u00f3n.", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "Es el lenguaje de [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "El lenguaje de [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

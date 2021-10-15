@@ -1,0 +1,49 @@
+{"pattern": "[X] sa [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "Si [X] natawo sa [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "Natawo [X] sa [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] sa sinugdanan gikan sa [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "Si [X] sa sinugdanan gikan sa [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "Ang [X] sa sinugdanan gikan sa [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] sa sinugdanan gikan sa [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "Si [X] sa sinugdanan gikan sa [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "Ang [X] sa sinugdanan gikan sa [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] nga lumad sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] lumad nga lumad sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "Si [X] lumad sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "Si [X] nga lumad sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] lumad nga [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] lumad sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] lumad [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "Ang [X] lumad nga [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "Ang [X] lumad sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "Si [X] sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "Si [X] lumad nga lumad sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] lumad nga lumad sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "Si [X] nga lumad sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "Si [X] lumad nga [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] lumad sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "Si [X] naggikan sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "Si [X] sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] naggikan sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] nga gikan sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] naggikan sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "Ang [X] naggikan sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] gikan sa [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] usa ka tawo nga natawo sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "Si [X] usa ka tawo nga natawo sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] usa ka tawo nga natawo sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "Si [X] usa ka tawo nga natawo sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] usa ka tawo nga [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "Si [X] usa ka tawo nga [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] usa ka tawo nga natawo sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "Si [X] usa ka tawo nga natawo sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "Ang [X] usa ka tawo nga natawo sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] usa ka tawo nga natawo sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "Si [X] usa ka tawo nga natawo sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] usa ka tawo nga [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] usa ka tawo nga natawo sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] usa ka tawo nga natawo sa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

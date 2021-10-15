@@ -1,0 +1,60 @@
+{"pattern": "Ny [X] dia [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] dia [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "Ny [X] dia navoaka tamin'ny [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "Ny [X] dia navoaka [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] dia navoaka tamin'ny [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "Ny [X] dia handray anjara amin'ny [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] dia hivoaka amin'ny [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "Ny [Y] dia ny [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "Ny [Y] dia hanomboka ny [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "Ny [Y] dia [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "Ny [Y] dia namorona ny [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "Ny [Y] dia ny [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] ny [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "Ny [Y] dia namorona [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "Ny [Y] dia [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] dia [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] tao amin'ny [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] amin'ny [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] ny [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "Ny [X] dia [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "Ny [X] dia nanomboka [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] dia nanomboka tao amin'ny [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] nanomboka [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] dia [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] tamin'ny [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[Y] avy amin'ny [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "Ny [Y] dia [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "Ny [Y] amin'ny [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "Ny [Y] avy amin'ny [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] amin'ny [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] ny [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] voalohany amin'ny [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] ny [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "Ny famoahana ny [Y] ny [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "Sary avy amin'ny [Y] momba ny [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "Ny [Y] ny [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[Y] famoahana ny [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "Ny [X] dia navoaka [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] dia navoaka tao amin'ny [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] tao amin'ny [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "Ny [X] dia navoaka amin'ny [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] amin'ny [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] dia navoaka [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] tamin'ny [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] dia navoaka tamin'ny [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] dia navoaka amin'ny [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "Ny [Y] dia [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "Ny [Y] dia nanolotra [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] ny [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] tamin'ny [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] dia nanomboka [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] tao amin'ny [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] nanomboka [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "Ny [X] dia nanomboka [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] amin'ny [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] tamin'ny [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "Ny [X] dia [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] dia [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] amin'ny [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] ny [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

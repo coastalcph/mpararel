@@ -1,0 +1,4 @@
+{"pattern": "[X] er medlem av [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] tilh\u00f8rer organisasjonen av [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] er en del av [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] er tilknyttet [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}

@@ -1,0 +1,43 @@
+{"pattern": "[X] wedi ei sefydlu yn [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] ei sefydlu yn [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "Mae [X] ei sefydlu yn [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "Mae [X] wedi ei sefydlu yn [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] a sefydlwyd yn [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] a sefydlwyd yn [Y]", "lemma": "found", "extended_lemma": "found-in", "tense": "past"}
+{"pattern": "[X] sy'n dechrau yn [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] dechrau yn [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] dechrau yn [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] yn dechrau yn [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "Mae [X] yn dechrau yn [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] yn dechrau yn [Y]", "lemma": "start", "extended_lemma": "start-in", "tense": "past"}
+{"pattern": "[X] a sefydlwyd yn [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] a sefydlwyd yn [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] sefydlu yn [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "Mae [X] yn cael ei sefydlu yn [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] cael ei sefydlu yn [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] yn cael ei sefydlu yn [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] ei sefydlu yn [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] sy'n ei gynhyrchu yn [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "Mae [X] ei gynhyrchu yn [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "Mae [X] yn [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] wedi ei gynhyrchu yn [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] ei gynhyrchu yn [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] yn cael ei gynhyrchu yn [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] sefydlu yn [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] yn cael ei sefydlu yn [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] ei sefydlu yn [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "Mae [X] yn cael ei sefydlu yn [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] ei sefydlu yn [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] wedi ei sefydlu yn [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "Mae [X] yn cael ei sefydlu yn [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] cael ei sefydlu yn [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] yn cael ei sefydlu yn [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] a sefydlwyd yn [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}

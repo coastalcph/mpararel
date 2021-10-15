@@ -1,0 +1,17 @@
+{"pattern": "Bh\u00ed [X] ina obair [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] obair i [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Bh\u00ed [X] ina obair i dteanga na [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Bh\u00ed [X] ina obair i dteanga [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] obair [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Bh\u00ed [X] ina obair sa [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] obair sa [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] obair sa teanga [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Is \u00ed an [Y] teanga [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Is [Y] teanga [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Is \u00ed [Y] teanga [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Is \u00e9 [Y] teanga [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Ba \u00ed an [Y] teanga [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Ba [Y] teanga [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Ba \u00ed [Y] teanga [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Ba [Y] an teanga [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Ba \u00e9 [Y] teanga [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

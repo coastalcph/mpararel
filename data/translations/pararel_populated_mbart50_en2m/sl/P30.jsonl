@@ -1,0 +1,5 @@
+{"pattern": "[X] je del [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] del [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] del kontinenta [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] je del [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}
+{"pattern": "[X] del [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

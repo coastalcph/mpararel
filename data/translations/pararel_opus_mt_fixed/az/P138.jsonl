@@ -1,0 +1,20 @@
+{"pattern": "[Y]\u0259hudi] ad\u0131 [Yeqova] var.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[ 10 - cu s\u0259hif\u0259d\u0259ki \u015f\u0259kil]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[Y]eqova] ad\u0131 [Yeqova] var.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[Y]\u0259hudi] ad\u0131 [Yeqova] idi.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[Y]\u0259hudi] adlanan, [Yeqova] ad [Yeqova].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[Y]\u0259hudi] ad\u0131 [Yeqova] idi.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[Y]eqova] adlanan ad [Yeqova] var.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[Y]\u0259hudi] ad\u0131 [Yeqova] idi.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[Y]eqova] ad\u0131 [Yeqova].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[Y]\u0259hudi] ad\u0131 [Ye]", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[Y]un] ad\u0131 [Yeqova] \u015f\u0259r\u0259fdir.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[S] [Y]\u0259hudi] \u015f\u0259r\u0259f] idi.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[Y]un] ad\u0131 [Yeqova] \u015f\u0259r\u0259fdir.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[Y]un] ad\u0131 [Yeqova]d\u0259dir.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[Y]\u0259hudin] ad\u0131 [Yeqova] idi.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[Y\u0259hudi] adlanacaq [Y].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[Y]\u0259hudi] adlanacaq [Y\u0259hudi].", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[Y]eqova] adlanan, [Yeqova].", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[Y]\u0259hudi] adlanan, [Yeqova] adland\u0131r\u0131ld\u0131.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[Y]\u0259hudi] adlanacaq [Yeqova].", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

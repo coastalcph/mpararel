@@ -1,0 +1,11 @@
+{"pattern": "[X] sy [Y] dia tan\u00e0na kambana.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[X] sy [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] sy [X] dia tan\u00e0na kambana.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] sy [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] dia tan\u00e0na kambana [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[Y] dia tan\u00e0na kambana ao [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] dia tan\u00e0na kambana ao [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] dia tan\u00e0na kambana [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] dia [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] dia tan\u00e0na kambana kambana [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] dia tan\u00e0na kambana kambana ao [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

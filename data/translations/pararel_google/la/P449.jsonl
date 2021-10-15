@@ -1,0 +1,11 @@
+{"pattern": "[X] fuit primum aired in [y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] Est debut in [y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Ego] est debut [x].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Ego] debuted [x].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debuted in [y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "Quod [y] debut de [x].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "et [y] dimittis de [x].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] dimisit in [y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Ego] dimisit [x].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] Premieded in [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Premieres in [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

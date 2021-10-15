@@ -1,0 +1,10 @@
+{"pattern": "Any [Y] no misy [X]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[Y] ny [X]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "Any [Y] no misy an'i [X]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[Y] no misy [X]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "Any [Y] no misy [X]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[Y] no misy an'i [X]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[Y] kaontinanta [X]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "An'ny kaontinanta [Y] i [X]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "Anisan'ny kaontinanta [Y] ny [X]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}
+{"pattern": "Anisan'ny kaontinanta [Y] i [X]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

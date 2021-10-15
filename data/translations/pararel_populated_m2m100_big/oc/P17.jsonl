@@ -1,0 +1,13 @@
+{"pattern": "[X] es [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X] es situat [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X] es situat en [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X] en [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X] situat en [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] situat [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] situada [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] que [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] en [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] situat [Y]", "lemma": "located", "extended_lemma": "located", "tense": "present"}
+{"pattern": "[X] situat en [Y]", "lemma": "located", "extended_lemma": "located", "tense": "present"}
+{"pattern": "[X] en [Y]", "lemma": "located", "extended_lemma": "located", "tense": "present"}
+{"pattern": "[X] situada [Y]", "lemma": "located", "extended_lemma": "located", "tense": "present"}

@@ -1,0 +1,30 @@
+{"pattern": "[X] dzimis [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] s\u0101kotn\u0113ji no [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] ir s\u0101kotn\u0113ji no [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] ir no [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] s\u0101kotn\u0113ji bija no [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] s\u0101kotn\u0113ji bija [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] s\u0101kotn\u0113ji no [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] ir [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] ir dzimt\u0101 [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] ir dzimtene [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] bija [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] bija dzimt\u0101 [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] dzimt\u0101 [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] bija dzimtene [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] no [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] c\u0113lies no [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] rad\u0101s no [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] n\u0101k no [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] bija [Y] cilv\u0113ks.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] bija [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] bija [Y] dzimis cilv\u0113ks.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] bija [Y] dzimis cilv\u0113ks.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] bija [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] bija [Y] cilv\u0113ks.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] ir [Y] cilv\u0113ks.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ir [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ir [Y] dzimis cilv\u0113ks.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ir [Y] dzimis cilv\u0113ks.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ir [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ir [Y] cilv\u0113ks.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

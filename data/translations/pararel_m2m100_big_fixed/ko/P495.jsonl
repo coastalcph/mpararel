@@ -1,0 +1,17 @@
+{"pattern": "\ud558\ub098\ub2d8\uc740 \ucc3d\uc870\uc8fc\uc774\uc2e0 \ud558\ub098\ub2d8\uc774\uc2dc\ub2e4.", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "\uadf8\uac83\uc774 \ucc3d\uc870\ub41c \uac83\uc774\ub77c", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "\ud558\ub098\ub2d8\uc740 \ucc3d\uc870\uc8fc\uc774\uc2e0 \ubd84\uc774\uc2dc\ub2e4.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "\uadf8\ub9ac\ud558\uc5ec \uadf8\ub4e4\uc740 \uadf8\uacf3\uc5d0\uc11c \uc2dc\uc791\ub418\uc5c8\ub2e4.", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] \uc5d0\uc11c \ucd9c\ubc1c \ud558\uc600\ub2e4", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] [X] [X] [X] [X] [X] [X] [X] [X] [X] [X] [X]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "\uadf8\ub9ac\ud558\uc5ec [X]\ub294 \ucc3d\uc870\ub418\uc5c8\ub2e4.", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "\uadf8\uac83\uc774 \ucc3d\uc870\ub418\uc5c8\uc73c\uba70,", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] \ub294 [Y] \uc5d0\uc11c \uc791\uc131\ub418\uc5c8\uc2b5\ub2c8\ub2e4.", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] [X] [X] [X] [X] [X] [X] [X] [X] [X] [X] [X]", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X] \uc774\uac83\uc740 [Y]\uc5d0\uc11c \ud45c\ud604\ub418\uc5c8\uc2b5\ub2c8\ub2e4.", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "\uadf8\ub9ac\ud558\uc5ec \uadf8\ub4e4\uc740 \uadf8\ub4e4\ub85c\ubd80\ud130 \uc654\uc2b5\ub2c8\ub2e4.", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] \ub204\uac00 \uadf8\uc5d0\uac8c\uc11c \uc654\ub294\uac00", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] \uc5d0\uc11c \uc5d0\uc11c \uc5d0\uc11c \uc5d0\uc11c", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X] \uadf8\uac83\uc740 [Y]\uc5d0\uc11c \uac1c\ubc1c\ub418\uc5c8\uc2b5\ub2c8\ub2e4", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] \uc5d0\uc11c \uac1c\ubc1c \ub418\uc5c8\uc2b5\ub2c8\ub2e4 [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] [X] [X] [X] [X] [X] [X] [X] [X] [X] [X] [X]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

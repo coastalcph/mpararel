@@ -1,0 +1,13 @@
+{"pattern": "T\u00e1 [X] suite [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "T\u00e1 [X] sa [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "T\u00e1 [X] suite sa [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X] suite [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "T\u00e1 [X] lonnaithe [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X] at\u00e1 suite [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] at\u00e1 [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] at\u00e1 lonnaithe san [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] at\u00e1 lonnaithe [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] at\u00e1 lonnaithe sa [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] at\u00e1 lonnaithe [Y]", "lemma": "located", "extended_lemma": "located", "tense": "present"}
+{"pattern": "[X] at\u00e1 lonnaithe sa [Y]", "lemma": "located", "extended_lemma": "located", "tense": "present"}
+{"pattern": "[X] at\u00e1 lonnaithe san [Y]", "lemma": "located", "extended_lemma": "located", "tense": "present"}

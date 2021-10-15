@@ -1,0 +1,11 @@
+{"pattern": "[X] \u00e8 stato lanciato all'inizio su [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] dovrebbe debuttare su [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] dovrebbe debuttare [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debutt\u00f2 [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debutt\u00f2 su [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "il debutto di [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "la liberazione di [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] \u00e8 stato rilasciato su [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] rilasciata [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] \u00e8 stata proibita su [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "La prima [X] \u00e8 su [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

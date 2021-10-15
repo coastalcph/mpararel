@@ -1,0 +1,18 @@
+{"pattern": "[X]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] Cafodd ei ysgrifennu yn yr iaith [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] ysgrifennu, ysgrifennwydwyd yn yr iaith [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[Y]r iaith [X] [X]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[Y]r iaith [X]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] Mae [X] yn gweithio.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] [X] Mae'n gweithio.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] [X] Mae'n gweithio.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] [X] Mae'n gweithio.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] Roedd [X] yn gweithio.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] [Y]r oedd [X] gweithio.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] gwaith yn y gweithle [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] roedd gwaith yn y [Y] yn iaithR.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] Batri'n creu", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] yn iaith[X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] oedd iaith [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

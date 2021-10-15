@@ -1,0 +1,17 @@
+{"pattern": "[X] galven\u0101 m\u012btne atrodas [Y]", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "[X] galven\u0101 m\u012btne atrodas [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] galven\u0101 m\u012btne atrodas [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] atrodas [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[Y] atrodas [X] galven\u0101 m\u012btne.", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] galven\u0101 m\u012btne atrodas [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] atrodas [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[Y] ir [X] galven\u0101 m\u012btne.", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[Y] atrodas [X] galven\u0101 m\u012btne.", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] galven\u0101 m\u012btne atrodas [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] kuras galven\u0101 m\u012btne atrodas [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] galven\u0101 m\u012btne atrodas [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] ir m\u0101jvieta [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[Y] ir [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[Y] ir [X] m\u0101jvieta.", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] ir [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}
+{"pattern": "[X] atrodas [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

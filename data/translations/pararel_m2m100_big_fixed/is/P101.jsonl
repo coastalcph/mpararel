@@ -1,0 +1,13 @@
+{"pattern": "[X] vinnur \u00e1 svi\u00f0i [Y]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] s\u00e9rh\u00e6fir sig \u00ed [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] er s\u00e9rfr\u00e6\u00f0ing \u00e1 [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "\u00deekkingin \u00e1 [X] er [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "\u00dea\u00f0 er \u00feekkingin \u00e1 [X]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "\u00c1st\u00e6\u00f0an fyrir starfsemi [X] er [Y].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "\u00c1st\u00e6\u00f0an fyrir vinnu [X] er [Y].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y] er r\u00edkisstj\u00f3rn starfsemi [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] vinnusta\u00f0 er [Y]", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X] vinnusta\u00f0 er [Y]", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X] sv\u00e6\u00f0i\u00f0 af starfsemi er [Y].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[X] \u00feekkingu er [Y]", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] starfar \u00ed sv\u00e6\u00f0i [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

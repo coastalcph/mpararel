@@ -1,0 +1,10 @@
+{"pattern": "[X] on p\u00e4rit [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] on [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] on [Y] p\u00e4rismaalane.", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] oli p\u00e4rit [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] oli [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] oli [Y] p\u00e4rismaalane.", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] oli [Y] s\u00fcndinud inimene.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] oli [Y] s\u00fcndinud inimene.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] on [Y] s\u00fcndinud inimene.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] on [Y] s\u00fcndinud inimene.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

@@ -1,0 +1,11 @@
+{"pattern": "[X] a \u00e9t\u00e9 diffus\u00e9 \u00e0 l'origine sur [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] est de faire ses d\u00e9buts sur [y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] est de faire ses d\u00e9buts [x].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] a d\u00e9but\u00e9 [x].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] fait ses d\u00e9buts sur [y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "les d\u00e9buts [y] de [x].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "la lib\u00e9ration [Y] de [x].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] a \u00e9t\u00e9 lib\u00e9r\u00e9 sur [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] lib\u00e9r\u00e9 [x].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] Premierr\u00e9 sur [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Premi\u00e8res sur [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

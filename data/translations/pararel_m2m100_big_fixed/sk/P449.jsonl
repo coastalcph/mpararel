@@ -1,0 +1,11 @@
+{"pattern": "[X] bol p\u00f4vodne vysielan\u00fd na [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] je na za\u010diatku na [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "A to je na za\u010diatku [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "A potom sa rozbehol [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] sa objavil na [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "Na za\u010diatku (a potom aj na za\u010diatku)", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "a oslobodenie z [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] bol prepusten\u00fd na [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "a oslobodi\u0165 sa od toho,", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "Prv\u00fdkr\u00e1t sa na \u0148om objavil [X].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Prv\u00e1 \u010das\u0165 na [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

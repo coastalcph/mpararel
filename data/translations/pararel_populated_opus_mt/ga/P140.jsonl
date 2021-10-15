@@ -1,0 +1,13 @@
+{"pattern": "[X] cleamhnaithe leis an reiligi\u00fan [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "T\u00e1 [X] cleamhnaithe leis an reiligi\u00fan [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] seo a leanas an reiligi\u00fan [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] an reiligi\u00fan [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "Is [X] lean\u00fana [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] lean\u00fana [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "Is [X] na [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] lean\u00fana na [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] na [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "T\u00e1 [X] lean\u00fana [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "Is [Y] reiligi\u00fan oifigi\u00fail [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "Is [Y] reiligi\u00fan [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "Is [Y] reiligi\u00fan oifigi\u00fail [X] ar.", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] er sta\u00f0sett \u00ed [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] er sta\u00f0sett \u00ed meginlandinu [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] tilheyrir meginlandi [Y].", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] er hluti af meginlandi [Y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

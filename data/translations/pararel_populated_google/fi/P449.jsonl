@@ -1,0 +1,16 @@
+{"pattern": "[X] alun perin [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] alun perin [Y] ll\u00e4.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] oli [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] alunperin [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] oli alunperin ilmastoitu [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] on debyytti [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] on debyytti [Y] ss\u00e4.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] on [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] on debyytti [Y] st\u00e4.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] on debyytti [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] Debuted [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] julkaistiin [Y] ss\u00e4.", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] julkaistiin [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] julkaisi [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] Premieres [Y] ss\u00e4.", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] Premieres [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

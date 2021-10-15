@@ -1,0 +1,12 @@
+{"pattern": "Hiyo ni kwa ajili ya uzalishaji.", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "Hiyo ni kwa ajili ya kuendeleza.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], iliyoundwa na [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], iliyotengenezwa na [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[Y]eye ndiye Muumba wa uumbaji.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "na kuumbwa kwa uumbaji.", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] ni bidhaa kutoka kwa [Y].", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "Kwa mfano, bidhaa ya [X] ni", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "Hiyo ni bidhaa ambayo imeumbwa.", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], bidhaa iliyotengenezwa na [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y]eye ndiye Muumba wa uumbaji.", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] na bidhaa yake [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

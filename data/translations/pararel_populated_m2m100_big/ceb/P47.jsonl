@@ -1,0 +1,29 @@
+{"pattern": "Ang [X] usa ka border sa [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "Ang [X] border sa [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] sa [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "Ang [X] nahimutang sa [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] sa [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "Ang [X] usa ka border sa [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] border sa [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] border sa [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "Ang [X] usa ka border sa [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "Ang [X] border sa [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] usa ka border sa [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "Ang [X] adunay usa ka common border sa [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "Ang [X] adunay usa ka border sa [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[X] adunay usa ka common border sa [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[X] adunay usa ka border sa [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] nahimutang sa [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] sa [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "Ang [Y] nahimutang sa [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "Ang [Y] usa ka border sa [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] usa ka border sa [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "Ang [Y] sa [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "Ang [Y] usa ka border sa [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "Ang [Y] border sa [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] usa ka border sa [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] adunay usa ka common border sa [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] adunay usa ka border sa [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "Ang [Y] adunay usa ka border sa [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "Ang [Y] adunay usa ka common border sa [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

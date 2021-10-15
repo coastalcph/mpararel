@@ -1,0 +1,50 @@
+{"pattern": "[X] nga etiketa muzikore [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] nga [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] muzikore [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] p\u00ebrfaq\u00ebsohen [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] p\u00ebrfaq\u00ebsohet [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] e [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] me etiket\u00ebn e muzik\u00ebs [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] me etiket\u00ebn [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] me etiket\u00eb [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] me etiket\u00eb rekord [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] rekord [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] paraqitet me etiket\u00eb [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] p\u00ebrfaq\u00ebsohet me etiket\u00eb rekord [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] nga [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] p\u00ebrfaq\u00ebsohet nga [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] p\u00ebrfaq\u00ebsohen nga [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] p\u00ebrfaq\u00ebsohet nga [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] nga [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] q\u00eb p\u00ebrfaq\u00ebsohet nga [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] nga [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] p\u00ebrfaq\u00ebsohet nga [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] q\u00eb p\u00ebrfaq\u00ebsohet nga [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] t\u00eb cilat p\u00ebrfaq\u00ebsohen nga [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Etiketa muzikore q\u00eb p\u00ebrfaq\u00ebson [X] \u00ebsht\u00eb [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Etiketa muzikore q\u00eb p\u00ebrfaq\u00ebson [X] \u00ebsht\u00eb [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "Etiketa e [X] \u00ebsht\u00eb [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "Etiketa e [X] \u00ebsht\u00eb [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "Etiketa rekord e [X] \u00ebsht\u00eb [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "Kompania e regjistrimit e [X] \u00ebsht\u00eb [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Kompania e [X] \u00ebsht\u00eb [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Kompania diskografike e [X] \u00ebsht\u00eb [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Etiketa muzikore e [X] \u00ebsht\u00eb [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] p\u00ebr [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] regjistruar p\u00ebr [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] ka regjistruar p\u00ebr [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] liruar nga [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] i liruar nga [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] nga [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] e liruar nga [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "Artist\u00ebt [Y] si [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "Artist\u00ebt e [Y] si [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] si [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] t\u00eb till\u00eb si [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "Artist\u00ebt [Y] duke p\u00ebrfshir\u00eb [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "Artist\u00ebt e [Y] duke p\u00ebrfshir\u00eb [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "Artist\u00ebt e [Y] p\u00ebrfshir\u00eb [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "Artist\u00ebt [Y] p\u00ebrfshir\u00eb [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "[Y] duke p\u00ebrfshir\u00eb [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

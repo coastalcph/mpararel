@@ -1,0 +1,11 @@
+{"pattern": "[X] sa nach\u00e1dza [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] sa nach\u00e1dza v [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] sa nach\u00e1dza [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] sa nach\u00e1dza v [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] v [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] sa nach\u00e1dza v \u0161t\u00e1te [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] v \u0161t\u00e1te [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] sa nach\u00e1dza [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "[X] v [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "[X] sa nach\u00e1dza v [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "[X] mo\u017eno n\u00e1js\u0165 v [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}

@@ -1,0 +1,7 @@
+{"pattern": "[X] at [Y] ay dalawang lungsod.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "Ang [X] at [Y] ay dalawang lungsod.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] at [X] ay dalawang lungsod.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "Ang [Y] at [X] ay dalawang lungsod.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] ay isang twin city ng [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] ay isang twin city ng [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "Ang [X] ay isang twin city ng [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

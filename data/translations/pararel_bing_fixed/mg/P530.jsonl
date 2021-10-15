@@ -1,0 +1,9 @@
+{"pattern": "[X] dia mihazona ny fifandraisana ara-diplaomatika amin'ny [Y].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] dia mihazona ny fifandraisana ara-diplaomatika amin'ny [X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] fifandraisana ara-diplaomatika amin'ny [X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] dia manana fifandraisana ara-diplaomatika amin'ny [Y].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] dia manana fifandraisana ara-diplaomatika amin'ny [X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X], izay manana fifandraisana ara-diplaomatika amin'ny [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], izay manana fifandraisana ara-diplaomatika amin'ny [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], izay mampifandray ny fifandraisana ara-diplaomatika amin'ny [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

@@ -1,0 +1,22 @@
+{"pattern": "[X] musiqi etiketi [Y] t\u0259msil olunur.", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] musiqi etiketi [Y] il\u0259 t\u0259msil olunur.", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[Y] t\u0259msil olunan [X]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[Y] il\u0259 t\u0259msil olunan [X]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[Y] t\u0259r\u0259find\u0259n t\u0259msil olunan [X]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] t\u0259msil ed\u0259n musiqi etiketi [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] t\u0259msil ed\u0259n musiqi etiketi [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] etiketi [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] rekord etiketi [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] etiketi [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] rekord \u015firk\u0259ti [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] musiqi etiketi [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] etiketi: [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[Y] t\u0259r\u0259find\u0259n burax\u0131lan [X]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] t\u0259r\u0259find\u0259n [X]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] burax\u0131lan [X]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] t\u0259r\u0259find\u0259n yay\u0131mlanan [X]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] s\u0259rb\u0259st [X]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] s\u0259rb\u0259st burax\u0131lan [X]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] r\u0259ssam [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] qeyd [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] qeyd s\u0259n\u0259t\u00e7isi [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}

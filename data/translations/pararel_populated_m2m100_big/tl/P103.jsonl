@@ -1,0 +1,10 @@
+{"pattern": "Ang native language ng [X] ay [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Ang pangunahing wika ng [X] ay [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "Ang mother tongue ng [X] ay [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "Ang [Y] ay ang native language ng [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] ay ang native language ng [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "Ang [Y] ay ang mother tongue [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] ay ang mother tongue ng [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "Ang [Y] ay ang mother tongue ng [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "Ang [Y] ay ang [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] ay ang mother tongue [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

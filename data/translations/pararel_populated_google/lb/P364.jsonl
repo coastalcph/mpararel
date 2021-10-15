@@ -1,0 +1,21 @@
+{"pattern": "D\u00e9i originell Sprooch vun [X] ass [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "D\u00e9i originell Sprooch [X] ass [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[X] ass [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "D\u00e9i originell Sprooch vum [X] ass [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "D'Originalsprooch [X] ass [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "D\u00e9i originell Sprooch [X] war [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "[X] war [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "D\u00e9i originell Sprooch vu [X] war [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "D'Sprooch vun [X] ass [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "D'Sprooch [X] ass [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "D'Sprooch vun der [X] ass [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "D'Sprooch vum [X] ass [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "D'Sprooch [X] war [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "D'Sprooch vun [X] war [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "D'Sprooch vum [X] war [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] ass d'Sprooch vun [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] ass d'Sprooch [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] ass d'Sprooch vum [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] war d'Sprooch vun [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] war d'Sprooch [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] war d'Sprooch vum [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

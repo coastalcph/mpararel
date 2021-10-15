@@ -1,0 +1,17 @@
+{"pattern": "[X] j\u1eb9 a\u1e63oju lab\u1eb9 aami orin [Y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] j\u1eb9 a\u1e63oju nipas\u1eb9 aami igbasil\u1eb9 [Y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] j\u1eb9 a\u1e63oju nipas\u1eb9 [Y].", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], iy\u1eb9n j\u1eb9 a\u1e63oju nipas\u1eb9 [Y].", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], eyiti o j\u1eb9 a\u1e63oju nipas\u1eb9 [Y].", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Aami aami orin n \u1e63e a\u1e63oju [X] j\u1eb9 [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Aami aami ti o nso a\u1e63oju [X] j\u1eb9 [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[Qu] Lab] q [Y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] Aw\u1ecdn aami igbasil\u1eb9 ti X] 'j\u1eb9 [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[Iwe-i\u1e63\u1eb9 igbasil\u1eb9 ti [X] 'j\u1eb9 [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] Laini Orin ST [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] gbasil\u1eb9 fun [Y].", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] Amil: [Y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], tu sil\u1eb9 nipas\u1eb9 [Y].", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] Ti gbigbasil\u1eb9 olorin gbigba [X].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Aw\u1ecdn o\u1e63ere bii [X].", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] Aw\u1ecdn o\u1e63ere p\u1eb9lu [X].", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

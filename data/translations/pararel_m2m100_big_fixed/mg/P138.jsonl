@@ -1,0 +1,20 @@
+{"pattern": "ary Salmona niteraka an'i Boaza tamin-dRahaba ;", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "Ary ny anaran'i Jesoa dia avy any aoriana.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "Fa Andriamanitra tia mpanome amim-pifaliana.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "Fa Andriamanitra tia mpanome amim-pifaliana.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "ary Salmona niteraka an'i Boaza tamin-dRahaba ; ary Boaza niteraka an'i Obeda tamin-dRota ; ary Obeda niteraka an'i Jese ;", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "ary Salmona niteraka an'i Boaza tamin-dRahaba ; ary Boaza niteraka an'i Obeda tamin-dRota ;", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "Fa Andriamanitra tia mpanome amim-pifaliana.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "Fa Andriamanitra tia mpanome amim-pifaliana.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "Fa Andriamanitra tia mpanome amim-pifaliana.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "Ary ny anaran'i Jesoa dia avy eo.", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "Ny anaran'ny [X] dia ao amin'ny voninahitr'i [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "Ny anaran'i [X] dia voasoratra anarana amin'ny anaran'i [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "ary ny anaran'ny anaran'ny Tompo.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "ary Salmona niteraka an'i Boaza tamin-dRahaba ; ary Boaza niteraka an'i Jese ;", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], izay atao amin'ny anaran'ny [Y] ny voninahitra.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "ary Salmona niteraka an'i Boaza tamin-dRahaba ; ary Boaza niteraka an'i Obeda tamin-dRota ;", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Ary niantso azy taorian'izay izy.", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "ary Salmona niteraka an'i Boaza tamin-dRahaba ; ary Boaza niteraka an'i Obeda tamin-dRota ; ary Obeda niteraka an'i Jese ;", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Ary izay niantso azy taorian'izay.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "Ary dia niantso azy taorian'izay.", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

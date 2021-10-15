@@ -1,0 +1,51 @@
+{"pattern": "[X] dilahirkan di [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] di [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] nya\u00e9ta asalna ti [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] asalna ti [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] ieu asalna ti [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] asalna ti [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] anu asalna ti [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] nya\u00e9ta [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] anu asalna di [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] di [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] asalna di [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] di [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] anu asalna di [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] diadegkeun di [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] diwangun ku [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] diadegkeun [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] ti [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] diwangun ku [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] ti [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] diadegkeun di [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] asal ti [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] nya\u00e9ta jalma anu dilahirkeun [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] nya\u00e9ta jalma anu [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] nya\u00e9ta jalma anu dilahirkeun di [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] nya\u00e9ta jalma anu lahir di [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] nya\u00e9ta jalma anu dilahirkeun [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] nya\u00e9ta jalma anu [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] nya\u00e9ta jalma anu dilahirkeun di [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] nya\u00e9ta jalma anu lahir di [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] jalma anu dilahirkeun [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] jalma anu [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] nya\u00e9ta jalma anu dilahirkeun [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] jalma anu dilahirkeun di [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] jalma anu lahir di [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] jalma anu dilahirkeun [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] jalma anu [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] nya\u00e9ta jalma anu dilahirkeun [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] jalma anu dilahirkeun di [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] jalma anu lahir di [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] jalma anu dilahirkeun [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] hiji jalma anu dilahirkeun [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] anu [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] jalma anu dilahirkeun di [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] anu lahir di [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] lahir di [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] jalma anu dilahirkeun [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] hiji jalma anu dilahirkeun [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] hiji jalma [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] jalma anu dilahirkeun di [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] hiji jalma lahir di [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] lahir di [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

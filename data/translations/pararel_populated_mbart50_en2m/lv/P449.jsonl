@@ -1,0 +1,18 @@
+{"pattern": "[X] s\u0101kotn\u0113ji tika [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] s\u0101kotn\u0113ji tika izraid\u012bts [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] s\u0101kotn\u0113ji [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] s\u0101kotn\u0113ji tika p\u0101rraid\u012bts [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] deb\u00fcts notiks [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] pirmo reizi ievad\u012bs [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] pirmo reizi [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] atkl\u0101ja [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] deb\u00fct\u0113ja [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[Y] par [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] tika public\u0113ts [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] tika [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] tika izdots [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] izdeva [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] izplat\u012bja [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] premjera ir [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] premjera [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] tiek [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

@@ -1,0 +1,5 @@
+{"pattern": "[X] \u0b92\u0bb0\u0bc1 [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] is a member of [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] \u0b92\u0bb0\u0bc1 [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] \u0b95\u0bcd\u0b95\u0bc1 [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] is [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

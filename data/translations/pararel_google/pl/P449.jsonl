@@ -1,0 +1,11 @@
+{"pattern": "[X] zosta\u0142 pierwotnie emitowany na [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] jest zadebiutowa\u0107 [y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] jest debiut [x].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] zadebiutowa\u0142 [x].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] zadebiutowa\u0142 na [y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "debiut [x].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "wydanie [y] [x].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] zosta\u0142 wydany na [y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] wydany [x].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] premiery na [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Premiery na [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

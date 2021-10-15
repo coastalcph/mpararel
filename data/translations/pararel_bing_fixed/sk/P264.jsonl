@@ -1,0 +1,17 @@
+{"pattern": "[X] je reprezentovan\u00fd hudobn\u00fdm vydavate\u013estvom [Y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] je reprezentovan\u00fd nahr\u00e1vacou zna\u010dkou [Y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] je reprezentovan\u00fd [Y].", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], ktor\u00fd je reprezentovan\u00fd [Y].", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], ktor\u00fd je reprezentovan\u00fd [Y].", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Hudobn\u00e9 ozna\u010denie predstavuj\u00face [X] je [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Hudobn\u00e9 vydavate\u013estvo, ktor\u00e9 predstavuje [X], je [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] ozna\u010denie je [Y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] nahr\u00e1vacia zna\u010dka je [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] nahr\u00e1vacia spolo\u010dnos\u0165 je [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] hudobn\u00e9 vydavate\u013estvo je [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] zaznamenan\u00e9 pre [Y].", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] \u0161t\u00edtok: [Y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], vydan\u00e9 [Y].", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] nahr\u00e1vac\u00ed umelec [X].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] umelci ako [X].", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] umelci vr\u00e1tane [X].", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

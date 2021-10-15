@@ -1,0 +1,9 @@
+{"pattern": "[X] on [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] on deb\u00fc\u00fctida [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] on [Y] deb\u00fc\u00fctida.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] on [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] on deb\u00fc\u00fcdi [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debiteeris [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] deb\u00fcteeris [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[Y] vabastas [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] esietendus [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}

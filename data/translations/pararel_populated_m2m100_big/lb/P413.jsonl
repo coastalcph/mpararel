@@ -1,0 +1,24 @@
+{"pattern": "De [X] spillt an der [Y]", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "De [X] an der [Y]", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] spillt an der [Y]", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "De [X] spillt an der [Y] Positioun.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "De [X] an der [Y] Positioun.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] spillt an der [Y] Positioun.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] an der [Y] Positioun.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "De [X] ass an der [Y]", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] an der [Y]", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "De [X] spillt an der Positioun vum [Y]", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] spillt an der Positioun vum [Y]", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] spillt an der Positioun [Y]", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "De [X] deen an der [Y] spillt.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] deen an der [Y] spillt.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] deen an der [Y] Positioun spillt.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "De [X] deen an der [Y] Positioun spillt.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[Y] de [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[Y] vum [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[Y] de [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[Y] vum [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "Sp\u00ebtzt als [Y] vum [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[X] als [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}
+{"pattern": "[X] spillt als [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}
+{"pattern": "De [X] ass de [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

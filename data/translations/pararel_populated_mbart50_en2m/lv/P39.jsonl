@@ -1,0 +1,12 @@
+{"pattern": "[X] kura amats ir [Y] amats.", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] amats ir [Y] amats.", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] kura amats ir [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] ir [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] amats ir [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] ir [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] amats ir [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] kur\u0161 [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] kur\u0161 ie\u0146em [Y] amatu.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] ie\u0146em [Y] amatu.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] ir [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] ie\u0146em [Y] amatu.", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

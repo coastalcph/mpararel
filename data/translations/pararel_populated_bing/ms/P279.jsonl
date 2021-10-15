@@ -1,0 +1,9 @@
+{"pattern": "[X] adalah [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X] adalah subklas [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X] adalah subklass [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X] yang merupakan subklass [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X] yang merupakan [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X] yang merupakan subklas [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X] subklas [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X] subklass [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X] sejenis [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}

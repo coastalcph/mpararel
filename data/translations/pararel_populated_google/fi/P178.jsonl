@@ -1,0 +1,24 @@
+{"pattern": "[X] kehitt\u00e4\u00e4 [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] kehitti [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X] jonka [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] kehitt\u00e4m\u00e4 [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] jonka [Y] on kehitt\u00e4nyt.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] on [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] on luonut [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] luo [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] on luonut [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X] luonut [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X] luotiin [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X] luonut [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] jonka on [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] on [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] jonka [Y] on luonut.", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] on luonut [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] on [Y] tuote", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] oli [Y] tuote", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[Y] joka [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y] joka kehittyi [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y] joka [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] joka on [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] joka loi [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] ja sen tuote [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

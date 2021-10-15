@@ -1,0 +1,20 @@
+{"pattern": "[X] \u092a \u094d \u0930\u0924\u093f\u0928\u093f\u0927\u093f\u0924 \u094d \u0935 [Y] \u0906\u0939\u0947.", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u092a \u094d \u0930\u0924\u093f\u0928\u093f\u0927\u093f\u0924 \u094d \u0935 [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u092a \u094d \u0930\u0924\u093f\u0928\u093f\u0927\u093f\u0924 \u094d \u0935 \u0915\u0947\u0932\u0947 [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u092a \u094d \u0930\u0924\u093f\u0928\u093f\u0927\u093f\u0924 \u094d \u0935 [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u092a \u094d \u0930\u0924\u093f\u0928\u093f\u0927\u093f\u0924 \u094d \u0935 [Y] \u0906\u0939\u0947.", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u092a \u094d \u0930\u0924\u093f\u0928\u093f\u0927\u093f\u0924 \u094d \u0935 [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] \u094d [Y] \u0906\u0939\u0947.", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] \u0928\u093e\u0935 [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] \u0928\u093e\u0935 [Y] \u0906\u0939\u0947.", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] \u0932\u0947\u092c\u0932 [Y] \u0906\u0939\u0947.", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] \u094d [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] \u092a \u094d \u0930\u0915\u093e\u0936\u0915 \u092e \u094d \u0939\u0923\u091c\u0947 [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] record company is [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] \u092a \u094d \u0930\u0915\u093e\u0936\u0915 \u0915\u0902\u092a\u0928\u0940 [Y] \u0906\u0939\u0947.", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] \u094d [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X] \u0932\u0947\u092c\u0932: [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X] \u094d [Y]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[X] \u0938\u093e\u0930\u0916 \u094d \u092f\u093e [Y] \u0915\u0932\u093e\u0915\u093e\u0930", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[X] \u0938\u093e\u0930\u0916 \u094d \u092f\u093e [Y]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[X] \u094d [Y]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

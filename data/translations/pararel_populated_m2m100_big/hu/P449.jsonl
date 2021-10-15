@@ -1,0 +1,30 @@
+{"pattern": "A [X] eredetileg [Y] sug\u00e1rzott.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] eredetileg [Y] sug\u00e1rzott.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] eredetileg az [Y] sug\u00e1rzott.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] eredetileg az [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] eredetileg a [Y] sug\u00e1rzott.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] eredetileg [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] a [Y] sug\u00e1rzott.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "A [X] eredetileg [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "Az [X] eredetileg [Y] sug\u00e1rzott.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[Y] bemutatja a [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "Az [Y] bemutatja [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "A [Y] bemutatja a [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] bemutatja [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "A [Y] a [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] az [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] bemutatta a [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] bemutatta [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "Az [Y] bemutatta [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "A [Y] bemutatta [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "A [Y] a [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] az [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] kiadta a [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[Y] kiadta [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "A [Y] kiadta [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[Y] az [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[Y] kiadta a [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "Az [Y] a [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "A [Y] kiadta a [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] kiadta [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] a [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}

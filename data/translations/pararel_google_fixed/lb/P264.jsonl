@@ -1,0 +1,17 @@
+{"pattern": "[X] erwees mat Museksuele [Y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] X] ass mat Rofig\u00e9ierelgeschaft ugesinn [Y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] ass \u00ebm [Y] vertruede.", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], dat ass vun [Y] represent\u00e9iert.", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], wat vun [y represent\u00e9iert ass.", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "D'Museksgeld represent\u00e9iert [X] ass [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "D'Musek g\u00ebtt et represent\u00e9iert [X] ass [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] 'S Label ass [Y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] 'S Record Label ass [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] 'S Opreegung Firma ass [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] 'kiefer Label ass [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] fir [Y] opgeholl.", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] Label: [Y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], duerch [Y] fr\u00e4igelooss.", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] Opname K\u00ebnschtler [X].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] K\u00ebnschtler w\u00e9i [X].", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] K\u00ebnschtler abegraff [X].", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

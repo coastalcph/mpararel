@@ -1,0 +1,7 @@
+{"pattern": "[X] dzimt\u0101 valoda ir [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X] dzimt\u0101 valoda ir [Y] valoda.", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X] dzimt\u0101 valoda ir [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] valoda ir [X] dzimt\u0101 valoda.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] ir [X] dzimt\u0101 valoda.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] valoda ir [X] dzimt\u0101 valoda.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] ir [X] dzimt\u0101 valoda.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

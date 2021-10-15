@@ -1,0 +1,16 @@
+{"pattern": "[X] tili [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] tili [Y] edi.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] - bu [Y] tilidagi ish.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] - [Y] tilidagi ish.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] - [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] - bu [Y] tilidagi ish.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] - [Y] tilidagi ish.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] - bu [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] - [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] tilidagi [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] - [Y] tilidagi ish.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] - bu [Y] ish.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[Y] tilini yaratish [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] yaratish [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] - bu [X] tili.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] - bu [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}

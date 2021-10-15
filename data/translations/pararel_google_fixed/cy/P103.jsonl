@@ -1,0 +1,4 @@
+{"pattern": "Iaith frodorol [X] yw [Y].", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Mamiaith [X] yw [Y].", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] yw iaith frodorol [X].", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] yw mamiaith [X].", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

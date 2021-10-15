@@ -1,0 +1,63 @@
+{"pattern": "[X] dans le domaine [Y]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] dans le domaine de la [Y]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] travaille dans le domaine [Y]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] dans le domaine de [Y]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] travaille dans le domaine de la [Y]", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] est sp\u00e9cialis\u00e9 [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[X] est sp\u00e9cialis\u00e9 dans [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[X] est sp\u00e9cialis\u00e9 en [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[X] est sp\u00e9cialis\u00e9 dans le [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] la sp\u00e9cialisation [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "[Y] est la sp\u00e9cialisation [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "La [Y] est la sp\u00e9cialisation [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "[Y] la sp\u00e9cialisation de [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "[Y] est la sp\u00e9cialisation de [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "La [Y] est la sp\u00e9cialisation de [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "L'expertise [X] est la [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "L'expertise [X] est [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "L'expertise de [X] est la [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "L'expertise de [X] est [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[Y] l'expertise [X]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[Y] est l'expertise [X]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "La [Y] est l'expertise [X]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[Y] l'expertise de [X]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "La [Y] est l'expertise de [X]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[Y] est l'expertise de [X]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Le domaine [X] est [Y]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Le domaine d'activit\u00e9 [X] est [Y]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Le domaine de l'activit\u00e9 [X] est [Y]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Le domaine de l'activit\u00e9 de [X] est [Y]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Le domaine de [X] est [Y]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Le domaine [X] est la [Y]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Le domaine du travail [X] est [Y]", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "Le domaine [X] est [Y]", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "Le domaine du travail de [X] est [Y]", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "Le domaine du travail [X] est la [Y]", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y] le domaine de l'activit\u00e9 [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[Y] est le domaine de l'activit\u00e9 [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "La [Y] est le domaine de l'activit\u00e9 [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[Y] le domaine de l'activit\u00e9 de [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "La [Y] est le domaine de l'activit\u00e9 de [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[Y] est le domaine de l'activit\u00e9 de [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "La zone de travail [X] est [Y]", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "La zone de travail de [X] est [Y]", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "Le domaine de travail de [X] est [Y]", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "La zone de travail [X] est la [Y]", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "Le domaine de travail de [X] est [Y]", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "Le domaine de travail [X] est [Y]", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "Le domaine de travail [X] est la [Y]", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "Le domaine d'activit\u00e9 de [X] est [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "Le domaine d'activit\u00e9 [X] est [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "Le domaine de [X] est [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "Le domaine d'activit\u00e9 [X] est la [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "Le domaine [X] est [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "L'expertise de [X] est la [Y]", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "L'expertise de [X] est [Y]", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "L'expertise [X] est la [Y]", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "L'expertise [X] est [Y]", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] dans [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}
+{"pattern": "[X] travaille dans [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}
+{"pattern": "[X] dans la zone [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}
+{"pattern": "[X] dans la [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}
+{"pattern": "[X] travaille dans la zone de [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}
+{"pattern": "[X] travaille dans la [Y]", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

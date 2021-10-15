@@ -1,0 +1,33 @@
+{"pattern": "Ang headquarter sa [X] naa sa [Y]", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Ang headquarter sa mga [X] naa sa [Y]", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Ang punoang buhatan sa [X] naa sa [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Ang headquarter sa [X] nahimutang sa [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "Ang headquarter sa mga [X] nahimutang sa [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "Ang [Y] naglangkob sa punoang buhatan sa [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "Ang [Y] naglangkob sa mga [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "Ang [Y] naglangkob sa [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "Ang [Y] naglangkob sa punoan nga [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "Ang [Y] naglangkob sa punoan nga punoan sa [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "Ang [X] headquarter sa [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "Ang mga [X] sa [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "Ang [X] headquartered sa [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] adunay punoan nga mga [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "Ang [Y] adunay punoan nga punoan sa [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[Y] adunay [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[Y] adunay punoan nga [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "Ang [Y] adunay hedkuwarter sa [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "Ang [X] naa sa [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Ang hedkuwarter [X] naa sa [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Ang hedkuwarter sa [X] naa sa [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] kansang hedkuwarter naa sa [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] kansang ulohan naa sa [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Ang [Y] mao ang pinuy-anan sa [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "Ang [Y] mao ang pinuy-anan [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "Ang [Y] sa [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[Y] sa [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "Ang [X] gibase sa [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}
+{"pattern": "Ang mga [X] gibase sa [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}
+{"pattern": "[X] gibase sa [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

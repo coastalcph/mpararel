@@ -1,0 +1,8 @@
+{"pattern": "[X] \u0a85\u0aa8\u0ac7 [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] \u0a85\u0aa8\u0ac7 [Y] \u0ab8\u0abe\u0aa5\u0ac7 \u0a86\u0a82\u0aa4\u0ab0\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0ac0\u0aaf \u0a86\u0a82\u0aa4\u0ab0\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0ac0\u0aaf \u0a86\u0a82\u0aa4\u0ab0\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0ac0\u0aaf \u0a86\u0a82\u0aa4\u0ab0\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0ac0\u0aaf \u0a86\u0a82\u0aa4\u0ab0\u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0\u0ac0\u0aaf.", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "\u0a86 \u0aaa\u0aa3 \u0ab5\u0abe\u0a82\u0a9a\u0acb: [X] which has diplomatic relations with [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "\u0a86 \u0aaa\u0aa3 [X] which has diplomatic relations with [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] which has diplomatic relations with [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "\u0a86 \u0aaa\u0aa3 [Y] which has diplomatic relations with [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "\u0a86 \u0aaa\u0aa3 \u0ab5\u0abe\u0a82\u0a9a\u0acb: [Y] which has diplomatic relations with [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "\u0a86 \u0aaa\u0aa3 [Y] which has diplomatic relations with [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

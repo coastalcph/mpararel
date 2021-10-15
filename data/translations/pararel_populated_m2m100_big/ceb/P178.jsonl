@@ -1,0 +1,54 @@
+{"pattern": "Ang [X] gitukod sa [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "Ang [X] gibuhat sa [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "Ang [X] gitukod sa [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "Ang [X] gibuhat sa [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] nga gitukod sa [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "Ang [X] nga gitukod sa [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] sa [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "Ang [X] gihimo sa [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "Ang [X] gibuhat sa [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] sa [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "Ang [X] gihimo sa [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "Ang [X] gibuhat sa [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] nga gitukod sa [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "Ang [X] usa ka produkto sa [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] usa ka produkto sa [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "Ang [X] produkto sa [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] produkto sa [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] mao ang produkto sa [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] mao ang usa ka produkto sa [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "Ang [X] produkto sa [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X] mao ang usa ka produkto sa [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "Ang [X] mao ang usa ka produkto sa [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "Ang [X] mao ang produkto sa [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X] produkto sa [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "Ang [X] maoy produkto sa [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X] mao ang produkto sa [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "Ang [X] usa ka produkto sa [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X] usa ka produkto sa [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "Ang [X] usa ka produkto nga gitukod sa [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X] usa ka produkto nga gitukod sa [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "Ang [X] usa ka produkto nga gihimo sa [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X] usa ka produkto nga gihimo sa [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "Ang [X] usa ka produkto nga gitukod sa [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[X] usa ka produkto nga gitukod sa [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y] nga gibuhat sa [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y] sa [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "Ang [Y] nga gibuhat sa [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "Ang [Y] nga gibuhat sa [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] nga gibuhat sa [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] sa [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] nga [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "Ang [Y] ang creator sa [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] sa [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] ang gibuhat sa [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "Ang [Y] ug ang iyang produkto [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
+{"pattern": "[Y] ug ang iyang produkto [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

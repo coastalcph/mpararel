@@ -1,0 +1,8 @@
+{"pattern": "[X] an [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X] ass an [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X] ass an [Y] l\u00e4it.", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X] d\u00e9i [Y] l\u00e4it.", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] d\u00e9i an [Y] l\u00e4it.", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] l\u00e4it an [Y]", "lemma": "located", "extended_lemma": "located", "tense": "present"}
+{"pattern": "[X] an [Y]", "lemma": "located", "extended_lemma": "located", "tense": "present"}
+{"pattern": "[X] an [Y] l\u00e4it.", "lemma": "located", "extended_lemma": "located", "tense": "present"}

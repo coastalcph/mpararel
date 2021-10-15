@@ -1,0 +1,21 @@
+{"pattern": "Craoladh [X] ar dt\u00fas ar [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "Craoladh [X] ar [Y] ar dt\u00fas.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "Is \u00e9 [X] n\u00e1 t\u00fas a chur [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "Is \u00e9 [X] t\u00fas a chur [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "Is \u00e9 an [X] n\u00e1 t\u00fas a chur [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "Is \u00e9 [X] t\u00fas a chur le [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "Is \u00e9 [X] n\u00e1 t\u00fas a chur le [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "Is \u00e9 an [X] n\u00e1 t\u00fas a chur le [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "Is \u00e9 [Y] n\u00e1 t\u00fas a chur leis [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "Is \u00e9 [Y] n\u00e1 t\u00fas a chur [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "Is \u00e9 [Y] n\u00e1 t\u00fas a chur le [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[X] debuted [Y]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debuted ar [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] ar [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] d\u00edbeartha ar [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "Scaoileadh [X] ar [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] an [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] ar [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] ar f\u00e1il ar [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] ar [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "Premieres [X] ar [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

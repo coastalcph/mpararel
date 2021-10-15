@@ -1,0 +1,6 @@
+{"pattern": "Ang orihinal nga sinultian sa [X] mao ang [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Ang orihinal nga sinultian sa [X] mao ang [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Ang sinultian sa [X] mao ang [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ang sinultian sa [X] mao ang [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] ang sinultian sa [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] ang sinultian sa [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

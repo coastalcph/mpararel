@@ -1,0 +1,13 @@
+{"pattern": "[X] alizaliwa katika [Y].", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] ni asili kutoka [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] ilikuwa awali kutoka [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] ni asili ya [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] alikuwa na asili ya [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] Iliyotokana na [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] Inatoka kwa [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] alikuwa mtu [yu] mwenye.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] alikuwa mtu [yu] anayemfanya.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] ni mtu [yu] anayependa.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ni mtu [yu] mwenye.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], mtu [yu] mwenye.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], mtu [yu] mwenye.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

@@ -1,0 +1,5 @@
+{"pattern": "\u3014[X]\u3015\u306f\u3001\u3014[Y]\u3015\u306e\u4f1a\u54e1\u3067\u3059\u3002", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] \u306f [Y] \u306e\u7d44\u7e54\u306b\u5c5e\u3057\u307e\u3059\u3002", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X]\u306f\u7d44\u7e54\u306e\u4e00\u90e8\u3067\u3042\u308b\u3002", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "\u3014[X]\u3015\u306f\u3001\u3014[Y]\u3015\u3068\u7d50\u3073\u3064\u3044\u3066\u3044\u308b\u3002", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X]\u306f\u3001[Y]\u306e\u7d44\u7e54\u306b\u5c5e\u3059\u308b\u3002", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

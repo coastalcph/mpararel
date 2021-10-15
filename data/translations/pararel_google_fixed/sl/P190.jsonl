@@ -1,0 +1,4 @@
+{"pattern": "[X] in [Y] so dvoposteljna mesta.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] in [X] sta dvoma mesta.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] je twin mesto [X].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] je dvojno mesto [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

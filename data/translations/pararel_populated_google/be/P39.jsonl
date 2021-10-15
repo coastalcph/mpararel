@@ -1,0 +1,19 @@
+{"pattern": "[X] \u043c\u0430\u0435 \u043f\u0430\u0437\u0456\u0446\u044b\u044e [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] \u043c\u0430\u0435 [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] \u044f\u043a\u0456 \u043c\u0430\u0435 \u043f\u0430\u0437\u0456\u0446\u044b\u044e [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0442\u043e\u0435, \u0448\u0442\u043e [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] \u0447\u044b\u044f \u043f\u0430\u0437\u0456\u0446\u044b\u044f \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0442\u043e\u0435, \u0448\u0442\u043e [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] \u0441\u0442\u0430\u043d\u043e\u0432\u0456\u0448\u0447\u0430 \u044f\u043a\u043e\u0433\u0430 \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0442\u043e\u0435, \u0448\u0442\u043e [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] \u0441\u0442\u0430\u043d\u043e\u0432\u0456\u0448\u0447\u0430 \u044f\u043a\u043e\u0433\u0430 \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 \u0442\u043e\u0435, \u0448\u0442\u043e \u0437 [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "\u041f\u0430\u0437\u0456\u0446\u044b\u044f [X] \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] \u043f\u0430\u0437\u0456\u0446\u044b\u0456 \u0437'\u044f\u045e\u043b\u044f\u0435\u0446\u0446\u0430 [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] \u043f\u0430\u0437\u0456\u0446\u044b\u0456 [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] \u044f\u043a\u0456 [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] \u044f\u043a\u0456 \u0437\u0430\u0439\u043c\u0430\u0435 \u043f\u0430\u0437\u0456\u0446\u044b\u044e [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] \u044f\u043a\u0456 \u0442\u0440\u044b\u043c\u0430\u0435 [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] \u0437\u0430\u0439\u043c\u0430\u0435 \u043f\u0430\u0437\u0456\u0446\u044b\u044e [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] \u043f\u0430\u0437\u0456\u0446\u044b\u044e [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] \u0442\u0440\u044b\u043c\u0430\u0435 [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

@@ -1,0 +1,20 @@
+{"pattern": "Jm\u00e9no [X] je po jm\u00e9nu [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "Jm\u00e9no [X] bylo po [Y].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "Jm\u00e9no [X] se jmenuje [Y].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "Jm\u00e9no [X] se jmenuje J.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "a jm\u00e9no, kter\u00e9 se jmenuje po n\u011bm.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "Jm\u00e9no, kter\u00e9 se jmenuje po n\u011bm.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "Jm\u00e9no: Jm\u00e9no, kter\u00e9 se jmenuje J.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "Jm\u00e9no, kter\u00e9 se jmenuje J.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "Jm\u00e9no: Jm\u00e9no Jm\u00e9no: Jm\u00e9no Jm\u00e9no: Jm\u00e9no: Jm\u00e9no", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "Jm\u00e9no po jm\u00e9nu (jm\u00e9no po jm\u00e9nu)", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] je pojmenov\u00e1n v \u010dest [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] byl pojmenov\u00e1n na po\u010dest [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "Jm\u00e9no: Jm\u00e9no: Jm\u00e9no Jm\u00e9no: Jm\u00e9no: Jm\u00e9no: Jm\u00e9no: Jm\u00e9no: Jm\u00e9no: Jm\u00e9no: Jm\u00e9no", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], kter\u00fd se jmenuje v [Y] \u010dest.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], kter\u00fd byl pojmenov\u00e1n na po\u010dest [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "Pozd\u011bji se k nim vol\u00e1:", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Pozd\u011bji byl vyzv\u00e1n,", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "V\u017edy\u0165 je to vol\u00e1n\u00ed, kter\u00e9 n\u00e1sleduje.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "A to i po tom, co byl vol\u00e1n.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "A volaj\u00ed po n\u011bm.", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

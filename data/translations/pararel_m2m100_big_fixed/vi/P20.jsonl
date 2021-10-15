@@ -1,0 +1,8 @@
+{"pattern": "[X] Ch\u1ebft trong [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] Ch\u1ebft t\u1ea1i [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] \u0111\u00e3 qua \u0111\u1eddi trong [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] \u0111\u00e3 qua \u0111\u1eddi t\u1ea1i [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] \u0111\u00e3 h\u1ebft h\u1ea1n t\u1ea1i [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] \u0111\u00e3 m\u1ea5t m\u1ea1ng c\u1ee7a h\u1ecd t\u1ea1i [Y].", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] cu\u1ed9c \u0111\u1eddi \u0111\u00e3 k\u1ebft th\u00fac trong [Y].", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] T\u1ea5n c\u00f4ng t\u1ea1i [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

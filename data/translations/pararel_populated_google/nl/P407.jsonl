@@ -1,0 +1,20 @@
+{"pattern": "[X] is in het [Y] geschreven.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] is in het [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] is in [Y] geschreven.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] is in [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] in het [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] is geschreven in [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] geschreven in het [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] geschreven in [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] is in het [Y] geschreven.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] is in het [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] is in [Y] geschreven.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] is in [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] in het [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] is geschreven in [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] geschreven in het [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] in [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "De taal van [X] is [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "De taal van [X] was [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] is de taal van [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] was de taal van [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

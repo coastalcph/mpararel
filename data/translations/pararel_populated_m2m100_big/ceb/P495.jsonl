@@ -1,0 +1,58 @@
+{"pattern": "Ang [X] gitukod sa [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] gitukod sa [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] nga gihimo sa [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] gihimo sa [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "Ang [X] nga gihimo sa [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] nga gihimo sa [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] nga gitukod sa [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] nga gihimo sa [Y]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] nga gitukod sa [Y]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "Ang [X] gihimo sa [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] nahimutang sa [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "Ang [X] nahimutang sa [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] gitukod sa [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] gibuhat sa [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] nga gitukod sa [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "Ang [X] gitukod sa [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] gitukod sa [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] gibuhat sa [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] nga gitukod sa [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "Ang [X] nga gitukod sa [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "Ang [X] gibuhat sa [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] gibuhat sa [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] nga gihisgotan sa [Y]", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X] nga gihisgotan sa [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] gihisgotan sa [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "Ang [X] nga gihisgotan sa [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] mao ang gikan sa [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "Ang [X] mao ang gikan sa [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "Ang [X] gikan sa [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] gikan sa [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] nga gikan sa [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] mao ang gikan sa [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "Ang [X] mao ang gikan sa [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] nga mao ang gikan sa [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] gikan sa [Y]", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X] sa [Y]", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X] nga gitukod sa [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] gitukod sa [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "Ang [X] nga gitukod sa [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "Ang [X] gitukod sa [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] gitukod sa [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}
+{"pattern": "[X] nga gitukod sa [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}
+{"pattern": "[X] gitukod sa [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}
+{"pattern": "Ang [X] nga gitukod sa [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

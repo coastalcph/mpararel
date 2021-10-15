@@ -1,0 +1,9 @@
+{"pattern": "[X] - [Y] fuqarosi.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[Y] fuqarosi [X]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[Y] fuqaroligini saqlaydigan [X]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[Y] bo'lgan [X]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[Y] fuqaroligiga ega bo'lgan [X]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[Y] fuqaroligi [X]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[Y] fuqaroligi bo'lgan [X]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[Y] fuqarosi [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}
+{"pattern": "[Y] fuqarosi sifatida [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

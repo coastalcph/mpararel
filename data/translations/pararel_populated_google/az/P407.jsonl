@@ -1,0 +1,5 @@
+{"pattern": "[Y] dilind\u0259 yaz\u0131lm\u0131\u015f [X]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[Y] dilind\u0259 [X]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] dili [Y] idi.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] bir [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] bir [Y] i\u015f.", "lemma": "language", "extended_lemma": "language", "tense": "?"}

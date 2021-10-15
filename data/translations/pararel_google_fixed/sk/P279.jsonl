@@ -1,0 +1,4 @@
+{"pattern": "[X] je podtrieda [Y].", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], \u010do je podtrieda [Y].", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], podtrieda [Y].", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], typ [Y].", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}

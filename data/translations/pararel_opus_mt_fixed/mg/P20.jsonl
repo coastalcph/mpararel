@@ -1,0 +1,8 @@
+{"pattern": "[X] Maty tao [Y].", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] Maty tamin'ny [Y].", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "Maty tao [Y] i Jesosy.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "Maty teo [Y] i Jesosy.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] lany daty tamin'ny [Y].", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "Namoy ny ainy [i Jesosy].", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "Nifarana teo amin'ny [Y] ny fiainan'i [X].", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "Lasa [X] izy ireo.", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

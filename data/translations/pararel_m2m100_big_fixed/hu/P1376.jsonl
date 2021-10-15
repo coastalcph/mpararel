@@ -1,0 +1,14 @@
+{"pattern": "[X] a f\u0151v\u00e1rosa a [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "Az [Y] f\u0151v\u00e1rosa [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "A v\u00e1ros f\u0151v\u00e1rosa [Y] [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] a v\u00e1ros f\u0151v\u00e1rosa [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] a f\u0151v\u00e1ros, [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] a f\u0151v\u00e1ros, [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] a f\u0151v\u00e1rosa az [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "A v\u00e1ros f\u0151v\u00e1rosa [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], a f\u0151v\u00e1ros a [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], a f\u0151v\u00e1ros a [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], ez a f\u0151v\u00e1rosa a [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], ez a f\u0151v\u00e1ros a [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], amely rendelkezik a t\u0151ke [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] A v\u00e1ros f\u0151v\u00e1rosa", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

@@ -1,0 +1,6 @@
+{"pattern": "[X] spielt [Y] Musik", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X], wer spielt [Y] Musik", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] spielt das Spiel", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "Derjenige, der das Spiel spielt", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "Die Musikerinnen und Musiker [X]", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "Musiker wie [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

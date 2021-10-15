@@ -1,0 +1,13 @@
+{"pattern": "\u0924\u0947 [X] \u091c\u0928 \u094d \u092e\u0932\u0947 [Y] \u092e\u0927 \u094d \u092f\u0947.", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] \u0939\u0947 \u092e\u0942\u0932\u0924\u0903 [Y] \u092e\u0927\u0942\u0928 \u0906\u0939\u0947.", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] \u092e\u0942\u0932\u0924\u0903 [Y] \u092c\u093e\u091f\u0932\u0940 \u0939\u094b\u0924\u0940.", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] \u0939\u0947 [Y] \u0936\u0940 \u092e\u0942\u0933 \u092a \u094d \u0930\u091c\u093e\u0924\u0940 \u0906\u0939\u0947", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] \u0939\u0947 [Y] \u0938\u093e\u0920\u0940 \u092e\u0942\u0933 \u092a \u094d \u0930\u091c\u093e\u0924\u0940 \u0939\u094b\u0924\u0947", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] \u092e\u0942\u0932 \u0906\u0939\u0947 [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] \u0939\u0947 [Y] \u092e\u0927\u0942\u0928 \u092f\u0947\u0924\u0902.", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] \u092e \u094d \u0939\u0923\u091c\u0947 \u090f\u0915 [Y] \u091c\u0928 \u094d \u092e \u092e\u093e\u0923\u0942\u0938.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] \u092e \u094d \u0939\u0923\u091c\u0947 \u090f\u0915 [Y] \u091c\u0928 \u094d \u092e \u092e\u093e\u0923\u0942\u0938.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] \u0939\u0947 \u090f\u0915 [Y] \u091c\u0928 \u094d \u092e \u092e\u093e\u0923\u0942\u0938 \u0906\u0939\u0947.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] \u0939\u0947 \u090f\u0915 [Y] \u091c\u0928 \u094d \u092e \u092e\u093e\u0923\u0942\u0938 \u0906\u0939\u0947.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], \u090f\u0915 [Y] \u091c\u0928 \u094d \u092e \u092e\u093e\u0923\u0942\u0938.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], \u090f\u0915 [Y] \u091c\u0928 \u094d \u092e \u092e\u093e\u0923\u0942\u0938.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

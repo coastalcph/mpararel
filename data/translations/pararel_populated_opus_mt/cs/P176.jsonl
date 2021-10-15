@@ -1,0 +1,9 @@
+{"pattern": "[X] vyr\u00e1b\u00ed [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] spole\u010dnost\u00ed [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] produkoval [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] vyrobeno [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] produkt [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[Y] tv\u016frce [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] a jeho produkt [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
+{"pattern": "[Y] a jeho [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
+{"pattern": "[Y] a [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

@@ -1,0 +1,13 @@
+{"pattern": "[X]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] yn gwreiddiol o [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] oedd gwreiddiol o [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "kyfieithu@ dotmon. comEMAIL OF TRANSLATORS", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] yn amlygu mewngofnodi o [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] [X]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] [X]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] [X]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] [X]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] [X]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] [C]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

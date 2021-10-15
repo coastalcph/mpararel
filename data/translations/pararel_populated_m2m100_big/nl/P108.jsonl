@@ -1,0 +1,8 @@
+{"pattern": "[X] werkt voor [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] werkt voor [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] voor [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] is werkzaam bij [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] van [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] is [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] is van [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] is werkzaam bij [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

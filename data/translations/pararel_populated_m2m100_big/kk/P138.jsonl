@@ -1,0 +1,6 @@
+{"pattern": "[X] \u2013 [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] \u2013 [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X] \u0430\u0442\u0430-\u0430\u043d\u0430\u0441\u044b [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X] \u2013 [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X] \u0431\u0456\u0440\u0456 \u2013 [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X] \u2013 [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}

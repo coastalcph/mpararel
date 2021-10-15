@@ -1,0 +1,12 @@
+{"pattern": "A l\u00edngua nativa de [X] \u00e9 [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "A l\u00edngua nativa [X] \u00e9 [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "A l\u00edngua nativa [X] \u00e9 o [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "A l\u00edngua nativa de [X] \u00e9 o [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "A l\u00edngua materna de [X] \u00e9 [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "A l\u00edngua materna [X] \u00e9 o [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "A l\u00edngua materna de [X] \u00e9 o [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "A l\u00edngua materna [X] \u00e9 [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "O [Y] \u00e9 a l\u00edngua nativa de [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "O [Y] \u00e9 a l\u00edngua nativa [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "O [Y] \u00e9 a l\u00edngua materna de [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "O [Y] \u00e9 a l\u00edngua materna [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

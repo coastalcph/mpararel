@@ -1,0 +1,6 @@
+{"pattern": "[X] [Y] mavqeiga ega.", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X], u [Y] mavqeiga ega.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X], bu uning holati [Y].", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] 'Sning pozitsiyasi [Y].", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X], u [Y] mavqeini ushlab turadi.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] [Y] mavqeini ushlab turadi.", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

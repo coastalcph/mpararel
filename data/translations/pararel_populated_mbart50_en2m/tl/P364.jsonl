@@ -1,0 +1,11 @@
+{"pattern": "[X] is [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "The original language of [X] is [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[X] was [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "The [X] language was [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "The original language of [X] was [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "[X] \u044f\u0437\u044b\u043a \u2014 [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "The language of [X] was [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u044f\u0437\u044b\u043a\u043e\u043c [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] is the language of [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] of [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] the language of [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

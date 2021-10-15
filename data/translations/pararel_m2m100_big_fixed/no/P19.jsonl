@@ -1,0 +1,13 @@
+{"pattern": "[X] ble f\u00f8dt i [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] er opprinnelig fra [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] var opprinnelig fra [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] er f\u00f8dt til [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] var f\u00f8dt til [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] ble opprettet av [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] er opprinnelig fra [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "Han ble f\u00f8dt som et menneske.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "Han var et menneske som ble f\u00f8dt.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] er en [Y] f\u00f8dt person.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] er en [Y] f\u00f8dt person.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], en [Y] f\u00f8dt person", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], en [Y] f\u00f8dt person", "lemma": "born", "extended_lemma": "born", "tense": "present"}

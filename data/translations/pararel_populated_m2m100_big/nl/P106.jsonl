@@ -1,0 +1,29 @@
+{"pattern": "[X] is [Y] van beroep.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] is [Y] beroep.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] is een [Y] van beroep.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] is een [Y] beroep.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] is [Y] van beroep.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] is [Y] beroep.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] is een [Y] van beroep.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] is een [Y] beroep.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] is [Y] door opleiding.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] is een [Y] door opleiding.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] is [Y] door opleiding.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] is een [Y] door opleiding.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] werkt als [Y]", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X] werkt als [Y]", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] als [Y]", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] die als [Y]", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] is [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X] is een [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "Het beroep van [X] is [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X] bezetting is [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X] is een [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] is [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "Het beroep van [X] is [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "Het beroep van [X] is [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Het beroep van [X] is een [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Het beroep van [X] is [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Het beroep van [X] is een [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] is [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}
+{"pattern": "Het beroep van [X] is [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

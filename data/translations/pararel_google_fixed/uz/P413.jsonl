@@ -1,0 +1,6 @@
+{"pattern": "[X] \"pozitsiyada o'ynaydi.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] [Y] holatida o'ynaydi.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X], u [Y] pozitsiyasida o'ynaydi.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[Y], [X] sifatida o'ynash", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[Y], [X] sifatida o'ynash", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[X] kabi o'ynaydi [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

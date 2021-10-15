@@ -1,9 +1,0 @@
-{"pattern": "[X]maintainspublicas rationes cum[K].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[V]maintainspublicas rationes cum[X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[X]tiespublicas rationes cum[K].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[V]tiespublicas rationes cum[X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X]perhasrationeslegatorum[K].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[V]perhasrationeslegatorum[X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X],exquahabetrationeslegatorum[ego]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Ego],quodperhasrationeslegatorum[X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Ego],quodnectit simuletrationeslegatorum[X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

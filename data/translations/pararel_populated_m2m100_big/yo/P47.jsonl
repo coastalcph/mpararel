@@ -1,0 +1,28 @@
+{"pattern": "[X] p\u1eb9lu [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] ni agbegbe p\u1eb9lu [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] ni aw\u1ecdn agbegbe p\u1eb9lu [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] p\u1eb9lu [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] o wa p\u1eb9lu [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] ti o wa p\u1eb9lu [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] o [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] ni aw\u1ecdn agbegbe p\u1eb9lu [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] ni agbegbe p\u1eb9lu [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] agbegbe p\u1eb9lu [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] ni aw\u1ecdn agbegbe r\u1eb9 p\u1eb9lu [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] aw\u1ecdn agbegbe r\u1eb9 p\u1eb9lu [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] \u1e63\u1eb9da aw\u1ecdn agbegbe r\u1eb9 p\u1eb9lu [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] ni agbegbe p\u1eb9lu [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[X] ni aw\u1ecdn agbegbe p\u1eb9lu [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] ti o wa p\u1eb9lu [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] o wa p\u1eb9lu [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] p\u1eb9lu [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] ni agbegbe p\u1eb9lu [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] agbegbe p\u1eb9lu [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] ni aw\u1ecdn agbegbe p\u1eb9lu [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] aw\u1ecdn agbegbe p\u1eb9lu [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] agbegbe p\u1eb9lu [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] aw\u1ecdn agbegbe r\u1eb9 p\u1eb9lu [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] ni agbegbe p\u1eb9lu [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] ni aw\u1ecdn agbegbe r\u1eb9 p\u1eb9lu [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] ni aw\u1ecdn agbegbe p\u1eb9lu [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] ni agbegbe p\u1eb9lu [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

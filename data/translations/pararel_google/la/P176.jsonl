@@ -1,0 +1,12 @@
+{"pattern": "[X] quod produci per [y].", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] est developed a [y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], developed per [y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], produci per [y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] est a [y].", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X], creata a [y].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] Est productum ex [y].", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], a productum de [y]:", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], a productum creavit a [y]:", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], a productum developed per [y]:", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Ego], creator [x]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Ego] et productum [x]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

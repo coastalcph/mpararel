@@ -1,0 +1,7 @@
+{"pattern": "[X] ligger i [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] ligger i [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] i [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] er i [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] i [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "[X] kan bli funnet i [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "[X] finnes i [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}

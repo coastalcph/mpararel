@@ -1,0 +1,5 @@
+{"pattern": "[X]\ub294 [Y]\uc758 \uad6c\uc131\uc6d0\uc785\ub2c8\ub2e4.", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X]\ub294 [Y]\uc758 \uc870\uc9c1\uc5d0 \uc18d\ud569\ub2c8\ub2e4.", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X]\ub294 [Y] \uc870\uc9c1\uc758 \uc77c\ubd80\uc785\ub2c8\ub2e4.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X]\ub294 [Y]\uc640 \uc81c\ud734\ud569\ub2c8\ub2e4.", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X]\ub294 [Y] \uc870\uc9c1\uacfc \uc81c\ud734\ud569\ub2c8\ub2e4.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

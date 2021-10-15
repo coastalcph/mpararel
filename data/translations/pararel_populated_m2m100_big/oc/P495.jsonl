@@ -1,0 +1,68 @@
+{"pattern": "[X] fogu\u00e8t creat [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t creat en [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] en [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] que fogu\u00e8t creat [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] creat en [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] que fogu\u00e8t creat en [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t creat en [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t creat [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] creat [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] creat [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] creat en [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] qu'es originari [Y]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] originari [Y]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] qu'es originari de [Y]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] originari [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t originari [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "Lo [X] es originari [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] es originari [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] de [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t originari de [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] originari de [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] en [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "Fogu\u00e8t [X] en [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] format [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] format en [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t format [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t format en [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] que fogu\u00e8t format [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] que fogu\u00e8t format en [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t format en [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] format [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t format [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] que fogu\u00e8t [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t formulada en [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] en [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t formulada [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t formulat [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] en [Y]", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X] formulada en [Y]", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X] formulada [Y]", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X] formulat en [Y]", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X] que fogu\u00e8t formulada [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] en [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] que fogu\u00e8t formulada en [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] que fogu\u00e8t [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t formulat en [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t formulat [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] de [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] vengu\u00e8t [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] \u00e8ra de [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] de [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] qu'\u00e8ra de [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] de [Y]", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X] que fogu\u00e8t desenvolupat [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] que fogu\u00e8t desenvolupat en [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t desenvolupat en [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t desenvolupat [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] que fogu\u00e8t [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t desenvolupat [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t desenvolupat en [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] en [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}
+{"pattern": "[X] desenvolupat [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}
+{"pattern": "[X] desenvolupat en [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

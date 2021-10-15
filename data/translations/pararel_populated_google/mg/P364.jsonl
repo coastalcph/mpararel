@@ -1,0 +1,24 @@
+{"pattern": "[X] ny [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] fitenin'ny [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ny [X] dia [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ny fiteny [X] dia [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] ny [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] fitenin'ny [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] dia [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Ny [X] dia [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Ny fiteny [X] dia [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Ny [Y] no [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] no fitenin'ny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] no [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Ny [Y] fitenin'ny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Ny [Y] no fiteny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] no fiteny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Ny [Y] ny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] fitenin'ny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Ny [Y] fiteny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Ny [Y] dia [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] fiteny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] fiteny amin'ny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Ny [Y] ny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] no fiteny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Ny [Y] dia ny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

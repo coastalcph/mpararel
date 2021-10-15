@@ -1,0 +1,11 @@
+{"pattern": "[X] se yon pwofesyon [Y] pa pwofesyon.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] se yon pwofesyon [Y] pa pwofesyon.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] se yon f\u00f2masyon [Y] pa f\u00f2masyon.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] se yon f\u00f2masyon [Y] pa f\u00f2masyon.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] travay k\u00f2m [Y].", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], ki travay k\u00f2m [Y].", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] okipasyon an se [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "okipasyon [X] se [Y].", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] pwofesyon se yon [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] pwofesyon se yon [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "pwofesyon [X] se [Y].", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

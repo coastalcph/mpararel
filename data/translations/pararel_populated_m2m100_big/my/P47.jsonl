@@ -1,0 +1,7 @@
+{"pattern": "\u1021\u1006\u102d\u102f\u1015\u102b [X] \u1000\u102d\u102f [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] \u1000 [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] \u1000 [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] \u1000 [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "\u1021\u1006\u102d\u102f\u1015\u102b [X] \u1000 [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[X] \u1000 [Y] \u1014\u103e\u1004\u103a\u1037\u1021\u1010\u1030\u1010\u1015\u103a\u1006\u1004\u103a\u1011\u102c\u1038\u1015\u102b\u1010\u101a\u103a.", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "\u1021\u1006\u102d\u102f\u1015\u102b [Y] \u1000 [X] \u1014\u103e\u1004\u103a\u1037\u1021\u1010\u1030\u1021\u1006\u1031\u102c\u1000\u103a\u1021\u1026\u1038\u1000\u102d\u102f\u1015\u102d\u102f\u1004\u103a\u1038\u1006\u102d\u102f\u1004\u103a\u1015\u102b\u1010\u101a\u103a\u104b", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}

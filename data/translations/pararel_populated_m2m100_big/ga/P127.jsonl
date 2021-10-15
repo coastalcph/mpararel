@@ -1,0 +1,6 @@
+{"pattern": "[X] s\u00e9 [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] s\u00e9 le [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] le [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "T\u00e1 [X] le [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] s\u00e9 an [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[Y] s\u00e9 [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}

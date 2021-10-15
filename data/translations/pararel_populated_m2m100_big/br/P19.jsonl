@@ -1,0 +1,35 @@
+{"pattern": "[X] eo bet [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] a zo en [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] a zo ur [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] a zo ur c'henta\u00f1 [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] a zo [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] bet [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] eo bet [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] bet [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] a zo ur [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] eo [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] eo bet [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] eo bet [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] eo [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] a zo [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] a zo da [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] a zo ur [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] a zo [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] eo bet [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] bet [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] a zo [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] eo bet [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] bet [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] a zo [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] eo [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] bet [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] eo bet [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] eo [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] bet [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] eo bet [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] e oa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] e [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ema\u00f1 [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] e oa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] e [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ema\u00f1 [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

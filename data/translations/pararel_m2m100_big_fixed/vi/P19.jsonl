@@ -1,0 +1,13 @@
+{"pattern": "[X] \u0111\u01b0\u1ee3c sinh ra trong [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] l\u00e0 ban \u0111\u1ea7u t\u1eeb [Y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] l\u00e0 t\u1eeb [Y] ban \u0111\u1ea7u.", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] l\u00e0 native to [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] \u0111\u00e3 \u0111\u01b0\u1ee3c sinh ra cho [Y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] b\u1eaft ngu\u1ed3n t\u1eeb [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] b\u1eaft ngu\u1ed3n t\u1eeb [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] l\u00e0 m\u1ed9t [Y] sinh ra ng\u01b0\u1eddi.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] l\u00e0 m\u1ed9t ng\u01b0\u1eddi [Y] sinh ra.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] l\u00e0 m\u1ed9t [Y] sinh ra ng\u01b0\u1eddi.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] l\u00e0 m\u1ed9t [Y] sinh ra ng\u01b0\u1eddi.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], m\u1ed9t [Y] sinh ra ng\u01b0\u1eddi.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], m\u1ed9t ng\u01b0\u1eddi [Y] sinh ra.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

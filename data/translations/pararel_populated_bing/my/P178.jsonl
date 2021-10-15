@@ -1,0 +1,19 @@
+{"pattern": "[Y] \u1010\u102e\u1011\u103d\u1004\u103a\u1001\u1032\u1037\u1010\u1032\u1037 [X]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] \u1000\u102d\u102f [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] \u1000\u102d\u102f [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X] \u1000\u102d\u102f [Y] \u1000\u1016\u1014\u103a\u1010\u102e\u1038\u1001\u1032\u1037", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[Y] \u1000\u1016\u1014\u103a\u1010\u102e\u1038\u1001\u1032\u1037\u1010\u1032\u1037 [X]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] \u101f\u102c [Y] \u101b\u1032\u1037 \u1011\u102f\u1010\u103a\u1000\u102f\u1014\u103a\u1010\u1005\u103a\u1001\u102f\u1015\u102b\u104b", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] \u101f\u102c [Y] \u1011\u102f\u1010\u103a\u1000\u102f\u1014\u103a\u1010\u1005\u103a\u1001\u102f\u1015\u102b\u104b", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[Y] \u1011\u102f\u1010\u103a\u1000\u102f\u1014\u103a\u1010\u1005\u103a\u1001\u102f\u1016\u103c\u1005\u103a\u1010\u1032\u1037 [X]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[Y] \u1016\u1014\u103a\u1010\u102e\u1038\u1011\u102c\u1038\u1010\u1032\u1037 \u1011\u102f\u1010\u103a\u1000\u102f\u1014\u103a\u1010\u1005\u103a\u1001\u102f\u1016\u103c\u1005\u103a\u1010\u1032\u1037 [X]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[Y] \u1016\u1014\u103a\u1010\u102e\u1038\u1011\u102c\u1038\u1010\u1032\u1037 [X]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[Y] \u1011\u102f\u1010\u103a\u1000\u102f\u1014\u103a\u1010\u1005\u103a\u1001\u102f\u1016\u103c\u1005\u103a\u101e\u1031\u102c [X]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[Y] \u1010\u102e\u1011\u103d\u1004\u103a\u1011\u102f\u1010\u103a\u101c\u102f\u1015\u103a\u1010\u1032\u1037 \u1011\u102f\u1010\u103a\u1000\u102f\u1014\u103a\u1010\u1005\u103a\u1001\u102f\u1016\u103c\u1005\u103a\u1010\u1032\u1037 [X]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y] \u1010\u102e\u1011\u103d\u1004\u103a\u1011\u102f\u1010\u103a\u101c\u102f\u1015\u103a\u1010\u1032\u1037 [X]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y] \u1010\u102e\u1011\u103d\u1004\u103a\u1011\u102f\u1010\u103a\u101c\u102f\u1015\u103a\u101e\u1031\u102c \u1011\u102f\u1010\u103a\u1000\u102f\u1014\u103a\u1010\u1005\u103a\u1001\u102f\u1016\u103c\u1005\u103a\u101e\u1031\u102c [X]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y] \u1000 [X]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[X] \u1000\u102d\u102f\u1016\u1014\u103a\u1010\u102e\u1038\u101e\u1030 [Y]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[X] \u1016\u1014\u103a\u1010\u102e\u1038\u101e\u1030 [Y]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] \u1014\u1032\u1037 \u104e\u1004\u103a\u1038\u101b\u1032\u1037 \u1011\u102f\u1010\u103a\u1000\u102f\u1014\u103a [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
+{"pattern": "[Y] \u104e\u1004\u103a\u1038\u104f\u1011\u102f\u1010\u103a\u1000\u102f\u1014\u103a [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

@@ -1,0 +1,26 @@
+{"pattern": "Ny [X] dia [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "Ny [X] dia avy amin'ny [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "Ny [X] dia novolavolain'ny [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "Ny [X] dia [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] novolavolain'ny [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "Ny [X] dia [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "Ny [X] novolavolain'i [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] avy amin'ny [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "Ny [X] dia [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "Ny [X] dia natsangana tamin'ny [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "Ny [X] dia [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] izay natsangana tamin'ny [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] natsangana tamin'ny [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "Ny [X] natsangana tamin'ny [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "Ny [X] dia [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] dia vokatra avy amin'ny [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "Ny [X] dia vokatra avy amin'ny [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] vokatra avy amin'ny [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X] vokatra [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X] vokatra natsangana tamin'ny [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X] vokatra [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[X] vokatra novolavolain'ny [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[X] vokatra novolavolain'i [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y] ny mpanorina ny [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] ny mpamorona ny [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] sy ny vokatra [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

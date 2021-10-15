@@ -1,0 +1,4 @@
+{"pattern": "[X] dimiliki oleh [Y].", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] Pemilik [y].", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] memiliki [x].", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] -Owseded [x]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

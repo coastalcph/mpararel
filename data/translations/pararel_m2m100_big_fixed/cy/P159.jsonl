@@ -1,0 +1,10 @@
+{"pattern": "Mae'r lleoliad yn [X] yn [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Mae'r sefydliad yn [X] yn [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Mae'r lleoliad yn cael ei leoli yn y [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] yn cynnwys y rhan fwyaf o [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] yn seiliedig yn y [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "Mae'r lleoliadau wedi'i hysbysu ar [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "Mae'r lleoliadau yn y [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], sy'n seiliedig ar y seiliadau yn [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y]ma mae'r gartref i'w gartref.", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] yn seiliedig ar [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

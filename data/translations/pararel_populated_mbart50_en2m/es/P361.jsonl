@@ -1,0 +1,11 @@
+{"pattern": "[X] es parte de [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "[X] es parte [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "[X] parte de la [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "[X] es parte de la [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "la [X] es parte de la [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "la [X] es parte [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "[X] es parte de [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "[X] es parte [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "[X] es parte de la [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "la [X] es parte de la [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "la [X] es parte [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}

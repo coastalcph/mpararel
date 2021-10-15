@@ -1,0 +1,13 @@
+{"pattern": "Ang [X] ay pag-aari [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "Ang [X] ay pag-aari ng [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] ay pag-aari [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] ay [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "Ang [X] ay [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] ay pagmamayari ng [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] may-ari [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[X] may-ari ng [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] ay pagmamayari ng [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] ng [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Ang [Y] ng [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Ang [Y] ang nagmamay-ari ng [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Ang [Y] nagmamay-ari ng [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}

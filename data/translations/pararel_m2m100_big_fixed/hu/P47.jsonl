@@ -1,0 +1,9 @@
+{"pattern": "[X] a hat\u00e1rt a [Y] k\u00f6z\u00f6tt osztja.", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] hat\u00e1rok a [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] osztja meg a hat\u00e1rt a [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] megosztja hat\u00e1rait a [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] megosztja a k\u00f6z\u00f6s hat\u00e1rt [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "A hat\u00e1rokon \u00e1tny\u00fal\u00f3 [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "A hat\u00e1rt a [X] osztja meg.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "Az \u0151 hat\u00e1rait osztja meg [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] egy k\u00f6z\u00f6s hat\u00e1rt oszt meg [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

@@ -1,0 +1,10 @@
+{"pattern": "[X] a [Y] .", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] aki [Y] be.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] aki [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] aki [Y] tiszts\u00e9get t\u00f6lt be.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] aki [Y] t\u00f6lt be.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] aki [Y] poz\u00edci\u00f3ban van.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] akinek [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] akinek [Y] poz\u00edci\u00f3ja.", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] akinek a [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] akinek a poz\u00edci\u00f3ja [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}

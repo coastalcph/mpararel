@@ -1,0 +1,24 @@
+{"pattern": "[X] \u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8 \u10d0\u10e0\u10d8\u10e1 [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] \u10d0\u10e0\u10d8\u10e1 [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8\u10e1 [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] \u10db\u10d7\u10d0\u10d5\u10d0\u10e0\u10d8 \u10e1\u10d0\u10e4\u10e3\u10eb\u10d5\u10d4\u10da\u10d8 [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] \u10e1\u10d0\u10e4\u10e3\u10eb\u10d5\u10d4\u10da\u10d8 [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] \u10d0\u10e0\u10d8\u10e1 [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] \u10d0\u10e0\u10d8\u10e1 [X] \u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] \u10d0\u10e0\u10d8\u10e1 [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] \u10d0\u10e0\u10d8\u10e1 [X] \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8\u10e1 \u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] \u10d0\u10e0\u10d8\u10e1 [X] \u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] \u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8, [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8\u10e1 \u10db\u10d7\u10d0\u10d5\u10d0\u10e0\u10d8 \u10e5\u10d0\u10da\u10d0\u10e5\u10d8\u10d0 [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] \u10e5\u10d0\u10da\u10d0\u10e5\u10d8\u10d0 [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] \u10d4\u10e1 \u10d0\u10e0\u10d8\u10e1 [X] \u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] \u10d0\u10e0\u10d8\u10e1 [X] \u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] \u10d0\u10e0\u10d8\u10e1 [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] \u10d0\u10e0\u10d8\u10e1 [X] \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8\u10e1 \u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] \u10e0\u10dd\u10db\u10d4\u10da\u10d8\u10ea \u10d0\u10e0\u10d8\u10e1 [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] \u10e0\u10dd\u10db\u10d4\u10da\u10d8\u10ea \u10d0\u10e0\u10d8\u10e1 [X] \u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] \u10d0\u10e0\u10d8\u10e1 [X] \u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] \u10d0\u10e0\u10d8\u10e1 [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] \u10d0\u10e0\u10d8\u10e1 [X] \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8\u10e1 \u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] \u10e0\u10dd\u10db\u10d4\u10da\u10d8\u10ea \u10d0\u10e0\u10d8\u10e1 [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] \u10e0\u10dd\u10db\u10d4\u10da\u10d8\u10ea \u10d0\u10e0\u10d8\u10e1 [X] \u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

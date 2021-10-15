@@ -1,0 +1,5 @@
+{"pattern": "[X] est socius ex [y].", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] pertinet ad organizationem [y].", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] est pars [y] organization.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] est affiliatus [y].", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] est affiliatus cum [y] organization.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

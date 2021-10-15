@@ -1,0 +1,4 @@
+{"pattern": "[X] produkt [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[Y] tv\u016frce [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] a jeho produkt [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
+{"pattern": "[Y] a jeho [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

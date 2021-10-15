@@ -1,0 +1,11 @@
+{"pattern": "[X] l\u00e0m vi\u1ec7c cho [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] cho [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] ho\u1ea1t \u0111\u1ed9ng cho [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] ng\u01b0\u1eddi l\u00e0m vi\u1ec7c cho [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c s\u1eed [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c [Y] d\u1ee5ng.", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c tuy\u1ec3n [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] ng\u01b0\u1eddi \u0111\u01b0\u1ee3c [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] ng\u01b0\u1eddi \u0111\u01b0\u1ee3c [Y] tuy\u1ec3n d\u1ee5ng.", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] ng\u01b0\u1eddi \u0111\u01b0\u1ee3c tuy\u1ec3n [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

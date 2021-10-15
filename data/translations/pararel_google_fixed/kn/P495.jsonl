@@ -1,0 +1,17 @@
+{"pattern": "[X] [Y] \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0cb0\u0c9a\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6.", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X], \u0c87\u0ca6\u0ca8\u0ccd\u0ca8\u0cc1 [Y] \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0cb0\u0c9a\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6.", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X], [Y] \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0cb0\u0c9a\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], \u0c85\u0ca6\u0cc1 [Y] \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0cb9\u0cc1\u0c9f\u0ccd\u0c9f\u0cbf\u0c95\u0cca\u0c82\u0ca1\u0cbf\u0ca4\u0cc1.", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] [Y] \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0cb9\u0cc1\u0c9f\u0ccd\u0c9f\u0cbf\u0c95\u0cca\u0c82\u0ca1\u0cbf\u0ca4\u0cc1.", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] [Y] \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0cb0\u0cc2\u0caa\u0cc1\u0c97\u0cca\u0c82\u0ca1\u0cbf\u0ca6\u0cc6.", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] [Y] \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0cb0\u0cc2\u0caa\u0cc1\u0c97\u0cca\u0c82\u0ca1\u0cbf\u0ca4\u0cc1.", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X], \u0c85\u0ca6\u0cc1 [Y] \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0cb0\u0cc2\u0caa\u0cc1\u0c97\u0cca\u0c82\u0ca1\u0cbf\u0ca4\u0cc1.", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] [Y] \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0cb0\u0cc2\u0caa\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cbf\u0ca4\u0ccd\u0ca4\u0cc1.", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X], [Y] \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0cb0\u0cc2\u0caa\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6.", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X], \u0c85\u0ca6\u0ca8\u0ccd\u0ca8\u0cc1 [Y] \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0cb0\u0cc2\u0caa\u0cbf\u0cb8\u0cb2\u0cbe\u0caf\u0cbf\u0ca4\u0cc1.", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] [Y] \u0ca8\u0cbf\u0c82\u0ca6 \u0cac\u0c82\u0ca6\u0cb5\u0cc1.", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], \u0caf\u0cbe\u0cb0\u0cc1 [Y] \u0ca8\u0cbf\u0c82\u0ca6 \u0cac\u0c82\u0ca6\u0cb5\u0cb0\u0cc1.", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], [Y] \u0ca8\u0cbf\u0c82\u0ca6.", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X], \u0c87\u0ca6\u0ca8\u0ccd\u0ca8\u0cc1 [Y] \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0c85\u0cad\u0cbf\u0cb5\u0cc3\u0ca6\u0ccd\u0ca7\u0cbf\u0caa\u0ca1\u0cbf\u0cb8\u0cb2\u0cbe\u0caf\u0cbf\u0ca4\u0cc1.", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] [Y] \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0c85\u0cad\u0cbf\u0cb5\u0cc3\u0ca6\u0ccd\u0ca7\u0cbf\u0caa\u0ca1\u0cbf\u0cb8\u0cb2\u0cbe\u0caf\u0cbf\u0ca4\u0cc1.", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X], [Y] \u0ca8\u0cb2\u0ccd\u0cb2\u0cbf \u0c85\u0cad\u0cbf\u0cb5\u0cc3\u0ca6\u0ccd\u0ca7\u0cbf\u0caa\u0ca1\u0cbf\u0cb8\u0cb2\u0cbe\u0c97\u0cbf\u0ca6\u0cc6.", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

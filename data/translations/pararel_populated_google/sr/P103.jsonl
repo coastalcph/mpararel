@@ -1,0 +1,6 @@
+{"pattern": "\u041c\u0430\u0442\u0435\u0440\u045a\u0438 \u0458\u0435\u0437\u0438\u043a [X] \u0458\u0435 [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "\u041c\u0430\u0442\u0435\u0440\u045a\u0438 \u0458\u0435\u0437\u0438\u043a [X] \u0458\u0435 [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] \u0458\u0435 \u043c\u0430\u0442\u0435\u0440\u045a\u0438 \u0458\u0435\u0437\u0438\u043a [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] \u0458\u0435 \u043c\u0430\u0442\u0435\u0440\u045a\u0438 [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] \u0458\u0435 \u043c\u0430\u0442\u0435\u0440\u045a\u0438 \u0458\u0435\u0437\u0438\u043a [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] \u0458\u0435 \u043c\u0430\u0442\u0435\u0440\u045a\u0438 [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

@@ -1,0 +1,6 @@
+{"pattern": "O [X] \u00e9 um termo legal [Y]", "lemma": "legal-term", "extended_lemma": "legal-term", "tense": "present"}
+{"pattern": "O Presidente [X] \u00e9 um termo legal [Y]", "lemma": "legal-term", "extended_lemma": "legal-term", "tense": "present"}
+{"pattern": "[X] \u00e9 um termo legal [Y]", "lemma": "legal-term", "extended_lemma": "legal-term", "tense": "present"}
+{"pattern": "[X] \u00e9 um termo legal no [Y]", "lemma": "legal-term", "extended_lemma": "legal-term", "tense": "present"}
+{"pattern": "[X] \u00e9 um termo legal na [Y]", "lemma": "legal-term", "extended_lemma": "legal-term", "tense": "present"}
+{"pattern": "\"\" [X] \"\" \u00e9 um termo legal na [Y]", "lemma": "legal-term", "extended_lemma": "legal-term", "tense": "present"}

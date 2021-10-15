@@ -1,0 +1,6 @@
+{"pattern": "[X] joac\u0103 [Y] muzic\u0103", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X], care joac\u0103 [Y] muzic\u0103", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] se joac\u0103 cu [Y]", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X], care se joac\u0103 [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "Pentru cei care sunt muzicieni.", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "Astfel de muzicieni ca [X].", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

@@ -1,0 +1,6 @@
+{"pattern": "[X] je [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] je lastnica [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] je v [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] lastnik [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] ima [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[X] v [Y]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

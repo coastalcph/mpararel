@@ -1,0 +1,8 @@
+{"pattern": "[X] travaillait \u00e0 [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] a trouv\u00e9 un emploi \u00e0 [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] \u00e0 [Y]", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] \u00e9tait employ\u00e9 \u00e0 [Y]", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] \u00e0 [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] a travaill\u00e9 \u00e0 [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] travaille \u00e0 [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] a commenc\u00e9 \u00e0 travailler \u00e0 [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}

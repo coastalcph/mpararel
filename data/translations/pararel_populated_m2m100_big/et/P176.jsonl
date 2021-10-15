@@ -1,0 +1,10 @@
+{"pattern": "[X] mille on v\u00e4lja t\u00f6\u00f6tanud [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] v\u00e4lja [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] toodetud [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] mille [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] on [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[X] mille on [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] mille on loonud [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] mille on v\u00e4lja t\u00f6\u00f6tanud [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[Y] ja selle toode [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
+{"pattern": "[Y] ja selle [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

@@ -1,0 +1,10 @@
+{"pattern": "Die [X] befindet sich in [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] befindet sich in [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "Der [X] befindet sich in [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] ist in [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] in [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] befindet sich in [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] in [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "[X] befindet sich in [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "[X] ist in [Y] zu finden.", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "Der [X] befindet sich in [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}

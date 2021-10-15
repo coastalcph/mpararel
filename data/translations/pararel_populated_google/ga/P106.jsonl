@@ -1,0 +1,14 @@
+{"pattern": "Is [Y] de r\u00e9ir [X]", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "Is [Y] de r\u00e9ir gairme \u00e9 [X]", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "Is [Y] \u00e9 [X] de r\u00e9ir gairme.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "Is [Y] tr\u00ed [X]", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "Is [Y] \u00e9 [X] tr\u00ed oili\u00faint.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "Is [Y] \u00e9 [X]", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "Is [Y] \u00e9 [X] tr\u00ed oili\u00faint.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "Is [Y] \u00e9 [X]", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "Oibr\u00edonn [X] mar [Y]", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X] a oibr\u00edonn mar [Y]", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "Is [Y] \u00e9 gairm [X]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Is [Y] gairm [X]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Is [Y] \u00e9 gairm [X]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Is [Y] gairm [X]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}

@@ -1,0 +1,37 @@
+{"pattern": "[X] kwa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] ilikuwa imeandikwa kwa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] ilikuwa imeandikwa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] lugha ya [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] imeandikwa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] kwa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] imeandikwa kwa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] lugha ya [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] ya [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] lugha ya [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] katika lugha ya [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] iliyoandikwa katika lugha ya [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] lugha ya [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] kwa lugha ya [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] katika lugha ya [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] imeandikwa katika lugha ya [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] lugha ya [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] iliyoandikwa katika lugha ya [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Lugha ya [X] ni [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Lugha ya [X] ilikuwa [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] ni kazi ya lugha ya [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] ni kazi ya [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] ni kazi ya lugha ya [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] ni kazi ya [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] kazi ya lugha ya [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] kazi ya [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] ya lugha ya [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] kazi ya lugha ya [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] ilikuwa kazi ya lugha ya [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] kazi ya lugha ya [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] ilikuwa kazi ya lugha ya [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] kazi ya lugha ya [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] ni kazi katika lugha ya [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] ilikuwa kazi katika lugha ya [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] kazi katika lugha ya [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] ni lugha ya [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] ilikuwa lugha ya [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

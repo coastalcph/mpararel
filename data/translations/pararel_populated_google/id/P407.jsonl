@@ -1,0 +1,45 @@
+{"pattern": "[X] ditulis dalam bahasa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] ditulis [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] ditulis dalam [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] ditulis dalam [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] ditulis [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] ditulis dalam bahasa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] ditulis dalam bahasa [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] ditulis dalam bahasa [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] ditulis dalam bahasa [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Bahasa [X] adalah [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Bahasa [X] adalah [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Bahasa [X] adalah bahasa [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] adalah karya [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] adalah [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] adalah karya bahasa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] adalah pekerjaan berbahasa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] adalah karya [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] adalah karya bahasa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] adalah [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] adalah pekerjaan berbahasa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] adalah pekerjaan [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] karya [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] sebuah karya bahasa [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] bahasa [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] berbahasa [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] pekerjaan berbahasa [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] pekerjaan [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] karya [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] sebuah karya bahasa [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] bahasa [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] adalah karya [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] adalah [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] adalah karya bahasa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] adalah pekerjaan berbahasa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] adalah [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] adalah karya bahasa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] adalah pekerjaan berbahasa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] adalah pekerjaan [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] adalah karya dalam bahasa [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] adalah sebuah karya dalam bahasa [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] adalah karya dalam bahasa [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] adalah sebuah karya dalam bahasa [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] adalah bahasa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Bahasa [Y] adalah bahasa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] adalah bahasa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

@@ -1,0 +1,6 @@
+{"pattern": "[X]([Y])\u306e\u4f4d\u7f6e\u306b\u3042\u308a\u307e\u3059\u3002", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "\u8ab0(\u3060\u308c)\u304b(\u3060\u308c)\u306e\u7acb\u5834(\u304b\u305f)\u306b\u3042\u308b\u3002", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "\u3014[X]\u3015 \u3014X\u3015 \u3014X\u3015 \u3014X\u3015 \u3014X\u3015 \u3014[Y]\u3015 \u3014Y\u3015 \u3014Y\u3015 \u3014Y\u3015 \u3014Y\u3015 \u3014Y\u3015", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X]\u306e\u4f4d\u7f6e\u306f [Y]\u3067\u3059\u3002", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "\u3014[X]\u3015 \u3014[Y]\u3015 \u3014Y\u3015 \u3014Y\u3015 \u3014Y\u3015 \u3014Y\u3015 \u3014Y\u3015 \u3014Y\u3015", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

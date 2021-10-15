@@ -1,0 +1,17 @@
+{"pattern": "[X] alizaliwa [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] huko [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] ametoka [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] alitoka [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "Mwanzoni [X] alitoka [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] ni mwenyeji wa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] alikuwa mwenyeji wa [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] alitoka [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] alitoka [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] alikuwa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] alikuwa mtu aliyezaliwa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] alikuwa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] alikuwa mtu aliyezaliwa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] ni mtu aliyezaliwa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] ni mtu aliyezaliwa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] mtu aliyezaliwa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] mtu aliyezaliwa [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

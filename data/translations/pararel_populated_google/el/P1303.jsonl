@@ -1,0 +1,7 @@
+{"pattern": "[Y] Player [X]", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "\u039f [X] \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "\u039f [X] \u03b5\u03af\u03bd\u03b1\u03b9 [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "[X] \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "\u039f [X] \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b1\u03af\u03ba\u03c4\u03b7\u03c2 [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "\u039f [X] \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03af\u03ba\u03c4\u03b7\u03c2 [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "[X] \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03af\u03ba\u03c4\u03b7\u03c2 [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

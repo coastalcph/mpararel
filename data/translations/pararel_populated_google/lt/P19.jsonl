@@ -1,0 +1,16 @@
+{"pattern": "[X] gim\u0117 [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] i\u0161 prad\u017ei\u0173 yra i\u0161 [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] prad\u017ei\u0173 i\u0161 [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] i\u0161 prad\u017ei\u0173 buvo i\u0161 [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] yra gimtoji [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] yra gimtoji \u012f [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] buvo gimtoji [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] i\u0161 [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] kilo i\u0161 [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] kil\u0119s i\u0161 [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] yra kil\u0119s i\u0161 [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] kil\u0119s i\u0161 [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] buvo [Y] gim\u0119s asmuo.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] buvo [Y] gim\u0119s asmuo.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] yra [Y] gim\u0119s asmuo.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] yra [Y] gim\u0119s asmuo.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "Inhemskt spr\u00e5k [X] \u00e4r [Y].", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X]:s] modersm\u00e5l \u00e4r [Y].", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] \u00e4r [X]:s modersm\u00e5l.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] \u00e4r [X] modersm\u00e5l.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

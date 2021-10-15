@@ -1,0 +1,4 @@
+{"pattern": "[X] [Y]'de yer al\u0131yor.", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] k\u0131ta [Y]'de yer al\u0131yor.", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X], [Y] k\u0131tas\u0131na ait.", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X], [Y] k\u0131tas\u0131n\u0131n bir par\u00e7as\u0131.", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

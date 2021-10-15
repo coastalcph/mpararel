@@ -1,0 +1,9 @@
+{"pattern": "[X] bekerja di [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] bekerja [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] bekerja untuk [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] yang bekerja di [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] yang bekerja [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] bekerja di [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] bekerja [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] yang bekerja [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] yang bekerja di [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

@@ -1,0 +1,47 @@
+{"pattern": "[X] g\u00ebtt [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] g\u00ebtt [Y] entw\u00e9ckelt.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] g\u00ebtt duerch [Y] entw\u00e9ckelt.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum [Y] entw\u00e9ckelt.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] gouf [Y] entw\u00e9ckelt.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X] gouf vum [Y] entw\u00e9ckelt.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X] vum [Y] entw\u00e9ckelt.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X] entw\u00e9ckelt [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] entw\u00e9ckelt vum [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] g\u00ebtt [Y] erstallt", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] g\u00ebtt vum [Y] erstallt", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] gouf [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X] gouf vum [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X] gouf [Y] erstallt", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X] gouf vum [Y] erstallt", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X] erstallt vum [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] erstallt [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] ass e Produkt vun [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] ass e Produkt [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] ass e Produkt vu [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] war e Produkt vun [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X] war e Produkt [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X] war e Produkt vu [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X] e Produkt vun [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X] e Produkt [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X] e Produkt vum [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X] e Produkt vu [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X] e Produkt erstallt [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X] e Produkt erstallt vum [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X] e Produkt hiergestallt vum [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X] e Produkt hiergestallt [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X] e Produkt hiergestallt vu [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X] e Produkt entw\u00e9ckelt [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[X] e Produkt entw\u00e9ckelt vum [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y] entw\u00e9ckelt [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y] dat entw\u00e9ckelt [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y] dat [X] erstallt", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] erstallt [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] deen [X] erstallt huet", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] de Creator [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] de [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] de Sch\u00ebpfer vun [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] de Sch\u00ebpfer vun der [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] a s\u00e4i [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
+{"pattern": "[Y] a s\u00e4i Produkt [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
+{"pattern": "[Y] s\u00e4i Produkt [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

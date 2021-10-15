@@ -1,0 +1,4 @@
+{"pattern": "[X] \u0c28\u0c3e\u0c1f\u0c15\u0c3e\u0c32\u0c41 [Y].", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[Y] \u0c2a\u0c4d\u0c32\u0c47\u0c2f\u0c30\u0c4d [X]", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "[X] [Y] \u0c28\u0c41 \u0c2a\u0c4b\u0c37\u0c3f\u0c38\u0c4d\u0c24\u0c41\u0c02\u0c26\u0c3f.", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] \u0c12\u0c15 [Y] \u0c2a\u0c4d\u0c32\u0c47\u0c2f\u0c30\u0c4d.", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

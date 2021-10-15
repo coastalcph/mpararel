@@ -1,0 +1,11 @@
+{"pattern": "[X] est situ\u00e9e [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] est [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] \u00e0 [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] est situ\u00e9 \u00e0 [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] est situ\u00e9 [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] se trouve \u00e0 [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "La [X] se trouve \u00e0 [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] \u00e0 [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] est [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] est en [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] de [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}

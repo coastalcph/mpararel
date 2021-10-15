@@ -1,0 +1,6 @@
+{"pattern": "[X] plays in [Y] situ.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X] plays in loco [Y].", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "[X], qui plays in [Y] situ.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
+{"pattern": "ludens sicut [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "ludens sicut an [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
+{"pattern": "[X] Plays quod [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

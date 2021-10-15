@@ -1,0 +1,10 @@
+{"pattern": "[Y] diplomatik \u0259laq\u0259si olan [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] il\u0259 diplomatik \u0259laq\u0259si olan [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] diplomatik \u0259laq\u0259si olan [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] il\u0259 diplomatik \u0259laq\u0259si olan [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] diplomatik ili\u015fkileri olan [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] diplomatik ili\u015fkileri [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] diplomatik [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] diplomatik ili\u015fkileri quran [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] il\u0259 diplomatik ili\u015fkileri [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] il\u0259 diplomatik [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

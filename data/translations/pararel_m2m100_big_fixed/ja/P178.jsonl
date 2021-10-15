@@ -1,0 +1,16 @@
+{"pattern": "\u300d\u3068\u767a\u5c55\u3055\u305b\u3089\u308c\u305f\u3002", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "\u300d\u3068\u767a\u5c55\u3055\u305b\u3089\u308c\u305f\u3002", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "\u300d\u3068\u767a\u5c55\u3055\u305b\u305f\u3002", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "\u5275\u9020\u8005\u3067\u3042\u308b\u3002", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "\u5275\u9020\u8005\u3067\u3042\u308b\u3002", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "\u5275\u9020\u8005\u3067\u3042\u308b\u3002", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] \u306f [Y] \u306e\u7523\u7269\u3067\u3059\u3002", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] is a product of [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], a product of [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], \u306b\u3088\u3063\u3066\u4f5c\u6210\u3055\u308c\u305f\u88fd\u54c1 [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X] \u306f [Y] \u306b\u3088\u3063\u3066\u88fd\u9020\u3055\u308c\u305f\u88fd\u54c1\u3067\u3059\u3002", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X] \u306f [Y] \u306b\u3088\u3063\u3066\u958b\u767a\u3055\u308c\u305f\u88fd\u54c1\u3067\u3059\u3002", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "\u767a\u5c55\u3057\u305f([X])", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "\u5275\u9020\u8005\u3067\u3042\u308b\u3002", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "\u5275\u9020\u4e3b\u3067\u3042\u308b\u3002", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y]\u3068\u305d\u306e\u88fd\u54c1 [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

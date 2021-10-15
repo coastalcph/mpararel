@@ -1,0 +1,11 @@
+{"pattern": "[X] blev oprindeligt sendt p\u00e5 [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] er at debutere p\u00e5 [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] er at debut [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debuterede [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debuterede p\u00e5 [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[Y] debut af [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y] frigivelsen af [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] blev udgivet den [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] udgivet [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] havde premiere p\u00e5 [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] har premiere p\u00e5 [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

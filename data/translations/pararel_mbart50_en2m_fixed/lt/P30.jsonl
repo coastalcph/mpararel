@@ -1,0 +1,4 @@
+{"pattern": "[X] yra [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] yra \u012fsik\u016br\u0119s \u017eemyne [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] priklauso [Y] \u017eemynui.", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] yra [Y] \u017eemyno dalis.", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

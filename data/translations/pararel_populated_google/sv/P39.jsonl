@@ -1,0 +1,18 @@
+{"pattern": "[X] har positionen av [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] har [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] har positionen [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] har positionen f\u00f6r [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] som har [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] som har [Y] st\u00e4llning.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] som har st\u00e5ndpunkten f\u00f6r [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] vars position \u00e4r [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] position \u00e4r [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] \u00e4r [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] som [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] som [Y] st\u00e4llning.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] som h\u00e5ller positionen [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] som h\u00e5ller [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] som h\u00e5ller [Y] st\u00e4llning.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] av [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] h\u00e5ller [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] h\u00e5ller [Y] st\u00e4llning.", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

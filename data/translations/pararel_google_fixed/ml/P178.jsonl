@@ -1,0 +1,16 @@
+{"pattern": "[X] [Y] \u0d35\u0d3f\u0d15\u0d38\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d46\u0d1f\u0d41\u0d24\u0d4d\u0d24\u0d3f\u0d1f\u0d4d\u0d1f\u0d41\u0d23\u0d4d\u0d1f\u0d4d.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] [Y] \u0d35\u0d3f\u0d15\u0d38\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d46\u0d1f\u0d41\u0d24\u0d4d\u0d24\u0d41.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X], [Y] \u0d35\u0d3f\u0d15\u0d38\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d46\u0d1f\u0d41\u0d24\u0d4d\u0d24\u0d41.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] \u0d38\u0d43\u0d37\u0d4d\u0d1f\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41 [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] [Y] \u0d38\u0d43\u0d37\u0d4d\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a\u0d41", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[Y], [Y] \u0d38\u0d43\u0d37\u0d4d\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a\u0d41.", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] [Y] \u0d09\u0d7d\u0d2a\u0d4d\u0d2a\u0d28\u0d4d\u0d28\u0d2e\u0d3e\u0d23\u0d4d", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] [Y] \u0d28\u0d4d\u0d31\u0d46 \u0d12\u0d30\u0d41 \u0d09\u0d7d\u0d2a\u0d4d\u0d2a\u0d28\u0d4d\u0d28\u0d2e\u0d3e\u0d2f\u0d3f\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d41", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], [Y] \u0d28\u0d4d\u0d31\u0d46 \u0d12\u0d30\u0d41 \u0d09\u0d7d\u0d2a\u0d4d\u0d2a\u0d28\u0d4d\u0d28\u0d02", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], [Y] \u0d38\u0d43\u0d37\u0d4d\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a \u0d12\u0d30\u0d41 \u0d09\u0d7d\u0d2a\u0d4d\u0d2a\u0d28\u0d4d\u0d28\u0d02", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], [Y] \u0d28\u0d3f\u0d7c\u0d2e\u0d4d\u0d2e\u0d3f\u0d1a\u0d4d\u0d1a \u0d12\u0d30\u0d41 \u0d09\u0d7d\u0d2a\u0d4d\u0d2a\u0d28\u0d4d\u0d28\u0d02", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], [Y] \u0d35\u0d3f\u0d15\u0d38\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a \u0d12\u0d30\u0d41 \u0d09\u0d7d\u0d2a\u0d4d\u0d2a\u0d28\u0d4d\u0d28\u0d02", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], \u0d05\u0d24\u0d4d \u0d35\u0d3f\u0d15\u0d38\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d46\u0d1f\u0d41\u0d24\u0d4d\u0d24\u0d41 [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y], \u0d05\u0d24\u0d4d [X] \u0d38\u0d43\u0d37\u0d4d\u0d1f\u0d3f\u0d1a\u0d4d\u0d1a\u0d41", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y], [X] \u0d28\u0d4d\u0d31\u0d46 \u0d38\u0d4d\u0d30\u0d37\u0d4d\u0d1f\u0d3e\u0d35\u0d4d", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y], \u0d05\u0d24\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d09\u0d7d\u0d2a\u0d4d\u0d2a\u0d28\u0d4d\u0d28\u0d02 [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

@@ -1,0 +1,36 @@
+{"pattern": "[X] ass [Y] gestuerwen.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] ass zu [Y] gestuerwen.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] zu [Y] gestuerwen.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] ass zu [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "De [X] ass [Y] gestuerwen.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "De [X] ass zu [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] ass [Y] gestuerwen.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "De [X] ass [Y] gestuerwen.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] ass zu [Y] gestuerwen.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "De [X] ass zu [Y] gestuerwen.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] gestuerwen [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] ass [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] ass am [Y] fortgaang.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] an [Y] gestuerwen.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "De [X] ass [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] ass [Y] fortgaang.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] ass [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] ass [Y] gestuerwen.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "De [X] ass [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] op [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] ass [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] ass [Y] ofgelaf.", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] op [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] ass op [Y] ofgelaf.", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] huet hiert Liewen [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] huet hiert Liewen am [Y] verluer.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] huet hiert Liewen [Y] verluer.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "De [X] huet hiert Liewen [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] d'Liewen [Y] opgehalen.", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] ass op [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] op [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "De [X] d'Liewen [Y] opgehalen.", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "De [X] op [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] ass [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] ass um [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] op [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

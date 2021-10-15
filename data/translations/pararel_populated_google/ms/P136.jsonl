@@ -1,0 +1,11 @@
+{"pattern": "[X] memainkan muzik [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X] muzik [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X] yang memainkan muzik [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] memainkan muzik [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] memainkan [Y]", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X] yang [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] yang memainkan [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] memainkan [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] yang bermain [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "Pemuzik [Y] seperti [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}
+{"pattern": "[Y] seperti [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

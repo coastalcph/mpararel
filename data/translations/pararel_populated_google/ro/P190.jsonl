@@ -1,0 +1,6 @@
+{"pattern": "[X] \u0219i [Y] sunt ora\u0219e gemene.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] \u0219i [X] sunt ora\u0219e gemene.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] este un ora\u0219 gemene din [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[Y] este un ora\u0219 gemene [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] este un ora\u0219 gemene [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] este un ora\u0219 gemene din [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

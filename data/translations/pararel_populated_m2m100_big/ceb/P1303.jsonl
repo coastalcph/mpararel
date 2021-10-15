@@ -1,0 +1,15 @@
+{"pattern": "[X] mao ang [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] nagtuo [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] sa [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] nagtuo sa [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[Y] sa [X] ", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "[Y] nga [X] ", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "[Y] mao ang [X] ", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "[Y] mao [X] ", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "[X] sa [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] nagtuo sa [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "Si [X] sa [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "Si [X] gibuhat sa [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] gibuhat sa [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] mao ang usa ka [Y] player.", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "[X] mao ang usa ka [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

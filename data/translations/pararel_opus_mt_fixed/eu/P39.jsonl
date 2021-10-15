@@ -1,0 +1,6 @@
+{"pattern": "[X] funtzioak [Y](y](r)en posizioa du.", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] -Haren posizioa duena.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] Norena da [Y].", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X](r)en posizioa [Y] da.", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] [Y]-ren posizioa dauka.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] funtzioak [Y]ren posizioa dauka.", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

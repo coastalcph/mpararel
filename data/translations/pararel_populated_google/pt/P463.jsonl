@@ -1,0 +1,19 @@
+{"pattern": "[X] \u00e9 membro [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] \u00e9 membro da [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] \u00e9 membro do [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] \u00e9 um membro [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] \u00e9 um membro do [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] pertence \u00e0 organiza\u00e7\u00e3o [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "O [X] pertence \u00e0 organiza\u00e7\u00e3o [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] pertence \u00e0 organiza\u00e7\u00e3o do [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] faz parte da organiza\u00e7\u00e3o [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "O [X] faz parte da organiza\u00e7\u00e3o [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] parte da organiza\u00e7\u00e3o [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] parte da organiza\u00e7\u00e3o do [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] \u00e9 [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] \u00e9 afiliado [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] \u00e9 afiliado com [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "O [X] \u00e9 afiliado com [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] \u00e9 afiliado \u00e0 organiza\u00e7\u00e3o [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
+{"pattern": "O [X] \u00e9 afiliado \u00e0 organiza\u00e7\u00e3o [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
+{"pattern": "[X] \u00e9 afiliado \u00e0 organiza\u00e7\u00e3o do [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

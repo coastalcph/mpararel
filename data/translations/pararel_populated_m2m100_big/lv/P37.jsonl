@@ -1,0 +1,30 @@
+{"pattern": "[X] ofici\u0101l\u0101 valoda ir [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] valoda ir [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] ofici\u0101l\u0101 valoda ir [Y] valoda.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] valoda ir [Y] valoda.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] valoda ir [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] ofici\u0101l\u0101 valoda ir [Y] valoda.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] ofici\u0101l\u0101 valoda ir [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] ir [X] ofici\u0101l\u0101 valoda.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] ir ofici\u0101l\u0101 [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] valoda ir [X] ofici\u0101l\u0101 valoda.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] valoda ir ofici\u0101l\u0101 [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] valoda ir [X] ofici\u0101l\u0101 valoda.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] valoda ir ofici\u0101l\u0101 [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ofici\u0101li [Y] ir [X] valoda.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] ir [X] valoda.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] valoda ir [X] valoda.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ofici\u0101li [Y] valoda ir [X] valoda.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] likums pasludina [Y] par ofici\u0101lo valodu.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "[X] likums pasludina [Y] valodu par ofici\u0101lo valodu.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "[X] likums nosaka [Y] k\u0101 ofici\u0101lo valodu.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] likums [Y] k\u0101 ofici\u0101lo valodu.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] likums [Y]", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] likums nosaka [Y] valodu k\u0101 ofici\u0101lo valodu.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] likums [Y] valodu k\u0101 ofici\u0101lo valodu.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] likums defin\u0113 [Y] k\u0101 ofici\u0101lo valodu.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] ka [Y] valoda ir ofici\u0101l\u0101 valoda.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] likums nosaka [Y] valodu k\u0101 ofici\u0101lo valodu.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] likums [Y] valodu k\u0101 ofici\u0101lo valodu.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] likums defin\u0113 [Y] valodu k\u0101 ofici\u0101lo valodu.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] defin\u0113 [Y] valodu k\u0101 ofici\u0101lo valodu.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

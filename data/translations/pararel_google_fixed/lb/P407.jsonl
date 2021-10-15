@@ -1,0 +1,18 @@
+{"pattern": "[X] gouf an [Y] geschriwwen.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] ass an [Y] geschriwwen.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] gouf an der [Y] Sprooch geschriwwen.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] ass an der [Y] Sprooch geschriwwen.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], an der [Y] Sprooch geschriwwen.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "D'Sprooch vun [X] ass [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "D'Sprooch vun [X] war [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] ass eng [Y] -Language Aarbecht.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] ass eng [Y] -Language Aarbecht.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], eng [Y] -Language Aarbecht.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], eng [Y] -Language Aarbecht.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] war eng [Y] -Language Aarbecht.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] war eng [Y] -Language Aarbecht.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] ass eng Aarbecht an der [Y] Sprooch.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] war eng Aarbecht an der [Y] Sprooch.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] -Leangbeichung [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] ass d'Sprooch vun [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] war d'Sprooch vun [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

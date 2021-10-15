@@ -1,0 +1,4 @@
+{"pattern": "[X] Et [y] sunt geminae civitates.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Ego] et [x] sunt Didymus urbes.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Ego] est Didymus urbem [x].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] Est Didymus urbem [y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

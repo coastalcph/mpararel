@@ -1,0 +1,11 @@
+{"pattern": "[X] mesle\u011fe g\u00f6re bir [Y].", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] mesle\u011fe g\u00f6re bir [Y].", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] e\u011fitim ile bir [Y].", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] e\u011fitime g\u00f6re bir [Y].", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] [y] olarak \u00e7al\u0131\u015f\u0131r.", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], [Y] olarak \u00e7al\u0131\u015fan.", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] 'nin mesle\u011fi [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X] i\u015fgali [Y].", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] 'nin mesle\u011fi bir [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] mesle\u011fi bir [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] mesle\u011fi [Y].", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

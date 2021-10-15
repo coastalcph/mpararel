@@ -1,0 +1,9 @@
+{"pattern": "Mae [X] yn eiddo gan [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] yn eiddo gan [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] yn eiddo [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] yn [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "Mae [Y] yn eiddo [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Mae [Y] yn [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] yn eiddo [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] yn [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Mae [Y] yn eiddo'r [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}

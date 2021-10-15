@@ -1,0 +1,15 @@
+{"pattern": "[X] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas con [Y]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas con [X]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] liga relaci\u00f3ns diplom\u00e1ticas con [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] relaci\u00f3ns diplom\u00e1ticas con [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] relaci\u00f3ns diplom\u00e1ticas con [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] liga relaci\u00f3ns diplom\u00e1ticas con [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] ten relaci\u00f3ns diplom\u00e1ticas con [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] relaci\u00f3ns diplom\u00e1ticas con [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] ten relaci\u00f3ns diplom\u00e1ticas con [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] que ten relaci\u00f3ns diplom\u00e1ticas con [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] que ten relaci\u00f3ns diplom\u00e1ticas con [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] que ten relaci\u00f3ns diplom\u00e1ticas [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] que vincula relaci\u00f3ns diplom\u00e1ticas con [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] que liga relaci\u00f3ns diplom\u00e1ticas con [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] que liga relaci\u00f3ns diplom\u00e1ticas [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

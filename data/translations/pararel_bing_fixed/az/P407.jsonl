@@ -1,0 +1,18 @@
+{"pattern": "[X] [Y] \u015f\u0259klind\u0259 yaz\u0131lm\u0131\u015fd\u0131r.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] [Y] dilind\u0259 yaz\u0131lm\u0131\u015fd\u0131r.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] [Y] dilind\u0259 yaz\u0131lm\u0131\u015fd\u0131r.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] [Y] dilind\u0259 yaz\u0131l\u0131r.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], [Y] dilind\u0259 yaz\u0131lm\u0131\u015fd\u0131r.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] dili [Y]dir.", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X]-in dili [Y] idi.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] \u2014 [Y]-dilli \u0259s\u0259r.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] \u2014 [Y]-dilli \u0259s\u0259r.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], [Y]-dilli \u0259s\u0259r.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], [Y]-dilli \u0259s\u0259r.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] [Y]dilli \u0259s\u0259r idi.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] [Y]dilli bir \u0259s\u0259r idi.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] \u2013 [Y] dilind\u0259 \u0259s\u0259r.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] [Y] dilind\u0259 bir \u0259s\u0259r idi.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y]-dilli yarad\u0131l\u0131\u015f [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y]- [X]-in dilidir.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] [X]-in dili idi.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

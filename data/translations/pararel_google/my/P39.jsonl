@@ -1,0 +1,6 @@
+{"pattern": "[x] \u101e\u100a\u103a [Y] \u104f\u1021\u1014\u1031\u1021\u1011\u102c\u1038\u101b\u103e\u102d\u101e\u100a\u103a\u104b", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[x], [y] \u104f\u1021\u1014\u1031\u1021\u1011\u102c\u1038\u101b\u103e\u102d\u101e\u1014\u100a\u103a\u1038\u104b", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[x],", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[x] 's position \u101e\u100a\u103a [y] \u1016\u103c\u1005\u103a\u101e\u100a\u103a\u104b", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[x], [y] \u104f\u1021\u1014\u1031\u1021\u1011\u102c\u1038\u1000\u102d\u102f\u1000\u102d\u102f\u1004\u103a\u1011\u102c\u1038\u101e\u1030 [x] \u104b", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[x] [y] \u104f\u1021\u1014\u1031\u1021\u1011\u102c\u1038\u1000\u102d\u102f\u1000\u102d\u102f\u1004\u103a\u1011\u102c\u1038\u101e\u100a\u103a\u104b", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

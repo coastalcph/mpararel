@@ -1,0 +1,18 @@
+{"pattern": "[X] \u0aa8\u0abe\u0aae [Y] \u0a9b\u0ac7.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X] \u0a9c\u0ac7\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae [Y] \u0a9b\u0ac7.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X] \u0aa8\u0abe\u0aae [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X] \u0a9c\u0ac7 [Y] \u0a9b\u0ac7.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] \u0aa8\u0abe\u0aae [Y] \u0a9b\u0ac7.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] \u0a9c\u0ac7 [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X] \u0aa8\u0abe\u0aae [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X] which was named for [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X] \u0aa8\u0abe\u0aae [Y] \u0ab9\u0aa4\u0ac1\u0a82.", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X] \u0a9c\u0ac7 [Y] \u0aae\u0abe\u0a9f\u0ac7 \u0aa8\u0abe\u0aae \u0a86\u0aaa\u0ab5\u0abe\u0aae\u0abe\u0a82 \u0a86\u0ab5\u0acd\u0aaf\u0ac1\u0a82 \u0a9b\u0ac7.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] \u0aa8\u0abe\u0aae [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] \u0a9c\u0ac7 [Y] \u0a9b\u0ac7.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] which is named in [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] \u0a9c\u0ac7 [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] \u0a9c\u0ac7 [Y] \u0aae\u0abe\u0a9f\u0ac7 \u0aa8\u0abe\u0aae \u0a86\u0aaa\u0ab5\u0abe\u0aae\u0abe\u0a82 \u0a86\u0ab5\u0acd\u0aaf\u0ac1\u0a82 \u0ab9\u0aa4\u0ac1\u0a82.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] which was named in [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] \u0a9c\u0ac7 [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X] which was named after [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}

@@ -1,0 +1,10 @@
+{"pattern": "Huvudkontoret f\u00f6r [X] finns i [Y] .", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "H\u00f6gkvarteret f\u00f6r [X] ligger i [Y] .", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Huvudkontoret f\u00f6r [X] \u00e4r bel\u00e4get i [Y] .", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] inneh\u00e5ller [X].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] har sitt huvudkontor i [Y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] har h\u00f6gkvarteret f\u00f6r [X].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X]s h\u00f6gkvarter ligger i [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], vars h\u00f6gkvarter ligger i [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] \u00e4r hem- till [X].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] \u00e4r baserad i [Y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

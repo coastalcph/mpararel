@@ -1,0 +1,3 @@
+{"pattern": "[X] is 'n lid van [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] behoort aan die organisasie van [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] is geaffilieer met [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}

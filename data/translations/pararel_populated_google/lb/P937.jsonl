@@ -1,0 +1,31 @@
+{"pattern": "[X] benotzt fir [Y] ze schaffen.", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] benotzt [Y] ze schaffen.", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] am [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] benotzt fir am [Y] ze schaffen.", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] huet Aarbecht [Y] fonnt.", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] Aarbecht [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "Den [X] zu [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] Aarbecht [Y] fonnt.", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] huet [Y] fonnt.", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "De [X] huet Aarbecht [Y] fonnt.", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] Aarbecht an der [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] huet Aarbecht an [Y] fonnt.", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] Aarbecht an [Y] fonnt.", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] Aarbecht an [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] gouf [Y] agestallt.", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "Den [X] gouf [Y] agestallt.", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] gouf am [Y] agestallt.", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "De [X] gouf [Y] agestallt.", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] am [Y] agestallt.", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] huet zu [Y] geschafft.", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] huet [Y] geschafft.", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "Den [X] huet [Y] geschafft.", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "De [X] huet [Y] geschafft.", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] huet am [Y] geschafft.", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] huet [Y] geschafft.", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] huet [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] huet an [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "De [X] huet [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] huet [Y] opgeholl.", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] huet am [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "Den [X] huet [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}

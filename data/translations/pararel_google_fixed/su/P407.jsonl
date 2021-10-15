@@ -1,0 +1,18 @@
+{"pattern": "[X] ditulis dina [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] ditulis dina [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] ditulis dina basa [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] ditulis dina basa [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], ditulis dina [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Basa [X] nya\u00e9ta [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Basa [X] nya\u00e9ta [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] mangrupikeun damel [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] mangrupikeun damel [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], tempat [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], tempat [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] mangrupikeun damel [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] mangrupikeun damel [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] mangrupikeun padamelan di [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] mangrupikeun padamelan di [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Nu [Y] ciptaan [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] mangrupikeun basa [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] mangrupikeun basa [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

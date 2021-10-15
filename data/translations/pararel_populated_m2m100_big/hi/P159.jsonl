@@ -1,0 +1,6 @@
+{"pattern": "[X] \u0915\u093e \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f [Y] \u092e\u0947\u0902 \u0939\u0948\u0964", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "[X] \u0915\u093e \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f [Y] \u092e\u0947\u0902 \u0939\u0948\u0964", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] \u0915\u093e \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f [Y] \u092e\u0947\u0902 \u0938\u094d\u0925\u093f\u0924 \u0939\u0948\u0964", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] \u092e\u0947\u0902 [X] \u0915\u0947 \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[Y] \u092e\u0947\u0902 [X] \u0915\u093e \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f \u0939\u0948\u0964", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[Y] \u092e\u0947\u0902 [X] \u0915\u093e \u092e\u0941\u0916\u094d\u092f\u093e\u0932\u092f \u0939\u0948\u0964", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}

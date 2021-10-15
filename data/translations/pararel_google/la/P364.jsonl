@@ -1,0 +1,6 @@
+{"pattern": "In originali lingua [x] est [y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "In originali lingua [x] fuit [y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Et lingua [x] est [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Et lingua [x] fuit [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Ego] est lingua [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Ego] erat lingua [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

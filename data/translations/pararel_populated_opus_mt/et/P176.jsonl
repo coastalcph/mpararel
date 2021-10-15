@@ -1,0 +1,4 @@
+{"pattern": "[X] mille on v\u00e4lja t\u00f6\u00f6tanud [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] v\u00e4lja t\u00f6\u00f6tanud [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] v\u00e4lja [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[Y] ja selle toode [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

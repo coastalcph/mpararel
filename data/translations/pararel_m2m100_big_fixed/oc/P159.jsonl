@@ -1,0 +1,10 @@
+{"pattern": "La t\u00e8rra de [X] es en [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Lo centre de [X] es en [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Lo quarti\u00e8r de [X] es situat a [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] cont\u00e9n los capitals de [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] es lo centre de [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "Que n'an a l'uelh de la t\u00e8rra,", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] son los si\u00e8ges de [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Que n'an a l'uelh los que n'an a l'uelh,", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Que soi a la casa de [X].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] es basat en [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

@@ -1,0 +1,10 @@
+{"pattern": "Ang headquarter ng [x] ay nasa [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "Ang punong-himpilan ng [x] ay nasa [y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "Ang headquarter ng [x] ay matatagpuan sa [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "Ang [Y] ay naglalaman ng punong-himpilan ng [X].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] ay headquartered sa [y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "Ang [Y] ay may punong-himpilan ng [X].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "Ang punong tanggapan ng [X] ay nasa [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], na ang punong-himpilan ay nasa [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] ay tahanan sa [x].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] ay batay sa [y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

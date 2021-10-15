@@ -1,0 +1,33 @@
+{"pattern": "[X] fronteira com [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] partilha a fronteira com [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "O [X] partilha a fronteira com [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] partilha a fronteira com o [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] fronteira com [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "O [X] fronteira com [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "O [X] fronteira com o [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] fronteira com o [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] partilha a fronteira com [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "O [X] partilha a fronteira com [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] partilha a fronteira com o [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] partilha a sua fronteira com [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] partilha a fronteira com [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "O [X] partilha a sua fronteira com [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] partilha a sua fronteira com o [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "O [X] partilha a fronteira com [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] partilha a fronteira com o [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] partilha uma fronteira comum com [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "O [X] partilha uma fronteira comum com [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "O [X] partilha uma fronteira comum com o [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[X] partilha uma fronteira comum com o [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] fronteira com [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "A [Y] fronteira com [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] fronteira com o [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "O [Y] fronteira com o [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] partilha a fronteira com [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] partilha a fronteira com o [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] partilha a sua fronteira com [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] partilha a fronteira com [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "A [Y] partilha a sua fronteira com [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] partilha uma fronteira comum com [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "A [Y] partilha uma fronteira comum com [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] partilha uma fronteira comum com o [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

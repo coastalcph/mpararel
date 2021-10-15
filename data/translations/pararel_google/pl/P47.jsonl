@@ -1,0 +1,9 @@
+{"pattern": "[X] Udzia\u0142a granicy z [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] Granice z [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] Dzia\u0142a obramowaniem [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] Dzieli swoj\u0105 granic\u0119 [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] Dzia\u0142a wsp\u00f3ln\u0105 granic\u0119 z [y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] granice z [x].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] dzieli si\u0119 granic\u0105 [x].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] dzieli swoj\u0105 granic\u0119 [x].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] dzieli si\u0119 wsp\u00f3ln\u0105 granic\u0105 z [x].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

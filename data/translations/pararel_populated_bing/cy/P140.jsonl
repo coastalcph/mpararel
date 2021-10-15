@@ -1,0 +1,13 @@
+{"pattern": "Mae [X] yn gysylltiedig \u00e2 chrefydd [Y] .", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "Mae [X] yn gysylltiedig [Y] .", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] yn gysylltiedig [Y] .", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "Mae [X] yn gysylltiedig \u00e2'r grefydd [Y] .", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] yn gysylltiedig \u00e2'r grefydd [Y] .", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] yn dilyn y grefydd [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] yn dilyn [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "Mae [X] yn dilyn y grefydd [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "Mae [X] yn dilyn [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] yn dilyn crefydd [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "Mae [X] yn ddilynwr [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] yn ddilynwr [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[Y] yw crefydd swyddogol [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

@@ -1,0 +1,37 @@
+{"pattern": "[X] \u0111\u01b0\u1ee3c \u0111\u1ea1i di\u1ec7n b\u1edfi label \u00e2m nh\u1ea1c [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c \u0111\u1ea1i di\u1ec7n b\u1edfi nh\u00e3n nh\u1ea1c [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c \u0111\u1ea1i di\u1ec7n b\u1edfi nh\u00e3n \u00e2m nh\u1ea1c [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c \u0111\u1ea1i di\u1ec7n b\u1edfi [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c \u0111\u1ea1i di\u1ec7n b\u1edfi h\u00e3ng thu \u00e2m [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c \u0111\u1ea1i di\u1ec7n b\u1edfi nh\u00e3n hi\u1ec7u [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c \u0111\u1ea1i di\u1ec7n b\u1edfi nh\u00e3n [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c \u0111\u1ea1i di\u1ec7n b\u1edfi [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c \u0111\u1ea1i di\u1ec7n b\u1edfi [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c \u0111\u1ea1i di\u1ec7n b\u1edfi [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Nh\u00e3n nh\u1ea1c \u0111\u1ea1i di\u1ec7n cho [X] l\u00e0 [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] l\u00e0 [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Nh\u00e3n nh\u1ea1c \u0111\u1ea1i di\u1ec7n cho The [X] l\u00e0 [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Nh\u00e3n hi\u1ec7u \u00e2m nh\u1ea1c \u0111\u1ea1i di\u1ec7n cho [X] l\u00e0 [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "Nh\u00e3n nh\u1ea1c \u0111\u1ea1i di\u1ec7n cho [X] l\u00e0 [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "Nh\u00e3n \u00e2m nh\u1ea1c \u0111\u1ea1i di\u1ec7n cho [X] l\u00e0 [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] l\u00e0 [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "Nh\u00e3n nh\u1ea1c \u0111\u1ea1i di\u1ec7n cho The [X] l\u00e0 [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "Th\u01b0\u01a1ng hi\u1ec7u c\u1ee7a [X] l\u00e0 [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] l\u00e0 [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "Nh\u00e3n hi\u1ec7u c\u1ee7a [X] l\u00e0 [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "\u0110\u0129a \u0111\u01a1n c\u1ee7a [X] l\u00e0 [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "C\u00f4ng ty thu \u00e2m c\u1ee7a [X] l\u00e0 [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "C\u00f4ng ty k\u1ef7 l\u1ee5c c\u1ee7a [X] l\u00e0 [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Nh\u1ea1c c\u1ee7a [X] l\u00e0 [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "Nh\u00e3n \u00e2m nh\u1ea1c c\u1ee7a [X] l\u00e0 [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] ghi \u00e2m cho [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] ghi l\u1ea1i cho [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] ph\u00e1t h\u00e0nh b\u1edfi [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "The [X] ph\u00e1t h\u00e0nh b\u1edfi [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] \u0111\u01b0\u1ee3c ph\u00e1t h\u00e0nh b\u1edfi [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "C\u00e1c [Y] s\u0129 nh\u01b0 [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "C\u00e1c ngh\u1ec7 s\u0129 [Y] nh\u01b0 The [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "C\u00e1c ngh\u1ec7 s\u0129 [Y] nh\u01b0 [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "C\u00e1c [Y] s\u0129 n\u1ed5i ti\u1ebfng nh\u01b0 [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "C\u00e1c ngh\u1ec7 s\u0129 [Y] bao g\u1ed3m [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "C\u00e1c ngh\u1ec7 s\u0129 [Y] bao g\u1ed3m The [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

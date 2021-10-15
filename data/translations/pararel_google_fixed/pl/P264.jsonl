@@ -1,0 +1,17 @@
+{"pattern": "[X] jest reprezentowany przez etykiet\u0119 muzyczn\u0105 [Y].", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] jest reprezentowany przez etykiet\u0119 rekordu [Y].", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] jest reprezentowany przez [Y].", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X], kt\u00f3ry jest reprezentowany przez [Y].", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X], kt\u00f3ry jest reprezentowany przez [Y].", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Etykieta muzyczna reprezentuj\u0105ca [X] jest [Y].", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Etykieta muzyczna reprezentuj\u0105ca [X] jest [Y].", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] Etykieta jest [Y].", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] Etykieta rekordu wynosi [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] Firma nagraniowa jest [Y].", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] Etykieta muzyczna jest [Y].", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] nagrany dla [Y].", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] Etykieta: [Y].", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X], wydany przez [Y].", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] artysta nagrywania [X].", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] artyst\u00f3w, takich jak [X].", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[Y] artyst\u00f3w, w tym [X].", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

@@ -1,0 +1,13 @@
+{"pattern": "[Y]n it b\u00fbtenl\u00e2n wurket er yn it b\u00fbtenl\u00e2n.", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] is spesjalisearre yn [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y]n Frysl\u00e2n is der in \u00fbndersyk.", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "De kennis fan [X] is [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Dat is in \u00fbnbekende taal.", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "De titel betsjut: \"Fjirticht\u00fbzen yn Gehenna\" (Gehenna is in oare namme foar de hel).", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "De titel betsjut: \"Fjirticht\u00fbzen yn Gehenna\" (Gehenna is in oare namme foar de hel).", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y]n Frysl\u00e2n is it ynteressearre yn de gemeente.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] syn wurkgebiet is [Y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X] syn domein fan wurk is [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "De titel betsjut: \"Fjirticht\u00fbzen yn Gehenna\".", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "[Y]n Frysl\u00e2n is it \u00fbnbekend.", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] wurket yn it gebiet fan [Y].", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] eies av [Y].", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] Eier [Y].", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] eier [X].", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Den [Y] -Hengde [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

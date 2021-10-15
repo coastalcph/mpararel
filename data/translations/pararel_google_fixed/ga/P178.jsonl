@@ -1,0 +1,16 @@
+{"pattern": "T\u00e1 [X] forbartha ag [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "Forbra\u00edodh [X] le [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X], arna fhorbairt ag [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "Crutha\u00edtear [X] le [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "Chruthaigh [X] \u00e9 [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X], a chruthaigh [Y].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "Is t\u00e1irge \u00e9 [X] de [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "Is t\u00e1irge \u00e9 [X] de [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], t\u00e1irge de [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], t\u00e1irge a chruthaigh [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], t\u00e1irge a mhonara\u00edtear le [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], t\u00e1irge a d'fhorbair [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], a d'fhorbair [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y], a chruthaigh [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y], cruthaitheoir an [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] agus a th\u00e1irge [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

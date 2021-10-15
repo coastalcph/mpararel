@@ -1,0 +1,31 @@
+{"pattern": "[X] se je rodil v [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] v [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] je iz [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] je bil iz [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] iz [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] je bil izvirno iz [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] je [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] je iz [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] je bil [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] bil [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] je [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] je bil iz [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] bil iz [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] je bil rodil v [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] je iz [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] iz [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] iz [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] izvira iz [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] prihaja iz [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] je bil [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] je [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] bil [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] je bil [Y] \u010dlovek.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] je bil [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] je [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] bil [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] je bil [Y] \u010dlovek.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] je [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] je [Y] \u010dlovek.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] je [Y] \u010dlovek.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

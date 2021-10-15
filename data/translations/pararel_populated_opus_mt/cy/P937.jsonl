@@ -1,0 +1,23 @@
+{"pattern": "[X] a [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] i weithio [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] a ddefnyddir i weithio yn [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] mewn [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] gwaith [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] yn [Y] yn", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] gweithio yn [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] gweithio [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] wedi gweithio [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] yn gweithio [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "Roedd [X] yn [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] gwaith yn [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] i fyny yn [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] i fyny [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] yn cymryd gwaith i fyny yn [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] cymryd gwaith i fyny yn [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] gwaith i fyny [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}

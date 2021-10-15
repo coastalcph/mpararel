@@ -1,0 +1,13 @@
+{"pattern": "[X] m\u0171k\u00f6dik az [Y] ter\u00fclet\u00e9n.", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "[X] specializ\u00e1l\u00f3dott [Y].", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "[Y] az [X] szakosod\u00e1sa.", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Az [X] szak\u00e9rtelme [Y].", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "[Y] az [X] szak\u00e9rtelme.", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Az [X] aktivit\u00e1s\u00e1nak tartom\u00e1nya [Y].", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Az [X] munk\u00e1j\u00e1nak ter\u00fclete [Y].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "[Y] az [X] aktivit\u00e1s\u00e1nak tartom\u00e1nya.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "[X] A munka ter\u00fclete [Y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "[X] A munka domainje [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "[X] A tev\u00e9kenys\u00e9g dom\u00e9nje [Y].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "Az [X] szak\u00e9rtelem [Y].", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "[X] az [Y] ter\u00fclet\u00e9n m\u0171k\u00f6dik.", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

@@ -1,0 +1,22 @@
+{"pattern": "[X] \u101e\u100a\u103a [Y] \u1021\u1010\u103d\u1000\u103a \u1021\u101c\u102f\u1015\u103a \u101c\u102f\u1015\u103a \u101e\u100a\u103a \u104b", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[Y] \u1021\u1010\u103d\u1000\u103a \u1021\u101c\u102f\u1015\u103a\u101c\u102f\u1015\u103a \u101e\u1030 \u104a [X]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[Y] \u1021\u1010\u103d\u1000\u103a [X] \u104a", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[Y] \u1021\u1010\u103d\u1000\u103a [X] \u104b", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[Y] \u1021\u1010\u103d\u1000\u103a \u1021\u101c\u102f\u1015\u103a\u101c\u102f\u1015\u103a \u101e\u1030 [X] \u104b", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[Y] \u1021\u1010\u103d\u1000\u103a \u1021\u101c\u102f\u1015\u103a \u101c\u102f\u1015\u103a \u101e\u1031\u102c \u104a [X] \u104b", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[Y] \u1021\u1010\u103d\u1000\u103a [X] \u104a \u104b", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[Y] \u1021\u1010\u103d\u1000\u103a \u1021\u101c\u102f\u1015\u103a \u101c\u102f\u1015\u103a [X] \u104b", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] \u1000\u102d\u102f [Y] \u104b", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] \u1000\u102d\u102f [Y] \u1000 \u1021\u101c\u102f\u1015\u103a\u1001\u1014\u1037\u103a \u1011\u102c\u1038 \u101e\u100a\u103a \u104b", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] \u1000\u102d\u102f [Y] \u101e\u100a\u103a \u104b", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] \u1000\u102d\u102f \u1021\u101c\u102f\u1015\u103a\u1001\u1014\u1037\u103a [Y] \u101e\u100a\u103a \u104b", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] \u1000\u102d\u102f [Y] \u1001\u1032\u1037 \u101e\u100a\u103a \u104b", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] \u1000\u102d\u102f \u1021\u101c\u102f\u1015\u103a\u1001\u1014\u1037\u103a [Y] \u104b", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] \u1000 \u1021\u101c\u102f\u1015\u103a\u1001\u1014\u1037\u103a \u1011\u102c\u1038 [Y] \u104b", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[Y] \u104a [X] \u104b", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[Y] \u1021\u101c\u102f\u1015\u103a\u1001\u1014\u1037\u103a \u1011\u102c\u1038 \u101e\u1031\u102c \u104a [X] \u104b", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[Y] \u1000 [X] \u101e\u1031\u102c \u104a", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[Y] \u1000 [X] \u104b", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[Y] \u1000 \u1021\u101c\u102f\u1015\u103a\u1001\u1014\u1037\u103a\u1021\u1015\u103a [X] \u104b", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[Y] \u101e\u1031\u102c \u104a [X] \u104b", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[Y] \u1000 \u1021\u101c\u102f\u1015\u103a \u101c\u102f\u1015\u103a \u1014\u1031 \u101e\u1031\u102c \u104a [X] \u104b", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

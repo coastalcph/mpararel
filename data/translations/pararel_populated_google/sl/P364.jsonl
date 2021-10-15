@@ -1,0 +1,9 @@
+{"pattern": "Prvotni jezik [X] je [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Prvotni jezik [X] je [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Prvotni jezik [X] je bil [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Originalni jezik [X] je bil [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Jezik [X] je [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Jezik [X] je [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Jezik [X] je bil [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] je jezik [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] je bil jezik [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

@@ -1,0 +1,13 @@
+{"pattern": "[X] speel [Y] musiek.", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X] speel [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X] wat [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] wat speel [Y] musiek", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] wat [Y] musiekspeel", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] speel [Y]", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X] wat [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] wat speel [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] wat [Y] speel.", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[Y] muzikante [X]", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "[Y] soos [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}
+{"pattern": "[Y] muzikante soos as [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}
+{"pattern": "[Y] muzikante soos [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

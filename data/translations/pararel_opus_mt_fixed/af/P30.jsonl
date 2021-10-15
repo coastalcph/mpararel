@@ -1,0 +1,4 @@
+{"pattern": "[X] is in [Y] gele\u00eb.", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] is op die vasteland [Y] gele\u00eb.", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] behoort aan die vasteland van [J].", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] is'n deel van die vasteland van [Y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

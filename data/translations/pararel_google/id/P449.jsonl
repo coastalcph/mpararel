@@ -1,0 +1,11 @@
+{"pattern": "[X] awalnya ditayangkan di [y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] adalah debut pada [y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] adalah debut [x].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debutnya [x].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] memulai debutnya [y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "debut [y] [x].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "rilis [y] [x].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] dirilis pada [y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] dirilis [x].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] perdana di [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Premier di [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

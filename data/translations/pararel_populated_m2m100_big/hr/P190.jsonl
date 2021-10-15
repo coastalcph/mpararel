@@ -1,0 +1,6 @@
+{"pattern": "[X] i [Y] su blizanci.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[X] i [Y] su bliski gradovi.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] i [X] su blizanci.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] je blizanski grad [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] je blizana\u010dki grad [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] je blizanski grad [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

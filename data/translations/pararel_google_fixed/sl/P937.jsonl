@@ -1,0 +1,5 @@
+{"pattern": "[X], ki se uporablja za delo v [Y].", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] Najdeno zaposlitev v [Y].", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] je bil uporabljen v [Y].", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] je delal v [Y].", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] je za\u010del delovati v [Y].", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}

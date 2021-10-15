@@ -1,0 +1,16 @@
+{"pattern": "[X]\u2019in yarat\u0131l\u0131\u015f\u0131 ise,", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X]\u2019in yarat\u0131l\u0131\u015f\u0131 ise,", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X]\u2019in yarat\u0131l\u0131\u015f\u0131nda,", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[Y]\u00fcce Allah taraf\u0131ndan yarat\u0131lm\u0131\u015ft\u0131r.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[Y]\u00fcce Allah taraf\u0131ndan yarat\u0131lm\u0131\u015ft\u0131r.", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[Y]\u00fcce Y\u00fcce Y\u00fcce Yarat\u0131c\u0131", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] bir \u00fcr\u00fcn\u00fc olan [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] bir \u00fcr\u00fcnd\u00fcr [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], bir \u00fcr\u00fcn olan [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], bir \u00fcr\u00fcn taraf\u0131ndan olu\u015fturulan [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], [Y] taraf\u0131ndan \u00fcretilen bir \u00fcr\u00fcn", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X] taraf\u0131ndan geli\u015ftirilen bir \u00fcr\u00fcn", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "Geli\u015fmi\u015f olan [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y]\u00fcce Y\u00fcce Yaratan,", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y]\u00fcce Y\u00fcce Yarat\u0131c\u0131", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] ve onun \u00fcr\u00fcnleri [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

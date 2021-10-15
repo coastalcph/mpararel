@@ -1,0 +1,6 @@
+{"pattern": "Gjuha amtare e [X] \u00ebsht\u00eb [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Gjuha amtare e [X] \u00ebsht\u00eb [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] \u00ebsht\u00eb gjuha amtare e [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "Gjuha [Y] \u00ebsht\u00eb gjuha amtare e [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] \u00ebsht\u00eb gjuha amtare e [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] \u00ebsht\u00eb gjuha m\u00ebm\u00eb e [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

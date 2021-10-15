@@ -1,0 +1,6 @@
+{"pattern": "Mae'r ystyried o [X] yn [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Ydych chi'n dod \u00e2'r rheswm [X] [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Ydych chi'n ddiddordeb yn y [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[Y]dych chi'n ddiddordeb \u00e2'r ystyried.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y]dych chi'n ddiddordeb \u00e2'r ystyried.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y]dych chi'n ddiddordeb \u00e2'r ystyried.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

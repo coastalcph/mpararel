@@ -1,0 +1,11 @@
+{"pattern": "[X] on kehitt\u00e4nyt [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] on [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] kehitti [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X] on [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] on [Y] luoma", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] luo [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[Y] tuote [X]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[Y] joka kehitti [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y] joka loi [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[X] luoja [Y]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] ja sen tuote [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

@@ -1,0 +1,75 @@
+{"pattern": "[X] va [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] va ser creat [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] va ser [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] va ser creat a [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] que va ser creat [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] que va ser creat a [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] va ser creat a [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] va ser creat [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] creat a [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] creat [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] creada [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] creada a [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] que es va originar [Y]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] que es va originar a [Y]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] va originar [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] va originar a [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] es va originar [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] es va originar a [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] va formar [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] va formar a [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] va [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] de [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] va [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] va formar a [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] format [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] format a [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] es va formar [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] es va formar a [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] de [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] estava format [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] format a [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] estava format a [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] format [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] que es va formar a [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] va [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] va ser [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] va ser formulada [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] va ser formulada a [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] formulada [Y]", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X] formulada a [Y]", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X] que va ser formulada [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] va ser [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] que va ser formulada a [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] va ser formulada a [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] que va [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] va [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] era [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "El [X] era [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] de [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] era de [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] que era [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] que era de [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] de [Y]", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X] que va ser desenvolupat [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] que va ser desenvolupat a [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] que va [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] va ser desenvolupat a [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] que es va desenvolupar [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] que es va desenvolupar a [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] va [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] va desenvolupar a [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] va desenvolupar [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] es va desenvolupar [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] es va desenvolupar a [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] desenvolupat [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}
+{"pattern": "[X] desenvolupat a [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

@@ -1,0 +1,932 @@
+{"sub_uri": "Q771405", "obj_uri": "Q48", "obj_label": "\u30a2\u30b8\u30a2", "sub_label": "\u5357\u30a2\u30b8\u30a2", "from_english": false}
+{"sub_uri": "Q11205", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u7b97\u8853", "from_english": false}
+{"sub_uri": "Q3606845", "obj_uri": "Q11451", "obj_label": "\u8fb2\u696d", "sub_label": "\u8fb2\u696d\u79d1\u5b66", "from_english": false}
+{"sub_uri": "Q431", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u52d5\u7269\u5b66", "from_english": false}
+{"sub_uri": "Q843900", "obj_uri": "Q514", "obj_label": "\u89e3\u5256\u5b66", "sub_label": "\u6bd4\u8f03\u89e3\u5256\u5b66", "from_english": false}
+{"sub_uri": "Q48", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u30a2\u30b8\u30a2", "from_english": false}
+{"sub_uri": "Q8366", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0", "from_english": false}
+{"sub_uri": "Q27275", "obj_uri": "Q48", "obj_label": "\u30a2\u30b8\u30a2", "sub_label": "\u4e2d\u592e\u30a2\u30b8\u30a2", "from_english": false}
+{"sub_uri": "Q192625", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u8a00\u8a9e\u985e\u578b\u8ad6", "from_english": false}
+{"sub_uri": "Q822050", "obj_uri": "Q1073", "obj_label": "\u8133", "sub_label": "\u767d\u8cea", "from_english": false}
+{"sub_uri": "Q18813", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u65b0\u7d04\u8056\u66f8", "from_english": false}
+{"sub_uri": "Q3238261", "obj_uri": "Q34740", "obj_label": "\u5c5e", "sub_label": "\u4e9c\u5c5e", "from_english": false}
+{"sub_uri": "Q701632", "obj_uri": "Q15284", "obj_label": "\u57fa\u790e\u81ea\u6cbb\u4f53", "sub_label": "\u81ea\u6cbb\u4f53\u653f\u5e9c", "from_english": false}
+{"sub_uri": "Q246672", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u6570\u5b66\u7684\u5bfe\u8c61", "from_english": false}
+{"sub_uri": "Q207011", "obj_uri": "Q9418", "obj_label": "\u5fc3\u7406\u5b66", "sub_label": "\u795e\u7d4c\u79d1\u5b66", "from_english": false}
+{"sub_uri": "Q83296", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u30ea\u30bd\u30b9\u30d5\u30a7\u30a2", "from_english": false}
+{"sub_uri": "Q188444", "obj_uri": "Q8087", "obj_label": "\u5e7e\u4f55\u5b66", "sub_label": "\u5fae\u5206\u5e7e\u4f55\u5b66", "from_english": false}
+{"sub_uri": "Q9441", "obj_uri": "Q748", "obj_label": "\u4ecf\u6559", "sub_label": "\u91c8\u8fe6", "from_english": false}
+{"sub_uri": "Q1555938", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u5357\u6975", "from_english": false}
+{"sub_uri": "Q41228", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u5357\u534a\u7403", "from_english": false}
+{"sub_uri": "Q14081", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30c1\u30f3\u30dc\u30e9\u30bd", "from_english": false}
+{"sub_uri": "Q233836", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30aa\u30db\u30b9\u30fb\u30c7\u30eb\u30fb\u30b5\u30e9\u30fc\u30c9", "from_english": false}
+{"sub_uri": "Q263686", "obj_uri": "Q46", "obj_label": "\u30e8\u30fc\u30ed\u30c3\u30d1", "sub_label": "\u6771\u5357\u30e8\u30fc\u30ed\u30c3\u30d1", "from_english": false}
+{"sub_uri": "Q338199", "obj_uri": "Q44626", "obj_label": "\u767d\u4e9c\u7d00", "sub_label": "\u5f8c\u671f\u767d\u4e9c\u7d00", "from_english": false}
+{"sub_uri": "Q13989", "obj_uri": "Q17", "obj_label": "\u65e5\u672c", "sub_label": "\u672c\u5dde", "from_english": false}
+{"sub_uri": "Q41490", "obj_uri": "Q34990", "obj_label": "\u30c8\u30fc\u30e9\u30fc", "sub_label": "\u30ec\u30d3\u8a18", "from_english": false}
+{"sub_uri": "Q42614", "obj_uri": "Q34990", "obj_label": "\u30c8\u30fc\u30e9\u30fc", "sub_label": "\u7533\u547d\u8a18", "from_english": false}
+{"sub_uri": "Q15", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u30a2\u30d5\u30ea\u30ab", "from_english": false}
+{"sub_uri": "Q156495", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u6570\u7406\u7269\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q42989", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u4f4d\u76f8\u5e7e\u4f55\u5b66", "from_english": false}
+{"sub_uri": "Q12479", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u6570\u8ad6", "from_english": false}
+{"sub_uri": "Q186350", "obj_uri": "Q37090", "obj_label": "\u4e09\u4f4d\u4e00\u4f53", "sub_label": "\u7236\u306a\u308b\u795e", "from_english": false}
+{"sub_uri": "Q35323", "obj_uri": "Q62928", "obj_label": "\u30bb\u30e0\u65cf (\u6c11\u65cf\u96c6\u56e3)", "sub_label": "\u30a2\u30e9\u30d6\u4eba", "from_english": false}
+{"sub_uri": "Q192907", "obj_uri": "Q4116214", "obj_label": "\u4f1a\u8a08", "sub_label": "\u8ca1\u52d9\u8af8\u8868", "from_english": false}
+{"sub_uri": "Q649907", "obj_uri": "Q3392", "obj_label": "\u30ca\u30a4\u30eb\u5ddd", "sub_label": "\u30ca\u30a4\u30eb\u5ddd\u6025\u6e4d", "from_english": false}
+{"sub_uri": "Q178498", "obj_uri": "Q9089", "obj_label": "\u30d2\u30f3\u30c9\u30a5\u30fc\u6559", "sub_label": "\u30a2\u30d2\u30f3\u30b5\u30fc", "from_english": false}
+{"sub_uri": "Q178498", "obj_uri": "Q748", "obj_label": "\u4ecf\u6559", "sub_label": "\u30a2\u30d2\u30f3\u30b5\u30fc", "from_english": false}
+{"sub_uri": "Q7202", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u5206\u5b50\u751f\u7269\u5b66", "from_english": false}
+{"sub_uri": "Q7150", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u751f\u614b\u5b66", "from_english": false}
+{"sub_uri": "Q8087", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u5e7e\u4f55\u5b66", "from_english": false}
+{"sub_uri": "Q159943", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u62bd\u8c61\u4ee3\u6570\u5b66", "from_english": false}
+{"sub_uri": "Q1931402", "obj_uri": "Q15777", "obj_label": "C", "sub_label": "ANSI C", "from_english": false}
+{"sub_uri": "Q56003", "obj_uri": "Q9465", "obj_label": "\u502b\u7406\u5b66", "sub_label": "\u30e1\u30bf\u502b\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q183", "obj_uri": "Q46", "obj_label": "\u30e8\u30fc\u30ed\u30c3\u30d1", "sub_label": "\u30c9\u30a4\u30c4", "from_english": false}
+{"sub_uri": "Q265868", "obj_uri": "Q7881", "obj_label": "\u9aa8\u683c", "sub_label": "\u9aa8", "from_english": false}
+{"sub_uri": "Q132959", "obj_uri": "Q15", "obj_label": "\u30a2\u30d5\u30ea\u30ab", "sub_label": "\u30b5\u30d6\uff1d\u30b5\u30cf\u30e9\u30f3\u30fb\u30a2\u30d5\u30ea\u30ab", "from_english": false}
+{"sub_uri": "Q30185", "obj_uri": "Q15284", "obj_label": "\u57fa\u790e\u81ea\u6cbb\u4f53", "sub_label": "\u9996\u9577", "from_english": false}
+{"sub_uri": "Q184590", "obj_uri": "Q1248784", "obj_label": "\u7a7a\u6e2f", "sub_label": "\u6ed1\u8d70\u8def", "from_english": false}
+{"sub_uri": "Q614304", "obj_uri": "Q11190", "obj_label": "\u533b\u5b66", "sub_label": "\u85ac\u5b66", "from_english": false}
+{"sub_uri": "Q7094", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u751f\u5316\u5b66", "from_english": false}
+{"sub_uri": "Q7094", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u751f\u5316\u5b66", "from_english": false}
+{"sub_uri": "Q27496", "obj_uri": "Q46", "obj_label": "\u30e8\u30fc\u30ed\u30c3\u30d1", "sub_label": "\u897f\u30e8\u30fc\u30ed\u30c3\u30d1", "from_english": false}
+{"sub_uri": "Q131476", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u30b0\u30e9\u30d5\u7406\u8ad6", "from_english": false}
+{"sub_uri": "Q48803", "obj_uri": "Q11451", "obj_label": "\u8fb2\u696d", "sub_label": "\u5712\u82b8", "from_english": false}
+{"sub_uri": "Q7430", "obj_uri": "Q7020", "obj_label": "\u30b2\u30ce\u30e0", "sub_label": "DNA", "from_english": false}
+{"sub_uri": "Q188641", "obj_uri": "Q9103", "obj_label": "\u4e73\u623f", "sub_label": "\u4e73\u9996", "from_english": false}
+{"sub_uri": "Q161272", "obj_uri": "Q21201", "obj_label": "\u793e\u4f1a\u5b66", "sub_label": "\u793e\u4f1a\u5fc3\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q161953", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u6b74\u4ee3\u8a8c", "from_english": false}
+{"sub_uri": "Q68947", "obj_uri": "Q7432", "obj_label": "\u7a2e", "sub_label": "\u4e9c\u7a2e", "from_english": false}
+{"sub_uri": "Q131068", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30a8\u30b9\u30c6\u30eb\u8a18", "from_english": false}
+{"sub_uri": "Q81240", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u58eb\u5e2b\u8a18", "from_english": false}
+{"sub_uri": "Q178819", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30e8\u30ca\u66f8", "from_english": false}
+{"sub_uri": "Q19786", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u65e7\u7d04\u8056\u66f8", "from_english": false}
+{"sub_uri": "Q534282", "obj_uri": "Q8072", "obj_label": "\u706b\u5c71", "sub_label": "\u6eb6\u5ca9\u5186\u9802\u4e18", "from_english": false}
+{"sub_uri": "Q185387", "obj_uri": "Q7174", "obj_label": "\u6c11\u4e3b\u4e3b\u7fa9", "sub_label": "\u53c2\u653f\u6a29", "from_english": false}
+{"sub_uri": "Q12134", "obj_uri": "Q333", "obj_label": "\u5929\u6587\u5b66", "sub_label": "\u5929\u7403", "from_english": false}
+{"sub_uri": "Q1129049", "obj_uri": "Q23404", "obj_label": "\u4eba\u985e\u5b66", "sub_label": "\u53c2\u4e0e\u89b3\u5bdf", "from_english": false}
+{"sub_uri": "Q1432908", "obj_uri": "Q7184", "obj_label": "\u5317\u5927\u897f\u6d0b\u6761\u7d04\u6a5f\u69cb", "sub_label": "\u6b27\u5dde\u9023\u5408\u8ecd\u6700\u9ad8\u53f8\u4ee4\u90e8", "from_english": false}
+{"sub_uri": "Q93259", "obj_uri": "Q664609", "obj_label": "\u30ab\u30ea\u30d6\u6d77\u5730\u57df", "sub_label": "\u5c0f\u30a2\u30f3\u30c6\u30a3\u30eb\u8af8\u5cf6", "from_english": false}
+{"sub_uri": "Q217413", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u570f\u8ad6", "from_english": false}
+{"sub_uri": "Q8201", "obj_uri": "Q7850", "obj_label": "\u4e2d\u56fd\u8a9e", "sub_label": "\u6f22\u5b57", "from_english": false}
+{"sub_uri": "Q7141", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u7d30\u80de\u751f\u7269\u5b66", "from_english": false}
+{"sub_uri": "Q185009", "obj_uri": "Q8495", "obj_label": "\u4e73", "sub_label": "\u4e73\u6e05", "from_english": false}
+{"sub_uri": "Q171809", "obj_uri": "Q21", "obj_label": "\u30a4\u30f3\u30b0\u30e9\u30f3\u30c9", "sub_label": "\u30a4\u30f3\u30b0\u30e9\u30f3\u30c9\u306e\u30ab\u30a6\u30f3\u30c6\u30a3", "from_english": false}
+{"sub_uri": "Q18", "obj_uri": "Q828", "obj_label": "\u30a2\u30e1\u30ea\u30ab\u5dde", "sub_label": "\u5357\u30a2\u30e1\u30ea\u30ab", "from_english": false}
+{"sub_uri": "Q18346", "obj_uri": "Q333", "obj_label": "\u5929\u6587\u5b66", "sub_label": "\u73fe\u4ee3\u5b87\u5b99\u8ad6", "from_english": false}
+{"sub_uri": "Q243545", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u6838\u5316\u5b66", "from_english": false}
+{"sub_uri": "Q81103", "obj_uri": "Q64418", "obj_label": "\u5927\u7832", "sub_label": "\u30ab\u30ce\u30f3\u7832", "from_english": false}
+{"sub_uri": "Q3203", "obj_uri": "Q319", "obj_label": "\u6728\u661f", "sub_label": "\u30ac\u30ea\u30ec\u30aa\u885b\u661f", "from_english": false}
+{"sub_uri": "Q3001185", "obj_uri": "Q9268", "obj_label": "Judaism", "sub_label": "Jewish denomination", "from_english": true}
+{"sub_uri": "Q549276", "obj_uri": "Q189524", "obj_label": "\u8266\u968a", "sub_label": "\u5c0f\u8266\u968a", "from_english": false}
+{"sub_uri": "Q18362", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u7406\u8ad6\u7269\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q27827", "obj_uri": "Q5043", "obj_label": "\u30ad\u30ea\u30b9\u30c8\u6559", "sub_label": "\u30ad\u30ea\u30b9\u30c8\u30fb\u30a2\u30c7\u30eb\u30d5\u30a3\u30a2\u30f3\u6d3e", "from_english": false}
+{"sub_uri": "Q105402", "obj_uri": "Q1073", "obj_label": "\u8133", "sub_label": "\u8133\u5ba4\u7cfb", "from_english": false}
+{"sub_uri": "Q9184", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u5275\u4e16\u8a18", "from_english": false}
+{"sub_uri": "Q624758", "obj_uri": "Q9418", "obj_label": "\u5fc3\u7406\u5b66", "sub_label": "\u7cbe\u795e\u75c5\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q284451", "obj_uri": "Q131036", "obj_label": "\u30b5\u30a4\u30a8\u30f3\u30c8\u30ed\u30b8\u30fc", "sub_label": "\u30c0\u30a4\u30a2\u30cd\u30c6\u30a3\u30c3\u30af\u30b9", "from_english": false}
+{"sub_uri": "Q179289", "obj_uri": "Q8078", "obj_label": "\u8ad6\u7406\u5b66", "sub_label": "\u56e0\u679c\u6027", "from_english": false}
+{"sub_uri": "Q3673891", "obj_uri": "Q11190", "obj_label": "\u533b\u5b66", "sub_label": "\u53e3\u8154\u5185\u79d1\u5b66", "from_english": false}
+{"sub_uri": "Q128011", "obj_uri": "Q664609", "obj_label": "\u30ab\u30ea\u30d6\u6d77\u5730\u57df", "sub_label": "\u5927\u30a2\u30f3\u30c6\u30a3\u30eb\u8af8\u5cf6", "from_english": false}
+{"sub_uri": "Q130704", "obj_uri": "Q34274", "obj_label": "gospel", "sub_label": "Denial of Peter", "from_english": true}
+{"sub_uri": "Q9184", "obj_uri": "Q34990", "obj_label": "\u30c8\u30fc\u30e9\u30fc", "sub_label": "\u5275\u4e16\u8a18", "from_english": false}
+{"sub_uri": "Q15281614", "obj_uri": "Q2283", "obj_label": "\u30de\u30a4\u30af\u30ed\u30bd\u30d5\u30c8", "sub_label": "Xbox", "from_english": false}
+{"sub_uri": "Q49", "obj_uri": "Q828", "obj_label": "\u30a2\u30e1\u30ea\u30ab\u5dde", "sub_label": "\u5317\u30a2\u30e1\u30ea\u30ab", "from_english": false}
+{"sub_uri": "Q948", "obj_uri": "Q15", "obj_label": "\u30a2\u30d5\u30ea\u30ab", "sub_label": "\u30c1\u30e5\u30cb\u30b8\u30a2", "from_english": false}
+{"sub_uri": "Q14579", "obj_uri": "Q388", "obj_label": "Linux", "sub_label": "Linux\u30ab\u30fc\u30cd\u30eb", "from_english": false}
+{"sub_uri": "Q26086", "obj_uri": "Q8134", "obj_label": "economics", "sub_label": "normative economics", "from_english": true}
+{"sub_uri": "Q3591972", "obj_uri": "Q9465", "obj_label": "ethics", "sub_label": "descriptive ethics", "from_english": true}
+{"sub_uri": "Q840400", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u9032\u5316\u751f\u7269\u5b66", "from_english": false}
+{"sub_uri": "Q179528", "obj_uri": "Q3392", "obj_label": "\u30ca\u30a4\u30eb\u5ddd", "sub_label": "\u30ca\u30a4\u30eb\u5ddd\u30c7\u30eb\u30bf", "from_english": false}
+{"sub_uri": "Q162886", "obj_uri": "Q8087", "obj_label": "\u5e7e\u4f55\u5b66", "sub_label": "\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u5e7e\u4f55\u5b66", "from_english": false}
+{"sub_uri": "Q83169", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u6c34\u570f", "from_english": false}
+{"sub_uri": "Q1166618", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u6570\u7406\u8ad6\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q207551", "obj_uri": "Q7187", "obj_label": "\u907a\u4f1d\u5b50", "sub_label": "\u30a4\u30f3\u30c8\u30ed\u30f3", "from_english": false}
+{"sub_uri": "Q207011", "obj_uri": "Q11190", "obj_label": "\u533b\u5b66", "sub_label": "\u795e\u7d4c\u79d1\u5b66", "from_english": false}
+{"sub_uri": "Q16990", "obj_uri": "Q1460", "obj_label": "\u30b7\u30c1\u30ea\u30a2\u5dde", "sub_label": "\u30a8\u30c8\u30ca\u706b\u5c71", "from_english": false}
+{"sub_uri": "Q110079", "obj_uri": "Q718", "obj_label": "\u30c1\u30a7\u30b9", "sub_label": "\u30c1\u30a7\u30b9\u30dc\u30fc\u30c9", "from_english": false}
+{"sub_uri": "Q35", "obj_uri": "Q46", "obj_label": "\u30e8\u30fc\u30ed\u30c3\u30d1", "sub_label": "\u30c7\u30f3\u30de\u30fc\u30af", "from_english": false}
+{"sub_uri": "Q37437", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u7d71\u8a9e\u8ad6", "from_english": false}
+{"sub_uri": "Q37302", "obj_uri": "Q37090", "obj_label": "\u4e09\u4f4d\u4e00\u4f53", "sub_label": "\u8056\u970a", "from_english": false}
+{"sub_uri": "Q185925", "obj_uri": "Q11024", "obj_label": "\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3", "sub_label": "\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u30c7\u30b6\u30a4\u30f3", "from_english": false}
+{"sub_uri": "Q150907", "obj_uri": "Q1199", "obj_label": "\u30d8\u30c3\u30bb\u30f3\u5dde", "sub_label": "\u30d5\u30e9\u30f3\u30b1\u30f3\u5730\u65b9", "from_english": false}
+{"sub_uri": "Q183", "obj_uri": "Q7184", "obj_label": "\u5317\u5927\u897f\u6d0b\u6761\u7d04\u6a5f\u69cb", "sub_label": "\u30c9\u30a4\u30c4", "from_english": false}
+{"sub_uri": "Q35", "obj_uri": "Q21195", "obj_label": "\u30b9\u30ab\u30f3\u30c7\u30a3\u30ca\u30f4\u30a3\u30a2", "sub_label": "\u30c7\u30f3\u30de\u30fc\u30af", "from_english": false}
+{"sub_uri": "Q134783", "obj_uri": "Q1069", "obj_label": "\u5730\u8cea\u5b66", "sub_label": "\u5c64\u5e8f\u5b66", "from_english": false}
+{"sub_uri": "Q8091", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u6587\u6cd5", "from_english": false}
+{"sub_uri": "Q106016", "obj_uri": "Q7239", "obj_label": "\u751f\u7269", "sub_label": "\u907a\u4f1d\u5b50\u578b", "from_english": false}
+{"sub_uri": "Q234262", "obj_uri": "Q428", "obj_label": "\u30af\u30eb\u30a2\u30fc\u30f3", "sub_label": "\u30b9\u30fc\u30e9", "from_english": false}
+{"sub_uri": "Q80083", "obj_uri": "Q336", "obj_label": "\u79d1\u5b66", "sub_label": "\u4eba\u6587\u79d1\u5b66", "from_english": false}
+{"sub_uri": "Q52107", "obj_uri": "Q1071", "obj_label": "\u5730\u7406\u5b66", "sub_label": "\u81ea\u7136\u5730\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q27509", "obj_uri": "Q46", "obj_label": "\u30e8\u30fc\u30ed\u30c3\u30d1", "sub_label": "\u4e2d\u592e\u30e8\u30fc\u30ed\u30c3\u30d1", "from_english": false}
+{"sub_uri": "Q145903", "obj_uri": "Q23498", "obj_label": "\u8003\u53e4\u5b66", "sub_label": "\u30a8\u30b8\u30d7\u30c8\u5b66", "from_english": false}
+{"sub_uri": "Q234953", "obj_uri": "Q9089", "obj_label": "\u30d2\u30f3\u30c9\u30a5\u30fc\u6559", "sub_label": "\u30b7\u30f4\u30a1\u6d3e", "from_english": false}
+{"sub_uri": "Q132265", "obj_uri": "Q748", "obj_label": "\u4ecf\u6559", "sub_label": "\u4e0a\u5ea7\u90e8\u4ecf\u6559", "from_english": false}
+{"sub_uri": "Q23373", "obj_uri": "Q9418", "obj_label": "\u5fc3\u7406\u5b66", "sub_label": "\u8a8d\u77e5\u5fc3\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q2117603", "obj_uri": "Q9268", "obj_label": "\u30e6\u30c0\u30e4\u6559", "sub_label": "\u30e9\u30d3\u6587\u5b66", "from_english": false}
+{"sub_uri": "Q841645", "obj_uri": "Q75", "obj_label": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8", "sub_label": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30c6\u30ec\u30d3", "from_english": false}
+{"sub_uri": "Q794", "obj_uri": "Q48", "obj_label": "\u30a2\u30b8\u30a2", "sub_label": "\u30a4\u30e9\u30f3", "from_english": false}
+{"sub_uri": "Q849004", "obj_uri": "Q79746", "obj_label": "\u308d\u3046\u305d\u304f", "sub_label": "\u30ad\u30e3\u30f3\u30c9\u30eb\u306e\u82af", "from_english": false}
+{"sub_uri": "Q1054444", "obj_uri": "Q318", "obj_label": "\u9280\u6cb3", "sub_label": "\u661f\u9593\u96f2", "from_english": false}
+{"sub_uri": "Q623", "obj_uri": "Q11427", "obj_label": "\u92fc", "sub_label": "\u70ad\u7d20", "from_english": false}
+{"sub_uri": "Q11708", "obj_uri": "Q48", "obj_label": "\u30a2\u30b8\u30a2", "sub_label": "\u6771\u5357\u30a2\u30b8\u30a2", "from_english": false}
+{"sub_uri": "Q156495", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u6570\u7406\u7269\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q11351", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u6709\u6a5f\u5316\u5b66", "from_english": false}
+{"sub_uri": "Q265424", "obj_uri": "Q9268", "obj_label": "\u30e6\u30c0\u30e4\u6559", "sub_label": "\u30df\u30c4\u30ef\u30fc", "from_english": false}
+{"sub_uri": "Q145780", "obj_uri": "Q9268", "obj_label": "\u30e6\u30c0\u30e4\u6559", "sub_label": "\u6b7b\u6d77\u6587\u66f8", "from_english": false}
+{"sub_uri": "Q212938", "obj_uri": "Q1218", "obj_label": "\u30a8\u30eb\u30b5\u30ec\u30e0", "sub_label": "\u30a8\u30eb\u30b5\u30ec\u30e0", "from_english": false}
+{"sub_uri": "Q660910", "obj_uri": "Q521", "obj_label": "\u751f\u7406\u5b66", "sub_label": "\u795e\u7d4c\u751f\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q80962", "obj_uri": "Q11451", "obj_label": "\u8fb2\u696d", "sub_label": "\u755c\u7523", "from_english": false}
+{"sub_uri": "Q151701", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u30c9\u30a4\u30c4\u6d77\u8ecd", "from_english": false}
+{"sub_uri": "Q4252992", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u30ec\u30fc\u30b6\u30fc\u79d1\u5b66", "from_english": false}
+{"sub_uri": "Q735602", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u91cf\u5b50\u5149\u5b66", "from_english": false}
+{"sub_uri": "Q2564009", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u30c9\u30a4\u30c4\u7a7a\u8ecd", "from_english": false}
+{"sub_uri": "Q41490", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30ec\u30d3\u8a18", "from_english": false}
+{"sub_uri": "Q34990", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30c8\u30fc\u30e9\u30fc", "from_english": false}
+{"sub_uri": "Q2725442", "obj_uri": "Q9465", "obj_label": "\u502b\u7406\u5b66", "sub_label": "\u898f\u7bc4\u502b\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q538733", "obj_uri": "Q9465", "obj_label": "\u502b\u7406\u5b66", "sub_label": "\u5fdc\u7528\u502b\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q47398", "obj_uri": "Q8134", "obj_label": "\u7d4c\u6e08\u5b66", "sub_label": "\u7d4c\u6e08\u53f2", "from_english": false}
+{"sub_uri": "Q83353", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u9271\u7269\u5b66", "from_english": false}
+{"sub_uri": "Q83353", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u9271\u7269\u5b66", "from_english": false}
+{"sub_uri": "Q14052", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30b5\u30f3\u30ac\u30a4\u5c71", "from_english": false}
+{"sub_uri": "Q765822", "obj_uri": "Q23498", "obj_label": "\u8003\u53e4\u5b66", "sub_label": "\u6c34\u4e2d\u8003\u53e4\u5b66", "from_english": false}
+{"sub_uri": "Q183257", "obj_uri": "Q9418", "obj_label": "\u5fc3\u7406\u5b66", "sub_label": "\u5fc3\u7406\u7642\u6cd5", "from_english": false}
+{"sub_uri": "Q190057", "obj_uri": "Q1057", "obj_label": "\u4ee3\u8b1d", "sub_label": "\u7570\u5316\u30d7\u30ed\u30bb\u30b9", "from_english": false}
+{"sub_uri": "Q184681", "obj_uri": "Q1057", "obj_label": "\u4ee3\u8b1d", "sub_label": "\u540c\u5316", "from_english": false}
+{"sub_uri": "Q661093", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u5f62\u614b\u97f3\u97fb\u8ad6", "from_english": false}
+{"sub_uri": "Q40998", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u97f3\u97fb\u8ad6", "from_english": false}
+{"sub_uri": "Q35395", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u97f3\u58f0\u5b66", "from_english": false}
+{"sub_uri": "Q327358", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u9020\u8a9e\u6cd5", "from_english": false}
+{"sub_uri": "Q7218", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u6bd2\u6027\u5b66", "from_english": false}
+{"sub_uri": "Q6452175", "obj_uri": "Q12280", "obj_label": "\u6a4b", "sub_label": "\u30a2\u30d0\u30c3\u30c8", "from_english": false}
+{"sub_uri": "Q422713", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30ea\u30ab\u30f3\u30ab\u30d6\u30fc\u30eb\u5c71", "from_english": false}
+{"sub_uri": "Q985993", "obj_uri": "Q100", "obj_label": "\u30dc\u30b9\u30c8\u30f3", "sub_label": "\u30b8\u30e3\u30e1\u30a4\u30ab\u30fb\u30d7\u30ec\u30a4\u30f3", "from_english": false}
+{"sub_uri": "Q614304", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u85ac\u5b66", "from_english": false}
+{"sub_uri": "Q4118072", "obj_uri": "Q12078", "obj_label": "\u60aa\u6027\u816b\u760d", "sub_label": "\u764c\u7d30\u80de", "from_english": false}
+{"sub_uri": "Q321150", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u7406\u8ad6\u5316\u5b66", "from_english": false}
+{"sub_uri": "Q879146", "obj_uri": "Q5043", "obj_label": "\u30ad\u30ea\u30b9\u30c8\u6559", "sub_label": "\u30ad\u30ea\u30b9\u30c8\u6559\u306e\u6559\u6d3e", "from_english": false}
+{"sub_uri": "Q84133", "obj_uri": "Q1072", "obj_label": "\u5fc3\u81d3", "sub_label": "\u5fc3\u7b4b\u5c64", "from_english": false}
+{"sub_uri": "Q175002", "obj_uri": "Q9418", "obj_label": "\u5fc3\u7406\u5b66", "sub_label": "\u767a\u9054\u5fc3\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q588964", "obj_uri": "Q506", "obj_label": "\u82b1", "sub_label": "\u96cc\u854a\u7fa4", "from_english": false}
+{"sub_uri": "Q595718", "obj_uri": "Q8355", "obj_label": "\u30f4\u30a1\u30a4\u30aa\u30ea\u30f3", "sub_label": "\u30d1\u30ac\u30cb\u30fc\u30cb\u56fd\u969b\u30b3\u30f3\u30af\u30fc\u30eb", "from_english": false}
+{"sub_uri": "Q150907", "obj_uri": "Q980", "obj_label": "\u30d0\u30a4\u30a8\u30eb\u30f3\u81ea\u7531\u5dde", "sub_label": "\u30d5\u30e9\u30f3\u30b1\u30f3\u5730\u65b9", "from_english": false}
+{"sub_uri": "Q499312", "obj_uri": "Q45805", "obj_label": "\u30b8\u30e5\u30e9\u7d00", "sub_label": "\u30b8\u30e5\u30e9\u7d00\u5f8c\u671f", "from_english": false}
+{"sub_uri": "Q1226878", "obj_uri": "Q1573932", "obj_label": "\u30bf\u30a6\u5cf6", "sub_label": "\u30e9\u30bf\u5c71", "from_english": false}
+{"sub_uri": "Q752187", "obj_uri": "Q44626", "obj_label": "\u767d\u4e9c\u7d00", "sub_label": "\u767d\u4e9c\u7d00\u524d\u671f", "from_english": false}
+{"sub_uri": "Q423026", "obj_uri": "Q8047", "obj_label": "\u9175\u7d20", "sub_label": "\u6d3b\u6027\u90e8\u4f4d", "from_english": false}
+{"sub_uri": "Q48362", "obj_uri": "Q748", "obj_label": "\u4ecf\u6559", "sub_label": "\u5927\u4e57\u4ecf\u6559", "from_english": false}
+{"sub_uri": "Q373069", "obj_uri": "Q5043", "obj_label": "\u30ad\u30ea\u30b9\u30c8\u6559", "sub_label": "\u798f\u97f3\u4f1d\u9053", "from_english": false}
+{"sub_uri": "Q49", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u5317\u30a2\u30e1\u30ea\u30ab", "from_english": false}
+{"sub_uri": "Q203415", "obj_uri": "Q6097", "obj_label": "\u8336", "sub_label": "\u7d05\u8336", "from_english": false}
+{"sub_uri": "Q1077518", "obj_uri": "Q4116214", "obj_label": "\u4f1a\u8a08", "sub_label": "\u539f\u4fa1\u8a08\u7b97", "from_english": false}
+{"sub_uri": "Q1553250", "obj_uri": "Q1860", "obj_label": "\u82f1\u8a9e", "sub_label": "\u30b9\u30b3\u30c3\u30c8\u30e9\u30f3\u30c9\u82f1\u8a9e", "from_english": false}
+{"sub_uri": "Q15218776", "obj_uri": "Q40821", "obj_label": "surgery", "sub_label": "orthopedic surgery", "from_english": true}
+{"sub_uri": "Q44424", "obj_uri": "Q11369", "obj_label": "\u5206\u5b50", "sub_label": "\u5316\u5b66\u7d50\u5408", "from_english": false}
+{"sub_uri": "Q213156", "obj_uri": "Q735", "obj_label": "\u82b8\u8853", "sub_label": "\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u30fb\u30a2\u30fc\u30c8", "from_english": false}
+{"sub_uri": "Q876445", "obj_uri": "Q1364", "obj_label": "\u679c\u5b9f", "sub_label": "\u679c\u76ae", "from_english": false}
+{"sub_uri": "Q179805", "obj_uri": "Q5891", "obj_label": "\u54f2\u5b66", "sub_label": "\u653f\u6cbb\u54f2\u5b66", "from_english": false}
+{"sub_uri": "Q1342914", "obj_uri": "Q23090", "obj_label": "\u30ea\u30f3\u30ab\u30f3\u30b7\u30e3\u30fc", "sub_label": "\u30ce\u30fc\u30b9\u30fb\u30a4\u30fc\u30b9\u30c8\u30fb\u30ea\u30f3\u30ab\u30f3\u30b7\u30e3\u30fc", "from_english": false}
+{"sub_uri": "Q209534", "obj_uri": "Q9734", "obj_label": "\u4ea4\u97ff\u66f2", "sub_label": "\u30b9\u30b1\u30eb\u30c4\u30a9", "from_english": false}
+{"sub_uri": "Q7953", "obj_uri": "Q748", "obj_label": "\u4ecf\u6559", "sub_label": "\u7985", "from_english": false}
+{"sub_uri": "Q161798", "obj_uri": "Q11442", "obj_label": "\u81ea\u8ee2\u8eca", "sub_label": "\u30db\u30a4\u30fc\u30eb", "from_english": false}
+{"sub_uri": "Q3178731", "obj_uri": "Q5113", "obj_label": "\u9ce5\u985e", "sub_label": "\u4e0a\u5c3e\u7b52 (\u203b\u89e3\u8aac\u306a\u304d\u8a18\u4e8b\u3078\u306e\u30ea\u30c0\u30a4\u30ec\u30af\u30c8\u3092\u56de\u907f)", "from_english": false}
+{"sub_uri": "Q3303665", "obj_uri": "Q5113", "obj_label": "bird", "sub_label": "plumage", "from_english": true}
+{"sub_uri": "Q749400", "obj_uri": "Q11022", "obj_label": "\u306d\u3058", "sub_label": "\u306d\u3058\u5c71", "from_english": false}
+{"sub_uri": "Q613930", "obj_uri": "Q37437", "obj_label": "\u7d71\u8a9e\u8ad6", "sub_label": "\u4e3b\u984c\u5f79\u5272", "from_english": false}
+{"sub_uri": "Q257418", "obj_uri": "Q41207", "obj_label": "coin", "sub_label": "obverse", "from_english": true}
+{"sub_uri": "Q1055970", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30bb\u30ed\u30fb\u30ea\u30b3", "from_english": false}
+{"sub_uri": "Q560583", "obj_uri": "Q1860", "obj_label": "\u82f1\u8a9e", "sub_label": "\u82f1\u8a9e\u306e\u6587\u6cd5", "from_english": false}
+{"sub_uri": "Q83481", "obj_uri": "Q4130", "obj_label": "\u8ecc\u9053", "sub_label": "\u8fd1\u70b9\u30fb\u9060\u70b9", "from_english": false}
+{"sub_uri": "Q75855", "obj_uri": "Q1073", "obj_label": "\u8133", "sub_label": "\u5927\u8133", "from_english": false}
+{"sub_uri": "Q28751", "obj_uri": "Q7430", "obj_label": "DNA", "sub_label": "\u30c7\u30aa\u30ad\u30b7\u30ea\u30dc\u30cc\u30af\u30ec\u30aa\u30c1\u30c9", "from_english": false}
+{"sub_uri": "Q1120908", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u533b\u7642\u7269\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q1120908", "obj_uri": "Q11190", "obj_label": "\u533b\u5b66", "sub_label": "\u533b\u7642\u7269\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q29171", "obj_uri": "Q37726", "obj_label": "\u9678\u8ecd", "sub_label": "\u6b69\u5175", "from_english": false}
+{"sub_uri": "Q514", "obj_uri": "Q11190", "obj_label": "\u533b\u5b66", "sub_label": "\u89e3\u5256\u5b66", "from_english": false}
+{"sub_uri": "Q11282", "obj_uri": "Q318", "obj_label": "\u9280\u6cb3", "sub_label": "HII\u9818\u57df", "from_english": false}
+{"sub_uri": "Q847618", "obj_uri": "Q748", "obj_label": "\u4ecf\u6559", "sub_label": "\u4e2d\u56fd\u306e\u4ecf\u6559", "from_english": false}
+{"sub_uri": "Q195436", "obj_uri": "Q430682", "obj_label": "\u30c6\u30fc\u30c8\u30fb\u30ae\u30e3\u30e9\u30ea\u30fc", "sub_label": "\u30ed\u30f3\u30c9\u30f3\u3001\u30a6\u30a7\u30b9\u30c8\u30df\u30f3\u30b9\u30bf\u30fc\u306b\u3042\u308b\u7f8e\u8853\u9928", "from_english": false}
+{"sub_uri": "Q81392", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u30d5\u30e9\u30af\u30bf\u30eb", "from_english": false}
+{"sub_uri": "Q1357677", "obj_uri": "Q41425", "obj_label": "\u30d0\u30ec\u30a8", "sub_label": "\u30ef\u30ac\u30ce\u30ef\u30fb\u30d0\u30ec\u30a8\u30fb\u30a2\u30ab\u30c7\u30df\u30fc", "from_english": false}
+{"sub_uri": "Q16295", "obj_uri": "Q13147", "obj_label": "\u982d\u84cb", "sub_label": "\u524d\u982d\u9aa8", "from_english": false}
+{"sub_uri": "Q326900", "obj_uri": "Q10943", "obj_label": "\u30c1\u30fc\u30ba", "sub_label": "\u30ec\u30f3\u30cd\u30c3\u30c8", "from_english": false}
+{"sub_uri": "Q504930", "obj_uri": "Q506", "obj_label": "\u82b1", "sub_label": "\u82b1\u88ab", "from_english": false}
+{"sub_uri": "Q1144725", "obj_uri": "Q2283", "obj_label": "\u30de\u30a4\u30af\u30ed\u30bd\u30d5\u30c8", "sub_label": "\u30de\u30a4\u30af\u30ed\u30bd\u30d5\u30c8\u30ea\u30b5\u30fc\u30c1", "from_english": false}
+{"sub_uri": "Q207011", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u795e\u7d4c\u79d1\u5b66", "from_english": false}
+{"sub_uri": "Q81197", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u539f\u5b50\u6838\u7269\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q1472399", "obj_uri": "Q75", "obj_label": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8", "sub_label": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30a2\u30af\u30bb\u30b9", "from_english": false}
+{"sub_uri": "Q193793", "obj_uri": "Q9121", "obj_label": "\u539f\u5b50", "sub_label": "\u96fb\u5b50\u6bbb", "from_english": false}
+{"sub_uri": "Q2090", "obj_uri": "Q980", "obj_label": "\u30d0\u30a4\u30a8\u30eb\u30f3\u81ea\u7531\u5dde", "sub_label": "\u30cb\u30e5\u30eb\u30f3\u30d9\u30eb\u30af", "from_english": false}
+{"sub_uri": "Q178999", "obj_uri": "Q9620", "obj_label": "\u795e\u7d4c", "sub_label": "\u795e\u7d4c\u7e4a\u7dad", "from_english": false}
+{"sub_uri": "Q82042", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u54c1\u8a5e", "from_english": false}
+{"sub_uri": "Q14082", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30a2\u30f3\u30c6\u30a3\u30b5\u30ca\u5c71", "from_english": false}
+{"sub_uri": "Q181476", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30b3\u30c8\u30d1\u30af\u30b7\u5c71", "from_english": false}
+{"sub_uri": "Q207421", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30c8\u30a5\u30f3\u30b0\u30e9\u30ef", "from_english": false}
+{"sub_uri": "Q178076", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30df\u30ab\u66f8", "from_english": false}
+{"sub_uri": "Q39061", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u5317\u534a\u7403", "from_english": false}
+{"sub_uri": "Q14620", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u5149\u5b66", "from_english": false}
+{"sub_uri": "Q4356367", "obj_uri": "Q34178", "obj_label": "theology", "sub_label": "philosophical theology", "from_english": true}
+{"sub_uri": "Q8183", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u97f3\u7d20", "from_english": false}
+{"sub_uri": "Q7100", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u751f\u7269\u7269\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q7205", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u53e4\u751f\u7269\u5b66", "from_english": false}
+{"sub_uri": "Q186115", "obj_uri": "Q90", "obj_label": "\u30d1\u30ea", "sub_label": "\u30e2\u30f3\u30de\u30eb\u30c8\u30eb", "from_english": false}
+{"sub_uri": "Q4579", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u7bb4\u8a00", "from_english": false}
+{"sub_uri": "Q188403", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u91cf\u5b50\u5316\u5b66", "from_english": false}
+{"sub_uri": "Q317557", "obj_uri": "Q102496", "obj_label": "\u5c0f\u6559\u533a", "sub_label": "\u6559\u533a\u6559\u4f1a", "from_english": false}
+{"sub_uri": "Q7185508", "obj_uri": "Q170416", "obj_label": "Philips", "sub_label": "Philips Consumer Lifestyle", "from_english": true}
+{"sub_uri": "Q171184", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u7cfb\u7d71\u5b66", "from_english": false}
+{"sub_uri": "Q41064", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u8a69\u7bc7", "from_english": false}
+{"sub_uri": "Q35054", "obj_uri": "Q49845", "obj_label": "\u90f5\u4fbf", "sub_label": "\u90f5\u4fbf\u5c40", "from_english": false}
+{"sub_uri": "Q27449", "obj_uri": "Q46", "obj_label": "\u30e8\u30fc\u30ed\u30c3\u30d1", "sub_label": "\u5357\u30e8\u30fc\u30ed\u30c3\u30d1", "from_english": false}
+{"sub_uri": "Q11475", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u771f\u7a7a", "from_english": false}
+{"sub_uri": "Q39645", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u610f\u5473\u8ad6", "from_english": false}
+{"sub_uri": "Q161272", "obj_uri": "Q9418", "obj_label": "\u5fc3\u7406\u5b66", "sub_label": "\u793e\u4f1a\u5fc3\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q160453", "obj_uri": "Q9158", "obj_label": "\u96fb\u5b50\u30e1\u30fc\u30eb", "sub_label": "Simple Mail Transfer Protocol", "from_english": false}
+{"sub_uri": "Q1593696", "obj_uri": "Q12791", "obj_label": "sword", "sub_label": "hilt", "from_english": true}
+{"sub_uri": "Q1855669", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u4e0d\u5909\u5f0f\u8ad6", "from_english": false}
+{"sub_uri": "Q18599", "obj_uri": "Q492", "obj_label": "\u8a18\u61b6", "sub_label": "\u77ed\u671f\u8a18\u61b6", "from_english": false}
+{"sub_uri": "Q4620674", "obj_uri": "Q7239", "obj_label": "\u751f\u7269", "sub_label": "\u6027\u5668", "from_english": false}
+{"sub_uri": "Q387422", "obj_uri": "Q43290", "obj_label": "\u30bf\u30eb\u30e0\u30fc\u30c9", "sub_label": "\u30a8\u30eb\u30b5\u30ec\u30e0\u30fb\u30bf\u30eb\u30e0\u30fc\u30c9", "from_english": false}
+{"sub_uri": "Q7218", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u6bd2\u6027\u5b66", "from_english": false}
+{"sub_uri": "Q621550", "obj_uri": "Q42989", "obj_label": "\u4f4d\u76f8\u5e7e\u4f55\u5b66", "sub_label": "\u4f4d\u76f8\u7a7a\u9593\u8ad6", "from_english": false}
+{"sub_uri": "Q517612", "obj_uri": "Q430682", "obj_label": "\u30c6\u30fc\u30c8\u30fb\u30ae\u30e3\u30e9\u30ea\u30fc", "sub_label": "\u30c6\u30fc\u30c8\u30fb\u30ea\u30d0\u30d7\u30fc\u30eb", "from_english": false}
+{"sub_uri": "Q2577210", "obj_uri": "Q430682", "obj_label": "\u30c6\u30fc\u30c8\u30fb\u30ae\u30e3\u30e9\u30ea\u30fc", "sub_label": "\u30c6\u30fc\u30c8\u30fb\u30bb\u30f3\u30c8\u30fb\u30a2\u30a4\u30f4\u30b9", "from_english": false}
+{"sub_uri": "Q83944", "obj_uri": "Q23404", "obj_label": "\u4eba\u985e\u5b66", "sub_label": "\u4eba\u985e\u306e\u9032\u5316", "from_english": false}
+{"sub_uri": "Q36192", "obj_uri": "Q309", "obj_label": "\u6b74\u53f2", "sub_label": "\u4f1d\u627f", "from_english": false}
+{"sub_uri": "Q131683", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u767a\u751f\u5b66", "from_english": false}
+{"sub_uri": "Q27293", "obj_uri": "Q48", "obj_label": "\u30a2\u30b8\u30a2", "sub_label": "\u897f\u30a2\u30b8\u30a2", "from_english": false}
+{"sub_uri": "Q182228", "obj_uri": "Q1073", "obj_label": "\u8133", "sub_label": "\u8133\u5e79", "from_english": false}
+{"sub_uri": "Q6150784", "obj_uri": "Q185968", "obj_label": "\u30ab\u30eb\u30e1\u30f3", "sub_label": "\u95d8\u725b\u58eb\u306e\u6b4c", "from_english": false}
+{"sub_uri": "Q109391", "obj_uri": "Q8072", "obj_label": "\u706b\u5c71", "sub_label": "\u706b\u53e3", "from_english": false}
+{"sub_uri": "Q218860", "obj_uri": "Q111", "obj_label": "\u706b\u661f", "sub_label": "\u706b\u661f\u306e\u5927\u6c17", "from_english": false}
+{"sub_uri": "Q166530", "obj_uri": "Q40218", "obj_label": "\u5b87\u5b99\u6a5f", "sub_label": "\u8131\u51fa\u901f\u5ea6", "from_english": false}
+{"sub_uri": "Q212803", "obj_uri": "Q42989", "obj_label": "\u4f4d\u76f8\u5e7e\u4f55\u5b66", "sub_label": "\u4ee3\u6570\u7684\u4f4d\u76f8\u5e7e\u4f55\u5b66", "from_english": false}
+{"sub_uri": "Q663546", "obj_uri": "Q584", "obj_label": "\u30e9\u30a4\u30f3\u5ddd", "sub_label": "\u30aa\u30fc\u30d0\u30fc\u30e9\u30a4\u30f3\u5730\u65b9", "from_english": false}
+{"sub_uri": "Q484761", "obj_uri": "Q5891", "obj_label": "\u54f2\u5b66", "sub_label": "\u8a00\u8a9e\u54f2\u5b66", "from_english": false}
+{"sub_uri": "Q13632", "obj_uri": "Q318", "obj_label": "\u9280\u6cb3", "sub_label": "\u60d1\u661f\u72b6\u661f\u96f2", "from_english": false}
+{"sub_uri": "Q14663", "obj_uri": "Q11368", "obj_label": "UNIX", "sub_label": "Unix\u30b7\u30a7\u30eb", "from_english": false}
+{"sub_uri": "Q166936", "obj_uri": "Q9158", "obj_label": "\u96fb\u5b50\u30e1\u30fc\u30eb", "sub_label": "Internet Message Access Protocol", "from_english": false}
+{"sub_uri": "Q1781211", "obj_uri": "Q8074", "obj_label": "\u96f2", "sub_label": "\u96f2\u5e95", "from_english": false}
+{"sub_uri": "Q48324", "obj_uri": "Q9465", "obj_label": "\u502b\u7406\u5b66", "sub_label": "\u9053\u5fb3", "from_english": false}
+{"sub_uri": "Q48091", "obj_uri": "Q21", "obj_label": "\u30a4\u30f3\u30b0\u30e9\u30f3\u30c9", "sub_label": "\u30ea\u30fc\u30b8\u30e7\u30f3", "from_english": false}
+{"sub_uri": "Q816829", "obj_uri": "Q309", "obj_label": "\u6b74\u53f2", "sub_label": "\u6642\u4ee3", "from_english": false}
+{"sub_uri": "Q1051557", "obj_uri": "Q11633", "obj_label": "\u5199\u771f\u8853", "sub_label": "135\u30d5\u30a3\u30eb\u30e0", "from_english": false}
+{"sub_uri": "Q338924", "obj_uri": "Q1073", "obj_label": "\u8133", "sub_label": "\u6241\u6843\u4f53", "from_english": false}
+{"sub_uri": "Q650521", "obj_uri": "Q584", "obj_label": "\u30e9\u30a4\u30f3\u5ddd", "sub_label": "\u9ad8\u30e9\u30a4\u30f3", "from_english": false}
+{"sub_uri": "Q1568355", "obj_uri": "Q152", "obj_label": "\u9b5a\u985e", "sub_label": "\u80cc\u3073\u308c", "from_english": false}
+{"sub_uri": "Q81851", "obj_uri": "Q57821", "obj_label": "\u7bc9\u57ce", "sub_label": "\u5821\u5841", "from_english": false}
+{"sub_uri": "Q80290", "obj_uri": "Q956", "obj_label": "\u5317\u4eac\u5e02", "sub_label": "\u7d2b\u7981\u57ce", "from_english": false}
+{"sub_uri": "Q88480", "obj_uri": "Q57821", "obj_label": "\u7bc9\u57ce", "sub_label": "\u5800", "from_english": false}
+{"sub_uri": "Q573970", "obj_uri": "Q1248784", "obj_label": "\u7a7a\u6e2f", "sub_label": "\u30a8\u30d7\u30ed\u30f3", "from_english": false}
+{"sub_uri": "Q910386", "obj_uri": "Q1248784", "obj_label": "\u7a7a\u6e2f", "sub_label": "\u8a98\u5c0e\u8def", "from_english": false}
+{"sub_uri": "Q11923", "obj_uri": "Q150", "obj_label": "\u30d5\u30e9\u30f3\u30b9\u8a9e", "sub_label": "\u30d5\u30e9\u30f3\u30b9\u8a9e\u306e\u6587\u6cd5", "from_english": false}
+{"sub_uri": "Q509284", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Workspace", "from_english": false}
+{"sub_uri": "Q514", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u89e3\u5256\u5b66", "from_english": false}
+{"sub_uri": "Q7100", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u751f\u7269\u7269\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q472451", "obj_uri": "Q81230", "obj_label": "\u30b7\u30fc\u30e1\u30f3\u30b9", "sub_label": "\u30b7\u30fc\u30e1\u30f3\u30b9\u30d8\u30eb\u30b7\u30cb\u30a2\u30fc\u30ba", "from_english": false}
+{"sub_uri": "Q63817", "obj_uri": "Q1286", "obj_label": "\u30a2\u30eb\u30d7\u30b9\u5c71\u8108", "sub_label": "\u6771\u30a2\u30eb\u30d7\u30b9\u5c71\u8108", "from_english": false}
+{"sub_uri": "Q856846", "obj_uri": "Q15777", "obj_label": "C", "sub_label": "C preprocessor", "from_english": true}
+{"sub_uri": "Q180987", "obj_uri": "Q748", "obj_label": "\u4ecf\u6559", "sub_label": "\u5352\u5854\u5a46", "from_english": false}
+{"sub_uri": "Q1932118", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_label": "Valby", "from_english": true}
+{"sub_uri": "Q7214750", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u521d\u7b49\u7684\u306a\u7b97\u8853", "from_english": false}
+{"sub_uri": "Q912807", "obj_uri": "Q12140", "obj_label": "\u533b\u85ac\u54c1", "sub_label": "\u6709\u52b9\u6210\u5206", "from_english": false}
+{"sub_uri": "Q9585", "obj_uri": "Q432", "obj_label": "\u30a4\u30b9\u30e9\u30e0\u6559", "sub_label": "\u30b7\u30fc\u30a2\u6d3e", "from_english": false}
+{"sub_uri": "Q50641", "obj_uri": "Q735", "obj_label": "\u82b8\u8853", "sub_label": "\u7f8e\u8853\u306e\u6b74\u53f2", "from_english": false}
+{"sub_uri": "Q2001305", "obj_uri": "Q289", "obj_label": "\u30c6\u30ec\u30d3", "sub_label": "\u30c1\u30e3\u30f3\u30cd\u30eb", "from_english": false}
+{"sub_uri": "Q473435", "obj_uri": "Q125384", "obj_label": "\u30eb\u30bd\u30f3", "sub_label": "\u30d6\u30eb\u30b5\u30f3\u5c71", "from_english": false}
+{"sub_uri": "Q721086", "obj_uri": "Q131559", "obj_label": "\u76fe", "sub_label": "\u30b7\u30eb\u30c8\u30d6\u30c3\u30b1\u30eb", "from_english": false}
+{"sub_uri": "Q673203", "obj_uri": "Q58", "obj_label": "\u9670\u830e", "sub_label": "\u9670\u830e\u5305\u76ae", "from_english": false}
+{"sub_uri": "Q6578319", "obj_uri": "Q168002", "obj_label": "ankle", "sub_label": "malleolus", "from_english": true}
+{"sub_uri": "Q422666", "obj_uri": "Q4421", "obj_label": "\u68ee\u6797", "sub_label": "\u4e0b\u5c64\u690d\u751f", "from_english": false}
+{"sub_uri": "Q3146518", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM\u30ea\u30b5\u30fc\u30c1\u7814\u7a76\u6240", "from_english": false}
+{"sub_uri": "Q51670", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u96c5\u6b4c", "from_english": false}
+{"sub_uri": "Q349084", "obj_uri": "Q21", "obj_label": "\u30a4\u30f3\u30b0\u30e9\u30f3\u30c9", "sub_label": "\u30c7\u30a3\u30b9\u30c8\u30ea\u30af\u30c8", "from_english": false}
+{"sub_uri": "Q48356", "obj_uri": "Q32815", "obj_label": "\u30e2\u30b9\u30af", "sub_label": "\u30df\u30ca\u30ec\u30c3\u30c8", "from_english": false}
+{"sub_uri": "Q1412977", "obj_uri": "Q1907525", "obj_label": "\u30d4\u30b9\u30c8\u30eb", "sub_label": "\u6483\u91dd", "from_english": false}
+{"sub_uri": "Q7600677", "obj_uri": "Q735", "obj_label": "art", "sub_label": "computer graphics", "from_english": true}
+{"sub_uri": "Q500096", "obj_uri": "Q9418", "obj_label": "\u5fc3\u7406\u5b66", "sub_label": "\u7cbe\u795e\u7269\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q185080", "obj_uri": "Q1073", "obj_label": "\u8133", "sub_label": "\u4e2d\u8133", "from_english": false}
+{"sub_uri": "Q227936", "obj_uri": "Q2455704", "obj_label": "\u4e9c\u79d1", "sub_label": "\u65cf", "from_english": false}
+{"sub_uri": "Q181059", "obj_uri": "Q8785", "obj_label": "\u30a2\u30eb\u30e1\u30cb\u30a2\u8a9e", "sub_label": "\u6771\u30a2\u30eb\u30e1\u30cb\u30a2\u8a9e", "from_english": false}
+{"sub_uri": "Q80115", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30c0\u30cb\u30a8\u30eb\u66f8", "from_english": false}
+{"sub_uri": "Q1578310", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u7d14\u53e4\u751f\u7269\u5b66", "from_english": false}
+{"sub_uri": "Q149584", "obj_uri": "Q21201", "obj_label": "\u793e\u4f1a\u5b66", "sub_label": "\u7d44\u7e54\u8ad6", "from_english": false}
+{"sub_uri": "Q180937", "obj_uri": "Q8748", "obj_label": "\u30a2\u30eb\u30d0\u30cb\u30a2\u8a9e", "sub_label": "\u30c8\u30b9\u30af\u65b9\u8a00", "from_english": false}
+{"sub_uri": "Q2000845", "obj_uri": "Q9531", "obj_label": "\u82f1\u56fd\u653e\u9001\u5354\u4f1a", "sub_label": "BBC\u30a6\u30a7\u30fc\u30eb\u30ba", "from_english": false}
+{"sub_uri": "Q18366", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u5b9f\u9a13\u7269\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q27433", "obj_uri": "Q15", "obj_label": "\u30a2\u30d5\u30ea\u30ab", "sub_label": "\u4e2d\u90e8\u30a2\u30d5\u30ea\u30ab", "from_english": false}
+{"sub_uri": "Q83090", "obj_uri": "Q9089", "obj_label": "\u30d2\u30f3\u30c9\u30a5\u30fc\u6559", "sub_label": "\u30a2\u30f4\u30a1\u30bf\u30fc\u30e9", "from_english": false}
+{"sub_uri": "Q11165", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u7121\u6a5f\u5316\u5b66", "from_english": false}
+{"sub_uri": "Q581780", "obj_uri": "Q35323", "obj_label": "\u30a2\u30e9\u30d6\u4eba", "sub_label": "\u30d0\u30cc\u30fc\u30fb\u30cf\u30ba\u30e9\u30b8", "from_english": false}
+{"sub_uri": "Q502029", "obj_uri": "Q748", "obj_label": "\u4ecf\u6559", "sub_label": "\u83e9\u63d0", "from_english": false}
+{"sub_uri": "Q40056", "obj_uri": "Q7397", "obj_label": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2", "sub_label": "\u30d7\u30ed\u30b0\u30e9\u30e0", "from_english": false}
+{"sub_uri": "Q839954", "obj_uri": "Q23498", "obj_label": "\u8003\u53e4\u5b66", "sub_label": "\u907a\u8de1", "from_english": false}
+{"sub_uri": "Q955020", "obj_uri": "Q9377", "obj_label": "\u814e\u81d3", "sub_label": "\u814e\u76c2", "from_english": false}
+{"sub_uri": "Q408", "obj_uri": "Q3960", "obj_label": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u5927\u9678", "sub_label": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2", "from_english": false}
+{"sub_uri": "Q314066", "obj_uri": "Q1794", "obj_label": "\u30d5\u30e9\u30f3\u30af\u30d5\u30eb\u30c8\u30fb\u30a2\u30e0\u30fb\u30de\u30a4\u30f3", "sub_label": "\u30d5\u30e9\u30f3\u30af\u30d5\u30eb\u30c8\uff1d\u30d9\u30eb\u30b2\u30f3\uff1d\u30a8\u30f3\u30af\u30cf\u30a4\u30e0", "from_english": false}
+{"sub_uri": "Q1532617", "obj_uri": "Q170477", "obj_label": "\u7159\u7a81", "sub_label": "\u7d66\u6392\u6c17\u65b9\u5f0f", "from_english": false}
+{"sub_uri": "Q1478849", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30a4\u30f3\u30ab\u30ef\u30b7\u5c71", "from_english": false}
+{"sub_uri": "Q12758989", "obj_uri": "Q736917", "obj_label": "\u7d2f\u5c64", "sub_label": "\u5730\u5c64", "from_english": false}
+{"sub_uri": "Q184274", "obj_uri": "Q333", "obj_label": "\u5929\u6587\u5b66", "sub_label": "\u5929\u4f53\u529b\u5b66", "from_english": false}
+{"sub_uri": "Q51662", "obj_uri": "Q12546", "obj_label": "\u5341\u5b57\u8ecd", "sub_label": "\u5317\u65b9\u5341\u5b57\u8ecd", "from_english": false}
+{"sub_uri": "Q1127188", "obj_uri": "Q8134", "obj_label": "\u7d4c\u6e08\u5b66", "sub_label": "\u958b\u767a\u7d4c\u6e08\u5b66", "from_english": false}
+{"sub_uri": "Q861689", "obj_uri": "Q8134", "obj_label": "\u7d4c\u6e08\u5b66", "sub_label": "\u6559\u80b2\u7d4c\u6e08\u5b66", "from_english": false}
+{"sub_uri": "Q3066648", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Colombian Massif", "from_english": true}
+{"sub_uri": "Q2056335", "obj_uri": "Q34178", "obj_label": "\u795e\u5b66", "sub_label": "\u7267\u4f1a\u5b66", "from_english": false}
+{"sub_uri": "Q7303998", "obj_uri": "Q9089", "obj_label": "\u30d2\u30f3\u30c9\u30a5\u30fc\u6559", "sub_label": "\u30f4\u30a1\u30eb\u30ca", "from_english": false}
+{"sub_uri": "Q1055314", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u9670\u8a08\u7b97", "from_english": false}
+{"sub_uri": "Q58184", "obj_uri": "Q9377", "obj_label": "\u814e\u81d3", "sub_label": "\u30cd\u30d5\u30ed\u30f3", "from_english": false}
+{"sub_uri": "Q332231", "obj_uri": "Q22857", "obj_label": "\u30af\u30e9\u30a4\u30df\u30f3\u30b0", "sub_label": "\u61f8\u5782\u4e0b\u964d", "from_english": false}
+{"sub_uri": "Q323461", "obj_uri": "Q131746", "obj_label": "\u9999\u6c34", "sub_label": "\u9e9d\u9999", "from_english": false}
+{"sub_uri": "Q510060", "obj_uri": "Q748", "obj_label": "\u4ecf\u6559", "sub_label": "\u672b\u6cd5", "from_english": false}
+{"sub_uri": "Q1308570", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u78ba\u7387\u89e3\u6790", "from_english": false}
+{"sub_uri": "Q2166096", "obj_uri": "Q5891", "obj_label": "\u54f2\u5b66", "sub_label": "\u7406\u8ad6\u54f2\u5b66", "from_english": false}
+{"sub_uri": "Q1321978", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u8a00\u8a9e\u5b66\u7684\u898f\u7bc4", "from_english": false}
+{"sub_uri": "Q42250", "obj_uri": "Q7150", "obj_label": "\u751f\u614b\u5b66", "sub_label": "\u6c34\u6587\u5b66", "from_english": false}
+{"sub_uri": "Q1073", "obj_uri": "Q23640", "obj_label": "\u982d", "sub_label": "\u8133", "from_english": false}
+{"sub_uri": "Q6500960", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u5730\u78c1\u6c17", "from_english": false}
+{"sub_uri": "Q827450", "obj_uri": "Q9368", "obj_label": "\u809d\u81d3", "sub_label": "\u809d\u7d30\u80de", "from_english": false}
+{"sub_uri": "Q188193", "obj_uri": "Q7239", "obj_label": "\u751f\u7269", "sub_label": "\u81d3\u5668\u7cfb", "from_english": false}
+{"sub_uri": "Q191657", "obj_uri": "Q192249", "obj_label": "\u978d", "sub_label": "\u9419", "from_english": false}
+{"sub_uri": "Q180969", "obj_uri": "Q8087", "obj_label": "\u5e7e\u4f55\u5b66", "sub_label": "\u4ee3\u6570\u5e7e\u4f55\u5b66", "from_english": false}
+{"sub_uri": "Q233858", "obj_uri": "Q8087", "obj_label": "\u5e7e\u4f55\u5b66", "sub_label": "\u975e\u30e6\u30fc\u30af\u30ea\u30c3\u30c9\u5e7e\u4f55\u5b66", "from_english": false}
+{"sub_uri": "Q1162282", "obj_uri": "Q49845", "obj_label": "\u90f5\u4fbf", "sub_label": "\u79c1\u66f8\u7bb1", "from_english": false}
+{"sub_uri": "Q7832815", "obj_uri": "Q628179", "obj_label": "trail", "sub_label": "trailhead", "from_english": true}
+{"sub_uri": "Q190581", "obj_uri": "Q4116214", "obj_label": "\u4f1a\u8a08", "sub_label": "\u9001\u308a\u72b6", "from_english": false}
+{"sub_uri": "Q83001", "obj_uri": "Q40218", "obj_label": "\u5b87\u5b99\u6a5f", "sub_label": "\u59ff\u52e2\u5236\u5fa1", "from_english": false}
+{"sub_uri": "Q521", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u751f\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q1421211", "obj_uri": "Q9418", "obj_label": "\u5fc3\u7406\u5b66", "sub_label": "\u30e1\u30c7\u30a3\u30a2\u5fc3\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q329505", "obj_uri": "Q35", "obj_label": "\u30c7\u30f3\u30de\u30fc\u30af", "sub_label": "\u5357\u30e6\u30c8\u30e9\u30f3\u30c9", "from_english": false}
+{"sub_uri": "Q2409399", "obj_uri": "Q9377", "obj_label": "\u814e\u81d3", "sub_label": "\u814e\u9ac4\u8cea", "from_english": false}
+{"sub_uri": "Q29182", "obj_uri": "Q177826", "obj_label": "\u8056\u8077\u8005", "sub_label": "\u4e3b\u6559", "from_english": false}
+{"sub_uri": "Q39739", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30a2\u30b3\u30f3\u30ab\u30b0\u30a2", "from_english": false}
+{"sub_uri": "Q756244", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30c8\u30a5\u30d7\u30f3\u30ac\u30fc\u30c8\u5c71", "from_english": false}
+{"sub_uri": "Q515728", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Harburg-Wilhelmsburg", "from_english": true}
+{"sub_uri": "Q1137982", "obj_uri": "Q34374", "obj_label": "\u30af\u30ec\u30bf\u5cf6", "sub_label": "\u30db\u30ef\u30a4\u30c8\u5c71\u5730 (\u30ae\u30ea\u30b7\u30e3)", "from_english": false}
+{"sub_uri": "Q1814867", "obj_uri": "Q432", "obj_label": "\u30a4\u30b9\u30e9\u30e0\u6559", "sub_label": "\u30a4\u30de\u30fc\u30e0\u6d3e", "from_english": false}
+{"sub_uri": "Q133080", "obj_uri": "Q11024", "obj_label": "\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3", "sub_label": "\u30d1\u30d6\u30ea\u30c3\u30af\u30fb\u30ea\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba", "from_english": false}
+{"sub_uri": "Q631379", "obj_uri": "Q318", "obj_label": "\u9280\u6cb3", "sub_label": "\u30cf\u30ed", "from_english": false}
+{"sub_uri": "Q609753", "obj_uri": "Q7362", "obj_label": "\u8033", "sub_label": "\u5916\u8033", "from_english": false}
+{"sub_uri": "Q52106", "obj_uri": "Q1071", "obj_label": "\u5730\u7406\u5b66", "sub_label": "\u751f\u7269\u5730\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q321249", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u5fdc\u7528\u8a00\u8a9e\u5b66", "from_english": false}
+{"sub_uri": "Q212721", "obj_uri": "Q13147", "obj_label": "\u982d\u84cb", "sub_label": "\u6d99\u9aa8", "from_english": false}
+{"sub_uri": "Q206732", "obj_uri": "Q152", "obj_label": "\u9b5a\u985e", "sub_label": "\u9c3e", "from_english": false}
+{"sub_uri": "Q60195", "obj_uri": "Q5891", "obj_label": "\u54f2\u5b66", "sub_label": "\u8a18\u53f7\u5b66", "from_english": false}
+{"sub_uri": "Q131072", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30b3\u30d8\u30ec\u30c8\u306e\u8a00\u8449", "from_english": false}
+{"sub_uri": "Q466797", "obj_uri": "Q9350", "obj_label": "\u30e8\u30fc\u30ac", "sub_label": "\u30a2\u30fc\u30b5\u30ca", "from_english": false}
+{"sub_uri": "Q27468", "obj_uri": "Q46", "obj_label": "\u30e8\u30fc\u30ed\u30c3\u30d1", "sub_label": "\u6771\u30e8\u30fc\u30ed\u30c3\u30d1", "from_english": false}
+{"sub_uri": "Q175945", "obj_uri": "Q23090", "obj_label": "\u30ea\u30f3\u30ab\u30f3\u30b7\u30e3\u30fc", "sub_label": "\u30ce\u30fc\u30b9\u30fb\u30ea\u30f3\u30ab\u30f3\u30b7\u30e3\u30fc", "from_english": false}
+{"sub_uri": "Q1450662", "obj_uri": "Q142", "obj_label": "\u30d5\u30e9\u30f3\u30b9", "sub_label": "\u653f\u5e9c", "from_english": false}
+{"sub_uri": "Q4224666", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u5217\u738b\u8a18", "from_english": false}
+{"sub_uri": "Q1561072", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Uspallata Pass", "from_english": true}
+{"sub_uri": "Q19014", "obj_uri": "Q3363340", "obj_label": "\u697d\u5712", "sub_label": "\u30a8\u30c7\u30f3\u306e\u5712", "from_english": false}
+{"sub_uri": "Q4834855", "obj_uri": "Q9531", "obj_label": "BBC", "sub_label": "BBC Music", "from_english": true}
+{"sub_uri": "Q7645518", "obj_uri": "Q192249", "obj_label": "\u978d", "sub_label": "\u4e0a\u8179\u5e2f", "from_english": false}
+{"sub_uri": "Q1055804", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30bb\u30ed\u30fb\u30ab\u30c6\u30c9\u30e9\u30eb", "from_english": false}
+{"sub_uri": "Q1941", "obj_uri": "Q313", "obj_label": "\u91d1\u661f", "sub_label": "\u91d1\u661f\u306e\u5927\u6c17", "from_english": false}
+{"sub_uri": "Q272447", "obj_uri": "Q318", "obj_label": "\u9280\u6cb3", "sub_label": "\u5206\u5b50\u96f2", "from_english": false}
+{"sub_uri": "Q126842", "obj_uri": "Q5891", "obj_label": "\u54f2\u5b66", "sub_label": "\u6cd5\u54f2\u5b66", "from_english": false}
+{"sub_uri": "Q842402", "obj_uri": "Q9089", "obj_label": "\u30d2\u30f3\u30c9\u30a5\u30fc\u6559", "sub_label": "\u30d2\u30f3\u30c9\u30a5\u30fc\u6559\u5bfa\u9662", "from_english": false}
+{"sub_uri": "Q1898464", "obj_uri": "Q4508", "obj_label": "\u6d77\u8ecd", "sub_label": "\u6d77\u8ecd\u822a\u7a7a\u968a", "from_english": false}
+{"sub_uri": "Q474428", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30a2\u30f3\u30d1\u30c8\u5c71", "from_english": false}
+{"sub_uri": "Q2729991", "obj_uri": "Q148440", "obj_label": "\u30d5\u30ed\u30fc\u30ec\u30b9\u5cf6", "sub_label": "\u30ec\u30a6\u30a9\u30c8\u30d3\u5c71", "from_english": false}
+{"sub_uri": "Q3968", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u4ee3\u6570\u5b66", "from_english": false}
+{"sub_uri": "Q27172", "obj_uri": "Q23404", "obj_label": "\u4eba\u985e\u5b66", "sub_label": "\u81ea\u7136\u4eba\u985e\u5b66", "from_english": false}
+{"sub_uri": "Q598893", "obj_uri": "Q3757", "obj_label": "\u30b8\u30e3\u30ef\u5cf6", "sub_label": "\u30e1\u30eb\u30d0\u30d6\u5c71", "from_english": false}
+{"sub_uri": "Q843533", "obj_uri": "Q9103", "obj_label": "\u4e73\u623f", "sub_label": "\u4e73\u8f2a", "from_english": false}
+{"sub_uri": "Q840773", "obj_uri": "Q12796", "obj_label": "\u9283", "sub_label": "\u30de\u30ba\u30eb\u30d6\u30ec\u30fc\u30ad", "from_english": false}
+{"sub_uri": "Q15065", "obj_uri": "Q9237", "obj_label": "\u30de\u30ec\u30fc\u8a9e", "sub_label": "\u30de\u30ec\u30fc\u8a9e", "from_english": false}
+{"sub_uri": "Q6452410", "obj_uri": "Q5043", "obj_label": "\u30ad\u30ea\u30b9\u30c8\u6559", "sub_label": "\u30ad\u30ea\u30b9\u30c8\u6559\u97f3\u697d", "from_english": false}
+{"sub_uri": "Q1650633", "obj_uri": "Q41567", "obj_label": "Hamlet", "sub_label": "Yorick", "from_english": true}
+{"sub_uri": "Q49447", "obj_uri": "Q5891", "obj_label": "\u54f2\u5b66", "sub_label": "\u4e16\u754c\u89b3", "from_english": false}
+{"sub_uri": "Q1197272", "obj_uri": "Q12796", "obj_label": "\u9283", "sub_label": "\u30d5\u30e9\u30c3\u30b7\u30e5\u30b5\u30d7\u30ec\u30c3\u30b5\u30fc", "from_english": false}
+{"sub_uri": "Q48181", "obj_uri": "Q9531", "obj_label": "BBC", "sub_label": "Director-General of the BBC", "from_english": true}
+{"sub_uri": "Q1509562", "obj_uri": "Q9043", "obj_label": "\u30ce\u30eb\u30a6\u30a7\u30fc\u8a9e", "sub_label": "\u30ce\u30eb\u30a6\u30a7\u30fc\u65b9\u8a00", "from_english": false}
+{"sub_uri": "Q130695", "obj_uri": "Q9089", "obj_label": "\u30d2\u30f3\u30c9\u30a5\u30fc\u6559", "sub_label": "\u30f4\u30a1\u30eb\u30ca", "from_english": false}
+{"sub_uri": "Q188449", "obj_uri": "Q40821", "obj_label": "\u5916\u79d1\u5b66", "sub_label": "\u8133\u795e\u7d4c\u5916\u79d1\u5b66", "from_english": false}
+{"sub_uri": "Q4027615", "obj_uri": "Q336", "obj_label": "\u79d1\u5b66", "sub_label": "\u30a4\u30f3\u30d5\u30a9\u30de\u30c6\u30a3\u30af\u30b9", "from_english": false}
+{"sub_uri": "Q11423", "obj_uri": "Q11402", "obj_label": "\u529b", "sub_label": "\u8cea\u91cf", "from_english": false}
+{"sub_uri": "Q1541569", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Paso Internacional Los Libertadores", "from_english": true}
+{"sub_uri": "Q1955326", "obj_uri": "Q35986", "obj_label": "\u7f8e\u5b66", "sub_label": "\u97f3\u697d\u7f8e\u5b66", "from_english": false}
+{"sub_uri": "Q3344", "obj_uri": "Q456", "obj_label": "Lyon", "sub_label": "2nd arrondissement of Lyon", "from_english": true}
+{"sub_uri": "Q538008", "obj_uri": "Q25287", "obj_label": "Gothenburg", "sub_label": "Angered", "from_english": true}
+{"sub_uri": "Q177409", "obj_uri": "Q8087", "obj_label": "\u5e7e\u4f55\u5b66", "sub_label": "\u5c04\u5f71\u5e7e\u4f55\u5b66", "from_english": false}
+{"sub_uri": "Q681822", "obj_uri": "Q9531", "obj_label": "\u82f1\u56fd\u653e\u9001\u5354\u4f1a", "sub_label": "BBC\u30b9\u30b3\u30c3\u30c8\u30e9\u30f3\u30c9", "from_english": false}
+{"sub_uri": "Q190312", "obj_uri": "Q130760", "obj_label": "\u30bf\u30fc\u30d3\u30f3", "sub_label": "\u56fa\u5b9a\u5b50", "from_english": false}
+{"sub_uri": "Q6667497", "obj_uri": "Q8078", "obj_label": "\u8ad6\u7406\u5b66", "sub_label": "\u8ad6\u7406\u5f62\u5f0f", "from_english": false}
+{"sub_uri": "Q5840", "obj_uri": "Q7857", "obj_label": "\u4fbf\u5668", "sub_label": "\u30c8\u30a4\u30ec\u30c3\u30c8\u30da\u30fc\u30d1\u30fc", "from_english": false}
+{"sub_uri": "Q1484", "obj_uri": "Q125384", "obj_label": "\u30eb\u30bd\u30f3", "sub_label": "\u30de\u30e8\u30f3\u5c71", "from_english": false}
+{"sub_uri": "Q455963", "obj_uri": "Q124873", "obj_label": "\u30df\u30f3\u30c0\u30ca\u30aa", "sub_label": "\u30a2\u30dd\u5c71", "from_english": false}
+{"sub_uri": "Q345194", "obj_uri": "Q9091", "obj_label": "\u30d9\u30e9\u30eb\u30fc\u30b7\u8a9e", "sub_label": "\u30ef\u30c1\u30f3\u30ab", "from_english": false}
+{"sub_uri": "Q624580", "obj_uri": "Q141488", "obj_label": "\u30b0\u30e9\u30d5 (\u96e2\u6563\u6570\u5b66)", "sub_label": "\u30aa\u30a4\u30e9\u30fc\u8def", "from_english": false}
+{"sub_uri": "Q734253", "obj_uri": "Q75", "obj_label": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8", "sub_label": "e-\u30d3\u30b8\u30cd\u30b9", "from_english": false}
+{"sub_uri": "Q185057", "obj_uri": "Q37748", "obj_label": "\u67d3\u8272\u4f53", "sub_label": "\u30c6\u30ed\u30e1\u30a2", "from_english": false}
+{"sub_uri": "Q1074185", "obj_uri": "Q1490", "obj_label": "\u6771\u4eac\u90fd", "sub_label": "\u6771\u4eac\u90fd\u5e81", "from_english": false}
+{"sub_uri": "Q4834844", "obj_uri": "Q9531", "obj_label": "\u82f1\u56fd\u653e\u9001\u5354\u4f1a", "sub_label": "BBC\u30de\u30f3\u30c1\u30a7\u30b9\u30bf\u30fc", "from_english": false}
+{"sub_uri": "Q2091531", "obj_uri": "Q48604", "obj_label": "\u30df\u30fc\u30eb", "sub_label": "\u30b9\u30da\u30af\u30c8\u30eb", "from_english": false}
+{"sub_uri": "Q2060879", "obj_uri": "Q48604", "obj_label": "\u30df\u30fc\u30eb", "sub_label": "\u30d7\u30ea\u30ed\u30fc\u30c0", "from_english": false}
+{"sub_uri": "Q16973176", "obj_uri": "Q48493", "obj_label": "iOS", "sub_label": "IOS 8", "from_english": false}
+{"sub_uri": "Q882214", "obj_uri": "Q33971", "obj_label": "leaf", "sub_label": "ligule", "from_english": true}
+{"sub_uri": "Q193814", "obj_uri": "Q748", "obj_label": "\u4ecf\u6559", "sub_label": "\u5c0f\u4e57", "from_english": false}
+{"sub_uri": "Q544215", "obj_uri": "Q192249", "obj_label": "saddle", "sub_label": "Shabrack", "from_english": true}
+{"sub_uri": "Q174647", "obj_uri": "Q15807", "obj_label": "\u8db3", "sub_label": "\u304b\u304b\u3068", "from_english": false}
+{"sub_uri": "Q51", "obj_uri": "Q1555938", "obj_label": "\u5357\u6975", "sub_label": "\u5357\u6975\u5927\u9678", "from_english": false}
+{"sub_uri": "Q2338471", "obj_uri": "Q48604", "obj_label": "\u30df\u30fc\u30eb", "sub_label": "\u30df\u30fc\u30eb\u30fb\u30b3\u30a2\u30e2\u30b8\u30e5\u30fc\u30eb", "from_english": false}
+{"sub_uri": "Q4232918", "obj_uri": "Q7886", "obj_label": "lung", "sub_label": "Root of the lung", "from_english": true}
+{"sub_uri": "Q163393", "obj_uri": "Q9158", "obj_label": "\u96fb\u5b50\u30e1\u30fc\u30eb", "sub_label": "Post Office Protocol 3", "from_english": false}
+{"sub_uri": "Q351625", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u7406\u8ad6\u8a00\u8a9e\u5b66", "from_english": false}
+{"sub_uri": "Q463923", "obj_uri": "Q333", "obj_label": "\u5929\u6587\u5b66", "sub_label": "\u5929\u6587\u8003\u53e4\u5b66", "from_english": false}
+{"sub_uri": "Q849706", "obj_uri": "Q1248784", "obj_label": "\u7a7a\u6e2f", "sub_label": "\u7a7a\u6e2f\u30bf\u30fc\u30df\u30ca\u30eb\u30d3\u30eb", "from_english": false}
+{"sub_uri": "Q1555064", "obj_uri": "Q36117", "obj_label": "\u30dc\u30eb\u30cd\u30aa\u5cf6", "sub_label": "\u30e0\u30eb\u5c71", "from_english": false}
+{"sub_uri": "Q840829", "obj_uri": "Q37853", "obj_label": "\u30d0\u30ed\u30c3\u30af", "sub_label": "\u30d0\u30ed\u30c3\u30af\u5efa\u7bc9", "from_english": false}
+{"sub_uri": "Q715269", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u4e16\u754c\u306e\u5927\u6d0b", "from_english": false}
+{"sub_uri": "Q180592", "obj_uri": "Q5891", "obj_label": "\u54f2\u5b66", "sub_label": "\u793e\u4f1a\u54f2\u5b66", "from_english": false}
+{"sub_uri": "Q284787", "obj_uri": "Q45805", "obj_label": "\u30b8\u30e5\u30e9\u7d00", "sub_label": "\u30b8\u30e5\u30e9\u7d00\u524d\u671f", "from_english": false}
+{"sub_uri": "Q188913", "obj_uri": "Q11451", "obj_label": "\u8fb2\u696d", "sub_label": "\u30d7\u30e9\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3", "from_english": false}
+{"sub_uri": "Q811646", "obj_uri": "Q10884", "obj_label": "tree", "sub_label": "tree stump", "from_english": true}
+{"sub_uri": "Q1673747", "obj_uri": "Q125384", "obj_label": "\u30eb\u30bd\u30f3", "sub_label": "\u30a4\u30b5\u30ed\u30b0\u5c71", "from_english": false}
+{"sub_uri": "Q4834859", "obj_uri": "Q9531", "obj_label": "\u82f1\u56fd\u653e\u9001\u5354\u4f1a", "sub_label": "BBC\u30ca\u30c1\u30e5\u30e9\u30eb\u30d2\u30b9\u30c8\u30ea\u30fc\u30e6\u30cb\u30c3\u30c8", "from_english": false}
+{"sub_uri": "Q899641", "obj_uri": "Q8102", "obj_label": "slang", "sub_label": "purple drank", "from_english": true}
+{"sub_uri": "Q2301851", "obj_uri": "Q872181", "obj_label": "scouting", "sub_label": "Scout Group", "from_english": true}
+{"sub_uri": "Q174761", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30c1\u30ea\u6d77\u5cb8\u5c71\u8108", "from_english": false}
+{"sub_uri": "Q82811", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u97f3\u97ff\u5b66", "from_english": false}
+{"sub_uri": "Q1586649", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Yate", "from_english": true}
+{"sub_uri": "Q1324530", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Cerro El Plomo", "from_english": true}
+{"sub_uri": "Q1071239", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u78ba\u7387\u7684", "from_english": false}
+{"sub_uri": "Q120976", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u968e\u4e57", "from_english": false}
+{"sub_uri": "Q2732276", "obj_uri": "Q1063", "obj_label": "\u9032\u5316", "sub_label": "\u773c\u306e\u9032\u5316", "from_english": false}
+{"sub_uri": "Q856663", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u8056\u66f8\u306e\u7269\u8a9e", "from_english": false}
+{"sub_uri": "Q189940", "obj_uri": "Q11442", "obj_label": "bicycle", "sub_label": "bicycle chain", "from_english": true}
+{"sub_uri": "Q305026", "obj_uri": "Q11442", "obj_label": "\u81ea\u8ee2\u8eca", "sub_label": "\u30da\u30c0\u30eb", "from_english": false}
+{"sub_uri": "Q37736", "obj_uri": "Q18869", "obj_label": "\u30b3\u30fc\u30ab\u30b5\u30b9", "sub_label": "\u5317\u30b3\u30fc\u30ab\u30b5\u30b9", "from_english": false}
+{"sub_uri": "Q14290107", "obj_uri": "Q58", "obj_label": "\u9670\u830e", "sub_label": "\u4e80\u982d", "from_english": false}
+{"sub_uri": "Q585444", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "administrative district of Prague", "from_english": true}
+{"sub_uri": "Q513216", "obj_uri": "Q3757", "obj_label": "\u30b8\u30e3\u30ef\u5cf6", "sub_label": "\u30b1\u30eb\u30fc\u30c8\u5c71", "from_english": false}
+{"sub_uri": "Q18", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u5357\u30a2\u30e1\u30ea\u30ab", "from_english": false}
+{"sub_uri": "Q8793", "obj_uri": "Q66", "obj_label": "\u30dc\u30fc\u30a4\u30f3\u30b0", "sub_label": "\u30dc\u30fc\u30a4\u30f3\u30b0\u6c11\u9593\u822a\u7a7a\u6a5f\u90e8\u9580", "from_english": false}
+{"sub_uri": "Q1193832", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u7b26\u53f7 (\u6570\u5b66)", "from_english": false}
+{"sub_uri": "Q2307492", "obj_uri": "Q9377", "obj_label": "\u814e\u81d3", "sub_label": "\u814e\u76ae\u8cea", "from_english": false}
+{"sub_uri": "Q712212", "obj_uri": "Q188094", "obj_label": "economist", "sub_label": "chief economist", "from_english": true}
+{"sub_uri": "Q1724341", "obj_uri": "Q11642", "obj_label": "\u713c\u7269", "sub_label": "\u7aaf", "from_english": false}
+{"sub_uri": "Q1392592", "obj_uri": "Q11442", "obj_label": "bicycle", "sub_label": "bicycle lock", "from_english": true}
+{"sub_uri": "Q379079", "obj_uri": "Q43450", "obj_label": "\u4f53\u64cd", "sub_label": "\u56fd\u969b\u4f53\u64cd\u9023\u76df", "from_english": false}
+{"sub_uri": "Q2255517", "obj_uri": "Q192249", "obj_label": "\u978d", "sub_label": "\u5c3b\u7e4b", "from_english": false}
+{"sub_uri": "Q1423546", "obj_uri": "Q192249", "obj_label": "\u978d", "sub_label": "\u30b5\u30c9\u30eb\u30d6\u30e9\u30f3\u30b1\u30c3\u30c8", "from_english": false}
+{"sub_uri": "Q614304", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u85ac\u5b66", "from_english": false}
+{"sub_uri": "Q667984", "obj_uri": "Q1286", "obj_label": "Alps", "sub_label": "Fern Pass", "from_english": true}
+{"sub_uri": "Q3082251", "obj_uri": "Q44782", "obj_label": "\u6e2f\u6e7e", "sub_label": "\u30b8\u30a7\u30c6\u30a3", "from_english": false}
+{"sub_uri": "Q11276", "obj_uri": "Q318", "obj_label": "\u9280\u6cb3", "sub_label": "\u7403\u72b6\u661f\u56e3", "from_english": false}
+{"sub_uri": "Q131683", "obj_uri": "Q11190", "obj_label": "\u533b\u5b66", "sub_label": "\u767a\u751f\u5b66", "from_english": false}
+{"sub_uri": "Q2625243", "obj_uri": "Q132311", "obj_label": "\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc", "sub_label": "\u30d2\u30ed\u30a4\u30c3\u30af\u30fb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc", "from_english": false}
+{"sub_uri": "Q3217435", "obj_uri": "Q3757", "obj_label": "Java", "sub_label": "Gunung Muria", "from_english": true}
+{"sub_uri": "Q1677690", "obj_uri": "Q3757", "obj_label": "\u30b8\u30e3\u30ef\u5cf6", "sub_label": "\u30b9\u30f3\u30d3\u30f3\u5c71", "from_english": false}
+{"sub_uri": "Q492264", "obj_uri": "Q11424", "obj_label": "\u6620\u753b", "sub_label": "\u6620\u753b\u97f3\u697d", "from_english": false}
+{"sub_uri": "Q81915", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u540c\u7d20\u6027", "from_english": false}
+{"sub_uri": "Q174583", "obj_uri": "Q37144", "obj_label": "\u5b9f\u5305", "sub_label": "\u5f3e\u4e38", "from_english": false}
+{"sub_uri": "Q624080", "obj_uri": "Q20716", "obj_label": "\u30b5\u30e0\u30b9\u30f3\u30b0\u30eb\u30fc\u30d7", "sub_label": "\u30b5\u30e0\u30b9\u30f3\u751f\u547d\u4fdd\u967a", "from_english": false}
+{"sub_uri": "Q3041", "obj_uri": "Q319", "obj_label": "Jupiter", "sub_label": "magnetosphere of Jupiter", "from_english": true}
+{"sub_uri": "Q2997153", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Venezuelan Coastal Range", "from_english": true}
+{"sub_uri": "Q5303415", "obj_uri": "Q16554", "obj_label": "Denver", "sub_label": "Downtown Denver", "from_english": true}
+{"sub_uri": "Q2171115", "obj_uri": "Q3757", "obj_label": "Java", "sub_label": "Mount Penanggungan", "from_english": true}
+{"sub_uri": "Q665399", "obj_uri": "Q3757", "obj_label": "\u30b8\u30e3\u30ef\u5cf6", "sub_label": "\u30a2\u30eb\u30b8\u30e5\u30ce\u5c71", "from_english": false}
+{"sub_uri": "Q653215", "obj_uri": "Q7184", "obj_label": "\u5317\u5927\u897f\u6d0b\u6761\u7d04\u6a5f\u69cb", "sub_label": "\u5927\u897f\u6d0b\u9023\u5408\u8ecd", "from_english": false}
+{"sub_uri": "Q46961", "obj_uri": "Q275186", "obj_label": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30ae\u30e3\u30f3\u30b0", "sub_label": "\u30ae\u30e3\u30f3\u30b0", "from_english": false}
+{"sub_uri": "Q162908", "obj_uri": "Q267298", "obj_label": "\u96fb\u6c60", "sub_label": "\u96fb\u89e3\u8cea", "from_english": false}
+{"sub_uri": "Q3375", "obj_uri": "Q1286", "obj_label": "\u30a2\u30eb\u30d7\u30b9\u5c71\u8108", "sub_label": "\u30c4\u30fc\u30af\u30b7\u30e5\u30d4\u30c3\u30c4\u30a7", "from_english": false}
+{"sub_uri": "Q181982", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u897f\u534a\u7403", "from_english": false}
+{"sub_uri": "Q186198", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u6771\u534a\u7403", "from_english": false}
+{"sub_uri": "Q270158", "obj_uri": "Q3757", "obj_label": "\u30b8\u30e3\u30ef\u5cf6", "sub_label": "\u30b9\u30e1\u30eb\u5c71", "from_english": false}
+{"sub_uri": "Q545981", "obj_uri": "Q11633", "obj_label": "\u5199\u771f\u8853", "sub_label": "\u753b\u50cf\u7de8\u96c6", "from_english": false}
+{"sub_uri": "Q83659", "obj_uri": "Q34374", "obj_label": "\u30af\u30ec\u30bf\u5cf6", "sub_label": "\u30a4\u30c7\u30a3\u5c71", "from_english": false}
+{"sub_uri": "Q1151257", "obj_uri": "Q15777", "obj_label": "C", "sub_label": "C99", "from_english": false}
+{"sub_uri": "Q1628039", "obj_uri": "Q37853", "obj_label": "\u30d0\u30ed\u30c3\u30af", "sub_label": "\u30e6\u30c8\u30ec\u30d2\u30c8\u30fb\u30ab\u30e9\u30f4\u30a1\u30c3\u30b8\u30e7\u6d3e", "from_english": false}
+{"sub_uri": "Q211439", "obj_uri": "Q11451", "obj_label": "\u8fb2\u696d", "sub_label": "\u98fc\u6599", "from_english": false}
+{"sub_uri": "Q911748", "obj_uri": "Q3757", "obj_label": "\u30b8\u30e3\u30ef\u5cf6", "sub_label": "\u30ac\u30eb\u30f3\u30b0\u30f3\u5c71", "from_english": false}
+{"sub_uri": "Q778806", "obj_uri": "Q19821", "obj_label": "\u4e09\u89d2\u5f62", "sub_label": "\u4e09\u89d2\u5f62\u306e\u4e2d\u5fc3", "from_english": false}
+{"sub_uri": "Q186380", "obj_uri": "Q7020", "obj_label": "\u30b2\u30ce\u30e0", "sub_label": "\u5e38\u67d3\u8272\u4f53", "from_english": false}
+{"sub_uri": "Q1323122", "obj_uri": "Q1490", "obj_label": "\u6771\u4eac\u90fd", "sub_label": "\u591a\u6469\u5730\u57df", "from_english": false}
+{"sub_uri": "Q1328995", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_label": "Probabilism", "from_english": true}
+{"sub_uri": "Q41291", "obj_uri": "Q40218", "obj_label": "\u5b87\u5b99\u6a5f", "sub_label": "\u30ed\u30b1\u30c3\u30c8", "from_english": false}
+{"sub_uri": "Q79749", "obj_uri": "Q7873", "obj_label": "\u8840\u6db2", "sub_label": "\u8840\u6f3f", "from_english": false}
+{"sub_uri": "Q108543", "obj_uri": "Q1990792", "obj_label": "\u30a8\u30a4\u30ea\u30a2\u30f3 (\u30d5\u30e9\u30f3\u30c1\u30e3\u30a4\u30ba)", "sub_label": "\u30a8\u30a4\u30ea\u30a2\u30f33", "from_english": false}
+{"sub_uri": "Q26383", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u539f\u5b50\u7269\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q1763948", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u6570\u8868", "from_english": false}
+{"sub_uri": "Q1641276", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Quilotoa", "from_english": true}
+{"sub_uri": "Q102231", "obj_uri": "Q34687", "obj_label": "\u30d0\u30e9\u5c5e", "sub_label": "\u30d0\u30e9", "from_english": false}
+{"sub_uri": "Q42614", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u7533\u547d\u8a18", "from_english": false}
+{"sub_uri": "Q2840725", "obj_uri": "Q47528", "obj_label": "\u30ec\u30fc\u30c0\u30fc", "sub_label": "\u5e73\u9762\u5ea7\u6a19\u6307\u793a\u753b\u9762", "from_english": false}
+{"sub_uri": "Q1140046", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u6570\u5b66\u7684\u8868\u8a18", "from_english": false}
+{"sub_uri": "Q870895", "obj_uri": "Q11190", "obj_label": "\u533b\u5b66", "sub_label": "\u5065\u5eb7\u60c5\u5831\u5b66", "from_english": false}
+{"sub_uri": "Q380344", "obj_uri": "Q12483", "obj_label": "\u7d71\u8a08\u5b66", "sub_label": "\u8a18\u8ff0\u7d71\u8a08\u5b66", "from_english": false}
+{"sub_uri": "Q15580856", "obj_uri": "Q7252", "obj_label": "\u30d5\u30a7\u30df\u30cb\u30ba\u30e0", "sub_label": "\u5973\u6027\u89e3\u653e\u904b\u52d5", "from_english": false}
+{"sub_uri": "Q1429140", "obj_uri": "Q9418", "obj_label": "psychology", "sub_label": "folk psychology", "from_english": true}
+{"sub_uri": "Q193375", "obj_uri": "Q430682", "obj_label": "\u30c6\u30fc\u30c8\u30fb\u30ae\u30e3\u30e9\u30ea\u30fc", "sub_label": "\u30c6\u30fc\u30c8\u30fb\u30e2\u30c0\u30f3", "from_english": false}
+{"sub_uri": "Q840850", "obj_uri": "Q177777", "obj_label": "\u7269\u6d41", "sub_label": "\u30d5\u30a9\u30ef\u30fc\u30c0\u30fc", "from_english": false}
+{"sub_uri": "Q51656", "obj_uri": "Q12546", "obj_label": "\u5341\u5b57\u8ecd", "sub_label": "\u7b2c4\u56de\u5341\u5b57\u8ecd", "from_english": false}
+{"sub_uri": "Q177005", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u8a08\u7b97\u751f\u7269\u5b66", "from_english": false}
+{"sub_uri": "Q127213", "obj_uri": "Q11451", "obj_label": "\u8fb2\u696d", "sub_label": "\u6a39\u82b8", "from_english": false}
+{"sub_uri": "Q648877", "obj_uri": "Q11633", "obj_label": "\u5199\u771f\u8853", "sub_label": "\u30dd\u30b9\u30c8\u30d7\u30ed\u30c0\u30af\u30b7\u30e7\u30f3", "from_english": false}
+{"sub_uri": "Q178390", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30a8\u30bc\u30ad\u30a8\u30eb\u66f8", "from_english": false}
+{"sub_uri": "Q1246516", "obj_uri": "Q7252", "obj_label": "\u30d5\u30a7\u30df\u30cb\u30ba\u30e0", "sub_label": "\u30d5\u30a7\u30df\u30cb\u30b9\u30c8\u30fb\u30a2\u30fc\u30c8", "from_english": false}
+{"sub_uri": "Q52139", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u6c17\u5019\u5b66", "from_english": false}
+{"sub_uri": "Q3827617", "obj_uri": "Q35323", "obj_label": "\u30a2\u30e9\u30d6\u4eba", "sub_label": "\u30d0\u30cc\u30fc\u30fb\u30cf\u30fc\u30ea\u30c9", "from_english": false}
+{"sub_uri": "Q276183", "obj_uri": "Q34178", "obj_label": "\u795e\u5b66", "sub_label": "\u795e\u7fa9\u8ad6", "from_english": false}
+{"sub_uri": "Q488059", "obj_uri": "Q23404", "obj_label": "\u4eba\u985e\u5b66", "sub_label": "\u4eba\u9593\u5b66", "from_english": false}
+{"sub_uri": "Q4577", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30e8\u30d6\u8a18", "from_english": false}
+{"sub_uri": "Q56429", "obj_uri": "Q33850", "obj_label": "\u30ce\u30eb\u30de\u30f3\u8a9e", "sub_label": "\u30b5\u30fc\u30af\u5cf6\u8a9e", "from_english": false}
+{"sub_uri": "Q489328", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u5206\u5b50\u7269\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q26336", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u9759\u96fb\u6c17\u5b66", "from_english": false}
+{"sub_uri": "Q909554", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u8a08\u7b97\u7269\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q774", "obj_uri": "Q828", "obj_label": "\u30a2\u30e1\u30ea\u30ab\u5dde", "sub_label": "\u30b0\u30a2\u30c6\u30de\u30e9", "from_english": false}
+{"sub_uri": "Q623170", "obj_uri": "Q45782", "obj_label": "\u30a2\u30af\u30a2\u30ea\u30a6\u30e0", "sub_label": "\u30d5\u30a3\u30eb\u30bf\u30fc (\u6c34\u69fd)", "from_english": false}
+{"sub_uri": "Q2198344", "obj_uri": "Q872181", "obj_label": "\u30dc\u30fc\u30a4\u30b9\u30ab\u30a6\u30c8", "sub_label": "\u30b8\u30e3\u30f3\u30b0\u30eb\u30fb\u30d6\u30c3\u30af\u3068\u30b9\u30ab\u30a6\u30c6\u30a3\u30f3\u30b0", "from_english": false}
+{"sub_uri": "Q81009", "obj_uri": "Q11024", "obj_label": "\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3", "sub_label": "\u4fee\u8f9e\u5b66", "from_english": false}
+{"sub_uri": "Q1129466", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u8ac7\u8a71\u5206\u6790", "from_english": false}
+{"sub_uri": "Q529759", "obj_uri": "Q48604", "obj_label": "\u30df\u30fc\u30eb", "sub_label": "\u30af\u30d0\u30f3\u30c82", "from_english": false}
+{"sub_uri": "Q786873", "obj_uri": "Q48604", "obj_label": "\u30df\u30fc\u30eb", "sub_label": "\u30df\u30fc\u30eb\u30fb\u30c9\u30c3\u30ad\u30f3\u30b0\u30e2\u30b8\u30e5\u30fc\u30eb", "from_english": false}
+{"sub_uri": "Q1637653", "obj_uri": "Q48604", "obj_label": "\u30df\u30fc\u30eb", "sub_label": "\u30af\u30d0\u30f3\u30c81", "from_english": false}
+{"sub_uri": "Q890542", "obj_uri": "Q46311", "obj_label": "\u5f13", "sub_label": "\u5f26 (\u5f13)", "from_english": false}
+{"sub_uri": "Q165838", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u9678\u6c34\u5b66", "from_english": false}
+{"sub_uri": "Q165838", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u9678\u6c34\u5b66", "from_english": false}
+{"sub_uri": "Q584570", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30cd\u30d0\u30c9\u30fb\u30c8\u30ec\u30b9\u30fb\u30af\u30eb\u30bb\u30b9\u5c71", "from_english": false}
+{"sub_uri": "Q795324", "obj_uri": "Q66", "obj_label": "\u30dc\u30fc\u30a4\u30f3\u30b0", "sub_label": "\u30dc\u30fc\u30a4\u30f3\u30b0\u9632\u885b\u30fb\u5b87\u5b99\u30fb\u5b89\u5168\u4fdd\u969c\u90e8\u9580", "from_english": false}
+{"sub_uri": "Q628967", "obj_uri": "Q7748", "obj_label": "\u6cd5", "sub_label": "\u52b4\u50cd\u6cd5", "from_english": false}
+{"sub_uri": "Q651103", "obj_uri": "Q11442", "obj_label": "\u81ea\u8ee2\u8eca", "sub_label": "\u30d5\u30ed\u30f3\u30c8\u30d5\u30a9\u30fc\u30af", "from_english": false}
+{"sub_uri": "Q3676757", "obj_uri": "Q1286", "obj_label": "Alps", "sub_label": "Cima Palon", "from_english": true}
+{"sub_uri": "Q337974", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30b5\u30d0\u30f3\u30ab\u30e4\u706b\u5c71", "from_english": false}
+{"sub_uri": "Q10387", "obj_uri": "Q21201", "obj_label": "\u793e\u4f1a\u5b66", "sub_label": "\u8001\u4eba\u5b66", "from_english": false}
+{"sub_uri": "Q657881", "obj_uri": "Q75", "obj_label": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8", "sub_label": "\u30cb\u30e5\u30fc\u30b9\u30b0\u30eb\u30fc\u30d7", "from_english": false}
+{"sub_uri": "Q7922", "obj_uri": "Q8434", "obj_label": "\u6559\u80b2", "sub_label": "\u6559\u80b2\u5b66", "from_english": false}
+{"sub_uri": "Q131635", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30a8\u30ba\u30e9\u8a18", "from_english": false}
+{"sub_uri": "Q32635", "obj_uri": "Q75", "obj_label": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8", "sub_label": "\u30c9\u30e1\u30a4\u30f3\u540d", "from_english": false}
+{"sub_uri": "Q1145106", "obj_uri": "Q309", "obj_label": "\u6b74\u53f2", "sub_label": "\u6b74\u53f2\u6642\u4ee3", "from_english": false}
+{"sub_uri": "Q3272830", "obj_uri": "Q11053", "obj_label": "RNA", "sub_label": "3' \u975e\u7ffb\u8a33\u9818\u57df", "from_english": false}
+{"sub_uri": "Q286452", "obj_uri": "Q40821", "obj_label": "surgery", "sub_label": "hand surgery", "from_english": true}
+{"sub_uri": "Q26728", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30b7\u30a8\u30e9\u30fb\u30cd\u30d0\u30c0\u30fb\u30c7\u30fb\u30b5\u30f3\u30bf\u30fb\u30de\u30eb\u30bf\u5c71\u5730", "from_english": false}
+{"sub_uri": "Q174769", "obj_uri": "Q46970", "obj_label": "\u822a\u7a7a\u4f1a\u793e", "sub_label": "\u30e6\u30ca\u30a4\u30c6\u30c3\u30c9\u822a\u7a7a", "from_english": false}
+{"sub_uri": "Q156075", "obj_uri": "Q13147", "obj_label": "\u982d\u84cb", "sub_label": "\u773c\u7aa9", "from_english": false}
+{"sub_uri": "Q323996", "obj_uri": "Q34178", "obj_label": "\u795e\u5b66", "sub_label": "\u60aa\u9b54\u5b66", "from_english": false}
+{"sub_uri": "Q58908", "obj_uri": "Q333", "obj_label": "\u5929\u6587\u5b66", "sub_label": "\u9280\u6cb3\u5929\u6587\u5b66", "from_english": false}
+{"sub_uri": "Q213283", "obj_uri": "Q1889", "obj_label": "\u5916\u4ea4", "sub_label": "\u5728\u5916\u516c\u9928", "from_english": false}
+{"sub_uri": "Q47680", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30e8\u30b7\u30e5\u30a2\u8a18", "from_english": false}
+{"sub_uri": "Q52106", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u751f\u7269\u5730\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q2531720", "obj_uri": "Q79784", "obj_label": "\u30d5\u30ec\u30f3\u30ba", "sub_label": "\u30d5\u30ec\u30f3\u30ba (\u7b2c5\u30b7\u30fc\u30ba\u30f3)", "from_english": false}
+{"sub_uri": "Q650875", "obj_uri": "Q5043", "obj_label": "Christianity", "sub_label": "Christianity in Iraq", "from_english": true}
+{"sub_uri": "Q13411117", "obj_uri": "Q503", "obj_label": "banana", "sub_label": "banana peel", "from_english": true}
+{"sub_uri": "Q715396", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u56fa\u4f53\u7269\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q25624", "obj_uri": "Q40763", "obj_label": "\u7a2e\u5b50", "sub_label": "\u80da\u4e73", "from_english": false}
+{"sub_uri": "Q1440421", "obj_uri": "Q81230", "obj_label": "\u30b7\u30fc\u30e1\u30f3\u30b9", "sub_label": "\u30b7\u30fc\u30e1\u30f3\u30b9\u96fb\u529b", "from_english": false}
+{"sub_uri": "Q7058903", "obj_uri": "Q128323", "obj_label": "Trinidad", "sub_label": "Northern Range", "from_english": true}
+{"sub_uri": "Q280817", "obj_uri": "Q432", "obj_label": "\u30a4\u30b9\u30e9\u30e0\u6559", "sub_label": "\u30ab\u30e9\u30fc\u30e0", "from_english": false}
+{"sub_uri": "Q11661", "obj_uri": "Q7075", "obj_label": "\u56f3\u66f8\u9928", "sub_label": "\u60c5\u5831\u6280\u8853", "from_english": false}
+{"sub_uri": "Q1628371", "obj_uri": "Q41975", "obj_label": "Mongols", "sub_label": "Darkhad", "from_english": true}
+{"sub_uri": "Q326835", "obj_uri": "Q366791", "obj_label": "\u597d\u5947\u5fc3", "sub_label": "\u30b3\u30fc\u30eb\u30fb\u30df\u30fc\u30fb\u30e1\u30a4\u30d3\u30fc", "from_english": false}
+{"sub_uri": "Q248770", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Reventador", "from_english": true}
+{"sub_uri": "Q2043007", "obj_uri": "Q93301", "obj_label": "\u6a5f\u95a2\u8eca", "sub_label": "\u5148\u8f2a", "from_english": false}
+{"sub_uri": "Q4380977", "obj_uri": "Q16635", "obj_label": "\u30b0\u30a2\u30e0", "sub_label": "\u30e9\u30e0\u30e9\u30e0\u5c71", "from_english": false}
+{"sub_uri": "Q1377163", "obj_uri": "Q21201", "obj_label": "\u793e\u4f1a\u5b66", "sub_label": "\u793e\u4f1a\u5b66\u7406\u8ad6", "from_english": false}
+{"sub_uri": "Q1908389", "obj_uri": "Q9418", "obj_label": "\u5fc3\u7406\u5b66", "sub_label": "\u6570\u7406\u5fc3\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q189445", "obj_uri": "Q7174", "obj_label": "\u6c11\u4e3b\u4e3b\u7fa9", "sub_label": "\u4e21\u9662\u5236", "from_english": false}
+{"sub_uri": "Q1583139", "obj_uri": "Q1163502", "obj_label": "\u30c0\u30a4\u30a2\u30ca", "sub_label": "\u30a2\u30a4\u30e0\u30fb\u30ab\u30df\u30f3\u30b0\u30a2\u30a6\u30c8", "from_english": false}
+{"sub_uri": "Q645143", "obj_uri": "Q23498", "obj_label": "\u8003\u53e4\u5b66", "sub_label": "\u7523\u696d", "from_english": false}
+{"sub_uri": "Q126804", "obj_uri": "Q51614", "obj_label": "\u30a2\u30ca\u30c8\u30ea\u30a2\u534a\u5cf6", "sub_label": "\u30a8\u30eb\u30b8\u30a7\u30b9\u5c71", "from_english": false}
+{"sub_uri": "Q2029930", "obj_uri": "Q21201", "obj_label": "\u793e\u4f1a\u5b66", "sub_label": "\u7d44\u7e54\u7814\u7a76", "from_english": false}
+{"sub_uri": "Q26", "obj_uri": "Q22890", "obj_label": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5cf6", "sub_label": "\u5317\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9", "from_english": false}
+{"sub_uri": "Q2337514", "obj_uri": "Q184", "obj_label": "\u30d9\u30e9\u30eb\u30fc\u30b7", "sub_label": "\u897f\u30d9\u30e9\u30eb\u30fc\u30b7", "from_english": false}
+{"sub_uri": "Q2355426", "obj_uri": "Q11024", "obj_label": "\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3", "sub_label": "\u906d\u96e3\u4fe1\u53f7", "from_english": false}
+{"sub_uri": "Q3919641", "obj_uri": "Q48493", "obj_label": "iOS", "sub_label": "IOS 5", "from_english": false}
+{"sub_uri": "Q290578", "obj_uri": "Q413", "obj_label": "physics", "sub_label": "radiophysics", "from_english": true}
+{"sub_uri": "Q178593", "obj_uri": "Q7868", "obj_label": "\u7d30\u80de", "sub_label": "\u9ad8\u5206\u5b50", "from_english": false}
+{"sub_uri": "Q18639596", "obj_uri": "Q7748", "obj_label": "law", "sub_label": "economic law (Soviet Union)", "from_english": true}
+{"sub_uri": "Q146491", "obj_uri": "Q7748", "obj_label": "\u6cd5", "sub_label": "\u5211\u6cd5", "from_english": false}
+{"sub_uri": "Q5989321", "obj_uri": "Q1656877", "obj_label": "Idol", "sub_label": "Idol 2007", "from_english": true}
+{"sub_uri": "Q5989318", "obj_uri": "Q1656877", "obj_label": "Idol", "sub_label": "Idol 2008", "from_english": true}
+{"sub_uri": "Q5989327", "obj_uri": "Q1656877", "obj_label": "Idol", "sub_label": "Idol 2009", "from_english": true}
+{"sub_uri": "Q4346545", "obj_uri": "Q1656877", "obj_label": "Idol", "sub_label": "Idol 2010", "from_english": true}
+{"sub_uri": "Q83286", "obj_uri": "Q36704", "obj_label": "\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2", "sub_label": "\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2\u793e\u4f1a\u4e3b\u7fa9\u9023\u90a6\u5171\u548c\u56fd", "from_english": false}
+{"sub_uri": "Q1318257", "obj_uri": "Q9089", "obj_label": "\u30d2\u30f3\u30c9\u30a5\u30fc\u6559", "sub_label": "\u30d2\u30f3\u30c9\u30a5\u30fc\u6559\u306e\u5b97\u6d3e", "from_english": false}
+{"sub_uri": "Q1161370", "obj_uri": "Q183061", "obj_label": "\u30d5\u30a1\u30b5\u30fc\u30c9", "sub_label": "\u59bb\u5074", "from_english": false}
+{"sub_uri": "Q5460512", "obj_uri": "Q19660", "obj_label": "Bucharest", "sub_label": "Floreasca", "from_english": true}
+{"sub_uri": "Q2741398", "obj_uri": "Q5891", "obj_label": "\u54f2\u5b66", "sub_label": "\u74b0\u5883\u54f2\u5b66", "from_english": false}
+{"sub_uri": "Q215138", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30d5\u30a3\u30c3\u30c4\u30fb\u30ed\u30a4", "from_english": false}
+{"sub_uri": "Q1056102", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30bb\u30ed\u30fb\u30c8\u30fc\u30ec", "from_english": false}
+{"sub_uri": "Q177719", "obj_uri": "Q9418", "obj_label": "\u5fc3\u7406\u5b66", "sub_label": "\u8a3a\u65ad\u884c\u70ba", "from_english": false}
+{"sub_uri": "Q1569011", "obj_uri": "Q309", "obj_label": "\u6b74\u53f2", "sub_label": "\u90fd\u5e02\u53f2", "from_english": false}
+{"sub_uri": "Q2724242", "obj_uri": "Q1073", "obj_label": "\u8133", "sub_label": "\u8133\u8449", "from_english": false}
+{"sub_uri": "Q778305", "obj_uri": "Q9268", "obj_label": "\u30e6\u30c0\u30e4\u6559", "sub_label": "\u30b1\u30d2\u30c3\u30e9\u30fc", "from_english": false}
+{"sub_uri": "Q1772910", "obj_uri": "Q8461", "obj_label": "\u4eba\u7a2e\u4e3b\u7fa9", "sub_label": "\u79d1\u5b66\u306b\u57fa\u3065\u3044\u305f\u4eba\u7a2e\u4e3b\u7fa9", "from_english": false}
+{"sub_uri": "Q196256", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u7b2c163\u6b69\u5175\u5e2b\u56e3 (\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd)", "from_english": false}
+{"sub_uri": "Q149584", "obj_uri": "Q9418", "obj_label": "\u5fc3\u7406\u5b66", "sub_label": "\u7d44\u7e54\u8ad6", "from_english": false}
+{"sub_uri": "Q4874481", "obj_uri": "Q12483", "obj_label": "\u7d71\u8a08\u5b66", "sub_label": "\u30d9\u30a4\u30ba\u7d71\u8a08", "from_english": false}
+{"sub_uri": "Q2359213", "obj_uri": "Q3884", "obj_label": "Amazon.com", "sub_label": "Goodreads", "from_english": false}
+{"sub_uri": "Q864952", "obj_uri": "Q318", "obj_label": "galaxy", "sub_label": "Dark matter halo", "from_english": true}
+{"sub_uri": "Q945806", "obj_uri": "Q2564009", "obj_label": "\u30c9\u30a4\u30c4\u7a7a\u8ecd", "sub_label": "\u7b2c4\u6226\u95d8\u822a\u7a7a\u56e3", "from_english": false}
+{"sub_uri": "Q499194", "obj_uri": "Q20716", "obj_label": "\u30b5\u30e0\u30b9\u30f3\u30b0\u30eb\u30fc\u30d7", "sub_label": "\u30b5\u30e0\u30b9\u30f3\u7269\u7523", "from_english": false}
+{"sub_uri": "Q185020", "obj_uri": "Q12483", "obj_label": "\u7d71\u8a08\u5b66", "sub_label": "\u30d2\u30b9\u30c8\u30b0\u30e9\u30e0", "from_english": false}
+{"sub_uri": "Q184663", "obj_uri": "Q5891", "obj_label": "\u54f2\u5b66", "sub_label": "\u4e2d\u56fd\u54f2\u5b66", "from_english": false}
+{"sub_uri": "Q205084", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u8a08\u7b97\u8907\u96d1\u6027\u7406\u8ad6", "from_english": false}
+{"sub_uri": "Q25220", "obj_uri": "Q1286", "obj_label": "\u30a2\u30eb\u30d7\u30b9\u5c71\u8108", "sub_label": "\u30b9\u30a4\u30b9\u30fb\u30a2\u30eb\u30d7\u30b9", "from_english": false}
+{"sub_uri": "Q3486606", "obj_uri": "Q1073", "obj_label": "brain", "sub_label": "posterior parietal cortex", "from_english": true}
+{"sub_uri": "Q1044484", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u9032\u5316\u767a\u751f\u751f\u7269\u5b66", "from_english": false}
+{"sub_uri": "Q6813449", "obj_uri": "Q737584", "obj_label": "\u30aa\u30c7\u30c3\u30b5", "sub_label": "\u30e1\u30ed\u30c7\u30a3\u30fb\u30d5\u30a7\u30a2", "from_english": false}
+{"sub_uri": "Q202771", "obj_uri": "Q7020", "obj_label": "\u30b2\u30ce\u30e0", "sub_label": "Y\u67d3\u8272\u4f53", "from_english": false}
+{"sub_uri": "Q751404", "obj_uri": "Q333", "obj_label": "astronomy", "sub_label": "geodetic astronomy", "from_english": true}
+{"sub_uri": "Q165838", "obj_uri": "Q7150", "obj_label": "\u751f\u614b\u5b66", "sub_label": "\u9678\u6c34\u5b66", "from_english": false}
+{"sub_uri": "Q977871", "obj_uri": "Q43183", "obj_label": "insurance", "sub_label": "insurance policy", "from_english": true}
+{"sub_uri": "Q1751466", "obj_uri": "Q8087", "obj_label": "geometry", "sub_label": "coaxial", "from_english": true}
+{"sub_uri": "Q537388", "obj_uri": "Q7184", "obj_label": "\u5317\u5927\u897f\u6d0b\u6761\u7d04\u6a5f\u69cb", "sub_label": "\u7b2c1\u5e38\u8a2dNATO\u6d77\u6d0b\u30b0\u30eb\u30fc\u30d7", "from_english": false}
+{"sub_uri": "Q170980", "obj_uri": "Q4989906", "obj_label": "\u30e2\u30cb\u30e5\u30e1\u30f3\u30c8", "sub_label": "\u30aa\u30d9\u30ea\u30b9\u30af", "from_english": false}
+{"sub_uri": "Q476590", "obj_uri": "Q9418", "obj_label": "\u5fc3\u7406\u5b66", "sub_label": "\u97f3\u697d\u5fc3\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q28154", "obj_uri": "Q25287", "obj_label": "\u30e8\u30fc\u30c6\u30dc\u30ea", "sub_label": "\u30c8\u30eb\u30b9\u30e9\u30f3\u30c0", "from_english": false}
+{"sub_uri": "Q407784", "obj_uri": "Q9418", "obj_label": "\u5fc3\u7406\u5b66", "sub_label": "\u5150\u7ae5\u5fc3\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q689764", "obj_uri": "Q6857899", "obj_label": "\u5e02\u6c11\u8ecd (\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd)", "sub_label": "\u9678\u8ecd\u5dde\u5175", "from_english": false}
+{"sub_uri": "Q1167", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Alsterdorf", "from_english": true}
+{"sub_uri": "Q275718", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u7b2c9\u88c5\u7532\u5e2b\u56e3", "from_english": false}
+{"sub_uri": "Q673244", "obj_uri": "Q47315", "obj_label": "\u9a0e\u5175", "sub_label": "\u706b\u7e04\u9283\u9a0e\u5175", "from_english": false}
+{"sub_uri": "Q847198", "obj_uri": "Q9465", "obj_label": "\u502b\u7406\u5b66", "sub_label": "\u6b63\u6226\u8ad6", "from_english": false}
+{"sub_uri": "Q165838", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u9678\u6c34\u5b66", "from_english": false}
+{"sub_uri": "Q3532114", "obj_uri": "Q42989", "obj_label": "\u4f4d\u76f8\u5e7e\u4f55\u5b66", "sub_label": "\u7d44\u5408\u305b\u7684\u4f4d\u76f8\u5e7e\u4f55\u5b66", "from_english": false}
+{"sub_uri": "Q1501882", "obj_uri": "Q12483", "obj_label": "\u7d71\u8a08\u5b66", "sub_label": "\u4e00\u822c\u5316\u7dda\u5f62\u30e2\u30c7\u30eb", "from_english": false}
+{"sub_uri": "Q12483", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u7d71\u8a08\u5b66", "from_english": false}
+{"sub_uri": "Q760348", "obj_uri": "Q40821", "obj_label": "\u5916\u79d1\u5b66", "sub_label": "\u773c\u79d1\u624b\u8853", "from_english": false}
+{"sub_uri": "Q1412461", "obj_uri": "Q21201", "obj_label": "\u793e\u4f1a\u5b66", "sub_label": "\u9078\u6319\u5b66", "from_english": false}
+{"sub_uri": "Q45045", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3", "from_english": false}
+{"sub_uri": "Q500054", "obj_uri": "Q45805", "obj_label": "\u30b8\u30e5\u30e9\u7d00", "sub_label": "\u30b8\u30e5\u30e9\u7d00\u4e2d\u671f", "from_english": false}
+{"sub_uri": "Q219699", "obj_uri": "Q12796", "obj_label": "\u9283", "sub_label": "\u30b5\u30d7\u30ec\u30c3\u30b5\u30fc", "from_english": false}
+{"sub_uri": "Q1991965", "obj_uri": "Q33946", "obj_label": "\u30c1\u30a7\u30b3\u30b9\u30ed\u30d0\u30ad\u30a2", "sub_label": "\u30c1\u30a7\u30b3\u793e\u4f1a\u4e3b\u7fa9\u5171\u548c\u56fd", "from_english": false}
+{"sub_uri": "Q101965", "obj_uri": "Q336", "obj_label": "\u79d1\u5b66", "sub_label": "\u5b9f\u9a13", "from_english": false}
+{"sub_uri": "Q485537", "obj_uri": "Q1541064", "obj_label": "\u55c5\u899a", "sub_label": "\u306b\u304a\u3044", "from_english": false}
+{"sub_uri": "Q518261", "obj_uri": "Q23498", "obj_label": "\u8003\u53e4\u5b66", "sub_label": "\u6587\u5316\u570f", "from_english": false}
+{"sub_uri": "Q3306983", "obj_uri": "Q5146", "obj_label": "\u30dd\u30eb\u30c8\u30ac\u30eb\u8a9e", "sub_label": "\u30dd\u30eb\u30c8\u30ac\u30eb\u8a9e\u306e\u65b9\u8a00", "from_english": false}
+{"sub_uri": "Q1467740", "obj_uri": "Q539051", "obj_label": "\u30ae\u30ea\u30b7\u30e3\u4eba", "sub_label": "\u30aa\u30b9\u30de\u30f3\u5e1d\u56fd\u306e\u30ae\u30ea\u30b7\u30e3\u4eba", "from_english": false}
+{"sub_uri": "Q1575434", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "\u30e1\u30bf\u30a6\u30a7\u30d6", "from_english": false}
+{"sub_uri": "Q2033748", "obj_uri": "Q3757", "obj_label": "\u30b8\u30e3\u30ef\u5cf6", "sub_label": "\u30e9\u30a6\u30f3\u5c71", "from_english": false}
+{"sub_uri": "Q212919", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u82b1\u7c89\u5b66", "from_english": false}
+{"sub_uri": "Q184395", "obj_uri": "Q165", "obj_label": "\u6d77", "sub_label": "\u6d77\u6c34", "from_english": false}
+{"sub_uri": "Q284786", "obj_uri": "Q93301", "obj_label": "\u6a5f\u95a2\u8eca", "sub_label": "\u99c6\u52d5\u8f2a", "from_english": false}
+{"sub_uri": "Q297672", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u30ef\u30a4\u30f3\u5b66", "from_english": false}
+{"sub_uri": "Q4398", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u30d1\u30f3\u30b2\u30a2\u5927\u9678", "from_english": false}
+{"sub_uri": "Q11387", "obj_uri": "Q318", "obj_label": "\u9280\u6cb3", "sub_label": "\u6563\u958b\u661f\u56e3", "from_english": false}
+{"sub_uri": "Q223693", "obj_uri": "Q5043", "obj_label": "\u30ad\u30ea\u30b9\u30c8\u6559", "sub_label": "\u6559\u4f1a\u8ad6", "from_english": false}
+{"sub_uri": "Q870499", "obj_uri": "Q807", "obj_label": "Lausanne", "sub_label": "Ouchy", "from_english": true}
+{"sub_uri": "Q1413846", "obj_uri": "Q189", "obj_label": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9", "sub_label": "\u30d8\u30a4\u30f3\u30ae\u30c3\u30c8\u30eb", "from_english": false}
+{"sub_uri": "Q2539", "obj_uri": "Q12483", "obj_label": "\u7d71\u8a08\u5b66", "sub_label": "\u6a5f\u68b0\u5b66\u7fd2", "from_english": false}
+{"sub_uri": "Q291004", "obj_uri": "Q189", "obj_label": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9", "sub_label": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9\u4e2d\u592e\u9ad8\u5730", "from_english": false}
+{"sub_uri": "Q752994", "obj_uri": "Q189", "obj_label": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9", "sub_label": "\u30af\u30e9\u30d7\u30e9", "from_english": false}
+{"sub_uri": "Q917374", "obj_uri": "Q20", "obj_label": "\u30ce\u30eb\u30a6\u30a7\u30fc", "sub_label": "\u30ce\u30eb\u30a6\u30a7\u30fc\u8ecd", "from_english": false}
+{"sub_uri": "Q3630470", "obj_uri": "Q7252", "obj_label": "\u30d5\u30a7\u30df\u30cb\u30ba\u30e0", "sub_label": "\u30b3\u30f3\u30b7\u30e3\u30b9\u30cd\u30b9\u30fb\u30ec\u30a4\u30b8\u30f3\u30b0", "from_english": false}
+{"sub_uri": "Q47417", "obj_uri": "Q8134", "obj_label": "\u7d4c\u6e08\u5b66", "sub_label": "\u56fd\u969b\u7d4c\u6e08\u5b66", "from_english": false}
+{"sub_uri": "Q3337", "obj_uri": "Q456", "obj_label": "Lyon", "sub_label": "1st arrondissement of Lyon", "from_english": true}
+{"sub_uri": "Q204194", "obj_uri": "Q318", "obj_label": "\u9280\u6cb3", "sub_label": "\u6697\u9ed2\u661f\u96f2", "from_english": false}
+{"sub_uri": "Q185264", "obj_uri": "Q309", "obj_label": "\u6b74\u53f2", "sub_label": "\u6570\u5b66\u53f2", "from_english": false}
+{"sub_uri": "Q158260", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u4e2d\u592e\u8ecd\u96c6\u56e3", "from_english": false}
+{"sub_uri": "Q16411", "obj_uri": "Q75", "obj_label": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8", "sub_label": "6to4", "from_english": false}
+{"sub_uri": "Q193870", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u30c8\u30e9\u30a4\u30dc\u30ed\u30b8\u30fc", "from_english": false}
+{"sub_uri": "Q193870", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u30c8\u30e9\u30a4\u30dc\u30ed\u30b8\u30fc", "from_english": false}
+{"sub_uri": "Q1417134", "obj_uri": "Q1420", "obj_label": "\u81ea\u52d5\u8eca", "sub_label": "\u30c0\u30c3\u30b7\u30e5\u30dc\u30fc\u30c9", "from_english": false}
+{"sub_uri": "Q488059", "obj_uri": "Q5891", "obj_label": "\u54f2\u5b66", "sub_label": "\u4eba\u9593\u5b66", "from_english": false}
+{"sub_uri": "Q326710", "obj_uri": "Q7364", "obj_label": "\u773c", "sub_label": "\u785d\u5b50\u4f53", "from_english": false}
+{"sub_uri": "Q169342", "obj_uri": "Q7364", "obj_label": "\u773c", "sub_label": "\u7db2\u819c", "from_english": false}
+{"sub_uri": "Q3348", "obj_uri": "Q456", "obj_label": "Lyon", "sub_label": "3rd arrondissement of Lyon", "from_english": true}
+{"sub_uri": "Q742216", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Pichincha Volcano", "from_english": true}
+{"sub_uri": "Q182895", "obj_uri": "Q13147", "obj_label": "\u982d\u84cb", "sub_label": "\u4e0a\u984e\u9aa8", "from_english": false}
+{"sub_uri": "Q56546", "obj_uri": "Q7850", "obj_label": "\u4e2d\u56fd\u8a9e", "sub_label": "\u5fbd\u8a9e", "from_english": false}
+{"sub_uri": "Q1751470", "obj_uri": "Q163810", "obj_label": "\u30dc\u30eb\u30dc", "sub_label": "\u30dc\u30eb\u30dc\u30da\u30f3\u30bf", "from_english": false}
+{"sub_uri": "Q201410", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u7b2c\u4e8c\u6b63\u5178", "from_english": false}
+{"sub_uri": "Q3825509", "obj_uri": "Q7432", "obj_label": "species", "sub_label": "forma specialis", "from_english": true}
+{"sub_uri": "Q3143318", "obj_uri": "Q678", "obj_label": "\u30c8\u30f3\u30ac", "sub_label": "\u30d5\u30f3\u30ac\u30cf\u30a2\u30d1\u30a4", "from_english": false}
+{"sub_uri": "Q417664", "obj_uri": "Q7020", "obj_label": "genome", "sub_label": "exome", "from_english": true}
+{"sub_uri": "Q168091", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u755c\u7523\u5b66", "from_english": false}
+{"sub_uri": "Q486839", "obj_uri": "Q35749", "obj_label": "\u8b70\u4f1a", "sub_label": "\u56fd\u4f1a\u8b70\u54e1", "from_english": false}
+{"sub_uri": "Q2334061", "obj_uri": "Q12483", "obj_label": "\u7d71\u8a08\u5b66", "sub_label": "\u5b9f\u9a13\u8a08\u753b\u6cd5", "from_english": false}
+{"sub_uri": "Q777794", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30a2\u30a6\u30b5\u30f3\u30ac\u30c6", "from_english": false}
+{"sub_uri": "Q4886", "obj_uri": "Q68947", "obj_label": "\u4e9c\u7a2e", "sub_label": "\u683d\u57f9\u54c1\u7a2e", "from_english": false}
+{"sub_uri": "Q2903446", "obj_uri": "Q134768", "obj_label": "\u30ab\u30af\u30c6\u30eb", "sub_label": "\u30ac\u30fc\u30cb\u30c3\u30b7\u30e5", "from_english": false}
+{"sub_uri": "Q482853", "obj_uri": "Q7881", "obj_label": "\u9aa8\u683c", "sub_label": "\u810a\u690e", "from_english": false}
+{"sub_uri": "Q701923", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u30c9\u30a4\u30c4\u9678\u8ecd", "from_english": false}
+{"sub_uri": "Q573044", "obj_uri": "Q7184", "obj_label": "\u5317\u5927\u897f\u6d0b\u6761\u7d04\u6a5f\u69cb", "sub_label": "NATO\u5373\u5fdc\u90e8\u968a", "from_english": false}
+{"sub_uri": "Q573498", "obj_uri": "Q1653", "obj_label": "\u30c9\u30ca\u30a6\u5ddd", "sub_label": "\u30c9\u30ca\u30a6\u5927\u66f2", "from_english": false}
+{"sub_uri": "Q41217", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u529b\u5b66", "from_english": false}
+{"sub_uri": "Q837017", "obj_uri": "Q980", "obj_label": "\u30d0\u30a4\u30a8\u30eb\u30f3\u81ea\u7531\u5dde", "sub_label": "\u30a2\u30eb\u30c8\u30fb\u30d0\u30a4\u30a8\u30eb\u30f3", "from_english": false}
+{"sub_uri": "Q530962", "obj_uri": "Q11190", "obj_label": "medicine", "sub_label": "health law", "from_english": true}
+{"sub_uri": "Q1141263", "obj_uri": "Q1907525", "obj_label": "\u30d4\u30b9\u30c8\u30eb", "sub_label": "\u30d6\u30ea\u30fc\u30c1\u30d6\u30ed\u30c3\u30af", "from_english": false}
+{"sub_uri": "Q5170005", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Cordillera de la Ramada", "from_english": true}
+{"sub_uri": "Q1068427", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Chawpi Urqu", "from_english": true}
+{"sub_uri": "Q299232", "obj_uri": "Q23413", "obj_label": "castle", "sub_label": "chemin de ronde", "from_english": true}
+{"sub_uri": "Q1475112", "obj_uri": "Q38799", "obj_label": "\u30cf\u30de\u30fc\u30b9", "sub_label": "\u30ab\u30c3\u30b5\u30e0\u65c5\u56e3", "from_english": false}
+{"sub_uri": "Q3366", "obj_uri": "Q456", "obj_label": "Lyon", "sub_label": "9th arrondissement of Lyon", "from_english": true}
+{"sub_uri": "Q3354", "obj_uri": "Q456", "obj_label": "Lyon", "sub_label": "5th arrondissement of Lyon", "from_english": true}
+{"sub_uri": "Q1371996", "obj_uri": "Q12014035", "obj_label": "hiking", "sub_label": "Trekking pole", "from_english": true}
+{"sub_uri": "Q6379087", "obj_uri": "Q9288", "obj_label": "Hebrew", "sub_label": "Kavanah", "from_english": true}
+{"sub_uri": "Q6379087", "obj_uri": "Q9268", "obj_label": "Judaism", "sub_label": "Kavanah", "from_english": true}
+{"sub_uri": "Q235062", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30ac\u30ec\u30e9\u30b9\u5c71", "from_english": false}
+{"sub_uri": "Q432343", "obj_uri": "Q23384", "obj_label": "\u6f6e\u6c50", "sub_label": "\u61a9\u6d41", "from_english": false}
+{"sub_uri": "Q166530", "obj_uri": "Q11412", "obj_label": "\u91cd\u529b", "sub_label": "\u8131\u51fa\u901f\u5ea6", "from_english": false}
+{"sub_uri": "Q7180763", "obj_uri": "Q420", "obj_label": "biology", "sub_label": "pharmaceutical science", "from_english": true}
+{"sub_uri": "Q2294553", "obj_uri": "Q8134", "obj_label": "\u7d4c\u6e08\u5b66", "sub_label": "\u91d1\u878d\u7d4c\u6e08\u5b66", "from_english": false}
+{"sub_uri": "Q280969", "obj_uri": "Q152", "obj_label": "\u9b5a\u985e", "sub_label": "\u5074\u7dda", "from_english": false}
+{"sub_uri": "Q49718", "obj_uri": "Q44167", "obj_label": "\u6a5f\u95a2", "sub_label": "\u30af\u30e9\u30f3\u30af\u30b7\u30e3\u30d5\u30c8", "from_english": false}
+{"sub_uri": "Q7302334", "obj_uri": "Q39614", "obj_label": "cemetery", "sub_label": "receiving vault", "from_english": true}
+{"sub_uri": "Q501778", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u7ffb\u8a33\u7814\u7a76", "from_english": false}
+{"sub_uri": "Q27004", "obj_uri": "Q1029907", "obj_label": "\u80c3", "sub_label": "\u30ae\u30a2\u30e9", "from_english": false}
+{"sub_uri": "Q243462", "obj_uri": "Q12483", "obj_label": "\u7d71\u8a08\u5b66", "sub_label": "\u30ab\u30a4\u4e8c\u4e57\u5206\u5e03", "from_english": false}
+{"sub_uri": "Q239606", "obj_uri": "Q8162", "obj_label": "\u8a00\u8a9e\u5b66", "sub_label": "\u8a00\u8a9e\u884c\u70ba", "from_english": false}
+{"sub_uri": "Q1190569", "obj_uri": "Q3757", "obj_label": "\u30b8\u30e3\u30ef\u5cf6", "sub_label": "\u30bf\u30f3\u30af\u30d0\u30f3\u30fb\u30d7\u30e9\u30d5\u5c71", "from_english": false}
+{"sub_uri": "Q43876", "obj_uri": "Q4648", "obj_label": "\u30d0\u30ea\u5cf6", "sub_label": "\u30d0\u30c8\u30a5\u30fc\u30eb\u5c71", "from_english": false}
+{"sub_uri": "Q42372", "obj_uri": "Q318", "obj_label": "\u9280\u6cb3", "sub_label": "\u661f\u96f2", "from_english": false}
+{"sub_uri": "Q3360", "obj_uri": "Q456", "obj_label": "Lyon", "sub_label": "7th arrondissement of Lyon", "from_english": true}
+{"sub_uri": "Q3351", "obj_uri": "Q456", "obj_label": "Lyon", "sub_label": "4th arrondissement of Lyon", "from_english": true}
+{"sub_uri": "Q859557", "obj_uri": "Q5043", "obj_label": "\u30ad\u30ea\u30b9\u30c8\u6559", "sub_label": "\u81ea\u7531\u4e3b\u7fa9\u795e\u5b66", "from_english": false}
+{"sub_uri": "Q6092666", "obj_uri": "Q37853", "obj_label": "baroque", "sub_label": "Italian Baroque art", "from_english": true}
+{"sub_uri": "Q3358", "obj_uri": "Q456", "obj_label": "Lyon", "sub_label": "6th arrondissement of Lyon", "from_english": true}
+{"sub_uri": "Q9121", "obj_uri": "Q11369", "obj_label": "\u5206\u5b50", "sub_label": "\u539f\u5b50", "from_english": false}
+{"sub_uri": "Q15675634", "obj_uri": "Q8434", "obj_label": "\u6559\u80b2", "sub_label": "\u5973\u5b50\u6559\u80b2", "from_english": false}
+{"sub_uri": "Q364881", "obj_uri": "Q184386", "obj_label": "\u30a4\u30a8\u30b9", "sub_label": "\u30c8\u30ec\u30f4\u30a1\u30fc\u30fb\u30e9\u30d3\u30f3", "from_english": false}
+{"sub_uri": "Q979507", "obj_uri": "Q9089", "obj_label": "\u30d2\u30f3\u30c9\u30a5\u30fc\u6559", "sub_label": "\u30d2\u30f3\u30c9\u30a5\u30fc\u306e\u795e\u3005", "from_english": false}
+{"sub_uri": "Q179760", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30cf\u30d0\u30af\u30af\u66f8", "from_english": false}
+{"sub_uri": "Q1413317", "obj_uri": "Q36633", "obj_label": "\u58f2\u6625", "sub_label": "\u795e\u8056\u5a3c\u5a66", "from_english": false}
+{"sub_uri": "Q1779838", "obj_uri": "Q4116214", "obj_label": "\u4f1a\u8a08", "sub_label": "\u4f1a\u8a08\u57fa\u6e96", "from_english": false}
+{"sub_uri": "Q614853", "obj_uri": "Q37144", "obj_label": "\u5b9f\u5305", "sub_label": "\u9283\u7528\u96f7\u7ba1", "from_english": false}
+{"sub_uri": "Q131640", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30cd\u30d8\u30df\u30e4\u8a18", "from_english": false}
+{"sub_uri": "Q7432692", "obj_uri": "Q3359194", "obj_label": "Oz", "sub_label": "Schoolkids OZ", "from_english": true}
+{"sub_uri": "Q223557", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u7269\u4f53", "from_english": false}
+{"sub_uri": "Q481339", "obj_uri": "Q584", "obj_label": "Rhine", "sub_label": "Seerhein", "from_english": true}
+{"sub_uri": "Q1364934", "obj_uri": "Q318028", "obj_label": "\u7832\u5f3e", "sub_label": "\u30d7\u30ed\u30da\u30e9\u30f3\u30c8", "from_english": false}
+{"sub_uri": "Q16648", "obj_uri": "Q1286", "obj_label": "\u30a2\u30eb\u30d7\u30b9\u5c71\u8108", "sub_label": "\u30b5\u30f3\u30fb\u30b8\u30e7\u30eb\u30b8\u30e7\u5c71", "from_english": false}
+{"sub_uri": "Q165192", "obj_uri": "Q21195", "obj_label": "\u30b9\u30ab\u30f3\u30c7\u30a3\u30ca\u30f4\u30a3\u30a2", "sub_label": "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3\u4eba", "from_english": false}
+{"sub_uri": "Q240033", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u7b2c5\u88c5\u7532\u5e2b\u56e3 (\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd)", "from_english": false}
+{"sub_uri": "Q214192", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u7b2c22\u7a7a\u633a\u5e2b\u56e3 (\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd)", "from_english": false}
+{"sub_uri": "Q175523", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u7b2c13\u88c5\u7532\u5e2b\u56e3", "from_english": false}
+{"sub_uri": "Q131737", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30c8\u30d3\u30c8\u8a18", "from_english": false}
+{"sub_uri": "Q5589338", "obj_uri": "Q881", "obj_label": "\u30d9\u30c8\u30ca\u30e0", "sub_label": "\u30d9\u30c8\u30ca\u30e0\u653f\u5e9c", "from_english": false}
+{"sub_uri": "Q179807", "obj_uri": "Q5891", "obj_label": "\u54f2\u5b66", "sub_label": "\u7981\u6b32\u4e3b\u7fa9", "from_english": false}
+{"sub_uri": "Q679590", "obj_uri": "Q3757", "obj_label": "\u30b8\u30e3\u30ef\u5cf6", "sub_label": "\u30d6\u30ed\u30e2\u5c71", "from_english": false}
+{"sub_uri": "Q305208", "obj_uri": "Q40218", "obj_label": "\u5b87\u5b99\u6a5f", "sub_label": "\u653e\u5c04\u6027\u540c\u4f4d\u4f53\u71b1\u96fb\u6c17\u8ee2\u63db\u5668", "from_english": false}
+{"sub_uri": "Q1155668", "obj_uri": "Q170416", "obj_label": "\u30d5\u30a3\u30ea\u30c3\u30d7\u30b9", "sub_label": "NXP\u30bb\u30df\u30b3\u30f3\u30c0\u30af\u30bf\u30fc\u30ba", "from_english": false}
+{"sub_uri": "Q905036", "obj_uri": "Q21201", "obj_label": "\u793e\u4f1a\u5b66", "sub_label": "\u8a08\u7b97\u793e\u4f1a\u5b66", "from_english": false}
+{"sub_uri": "Q835986", "obj_uri": "Q58", "obj_label": "\u9670\u830e", "sub_label": "\u9670\u830e\u9aa8", "from_english": false}
+{"sub_uri": "Q13426339", "obj_uri": "Q48493", "obj_label": "iOS", "sub_label": "IOS 7", "from_english": false}
+{"sub_uri": "Q1196371", "obj_uri": "Q8087", "obj_label": "\u5e7e\u4f55\u5b66", "sub_label": "\u5e7e\u4f55\u5b66\u7684\u5909\u63db", "from_english": false}
+{"sub_uri": "Q297672", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u30ef\u30a4\u30f3\u5b66", "from_english": false}
+{"sub_uri": "Q131230", "obj_uri": "Q68740", "obj_label": "\u30cf\u30ef\u30a4\u5cf6", "sub_label": "\u30de\u30a6\u30ca\u30fb\u30b1\u30a2\u5c71", "from_english": false}
+{"sub_uri": "Q933185", "obj_uri": "Q11299", "obj_label": "\u30de\u30f3\u30cf\u30c3\u30bf\u30f3\u533a", "sub_label": "\u30a6\u30fb\u30bf\u30f3\u30c8\u5cf6", "from_english": false}
+{"sub_uri": "Q131458", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30a4\u30b6\u30e4\u66f8", "from_english": false}
+{"sub_uri": "Q250", "obj_uri": "Q68", "obj_label": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf", "sub_label": "\u30ad\u30fc\u30dc\u30fc\u30c9", "from_english": false}
+{"sub_uri": "Q14659", "obj_uri": "Q2532754", "obj_label": "achievement", "sub_label": "coat of arms", "from_english": true}
+{"sub_uri": "Q18335", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u653e\u5c04", "from_english": false}
+{"sub_uri": "Q213649", "obj_uri": "Q309", "obj_label": "\u6b74\u53f2", "sub_label": "\u30f4\u30a1\u30a4\u30ad\u30f3\u30b0", "from_english": false}
+{"sub_uri": "Q83353", "obj_uri": "Q1069", "obj_label": "\u5730\u8cea\u5b66", "sub_label": "\u9271\u7269\u5b66", "from_english": false}
+{"sub_uri": "Q2572474", "obj_uri": "Q11024", "obj_label": "\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3", "sub_label": "\u74b0\u4e16\u754c", "from_english": false}
+{"sub_uri": "Q3230", "obj_uri": "Q2", "obj_label": "\u5730\u7403", "sub_label": "\u5730\u7403\u306e\u5927\u6c17", "from_english": false}
+{"sub_uri": "Q188942", "obj_uri": "Q177826", "obj_label": "\u8056\u8077\u8005", "sub_label": "\u30e0\u30c3\u30e9\u30fc", "from_english": false}
+{"sub_uri": "Q37172", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u6ce2\u52d5", "from_english": false}
+{"sub_uri": "Q2065207", "obj_uri": "Q19660", "obj_label": "Bucharest", "sub_label": "Drumul Taberei", "from_english": true}
+{"sub_uri": "Q930752", "obj_uri": "Q11190", "obj_label": "\u533b\u5b66", "sub_label": "\u8a3a\u7642\u79d1", "from_english": false}
+{"sub_uri": "Q209960", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u7b2c2\u5c71\u5cb3\u5e2b\u56e3 (\u30c9\u30a4\u30c4)", "from_english": false}
+{"sub_uri": "Q1430816", "obj_uri": "Q40821", "obj_label": "\u5916\u79d1\u5b66", "sub_label": "\u5c0f\u5150\u5916\u79d1\u5b66", "from_english": false}
+{"sub_uri": "Q207857", "obj_uri": "Q38311", "obj_label": "\u5f62\u614b\u8ad6", "sub_label": "\u8a9e\u5f62\u5909\u5316", "from_english": false}
+{"sub_uri": "Q1127214", "obj_uri": "Q45227", "obj_label": "\u30d4\u30b9\u30c8\u30f3", "sub_label": "\u30d4\u30b9\u30c8\u30f3\u30ea\u30f3\u30b0", "from_english": false}
+{"sub_uri": "Q131590", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30a8\u30ec\u30df\u30e4\u66f8", "from_english": false}
+{"sub_uri": "Q701732", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u88c5\u7532\u5e2b\u56e3\u300c\u30b1\u30f3\u30d7\u30d5", "from_english": false}
+{"sub_uri": "Q1535333", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30de\u30eb\u30e2\u30ec\u30db", "from_english": false}
+{"sub_uri": "Q1193625", "obj_uri": "Q21201", "obj_label": "\u793e\u4f1a\u5b66", "sub_label": "\u793e\u4f1a\u79d1\u5b66\u306e\u65b9\u6cd5\u8ad6", "from_english": false}
+{"sub_uri": "Q207961", "obj_uri": "Q8087", "obj_label": "\u5e7e\u4f55\u5b66", "sub_label": "\u5f62\u614b", "from_english": false}
+{"sub_uri": "Q168845", "obj_uri": "Q318", "obj_label": "\u9280\u6cb3", "sub_label": "\u661f\u56e3", "from_english": false}
+{"sub_uri": "Q5425713", "obj_uri": "Q253414", "obj_label": "\u56fd\u969b\u30b5\u30c3\u30ab\u30fc\u9023\u76df", "sub_label": "\u56fd\u969b\u30b5\u30c3\u30ab\u30fc\u9023\u76df\u7dcf\u4f1a", "from_english": false}
+{"sub_uri": "Q220821", "obj_uri": "Q21201", "obj_label": "sociology", "sub_label": "visual sociology", "from_english": true}
+{"sub_uri": "Q518261", "obj_uri": "Q309", "obj_label": "\u6b74\u53f2", "sub_label": "\u6587\u5316\u570f", "from_english": false}
+{"sub_uri": "Q2964004", "obj_uri": "Q40821", "obj_label": "\u5916\u79d1\u5b66", "sub_label": "\u80f8\u90e8\u5916\u79d1\u5b66", "from_english": false}
+{"sub_uri": "Q723587", "obj_uri": "Q309", "obj_label": "\u6b74\u53f2", "sub_label": "\u30a6\u30eb\u7b2c\u4e09\u738b\u671d", "from_english": false}
+{"sub_uri": "Q2853045", "obj_uri": "Q23404", "obj_label": "anthropology", "sub_label": "cognitive anthropology", "from_english": true}
+{"sub_uri": "Q690068", "obj_uri": "Q21201", "obj_label": "\u793e\u4f1a\u5b66", "sub_label": "\u90fd\u5e02\u5730\u7406\u5b66", "from_english": false}
+{"sub_uri": "Q237632", "obj_uri": "Q13147", "obj_label": "\u982d\u84cb", "sub_label": "\u53e3\u84cb\u9aa8", "from_english": false}
+{"sub_uri": "Q4353287", "obj_uri": "Q1656877", "obj_label": "Idol", "sub_label": "Idol 2011", "from_english": true}
+{"sub_uri": "Q13559828", "obj_uri": "Q267298", "obj_label": "\u96fb\u6c60", "sub_label": "\u4e7e\u96fb\u6c60", "from_english": false}
+{"sub_uri": "Q487192", "obj_uri": "Q1907525", "obj_label": "\u30d4\u30b9\u30c8\u30eb", "sub_label": "\u9283\u7832\u8eab", "from_english": false}
+{"sub_uri": "Q795527", "obj_uri": "Q9531", "obj_label": "BBC", "sub_label": "Board of Governors of the BBC", "from_english": true}
+{"sub_uri": "Q932510", "obj_uri": "Q40821", "obj_label": "\u5916\u79d1\u5b66", "sub_label": "\u4e00\u822c\u5916\u79d1\u5b66", "from_english": false}
+{"sub_uri": "Q177719", "obj_uri": "Q11190", "obj_label": "\u533b\u5b66", "sub_label": "\u8a3a\u65ad\u884c\u70ba", "from_english": false}
+{"sub_uri": "Q323936", "obj_uri": "Q614304", "obj_label": "\u85ac\u5b66", "sub_label": "\u85ac\u7269\u52d5\u614b\u5b66", "from_english": false}
+{"sub_uri": "Q16852201", "obj_uri": "Q870815", "obj_label": "Glamorgan", "sub_label": "Kibbor", "from_english": true}
+{"sub_uri": "Q214924", "obj_uri": "Q584", "obj_label": "\u30e9\u30a4\u30f3\u5ddd", "sub_label": "\u30e9\u30a4\u30f3\u6edd", "from_english": false}
+{"sub_uri": "Q169932", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u7b2c11\u88c5\u7532\u5e2b\u56e3", "from_english": false}
+{"sub_uri": "Q190769", "obj_uri": "Q37748", "obj_label": "\u67d3\u8272\u4f53", "sub_label": "\u4e2d\u5fc3\u4f53", "from_english": false}
+{"sub_uri": "Q911907", "obj_uri": "Q8087", "obj_label": "\u5e7e\u4f55\u5b66", "sub_label": "\u4e8c\u9762\u89d2", "from_english": false}
+{"sub_uri": "Q948008", "obj_uri": "Q57821", "obj_label": "\u7bc9\u57ce", "sub_label": "\u659c\u5824", "from_english": false}
+{"sub_uri": "Q4116214", "obj_uri": "Q43015", "obj_label": "\u91d1\u878d", "sub_label": "\u4f1a\u8a08", "from_english": false}
+{"sub_uri": "Q431603", "obj_uri": "Q187117", "obj_label": "\u30ed\u30d3\u30fc\u6d3b\u52d5", "sub_label": "\u5229\u76ca\u56e3\u4f53", "from_english": false}
+{"sub_uri": "Q10387", "obj_uri": "Q121176", "obj_label": "\u770b\u8b77", "sub_label": "\u8001\u4eba\u5b66", "from_english": false}
+{"sub_uri": "Q171448", "obj_uri": "Q160342", "obj_label": "\u7dda\u8def", "sub_label": "\u8e0f\u5207", "from_english": false}
+{"sub_uri": "Q7784279", "obj_uri": "Q318", "obj_label": "\u9280\u6cb3", "sub_label": "\u8584\u3044\u5186\u76e4", "from_english": false}
+{"sub_uri": "Q3030613", "obj_uri": "Q318", "obj_label": "\u9280\u6cb3", "sub_label": "\u539a\u3044\u5186\u76e4", "from_english": false}
+{"sub_uri": "Q158470", "obj_uri": "Q4648", "obj_label": "\u30d0\u30ea\u5cf6", "sub_label": "\u30a2\u30b0\u30f3\u5c71", "from_english": false}
+{"sub_uri": "Q16413", "obj_uri": "Q75", "obj_label": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8", "sub_label": "Teredo \u30c8\u30f3\u30cd\u30ea\u30f3\u30b0", "from_english": false}
+{"sub_uri": "Q181620", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30b5\u30e0\u30a8\u30eb\u8a18", "from_english": false}
+{"sub_uri": "Q806074", "obj_uri": "Q125384", "obj_label": "\u30eb\u30bd\u30f3", "sub_label": "\u30d0\u30ca\u30db\u30fc\u5c71", "from_english": false}
+{"sub_uri": "Q8056786", "obj_uri": "Q866", "obj_label": "YouTube", "sub_label": "YouTube Original Channel Initiative", "from_english": true}
+{"sub_uri": "Q275914", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u7b2c90\u8efd\u30a2\u30d5\u30ea\u30ab\u5e2b\u56e3", "from_english": false}
+{"sub_uri": "Q15922520", "obj_uri": "Q482", "obj_label": "\u8a69", "sub_label": "\u4e8c\u884c\u9023", "from_english": false}
+{"sub_uri": "Q5422636", "obj_uri": "Q38695", "obj_label": "\u8abf\u7406", "sub_label": "\u60e3\u83dc", "from_english": false}
+{"sub_uri": "Q4740868", "obj_uri": "Q3884", "obj_label": "Amazon.com", "sub_label": "\u30a2\u30de\u30be\u30f3\u30fb\u30b9\u30bf\u30b8\u30aa", "from_english": false}
+{"sub_uri": "Q3401519", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u7b2c2\u6b69\u5175\u5e2b\u56e3", "from_english": false}
+{"sub_uri": "Q406520", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Wila Lluxita", "from_english": true}
+{"sub_uri": "Q1651768", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Wila Lluxi", "from_english": true}
+{"sub_uri": "Q1651882", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Janq'u Uyu", "from_english": true}
+{"sub_uri": "Q35395", "obj_uri": "Q420", "obj_label": "\u751f\u7269\u5b66", "sub_label": "\u97f3\u58f0\u5b66", "from_english": false}
+{"sub_uri": "Q1650918", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Phaq'u Kiwuta", "from_english": true}
+{"sub_uri": "Q51617", "obj_uri": "Q5043", "obj_label": "\u30ad\u30ea\u30b9\u30c8\u6559", "sub_label": "\u6559\u4f1a\u66a6", "from_english": false}
+{"sub_uri": "Q1141263", "obj_uri": "Q124072", "obj_label": "\u5c0f\u9283", "sub_label": "\u30d6\u30ea\u30fc\u30c1\u30d6\u30ed\u30c3\u30af", "from_english": false}
+{"sub_uri": "Q2735753", "obj_uri": "Q3757", "obj_label": "Java", "sub_label": "Gunung Guntur", "from_english": true}
+{"sub_uri": "Q266893", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u5357\u65b9\u8ecd\u96c6\u56e3", "from_english": false}
+{"sub_uri": "Q2691930", "obj_uri": "Q872181", "obj_label": "\u30dc\u30fc\u30a4\u30b9\u30ab\u30a6\u30c8", "sub_label": "\u30a8\u30a2\u30b9\u30ab\u30a6\u30c8", "from_english": false}
+{"sub_uri": "Q243684", "obj_uri": "Q12546", "obj_label": "\u5341\u5b57\u8ecd", "sub_label": "\u7b2c8\u56de\u5341\u5b57\u8ecd", "from_english": false}
+{"sub_uri": "Q7225124", "obj_uri": "Q1537", "obj_label": "Wisconsin", "sub_label": "administrative territorial entity of Wisconsin", "from_english": true}
+{"sub_uri": "Q745328", "obj_uri": "Q12483", "obj_label": "\u7d71\u8a08\u5b66", "sub_label": "\u6570\u7406\u7d71\u8a08\u5b66", "from_english": false}
+{"sub_uri": "Q74259", "obj_uri": "Q1286", "obj_label": "\u30a2\u30eb\u30d7\u30b9\u5c71\u8108", "sub_label": "\u897f\u30a2\u30eb\u30d7\u30b9\u5c71\u8108", "from_english": false}
+{"sub_uri": "Q7530445", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Sirihuani", "from_english": true}
+{"sub_uri": "Q3925349", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Pucajirca", "from_english": true}
+{"sub_uri": "Q6432725", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Chumpe", "from_english": true}
+{"sub_uri": "Q7344719", "obj_uri": "Q1656877", "obj_label": "Idol", "sub_label": "Idol 2013", "from_english": true}
+{"sub_uri": "Q3925354", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Pucaranra", "from_english": true}
+{"sub_uri": "Q3008160", "obj_uri": "Q7252", "obj_label": "\u30d5\u30a7\u30df\u30cb\u30ba\u30e0", "sub_label": "\u30b5\u30a4\u30d0\u30fc\u30d5\u30a7\u30df\u30cb\u30ba\u30e0", "from_english": false}
+{"sub_uri": "Q6151343", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30cd\u30d0\u30c9\u30fb\u30d1\u30ea\u30a2\u30ab\u30ab", "from_english": false}
+{"sub_uri": "Q3787365", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Hualc\u00e1n", "from_english": true}
+{"sub_uri": "Q42240", "obj_uri": "Q336", "obj_label": "\u79d1\u5b66", "sub_label": "\u7814\u7a76", "from_english": false}
+{"sub_uri": "Q3322847", "obj_uri": "Q81009", "obj_label": "rhetoric", "sub_label": "dispositio", "from_english": true}
+{"sub_uri": "Q808561", "obj_uri": "Q37853", "obj_label": "\u30d0\u30ed\u30c3\u30af", "sub_label": "\u30d0\u30ed\u30c3\u30af\u7d75\u753b", "from_english": false}
+{"sub_uri": "Q2855273", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30c6\u30a3\u30af\u30b5\u30cb\u5c71", "from_english": false}
+{"sub_uri": "Q1741837", "obj_uri": "Q121176", "obj_label": "nursing", "sub_label": "pediatric nursing", "from_english": true}
+{"sub_uri": "Q13190358", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Pomanota", "from_english": true}
+{"sub_uri": "Q1153495", "obj_uri": "Q2920921", "obj_label": "\u7d4c\u55b6\u7ba1\u7406\u8ad6", "sub_label": "\u69cb\u6210\u7ba1\u7406", "from_english": false}
+{"sub_uri": "Q164587", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u30ed\u30b7\u30a2\u89e3\u653e\u8ecd", "from_english": false}
+{"sub_uri": "Q185325", "obj_uri": "Q11190", "obj_label": "\u533b\u5b66", "sub_label": "\u5fc3\u80ba\u8607\u751f\u6cd5", "from_english": false}
+{"sub_uri": "Q15181341", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Antarasu", "from_english": true}
+{"sub_uri": "Q16900217", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Sinqa", "from_english": true}
+{"sub_uri": "Q651480", "obj_uri": "Q44337", "obj_label": "\u884c\u5217", "sub_label": "\u4e3b\u5bfe\u89d2\u7dda", "from_english": false}
+{"sub_uri": "Q144327", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Nevado del Tolima", "from_english": true}
+{"sub_uri": "Q13190936", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Ticlla", "from_english": true}
+{"sub_uri": "Q1498222", "obj_uri": "Q40821", "obj_label": "\u5916\u79d1\u5b66", "sub_label": "\u8840\u7ba1\u5916\u79d1\u5b66", "from_english": false}
+{"sub_uri": "Q16927616", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "\u30b0\u30fc\u30b0\u30eb\u30fb\u30d6\u30ec\u30a4\u30f3", "from_english": false}
+{"sub_uri": "Q312930", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30b3\u30d1\u30a6\u30a8\u5c71", "from_english": false}
+{"sub_uri": "Q1490797", "obj_uri": "Q23498", "obj_label": "archaeology", "sub_label": "Ring ditch", "from_english": true}
+{"sub_uri": "Q3097812", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u534a\u7d4c\u9a13\u7684\u5206\u5b50\u8ecc\u9053\u6cd5", "from_english": false}
+{"sub_uri": "Q148958", "obj_uri": "Q1907525", "obj_label": "\u30d4\u30b9\u30c8\u30eb", "sub_label": "\u5f3e\u5009", "from_english": false}
+{"sub_uri": "Q504033", "obj_uri": "Q40821", "obj_label": "\u5916\u79d1\u5b66", "sub_label": "\u53e3\u8154\u5916\u79d1", "from_english": false}
+{"sub_uri": "Q16896350", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Pachatusan", "from_english": true}
+{"sub_uri": "Q1411784", "obj_uri": "Q326359", "obj_label": "Palatinate", "sub_label": "Western Palatinate", "from_english": true}
+{"sub_uri": "Q16898434", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Pillku Urqu", "from_english": true}
+{"sub_uri": "Q43099", "obj_uri": "Q34990", "obj_label": "\u30c8\u30fc\u30e9\u30fc", "sub_label": "\u6c11\u6570\u8a18", "from_english": false}
+{"sub_uri": "Q205768", "obj_uri": "Q1069", "obj_label": "\u5730\u8cea\u5b66", "sub_label": "\u5806\u7a4d\u5b66", "from_english": false}
+{"sub_uri": "Q166042", "obj_uri": "Q23558", "obj_label": "House", "sub_label": "House, season 1", "from_english": true}
+{"sub_uri": "Q18359721", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Warawarani (Bolivia)", "from_english": true}
+{"sub_uri": "Q5051825", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u30ab\u30c6\u30b4\u30ea\u5316", "from_english": false}
+{"sub_uri": "Q1079817", "obj_uri": "Q9268", "obj_label": "Judaism", "sub_label": "Jewish wedding", "from_english": true}
+{"sub_uri": "Q772938", "obj_uri": "Q284860", "obj_label": "\u30b8\u30e3\u30cd\u30c3\u30c8", "sub_label": "\u3069\u3093\u306a\u3068\u304d\u3082\u3001\u3069\u3053\u306b\u3044\u3066\u3082", "from_english": false}
+{"sub_uri": "Q898127", "obj_uri": "Q284860", "obj_label": "\u30b8\u30e3\u30cd\u30c3\u30c8", "sub_label": "\u30e6\u30fc\u30fb\u30a6\u30a9\u30f3\u30c8\u30fb\u30c7\u30a3\u30b9", "from_english": false}
+{"sub_uri": "Q223203", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u7b2c3\u5c71\u5cb3\u5e2b\u56e3 (\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd)", "from_english": false}
+{"sub_uri": "Q665000", "obj_uri": "Q1286", "obj_label": "\u30a2\u30eb\u30d7\u30b9\u5c71\u8108", "sub_label": "\u30b0\u30e9\u30a6\u30b7\u30e5\u30d4\u30c3\u30c4", "from_english": false}
+{"sub_uri": "Q422835", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Tronador", "from_english": true}
+{"sub_uri": "Q23009", "obj_uri": "Q36794", "obj_label": "\u6249", "sub_label": "\u30c9\u30a2\u30ce\u30d6", "from_english": false}
+{"sub_uri": "Q168291", "obj_uri": "Q7364", "obj_label": "\u773c", "sub_label": "\u89d2\u819c", "from_english": false}
+{"sub_uri": "Q51675", "obj_uri": "Q1845", "obj_label": "\u8056\u66f8", "sub_label": "\u30de\u30e9\u30ad\u66f8", "from_english": false}
+{"sub_uri": "Q3238443", "obj_uri": "Q7252", "obj_label": "feminism", "sub_label": "Pro-feminism", "from_english": true}
+{"sub_uri": "Q374727", "obj_uri": "Q9633", "obj_label": "\u9996", "sub_label": "\u3046\u306a\u3058", "from_english": false}
+{"sub_uri": "Q927227", "obj_uri": "Q330946", "obj_label": "\u5203", "sub_label": "\u30ea\u30ab\u30c3\u30bd", "from_english": false}
+{"sub_uri": "Q927227", "obj_uri": "Q12791", "obj_label": "\u5263", "sub_label": "\u30ea\u30ab\u30c3\u30bd", "from_english": false}
+{"sub_uri": "Q1944497", "obj_uri": "Q11451", "obj_label": "agriculture", "sub_label": "crop protection", "from_english": true}
+{"sub_uri": "Q13637970", "obj_uri": "Q11633", "obj_label": "photography", "sub_label": "Infinity focus", "from_english": true}
+{"sub_uri": "Q181497", "obj_uri": "Q290", "obj_label": "\u6027", "sub_label": "\u6027\u7684\u4e8c\u5f62", "from_english": false}
+{"sub_uri": "Q447117", "obj_uri": "Q50868", "obj_label": "\u30a8\u30b8\u30d7\u30c8\u8a9e", "sub_label": "\u53e4\u30a8\u30b8\u30d7\u30c8\u8a9e", "from_english": false}
+{"sub_uri": "Q486986", "obj_uri": "Q18869", "obj_label": "\u30b3\u30fc\u30ab\u30b5\u30b9", "sub_label": "\u5927\u30b3\u30fc\u30ab\u30b5\u30b9\u5c71\u8108", "from_english": false}
+{"sub_uri": "Q216593", "obj_uri": "Q18869", "obj_label": "\u30b3\u30fc\u30ab\u30b5\u30b9", "sub_label": "\u5c0f\u30b3\u30fc\u30ab\u30b5\u30b9\u5c71\u8108", "from_english": false}
+{"sub_uri": "Q300951", "obj_uri": "Q2329", "obj_label": "\u5316\u5b66", "sub_label": "\u9178\u5869\u57fa\u6307\u793a\u85ac", "from_english": false}
+{"sub_uri": "Q1551536", "obj_uri": "Q125384", "obj_label": "\u30eb\u30bd\u30f3", "sub_label": "\u30de\u30ad\u30ea\u30f3\u5c71", "from_english": false}
+{"sub_uri": "Q128593", "obj_uri": "Q5891", "obj_label": "\u54f2\u5b66", "sub_label": "\u8ee2\u751f", "from_english": false}
+{"sub_uri": "Q246313", "obj_uri": "Q128781", "obj_label": "\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd", "sub_label": "\u7b2c6\u6a5f\u7532\u5e2b\u56e3 (\u30c9\u30a4\u30c4\u56fd\u9632\u8ecd)", "from_english": false}
+{"sub_uri": "Q7950987", "obj_uri": "Q43380", "obj_label": "CBS", "sub_label": "WIVB-TV", "from_english": true}
+{"sub_uri": "Q131222", "obj_uri": "Q395", "obj_label": "\u6570\u5b66", "sub_label": "\u60c5\u5831\u7406\u8ad6", "from_english": false}
+{"sub_uri": "Q2084125", "obj_uri": "Q121176", "obj_label": "\u770b\u8b77", "sub_label": "\u770b\u8b77\u8a3a\u65ad", "from_english": false}
+{"sub_uri": "Q1087346", "obj_uri": "Q4648", "obj_label": "Bali", "sub_label": "Bukit Peninsula", "from_english": true}
+{"sub_uri": "Q1192782", "obj_uri": "Q6138961", "obj_label": "SL", "sub_label": "L", "from_english": false}
+{"sub_uri": "Q1129049", "obj_uri": "Q21201", "obj_label": "\u793e\u4f1a\u5b66", "sub_label": "\u53c2\u4e0e\u89b3\u5bdf", "from_english": false}
+{"sub_uri": "Q906336", "obj_uri": "Q5456", "obj_label": "\u30a2\u30f3\u30c7\u30b9\u5c71\u8108", "sub_label": "\u30e1\u30eb\u30bb\u30c0\u30ea\u30aa\u5c71", "from_english": false}
+{"sub_uri": "Q37187", "obj_uri": "Q7873", "obj_label": "\u8840\u6db2", "sub_label": "\u8d64\u8840\u7403", "from_english": false}
+{"sub_uri": "Q1412977", "obj_uri": "Q124072", "obj_label": "\u5c0f\u9283", "sub_label": "\u6483\u91dd", "from_english": false}
+{"sub_uri": "Q2142347", "obj_uri": "Q37813", "obj_label": "\u751f\u614b\u7cfb", "sub_label": "\u74b0\u5883\u56e0\u5b50", "from_english": false}
+{"sub_uri": "Q11306265", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u30ce\u30a4\u30ba", "from_english": false}
+{"sub_uri": "Q4353619", "obj_uri": "Q1656877", "obj_label": "Idol", "sub_label": "Idol 2005", "from_english": true}
+{"sub_uri": "Q184876", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "\u57fa\u6e96\u7cfb", "from_english": false}
+{"sub_uri": "Q948022", "obj_uri": "Q37813", "obj_label": "\u751f\u614b\u7cfb", "sub_label": "\u751f\u614b\u30d4\u30e9\u30df\u30c3\u30c9", "from_english": false}
+{"sub_uri": "Q513656", "obj_uri": "Q413", "obj_label": "\u7269\u7406\u5b66", "sub_label": "C\u5bfe\u79f0\u6027", "from_english": false}
+{"sub_uri": "Q724", "obj_uri": "Q771", "obj_label": "\u30de\u30b5\u30c1\u30e5\u30fc\u30bb\u30c3\u30c4\u5dde", "sub_label": "\u30e1\u30a4\u30f3\u5dde", "from_english": false}
+{"sub_uri": "Q1773534", "obj_uri": "Q3559", "obj_label": "\u5f57\u661f", "sub_label": "\u6838", "from_english": false}
+{"sub_uri": "Q42250", "obj_uri": "Q1069", "obj_label": "\u5730\u8cea\u5b66", "sub_label": "\u6c34\u6587\u5b66", "from_english": false}
+{"sub_uri": "Q12130", "obj_uri": "Q327", "obj_label": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u534a\u5cf6", "sub_label": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u5730\u57df\u570f", "from_english": false}
+{"sub_uri": "Q183257", "obj_uri": "Q179661", "obj_label": "\u6cbb\u7642", "sub_label": "\u5fc3\u7406\u7642\u6cd5", "from_english": false}
+{"sub_uri": "Q198019", "obj_uri": "Q23239", "obj_label": "\u30a2\u30e0\u30c8\u30e9\u30c3\u30af", "sub_label": "\u30e6\u30cb\u30aa\u30f3\u99c5", "from_english": false}
+{"sub_uri": "Q667141", "obj_uri": "Q506", "obj_label": "flower", "sub_label": "column", "from_english": true}
+{"sub_uri": "Q919765", "obj_uri": "Q41217", "obj_label": "\u529b\u5b66", "sub_label": "\u8a08\u7b97\u529b\u5b66", "from_english": false}
+{"sub_uri": "Q1364934", "obj_uri": "Q37144", "obj_label": "\u5b9f\u5305", "sub_label": "\u30d7\u30ed\u30da\u30e9\u30f3\u30c8", "from_english": false}
+{"sub_uri": "Q589504", "obj_uri": "Q429165", "obj_label": "A1", "sub_label": "Mala Kapela Tunnel", "from_english": true}
+{"sub_uri": "Q1075162", "obj_uri": "Q5456", "obj_label": "Andes", "sub_label": "Ubinas", "from_english": true}
+{"sub_uri": "Q3083331", "obj_uri": "Q37853", "obj_label": "baroque", "sub_label": "Andean Baroque", "from_english": true}

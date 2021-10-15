@@ -1,0 +1,4 @@
+{"pattern": "[X] jest w\u0142asno\u015bci\u0105 [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] W\u0142a\u015bciciel [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] jest w\u0142a\u015bcicielem [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] posiada [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}

@@ -1,0 +1,12 @@
+{"pattern": "[X] \u0c35\u0c43\u0c24\u0c4d\u0c24\u0c3f\u0c30\u0c40\u0c24\u0c4d\u0c2f\u0c3e [Y]", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] \u0c35\u0c43\u0c24\u0c4d\u0c24\u0c3f\u0c30\u0c40\u0c24\u0c4d\u0c2f\u0c3e [Y]", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] \u0c36\u0c3f\u0c15\u0c4d\u0c37\u0c23 \u0c26\u0c4d\u0c35\u0c3e\u0c30\u0c3e [Y]", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] \u0c36\u0c3f\u0c15\u0c4d\u0c37\u0c23 \u0c26\u0c4d\u0c35\u0c3e\u0c30\u0c3e [Y]", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[Y] \u0c2a\u0c28\u0c3f\u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28 [X]", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[Y] \u0c2a\u0c28\u0c3f\u0c1a\u0c47\u0c38\u0c47 [X]", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[Y] \u0c17\u0c3e \u0c2a\u0c28\u0c3f\u0c1a\u0c47\u0c38\u0c47 [X]", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] \u0c35\u0c43\u0c24\u0c4d\u0c24\u0c3f [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X] \u0c2f\u0c4a\u0c15\u0c4d\u0c15 \u0c35\u0c43\u0c24\u0c4d\u0c24\u0c3f [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X] \u0c35\u0c43\u0c24\u0c4d\u0c24\u0c3f \u0c12\u0c15 [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] \u0c35\u0c43\u0c24\u0c4d\u0c24\u0c3f [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] \u0c35\u0c43\u0c24\u0c4d\u0c24\u0c3f [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

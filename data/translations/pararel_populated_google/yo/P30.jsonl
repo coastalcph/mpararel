@@ -1,0 +1,6 @@
+{"pattern": "[X] wa ni [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] wa ni [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] j\u1eb9 ti [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] j\u1eb9 ti k\u1ecdnputa ti [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] j\u1eb9 apakan ti [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}
+{"pattern": "[X] j\u1eb9 apakan ti k\u1ecdnputa ti [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

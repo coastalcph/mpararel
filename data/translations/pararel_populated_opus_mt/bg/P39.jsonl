@@ -1,0 +1,13 @@
+{"pattern": "[X] \u043d\u0430 [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] \u0435 [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] \u0438\u043c\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u0442\u0430 \u043d\u0430 [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u0442\u0430 \u043d\u0430 [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] \u0447\u0438\u044f\u0442\u043e \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0435 \u0442\u0430\u0437\u0438 \u043d\u0430 [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] \u0447\u0438\u044f\u0442\u043e \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0435 [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "\u041f\u043e\u0437\u0438\u0446\u0438\u044f\u0442\u0430 \u043d\u0430 [X] \u0435 [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] \u0435 [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] \u043a\u043e\u0439\u0442\u043e \u0437\u0430\u0435\u043c\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u0442\u0430 \u043d\u0430 [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] \u043a\u043e\u0439\u0442\u043e \u0437\u0430\u0435\u043c\u0430 [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] \u0437\u0430\u0435\u043c\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u0442\u0430 \u043d\u0430 [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] \u0437\u0430\u0435\u043c\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u044f\u0442\u0430 \u043d\u0430 [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] \u0437\u0430\u0435\u043c\u0430 [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

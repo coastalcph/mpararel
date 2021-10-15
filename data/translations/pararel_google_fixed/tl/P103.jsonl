@@ -1,0 +1,4 @@
+{"pattern": "Ang katutubong wika ng [X] ay [Y].", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Ang ina ng dila ng [X] ay [Y].", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] ay [X] katutubong wika.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] ay [X] ng wika.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

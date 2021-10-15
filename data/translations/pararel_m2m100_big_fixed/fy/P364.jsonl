@@ -1,0 +1,6 @@
+{"pattern": "De earste taal fan [X] is [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "De earste taal fan [X] wie [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "De taal fan [X] is [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "De taal fan [X] wie [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "It is de taal fan [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y]n de taal is it ynteressearre.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

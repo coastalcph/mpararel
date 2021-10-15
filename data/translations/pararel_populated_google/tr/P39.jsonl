@@ -1,0 +1,4 @@
+{"pattern": "[Y] pozisyonuna sahip olan [X]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[Y] sahip olan [X]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] konumu [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[Y] konumunu tutan [X]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}

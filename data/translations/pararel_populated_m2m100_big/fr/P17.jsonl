@@ -1,0 +1,10 @@
+{"pattern": "[X] est [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X] est situ\u00e9 [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X] est situ\u00e9 en [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X] en [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
+{"pattern": "[X] qui est situ\u00e9 [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] qui est situ\u00e9 en [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] est [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] situ\u00e9 en [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
+{"pattern": "[X] situ\u00e9 [Y]", "lemma": "located", "extended_lemma": "located", "tense": "present"}
+{"pattern": "[X] situ\u00e9 en [Y]", "lemma": "located", "extended_lemma": "located", "tense": "present"}

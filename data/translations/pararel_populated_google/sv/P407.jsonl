@@ -1,0 +1,40 @@
+{"pattern": "[X] skrevs p\u00e5 [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] skrevs [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] skrevs i [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] \u00e4r skrivet p\u00e5 [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] \u00e4r skrivet [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] \u00e4r skrivet i [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] skrevs p\u00e5 [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] skrevs p\u00e5 [Y] spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] skrevs p\u00e5 det [Y] spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] \u00e4r skrivet p\u00e5 [Y] spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] \u00e4r skrivet p\u00e5 [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] \u00e4r skrivet p\u00e5 det [Y] spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] skrivet p\u00e5 [Y] spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] skrivet p\u00e5 [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] skrivet p\u00e5 det [Y] spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] p\u00e5 [Y] spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] p\u00e5 det [Y] spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] p\u00e5 [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] skrivna p\u00e5 [Y] spr\u00e5ket.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Spr\u00e5ket i [X] \u00e4r [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] \u00e4r [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Spr\u00e5ket [X] \u00e4r [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Spr\u00e5ket i [X] var [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] var [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Spr\u00e5ket [X] var [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] \u00e4r ett arbete p\u00e5 [Y] spr\u00e5ket.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] \u00e4r ett arbete p\u00e5 [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] \u00e4r ett arbete p\u00e5 det [Y] spr\u00e5ket.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] var ett arbete p\u00e5 [Y] spr\u00e5ket.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] var ett arbete p\u00e5 [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] var ett arbete p\u00e5 det [Y] spr\u00e5ket.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Den [Y] spr\u00e5ket skapandet [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "Den [Y] spr\u00e5ket [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "Den [Y] skapandet [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] \u00e4r spr\u00e5ket i [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] \u00e4r [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] \u00e4r spr\u00e5ket [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] var spr\u00e5ket i [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] var [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] var spr\u00e5ket [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

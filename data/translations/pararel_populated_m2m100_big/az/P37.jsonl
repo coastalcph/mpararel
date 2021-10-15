@@ -1,0 +1,6 @@
+{"pattern": "[X] dili [Y] dilidir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] dili [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] resmi dili [Y] dilidir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] dili [X] resmi dilidir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] dili [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] dili [X] dilidir.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}

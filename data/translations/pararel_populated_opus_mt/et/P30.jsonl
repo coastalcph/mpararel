@@ -1,0 +1,4 @@
+{"pattern": "[X] asub [Y] mandril.", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] asub [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] kuulub [Y] mandrile.", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] on osa [Y] mandrist.", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

@@ -1,0 +1,18 @@
+{"pattern": "[X] \u05e0\u05db\u05ea\u05d1 \u05d1 [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] \u05e0\u05db\u05ea\u05d1 \u05d1 [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] \u05e0\u05db\u05ea\u05d1 \u05d1\u05e9\u05e4\u05d4 [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] \u05e0\u05db\u05ea\u05d1 \u05d1\u05e9\u05e4\u05d4 [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], \u05db\u05ea\u05d5\u05d1 \u05d1\u05e9\u05e4\u05d4 [Y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "\u05d4\u05e9\u05e4\u05d4 \u05e9\u05dc [X] \u05d4\u05d9\u05d0 [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "\u05d4\u05e9\u05e4\u05d4 \u05e9\u05dc [X] \u05d4\u05d9\u05ea\u05d4 [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] \u05d4\u05d5\u05d0 \u05e2\u05d1\u05d5\u05d3\u05ea \u05e9\u05e4\u05d4 [Y].", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] \u05d4\u05d5\u05d0 \u05e2\u05d1\u05d5\u05d3\u05ea \u05e9\u05e4\u05d4 [Y].", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], \u05e2\u05d1\u05d5\u05d3\u05ea \u05e9\u05e4\u05d4 [Y].", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], \u05e2\u05d1\u05d5\u05d3\u05ea \u05e9\u05e4\u05d4 [Y].", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] \u05d4\u05d9\u05d4 \u05e2\u05d1\u05d5\u05d3\u05ea \u05e9\u05e4\u05d4 [Y].", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] \u05d4\u05d9\u05d4 \u05e2\u05d1\u05d5\u05d3\u05ea \u05e9\u05e4\u05d4 [Y].", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] \u05d4\u05d9\u05d0 \u05e2\u05d1\u05d5\u05d3\u05d4 \u05d1\u05e9\u05e4\u05d4 [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] \u05d4\u05d9\u05ea\u05d4 \u05e2\u05d1\u05d5\u05d3\u05d4 \u05d1\u05e9\u05e4\u05d4 [Y].", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "\u05d9\u05e6\u05d9\u05e8\u05ea \u05d4\u05e9\u05e4\u05d4 [Y] [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] \u05d4\u05d9\u05d0 \u05e9\u05e4\u05ea [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] \u05d4\u05d9\u05ea\u05d4 \u05d4\u05e9\u05e4\u05d4 \u05e9\u05dc [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

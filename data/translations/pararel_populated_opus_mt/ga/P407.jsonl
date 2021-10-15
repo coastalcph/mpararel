@@ -1,0 +1,10 @@
+{"pattern": "Is [Y] saothar [X]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "Is [Y] saothar sa [X]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "Is [Y] sa [X]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "Is saothar sa [Y] \u00e9 [X]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "Is [Y] \u00e9 [X]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "Is [Y] sa teanga [X]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[Y] an teanga [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Ba \u00ed an [Y] teanga [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Ba \u00ed [Y] teanga [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Ba [Y] an teanga [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

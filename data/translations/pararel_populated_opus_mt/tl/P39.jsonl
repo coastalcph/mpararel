@@ -1,0 +1,24 @@
+{"pattern": "[X] ay may [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "Si [X] ay may posisyong [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] ay may posisyong [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "Ang [X] ay may posisyong [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] na may posisyon bilang [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] na may [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] na may posisyong [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] na [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] na ang posisyon ay gaya ng sa [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] na ang posisyon ay gaya ng [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] na ang posisyon ay [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] na ang posisyon ay ang [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] ay [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "Ang posisyon ni [X] ay [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "Ang posisyon [X] ay [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] na humahawak sa posisyon ng [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] na humahawak ng [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] na [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] na humahawak ng posisyon [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] na humahawak ng posisyon ng [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] ang posisyon ng [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] posisyon ng [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "Hawak ni [X] ang posisyon ng [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] ng posisyon ng [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

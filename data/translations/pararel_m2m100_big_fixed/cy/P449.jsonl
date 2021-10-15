@@ -1,0 +1,11 @@
+{"pattern": "Yn gyntaf, mae'r [X]-ray yn cael ei ddibynnu ar [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] yn dechrau ar [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y]dych chi'n ddiddordeb yn [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y]dych chi'n ddiddordeb yn [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] yn dechrau ar [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "Mae'r ([Y]) debyd o [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y]mchwiliad o [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] wedi cael ei ryddhau ar [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] yn cael ei ryddhau [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] yn dechrau ar [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] yn dechrau ar [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

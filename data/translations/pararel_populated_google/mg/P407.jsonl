@@ -1,0 +1,64 @@
+{"pattern": "[X] dia nosoratana tamin'ny [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] dia nosoratana [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "Ny [X] dia nosoratana [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] nosoratana tamin'ny teny [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] nosoratana [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] dia nosoratana tamin'ny teny [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] amin'ny teny [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] teny [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] amin'ny [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] dia voasoratra amin'ny [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] dia voasoratra amin'ny teny [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] dia [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] tamin'ny fiteny [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] dia nosoratana tamin'ny fiteny [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] amin'ny fiteny [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] dia voasoratra amin'ny fiteny [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] voasoratra amin'ny fiteny [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] fiteny [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Ny fitenin'ny [X] dia [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ny [X] dia [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ny fiteny [X] dia [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] ny [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Ny [X] dia [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Ny fitenin'ny [X] dia [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Ny fiteny [X] dia [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] fiteny [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] fiteny [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "Ny [X] dia asa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] dia asa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] dia asa miteny [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] dia asa fiteny [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] fiteny [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "Ny [X] dia asa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] dia asa fiteny [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] dia asa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] asa fiteny [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] asa [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] asa fiteny [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] asa [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] asa fiteny [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "Ny [X] dia asa fiteny [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] dia asa fiteny [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] dia asa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] fiteny [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "Ny [X] dia asa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] dia asa fiteny [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] dia asa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] amin'ny fiteny [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] dia asa amin'ny fiteny [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] tamin'ny fiteny [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Ny [X] dia asa tamin'ny fiteny [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] dia asa tamin'ny fiteny [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] fiteny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Ny [Y] fiteny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] no [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] no fitenin'ny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] no fiteny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Ny teny [Y] dia [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] fiteny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] dia fiteny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Ny [Y] fiteny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Ny [Y] dia fiteny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] no [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] fitenin'ny [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

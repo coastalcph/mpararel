@@ -1,0 +1,4 @@
+{"pattern": "[X] v\u0259 [Y] ikisi d\u0259 evli \u015f\u0259h\u0259rl\u0259r.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] v\u0259 [X] ikisi d\u0259 evli \u015f\u0259h\u0259rl\u0259r.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] [X] 'in ikil\u00fc \u015f\u0259h\u0259rdir.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] is\u0259 [Y]un iki h\u0259mr\u0259yidir.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

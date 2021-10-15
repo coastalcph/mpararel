@@ -1,0 +1,20 @@
+{"pattern": "[X] yra [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] yra [Y] pozicija.", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] turi [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] kuris yra [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] kuris [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] yra [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] kuris turi [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] kuris turi [Y] pozicij\u0105.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] kurio pozicija yra [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] yra [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] pozicija yra [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] vieta yra [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] pozicija yra [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] yra [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] kuris yra [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] kuris [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] yra [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] kuris turi [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] kuris turi [Y] pozicij\u0105.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] yra [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

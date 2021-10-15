@@ -1,0 +1,4 @@
+{"pattern": "[X] est une sous-cat\u00e9gorie de [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], qui est une sous-cat\u00e9gorie de [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], une sous-cat\u00e9gorie de [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], un type de [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}

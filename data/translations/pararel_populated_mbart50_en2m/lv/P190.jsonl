@@ -1,0 +1,6 @@
+{"pattern": "[X] un [Y] ir dubultpils\u0113tas.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] un [X] ir dubultpils\u0113tas.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] ir [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[Y] ir [X] divpils\u0113ta.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] ir [Y] divpils\u0113ta.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] ir [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

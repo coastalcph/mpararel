@@ -1,0 +1,6 @@
+{"pattern": "P\u016fvodn\u00ed jazyk [X] je [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "P\u016fvodn\u00ed jazyk [X] byl [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Jazyk je jazykem [X]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Jazyk byl [X] a byl [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Je to jazyk, v n\u011bm\u017e", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Jejich jazykem je (a je i jazykem)", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

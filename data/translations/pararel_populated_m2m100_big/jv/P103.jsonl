@@ -1,0 +1,7 @@
+{"pattern": "Bahasa asli [X] iku [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Bahasa asli [X] iku basa [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Bahasa asli [X] iku [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "Bahasa asli [X] iku basa [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] iku basa asli [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] iku basa asli [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] iku basa [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

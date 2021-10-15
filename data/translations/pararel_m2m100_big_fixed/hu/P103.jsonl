@@ -1,0 +1,4 @@
+{"pattern": "A [X] anyanyelve az [Y] anyanyelve", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Az anyanyelv [X] az [Y] anyanyelve", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] a [X] anyanyelv\u00e9nek anyanyelve", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "Az anyanyelv az anyanyelv.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

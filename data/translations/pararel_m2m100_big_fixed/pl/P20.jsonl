@@ -1,0 +1,8 @@
+{"pattern": "[X] Zmar\u0142 w [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "Zmar\u0142 w [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] zmar\u0142 w [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] zmar\u0142 w [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] wygas\u0142a w [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] straci\u0142a swoje \u017cycie w [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "\u017bycie [X] zako\u0144czy\u0142o si\u0119 w [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] Z\u0142apali si\u0119 na [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

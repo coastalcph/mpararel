@@ -1,0 +1,26 @@
+{"pattern": "Maty tany [Y] i [X]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[Y] i [X]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "Maty [Y] i [X]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "Maty tany [Y] i [X]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[Y] i [X]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "Maty [Y] i [X]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "Namoy ny ainy tao [Y] i [X]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "Maty tany [Y] i [X]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[Y] i [X]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[Y] tany [X]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "Maty tany [Y] i [X]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[Y] i [X]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "Namoy ny ainy tao [Y] i [X]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[Y] i [X]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "Tapitra tao [Y] i [X]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "Lany [Y] i [X]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[Y] tao [X]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "Namoy ny ainy tao [Y] i [X]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "Namoy ny ainy [Y] i [X]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[Y] i [X]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "Nifarana [Y] ny fiainan'i [X]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "Nifarana tany [Y] ny fiainan'i [X]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] i [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] tao [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] lavo tao [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "Resy tao [X] i [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

@@ -1,0 +1,11 @@
+{"pattern": "[Y] \u094d \u092f\u093e [X]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[Y] \u094d \u092f\u093e \u0928\u093e\u0935\u093e\u092e\u0941\u0933\u0947 [X]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X] \u094d [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[Y] \u094d [X]", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[Y] \u094d \u092f\u093e [X]", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[Y] \u094d [X]", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[Y] \u094d \u092f\u093e [X]", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[Y] \u094d [X] \u0928\u093e\u0935 \u092e\u093f\u0933\u093e\u0932\u0902.", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[X] \u091c \u094d \u092f\u093e\u0932\u093e [Y] \u092e \u094d \u0939\u0923\u0924\u093e\u0924.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X] \u091c \u094d \u092f\u093e\u0932\u093e [Y] \u0928\u093e\u0935 \u092e\u093f\u0933\u093e\u0932\u0902.", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X] \u094d [Y]", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

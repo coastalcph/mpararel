@@ -1,0 +1,9 @@
+{"pattern": "[X] werkte vroeger in [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] vond werk in [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] vond een baan in [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] werkte in [Y]", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] werkte in [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] begon te werken in [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] werken in [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] begon met zijn werk in [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] in [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}

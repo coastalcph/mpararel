@@ -1,0 +1,17 @@
+{"pattern": "[X] oedd yn [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] ei greu [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] wedi ei [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] ei greu yn [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] oedd yn [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] yr [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] yr [Y]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] yn yr [Y]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] roedd [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] a oedd [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] oedd [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] oedd o [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] a oedd o [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}

@@ -1,0 +1,6 @@
+{"pattern": "[Y] tomonidan ishlab chiqilgan [X]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[Y] tomonidan ishlab chiqarilgan [X]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[Y] tomonidan yaratilgan [X]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[Y] tomonidan [X]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[Y] va uning mahsuloti [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
+{"pattern": "[Y] va uning [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

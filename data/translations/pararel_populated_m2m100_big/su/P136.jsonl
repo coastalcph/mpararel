@@ -1,0 +1,12 @@
+{"pattern": "[X] musik [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X] muterkeun musik [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X] anu muterkeun musik [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] muterkeun musik [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] ngajadikeun [Y]", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X] muterkeun [Y]", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X] anu muterkeun [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] anu [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] muterkeun [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "Musisi [Y] nya\u00e9ta [X]", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "Musisi [Y] kawas [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}
+{"pattern": "[Y] kawas [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

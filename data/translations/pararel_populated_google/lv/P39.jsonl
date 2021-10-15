@@ -1,0 +1,19 @@
+{"pattern": "[X] ir [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] ir [Y] st\u0101voklis.", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] ir [Y] poz\u012bcija.", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] ir [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] ir [Y] st\u0101voklis.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] kam ir [Y] poz\u012bcija.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] kam ir [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] kura st\u0101voklis ir [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] st\u0101voklis ir [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] ir [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] st\u0101voklis ir [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] ir [Y] st\u0101voklis.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] kuram ir [Y] st\u0101voklis.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] kur\u0161 tur poz\u012bciju [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] kur\u0161 tur [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] tur [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] pieder [Y] poz\u012bcijai.", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] pieder [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] no [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

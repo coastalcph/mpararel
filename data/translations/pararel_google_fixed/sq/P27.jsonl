@@ -1,0 +1,9 @@
+{"pattern": "[X] \u00ebsht\u00eb qytetari.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb qytetar i [Y].", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X], nj\u00eb qytetar i [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X], i cili \u00ebsht\u00eb nj\u00eb qytetar i [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X] mban nj\u00eb shtet\u00ebsi t\u00eb [Y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] ka nj\u00eb shtet\u00ebsi t\u00eb [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X], i cili mban nj\u00eb shtet\u00ebsi t\u00eb [Y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X], i cili ka nj\u00eb shtet\u00ebsi t\u00eb [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "Si qytetar i [Y], [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

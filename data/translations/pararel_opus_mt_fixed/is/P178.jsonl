@@ -1,0 +1,16 @@
+{"pattern": "[X] er \u00fer\u00f3a\u00f0 af [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] var \u00fer\u00f3a\u00f0 af [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X], \u00fer\u00f3a\u00f0 af [Y].", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] er b\u00fai\u00f0 til af [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] var b\u00fain til af [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[X], b\u00fain til af [Y].", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] er \u00e1v\u00f6xtur [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] var ger\u00f0 af [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], einn af [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], v\u00f6ru b\u00fain til af [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], framleidd af [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], v\u00f6ru sem [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "\u016aetta \u016br\u0137a\u0111i [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y], sem skapa\u00f0i [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "Skapari [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] og varan \u00feess [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

@@ -1,0 +1,28 @@
+{"pattern": "[X] war [Y] geschriwwen.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] am [Y] geschriwwen.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] war am [Y] geschriwwen.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] op [Y] geschriwwen.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] gouf [Y] geschriwwen.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] gouf am [Y] geschriwwen.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] g\u00ebtt [Y] geschriwwen.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] op [Y] geschriwwen.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] ass [Y] geschriwwen.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "De [X] g\u00ebtt [Y] geschriwwen.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] ass am [Y] geschriwwen.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] am [Y] geschriwwen.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "D'Sprache vun [X] ass [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "D'Sprache [X] ass [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "D'Sprache vun der [X] ass [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "D'Sprache vum [X] ass [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "D'Sprache vun [X] war [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "D'Sprache [X] war [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "D'Sprache vun der [X] war [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "D'Sprache vum [X] war [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] ass d'Sprache vun [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] ass d'Sprache [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] ass d'Sprache vun der [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] ass d'Sprache vum [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] war d'Sprache vun [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] war d'Sprache [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] war d'Sprache vun der [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] war d'Sprache vum [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

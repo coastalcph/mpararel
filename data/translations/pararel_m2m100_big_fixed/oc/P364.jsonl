@@ -1,0 +1,6 @@
+{"pattern": "La lenga originala de [X] es [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "La lenga originala de [X] fogu\u00e8t [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "La lenga de [X] es [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "La lenga de [X] fogu\u00e8t [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "La lengua d'aqueth nom es la lenga d'aqueth nom.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "La lengua d'aqueth nom es la lenga d'aqueth nom.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

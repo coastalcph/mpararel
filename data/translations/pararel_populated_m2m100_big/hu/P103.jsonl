@@ -1,0 +1,8 @@
+{"pattern": "[X] anyanyelve [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "A [X] anyanyelve [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X] anyanyelve a [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X] anyanyelve [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[X] anyanyelve a [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "A [Y] a [X] anyanyelve.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "A [Y] a [X] anyanyelve.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] a [X] anyanyelve.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

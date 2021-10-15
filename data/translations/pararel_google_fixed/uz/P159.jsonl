@@ -1,0 +1,10 @@
+{"pattern": "[X] ning bosh qarorgohi [Y] ichida.", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "[X] ning bosh qarorgohi [Y] ichida.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] ning bosh qarorgohi [Y] ichida joylashgan.", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] [X] ning shtabini o'z ichiga oladi.", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] Kirika [Y] da sodir bo'ldi.", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] [X] ning bosh qarorgohiga ega.", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] ning bosh idorasi [Y] ichida.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], uning qarorgohi [Y] ichida.", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] Uydan [X] gacha.", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] [Y] ga asoslangan.", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

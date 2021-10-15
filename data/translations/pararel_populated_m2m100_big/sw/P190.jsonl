@@ -1,0 +1,6 @@
+{"pattern": "[X] na [Y] ni miji miwili.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] na [X] ni miji miwili.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] ni mji wa wawili wa [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[Y] ni mji wa [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] ni mji wa [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] ni mji wa wawili wa [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

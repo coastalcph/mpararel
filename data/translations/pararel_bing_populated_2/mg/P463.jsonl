@@ -1,0 +1,16 @@
+{"pattern": "Mpikambana ao amin'ny [Y] i [X]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "Mpikambana ao amin'ny [Y] ny [X]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "An'ny fikambanan'ny [Y] i [X]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "An'ny [Y] i [X]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "An'ny fikambanan'ny [Y] ny [X]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "Anisan'ny [Y] i [X]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "Anisan'ny [Y] ny [X]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "Anisan'ny fikambanana [Y] i [X]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[Y] fikambanana [X]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "Mifandray amin'ny [Y] i [X]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "Mifandray [Y] i [X]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "Mifandray amin'ny [Y] ny [X]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "Mifandray amin'ny [Y] i [X]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
+{"pattern": "Mifandray amin'ny fikambanan'ny [Y] ny [X]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
+{"pattern": "Mifandray amin'ny [Y] ny [X]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
+{"pattern": "Mifandray amin'ny fikambanana [Y] i [X]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

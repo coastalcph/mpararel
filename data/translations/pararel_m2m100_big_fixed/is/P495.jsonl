@@ -1,0 +1,17 @@
+{"pattern": "Hann var skapa\u00f0ur \u00ed [Y].", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "Og \u00fea\u00f0 var skapa\u00f0 \u00ed [Y].", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X], sem er skapa\u00f0ur \u00ed [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], sem var upphaflega \u00ed [Y]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] var upphaflega \u00ed [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] er stofna\u00f0 \u00ed [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] var stofna\u00f0 \u00ed [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X], \u00fea\u00f0 var skapa\u00f0 \u00ed [Y].", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] var skrifa\u00f0 \u00ed [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X], sem sett er fram \u00ed [Y]", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X], \u00feetta var sett fram \u00ed [Y].", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] var fr\u00e1 [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], sem var fr\u00e1 [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], fr\u00e1 [Y]", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X], \u00fea\u00f0 var \u00fer\u00f3a\u00f0 \u00ed [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] var \u00fer\u00f3a\u00f0 \u00ed [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X], \u00fer\u00f3a\u00f0 \u00ed [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

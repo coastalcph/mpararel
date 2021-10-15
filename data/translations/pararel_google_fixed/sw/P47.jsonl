@@ -1,0 +1,9 @@
+{"pattern": "[X] Anashiriki mpaka na [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] mipaka na [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] Anashiriki mpaka na [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] Anashiriki mpaka wake na [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] Anashiriki mpaka wa kawaida na [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] mipaka na [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] anashiriki mpaka na [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] anashiriki mpaka wake na [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] anashiriki mpaka wa kawaida na [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

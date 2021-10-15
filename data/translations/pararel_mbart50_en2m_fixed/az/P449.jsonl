@@ -1,0 +1,11 @@
+{"pattern": "[X] ilk olaraq [Y] kanal\u0131nda g\u00f6sterildi.", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] ilk d\u0259f\u0259 [Y]-d\u0259 olacak.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] ilk d\u0259f\u0259 [X] olmal\u0131d\u0131r.", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] ilk d\u0259f\u0259 [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] ilk d\u0259f\u0259 [Y]-d\u0259 ba\u015flad\u0131.", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X]in ilk [Y] deyi\u015fini.", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[Y]ux 'in\u101c\u103d\u1010\u103a\u1019\u103c\u1031\u102c\u1000\u103amas\u0131.", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] [Y]-d\u0259 a\u00e7\u0131qland\u0131.", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] [X]-i a\u00e7\u0131qlad\u0131.", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] ilk d\u0259f\u0259 [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] n\u0131n ilk versiyas\u0131 [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

@@ -1,0 +1,42 @@
+{"pattern": "[X] dia teraka [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] dia teraka tany [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] tany [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] dia avy [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] dia avy any [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] i [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] dia [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] tany [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] dia avy [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] am-boalohany i [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] i [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] dia avy any [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] any [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] dia teratany [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] dia [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] dia teratany [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] dia [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] dia teratany tany [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] dia avy [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] avy [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] dia avy amin'i [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] amin'i [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] avy any [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] i [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "Avy any [X] i [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] any [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] i [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] dia avy [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] avy [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] dia olona [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] dia olona teraka [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] dia olona [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] dia olona teraka [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] dia olona [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] dia olona teraka [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] dia olona [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] dia olona teraka [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] olona [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] olona teraka [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] olona [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] olona teraka [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] olona iray [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

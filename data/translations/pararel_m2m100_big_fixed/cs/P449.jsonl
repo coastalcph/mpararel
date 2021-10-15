@@ -1,0 +1,11 @@
+{"pattern": "[X] byl p\u016fvodn\u011b vys\u00edl\u00e1n na [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] je na po\u010d\u00e1tku na [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "V\u017edy\u0165 je to na za\u010d\u00e1tku (x)", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "V\u017edy\u0165 to byl ten prvn\u00ed [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] se objevil na [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "Na za\u010d\u00e1tku (i na konci)", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "a osvobozen\u00ed od h\u0159\u00edchu.", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] byl propu\u0161t\u011bn na [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "a osvobozen\u00ed od h\u0159\u00edchu.", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "Na prvn\u00edm m\u00edst\u011b se nach\u00e1z\u00ed [X].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "Na prvn\u00edm m\u00edst\u011b se nach\u00e1z\u00ed [X].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

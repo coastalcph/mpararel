@@ -1,0 +1,592 @@
+{"sub_uri": "Q4147219", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "MessagePad", "from_english": true}
+{"sub_uri": "Q14116", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "macOS", "from_english": false}
+{"sub_uri": "Q48493", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "iOS", "from_english": false}
+{"sub_uri": "Q35773", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Safari", "from_english": false}
+{"sub_uri": "Q9532", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "ILife", "from_english": false}
+{"sub_uri": "Q306020", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "IWork", "from_english": false}
+{"sub_uri": "Q218170", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "\u5f8c\u8a18\u8bed\u8a00", "from_english": false}
+{"sub_uri": "Q269856", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "AIX", "from_english": false}
+{"sub_uri": "Q200606", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "AppleTalk", "from_english": false}
+{"sub_uri": "Q621556", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Applesoft BASIC", "from_english": false}
+{"sub_uri": "Q55692", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u6d3b\u52d5\u76ee\u9304", "from_english": false}
+{"sub_uri": "Q11230", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Vista", "from_english": false}
+{"sub_uri": "Q1575", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "IE\u700f\u89bd\u5668", "from_english": false}
+{"sub_uri": "Q850109", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Outlook Express", "from_english": false}
+{"sub_uri": "Q80911", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u5fae\u8f6fOutlook", "from_english": false}
+{"sub_uri": "Q185000", "obj_uri": "Q66", "obj_label": "\u6ce2\u97f3", "sub_label": "B-17\u8f5f\u70b8\u6a5f", "from_english": false}
+{"sub_uri": "Q188695", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "DirectX", "from_english": false}
+{"sub_uri": "Q1406", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Windows", "from_english": false}
+{"sub_uri": "Q48263", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Xbox 360", "from_english": false}
+{"sub_uri": "Q13361286", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Xbox One", "from_english": false}
+{"sub_uri": "Q1367622", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Internet Explorer 4", "from_english": false}
+{"sub_uri": "Q390389", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "\u5b89\u817e", "from_english": false}
+{"sub_uri": "Q47604", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u5fae\u8edf\u78c1\u789f\u4f5c\u696d\u7cfb\u7d71", "from_english": false}
+{"sub_uri": "Q83303", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "Fortran", "from_english": false}
+{"sub_uri": "Q1049202", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "GW-BASIC", "from_english": false}
+{"sub_uri": "Q58378", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows 1.0", "from_english": false}
+{"sub_uri": "Q297769", "obj_uri": "Q9584", "obj_label": "\u672c\u7530\u6280\u7814\u5de5\u4e1a", "sub_label": "ASIMO", "from_english": false}
+{"sub_uri": "Q14743726", "obj_uri": "Q8093", "obj_label": "\u4efb\u5929\u5802", "sub_label": "\u4efb\u5929\u58022DS", "from_english": false}
+{"sub_uri": "Q203597", "obj_uri": "Q8093", "obj_label": "\u4efb\u5929\u5802", "sub_label": "\u4efb\u5929\u58023DS", "from_english": false}
+{"sub_uri": "Q1384104", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "\u7ebf\u7a0b\u5efa\u9020\u5757", "from_english": false}
+{"sub_uri": "Q262238", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "IA-32", "from_english": false}
+{"sub_uri": "Q207539", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Intel 8086", "from_english": false}
+{"sub_uri": "Q237794", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "\u82f1\u7279\u723e80386", "from_english": false}
+{"sub_uri": "Q2635535", "obj_uri": "Q248", "obj_label": "Intel", "sub_label": "Intel 80486SX", "from_english": true}
+{"sub_uri": "Q213423", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Intel 80486", "from_english": false}
+{"sub_uri": "Q18168774", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u8996\u7a9710", "from_english": false}
+{"sub_uri": "Q916994", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "\u82f1\u7279\u723e\u67b6\u69cb64", "from_english": false}
+{"sub_uri": "Q221257", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "\u5954\u817eII", "from_english": false}
+{"sub_uri": "Q653999", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "Lotus 1-2-3", "from_english": false}
+{"sub_uri": "Q11272", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Excel", "from_english": false}
+{"sub_uri": "Q11255", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Office", "from_english": false}
+{"sub_uri": "Q471806", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Surface", "from_english": false}
+{"sub_uri": "Q781443", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "MVS", "from_english": true}
+{"sub_uri": "Q589680", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Xenix", "from_english": false}
+{"sub_uri": "Q11261", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Word", "from_english": false}
+{"sub_uri": "Q43627", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u9ea6\u91d1\u5854\u64cd\u4f5c\u7cfb\u7edf", "from_english": false}
+{"sub_uri": "Q904519", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u9ea6\u91d1\u5854\u64cd\u4f5c\u7cfb\u7edf\u4e5d", "from_english": false}
+{"sub_uri": "Q719621", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "OS X Server", "from_english": false}
+{"sub_uri": "Q900305", "obj_uri": "Q739552", "obj_label": "\u53f2\u514b\u5a01\u723e", "sub_label": "\u6700\u7ec8\u5e7b\u60f3V", "from_english": false}
+{"sub_uri": "Q1385958", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Windows Embedded Automotive", "from_english": true}
+{"sub_uri": "Q2445525", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "MSX-DOS", "from_english": true}
+{"sub_uri": "Q83370", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u8996\u7a9795", "from_english": false}
+{"sub_uri": "Q275079", "obj_uri": "Q41187", "obj_label": "\u7d22\u5c3c", "sub_label": "\u8ff7\u4f60\u76e4", "from_english": false}
+{"sub_uri": "Q11341", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u7db2\u969b\u7db2\u8def\u8cc7\u8a0a\u670d\u52d9", "from_english": false}
+{"sub_uri": "Q134067", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u5fae\u8edf\u8996\u89ba\u5de5\u4f5c\u5ba4", "from_english": false}
+{"sub_uri": "Q483132", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u8996\u7a9798", "from_english": false}
+{"sub_uri": "Q488978", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows NT 4.0", "from_english": false}
+{"sub_uri": "Q335162", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft FrontPage", "from_english": false}
+{"sub_uri": "Q747434", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Mac OS X Panther", "from_english": false}
+{"sub_uri": "Q237757", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "\u5954\u817e4", "from_english": false}
+{"sub_uri": "Q679906", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "ISPF", "from_english": true}
+{"sub_uri": "Q2597422", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "XEDIT", "from_english": true}
+{"sub_uri": "Q71694", "obj_uri": "Q37093", "obj_label": "\u96c5\u864e", "sub_label": "Yahoo! Messenger", "from_english": false}
+{"sub_uri": "Q856732", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Pentium M", "from_english": false}
+{"sub_uri": "Q1201810", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft BASIC", "from_english": false}
+{"sub_uri": "Q207902", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Acrobat", "from_english": false}
+{"sub_uri": "Q42332", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "\u53ef\u79fb\u690d\u6587\u6863\u683c\u5f0f", "from_english": false}
+{"sub_uri": "Q360232", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe GoLive", "from_english": false}
+{"sub_uri": "Q192324", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Dreamweaver", "from_english": false}
+{"sub_uri": "Q360355", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe PageMaker", "from_english": false}
+{"sub_uri": "Q844446", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "MobileMe", "from_english": false}
+{"sub_uri": "Q91247", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u7acb\u9ad4\u7a7a\u6230", "from_english": false}
+{"sub_uri": "Q486487", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows NT", "from_english": false}
+{"sub_uri": "Q50077", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Visual Basic .NET", "from_english": false}
+{"sub_uri": "Q1062113", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Intel NetBurst", "from_english": false}
+{"sub_uri": "Q216334", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Intel Core 2", "from_english": false}
+{"sub_uri": "Q1072258", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Internet Explorer 6", "from_english": false}
+{"sub_uri": "Q165658", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Flash", "from_english": false}
+{"sub_uri": "Q1140557", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Flash Builder", "from_english": false}
+{"sub_uri": "Q483318", "obj_uri": "Q1418", "obj_label": "\u8bfa\u57fa\u4e9a", "sub_label": "\u585e\u73ed", "from_english": false}
+{"sub_uri": "Q4885200", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Phone", "from_english": false}
+{"sub_uri": "Q4803535", "obj_uri": "Q8093", "obj_label": "\u4efb\u5929\u5802", "sub_label": "\u746a\u5229\u6b50\u7cfb\u5217", "from_english": false}
+{"sub_uri": "Q214314", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "\u5954\u9a30", "from_english": false}
+{"sub_uri": "Q129793", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Photoshop", "from_english": false}
+{"sub_uri": "Q360357", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Photoshop Elements", "from_english": false}
+{"sub_uri": "Q360403", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Photoshop Lightroom", "from_english": false}
+{"sub_uri": "Q1411882", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "MacPaint", "from_english": false}
+{"sub_uri": "Q1243769", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "QuickTime", "from_english": false}
+{"sub_uri": "Q467454", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "RTF", "from_english": false}
+{"sub_uri": "Q570216", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Mac OS X Jaguar", "from_english": false}
+{"sub_uri": "Q133493", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "XScale", "from_english": false}
+{"sub_uri": "Q56942", "obj_uri": "Q8093", "obj_label": "\u4efb\u5929\u5802", "sub_label": "Wii U", "from_english": false}
+{"sub_uri": "Q13743", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "VBScript", "from_english": false}
+{"sub_uri": "Q194978", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Visio", "from_english": false}
+{"sub_uri": "Q11248", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows XP", "from_english": false}
+{"sub_uri": "Q483881", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u8996\u7a972000", "from_english": false}
+{"sub_uri": "Q2194", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Media Audio", "from_english": false}
+{"sub_uri": "Q725524", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Intel 80186", "from_english": false}
+{"sub_uri": "Q622888", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Intel 80286", "from_english": false}
+{"sub_uri": "Q209054", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "AVI\u683c\u5f0f", "from_english": false}
+{"sub_uri": "Q183205", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "NTFS", "from_english": false}
+{"sub_uri": "Q433406", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "IBM System i", "from_english": false}
+{"sub_uri": "Q15637561", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM i", "from_english": true}
+{"sub_uri": "Q1358734", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "Alex Kidd", "from_english": false}
+{"sub_uri": "Q5046", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u8996\u7a978", "from_english": false}
+{"sub_uri": "Q861126", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "ThinkPad", "from_english": false}
+{"sub_uri": "Q9479", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "iPod", "from_english": false}
+{"sub_uri": "Q58329", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "HyperTalk", "from_english": true}
+{"sub_uri": "Q1053749", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "HyperCard", "from_english": false}
+{"sub_uri": "Q12393", "obj_uri": "Q8093", "obj_label": "\u4efb\u5929\u5802", "sub_label": "\u85a9\u723e\u9054\u50b3\u8aaa\u7cfb\u5217", "from_english": false}
+{"sub_uri": "Q9587", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Final Cut Pro", "from_english": false}
+{"sub_uri": "Q621338", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Apple\u8fdc\u7a0b\u684c\u9762", "from_english": false}
+{"sub_uri": "Q9334", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Gmail", "from_english": false}
+{"sub_uri": "Q250328", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Xcode", "from_english": false}
+{"sub_uri": "Q381215", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Mac OS X Snow Leopard", "from_english": false}
+{"sub_uri": "Q644542", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Office 2007", "from_english": false}
+{"sub_uri": "Q890185", "obj_uri": "Q66", "obj_label": "\u6ce2\u97f3", "sub_label": "EA-18G \u5486\u54ee\u8005", "from_english": false}
+{"sub_uri": "Q559519", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u9ad8\u7ea7\u7740\u8272\u5668\u8bed\u8a00", "from_english": false}
+{"sub_uri": "Q11266", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft PowerPoint", "from_english": false}
+{"sub_uri": "Q170073", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Xbox network", "from_english": false}
+{"sub_uri": "Q1195792", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Core\u5fae\u67b6\u69cb", "from_english": false}
+{"sub_uri": "Q488244", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Embedded Compact", "from_english": false}
+{"sub_uri": "Q1073789", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "NTLDR", "from_english": false}
+{"sub_uri": "Q11246", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Server 2003", "from_english": false}
+{"sub_uri": "Q11233", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Server 2008", "from_english": false}
+{"sub_uri": "Q12013", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u5730\u56fe", "from_english": false}
+{"sub_uri": "Q509284", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Workspace", "from_english": false}
+{"sub_uri": "Q1787522", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Microsoft Picture It!", "from_english": true}
+{"sub_uri": "Q637178", "obj_uri": "Q8093", "obj_label": "\u4efb\u5929\u5802", "sub_label": "\u4efb\u5929\u5802DSi", "from_english": false}
+{"sub_uri": "Q685820", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "REXX", "from_english": false}
+{"sub_uri": "Q2686971", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u4e66\u62a5\u4ead\u5e94\u7528", "from_english": false}
+{"sub_uri": "Q71493", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u8996\u7a97\u5373\u6642\u901a\u8a0a", "from_english": false}
+{"sub_uri": "Q1146247", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "CICS", "from_english": false}
+{"sub_uri": "Q213602", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u8857\u666f", "from_english": false}
+{"sub_uri": "Q2245316", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "Soundtrack Pro", "from_english": true}
+{"sub_uri": "Q2110427", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u8d85\u7d1a\u6469\u7d0d\u54e5\u8cfd\u8eca", "from_english": false}
+{"sub_uri": "Q192527", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u89c6\u7a97\u5a92\u4f53\u64ad\u653e\u5668", "from_english": false}
+{"sub_uri": "Q1048294", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Checkout", "from_english": false}
+{"sub_uri": "Q821067", "obj_uri": "Q8093", "obj_label": "\u4efb\u5929\u5802", "sub_label": "Virtual Console", "from_english": false}
+{"sub_uri": "Q2334242", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Pay Send", "from_english": false}
+{"sub_uri": "Q5289", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": ".NET\u6846\u67b6", "from_english": false}
+{"sub_uri": "Q420384", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u7cfb\u7d717", "from_english": false}
+{"sub_uri": "Q761815", "obj_uri": "Q739552", "obj_label": "\u53f2\u514b\u5a01\u723e", "sub_label": "\u65f6\u7a7a\u4e4b\u8f6e", "from_english": false}
+{"sub_uri": "Q1259297", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows \u6076\u610f\u8f6f\u4ef6\u5220\u9664\u5de5\u5177", "from_english": false}
+{"sub_uri": "Q383295", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Update", "from_english": false}
+{"sub_uri": "Q2943749", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "Final Cut Pro X", "from_english": true}
+{"sub_uri": "Q174534", "obj_uri": "Q66", "obj_label": "\u6ce2\u97f3", "sub_label": "B-52\u540c\u6eab\u5c64\u5821\u58d8\u8f5f\u70b8\u6a5f", "from_english": false}
+{"sub_uri": "Q913902", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u8d26\u6237", "from_english": false}
+{"sub_uri": "Q840820", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u7db2\u4e0a\u8ad6\u58c7", "from_english": false}
+{"sub_uri": "Q1537683", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u6a94\u6848\u7cfb\u7d71", "from_english": false}
+{"sub_uri": "Q229851", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Zune", "from_english": false}
+{"sub_uri": "Q34825", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Phone 8", "from_english": false}
+{"sub_uri": "Q9589", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "iTunes", "from_english": false}
+{"sub_uri": "Q855381", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows\u6b63\u7248\u589e\u503c\u8ba1\u5212", "from_english": false}
+{"sub_uri": "Q485021", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u8996\u7a972.0", "from_english": false}
+{"sub_uri": "Q1366507", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "FairPlay", "from_english": true}
+{"sub_uri": "Q58144", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "IChat", "from_english": false}
+{"sub_uri": "Q51713", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Talk", "from_english": false}
+{"sub_uri": "Q280761", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Media Video", "from_english": false}
+{"sub_uri": "Q1314632", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Embedded", "from_english": false}
+{"sub_uri": "Q478019", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "IBM-Rational\u7edf\u4e00\u8fc7\u7a0b", "from_english": false}
+{"sub_uri": "Q1568763", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u96f6\u914d\u7f6e\u7f51\u7edc", "from_english": false}
+{"sub_uri": "Q865500", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Internet Explorer 7", "from_english": false}
+{"sub_uri": "Q215016", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Illustrator", "from_english": false}
+{"sub_uri": "Q360118", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Creative Suite", "from_english": false}
+{"sub_uri": "Q662004", "obj_uri": "Q8093", "obj_label": "\u4efb\u5929\u5802", "sub_label": "\u5927\u91d1\u521a\u7cfb\u5217", "from_english": false}
+{"sub_uri": "Q183480", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google AdSense", "from_english": false}
+{"sub_uri": "Q3020084", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u85cd\u8272\u9739\u9742\u865f (\u904a\u6232)", "from_english": false}
+{"sub_uri": "Q11215", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows 7", "from_english": false}
+{"sub_uri": "Q3569290", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u8996\u7a978.1", "from_english": false}
+{"sub_uri": "Q11222", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Server 2012", "from_english": false}
+{"sub_uri": "Q380319", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u52a8\u6001\u94fe\u63a5\u5e93", "from_english": false}
+{"sub_uri": "Q184870", "obj_uri": "Q66", "obj_label": "\u6ce2\u97f3", "sub_label": "B-29\u8d85\u7d1a\u5821\u58d8\u8f5f\u70b8\u6a5f", "from_english": false}
+{"sub_uri": "Q1464617", "obj_uri": "Q207922", "obj_label": "Atari", "sub_label": "Test Drive Le Mans", "from_english": true}
+{"sub_uri": "Q6484", "obj_uri": "Q67", "obj_label": "\u7a7a\u4e2d\u5ba2\u8f66", "sub_label": "\u7a7a\u4e2d\u5ba2\u8f66A350", "from_english": false}
+{"sub_uri": "Q1564939", "obj_uri": "Q41187", "obj_label": "\u7d22\u5c3c", "sub_label": "SonicStage", "from_english": false}
+{"sub_uri": "Q5969110", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Type-III Library", "from_english": true}
+{"sub_uri": "Q15956143", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "TSS/360", "from_english": true}
+{"sub_uri": "Q1567949", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u8fdb\u7a0b\u8d44\u6e90\u7ba1\u7406\u5668", "from_english": false}
+{"sub_uri": "Q621234", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Apple DOS", "from_english": false}
+{"sub_uri": "Q2880343", "obj_uri": "Q122741", "obj_label": "Sega", "sub_label": "Baku Baku Animal", "from_english": true}
+{"sub_uri": "Q1224796", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "\u6570\u5b57\u8d1f\u7247", "from_english": false}
+{"sub_uri": "Q648495", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Windows Live Writer", "from_english": true}
+{"sub_uri": "Q63734", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "OS X Mountain Lion", "from_english": false}
+{"sub_uri": "Q864889", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u5fae\u8edf\u4e00\u500b\u9a45\u52d5\u5668", "from_english": false}
+{"sub_uri": "Q1046574", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u6230\u65a7 (\u904a\u6232)", "from_english": false}
+{"sub_uri": "Q1355850", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u517d\u738b\u8bb0", "from_english": false}
+{"sub_uri": "Q684160", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u4eba\u4e2d\u4e4b\u9f8d2", "from_english": false}
+{"sub_uri": "Q1608476", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u4eba\u4e2d\u4e4b\u9f8d", "from_english": false}
+{"sub_uri": "Q223653", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Exchange Server", "from_english": false}
+{"sub_uri": "Q2257511", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u7edf\u4e00\u7c7b\u578b\u6807\u8bc6", "from_english": false}
+{"sub_uri": "Q2140920", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "Time Sharing Option", "from_english": true}
+{"sub_uri": "Q1581373", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Office Mobile", "from_english": false}
+{"sub_uri": "Q305910", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "iGoogle", "from_english": false}
+{"sub_uri": "Q79536", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u684c\u9762", "from_english": false}
+{"sub_uri": "Q297317", "obj_uri": "Q248", "obj_label": "Intel", "sub_label": "ASCI Red", "from_english": true}
+{"sub_uri": "Q9349", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Picasa", "from_english": false}
+{"sub_uri": "Q431195", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "IBM DB2", "from_english": false}
+{"sub_uri": "Q42274", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "\u8c37\u6b4c\u5730\u7403", "from_english": false}
+{"sub_uri": "Q920973", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Live OneCare", "from_english": false}
+{"sub_uri": "Q271982", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "AdWords", "from_english": false}
+{"sub_uri": "Q1315297", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "QuickTime VR", "from_english": false}
+{"sub_uri": "Q489048", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Silverlight", "from_english": false}
+{"sub_uri": "Q14094", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "iPod touch", "from_english": false}
+{"sub_uri": "Q2375766", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Synchronized Accessible Media Interchange", "from_english": true}
+{"sub_uri": "Q1023647", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft\u5df2\u7de8\u8b6f\u7684HTML Help", "from_english": false}
+{"sub_uri": "Q1512605", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "OpenAFS", "from_english": false}
+{"sub_uri": "Q504669", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "\u5b89\u5fb7\u9b6f\u6a94\u6848\u7cfb\u7d71", "from_english": false}
+{"sub_uri": "Q306207", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "iPod mini", "from_english": false}
+{"sub_uri": "Q278624", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Intel Sandy Bridge", "from_english": false}
+{"sub_uri": "Q1888930", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u5411\u91cf\u6a19\u8a18\u5f0f\u8a9e\u8a00", "from_english": false}
+{"sub_uri": "Q16203668", "obj_uri": "Q3884", "obj_label": "\u4e9e\u99ac\u905c\u516c\u53f8", "sub_label": "\u4e9a\u9a6c\u900aFire TV", "from_english": false}
+{"sub_uri": "Q1651256", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Tivoli Workload Scheduler", "from_english": true}
+{"sub_uri": "Q5968978", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Rational Rose XDE", "from_english": true}
+{"sub_uri": "Q2300096", "obj_uri": "Q37093", "obj_label": "\u96c5\u864e", "sub_label": "\u96c5\u864eUI\u5e93", "from_english": false}
+{"sub_uri": "Q1370704", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM VisualAge", "from_english": true}
+{"sub_uri": "Q1299822", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "QuickDraw", "from_english": true}
+{"sub_uri": "Q1111151", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "ColorSync", "from_english": true}
+{"sub_uri": "Q129137", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "AppleScript", "from_english": false}
+{"sub_uri": "Q1500846", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "OpenDoc", "from_english": true}
+{"sub_uri": "Q3855412", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u5143\u5185\u5bb9\u6846\u67b6", "from_english": false}
+{"sub_uri": "Q762464", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Squeak", "from_english": false}
+{"sub_uri": "Q214950", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "IPod shuffle", "from_english": false}
+{"sub_uri": "Q261595", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Communication Foundation", "from_english": false}
+{"sub_uri": "Q1210125", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Soundbooth", "from_english": true}
+{"sub_uri": "Q360044", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Audition", "from_english": false}
+{"sub_uri": "Q3129158", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u91cd\u91cf\u7d1a\u62f3\u738b", "from_english": false}
+{"sub_uri": "Q1411665", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "Virtual Telecommunications Access Method", "from_english": true}
+{"sub_uri": "Q1362095", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "Resource Access Control Facility", "from_english": true}
+{"sub_uri": "Q360310", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe AIR", "from_english": false}
+{"sub_uri": "Q249075", "obj_uri": "Q207922", "obj_label": "\u96c5\u9054\u5229", "sub_label": "\u96c5\u9054\u52298\u4f4d\u5bb6\u65cf", "from_english": false}
+{"sub_uri": "Q16928022", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Network Control Program", "from_english": true}
+{"sub_uri": "Q1502873", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Tamarin", "from_english": false}
+{"sub_uri": "Q857177", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Flash Player", "from_english": false}
+{"sub_uri": "Q686425", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Plus!", "from_english": false}
+{"sub_uri": "Q79576", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Play", "from_english": false}
+{"sub_uri": "Q1935610", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "iDisk", "from_english": true}
+{"sub_uri": "Q283469", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "iCloud", "from_english": false}
+{"sub_uri": "Q17107792", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "OS X Yosemite", "from_english": false}
+{"sub_uri": "Q16973176", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "iOS 8", "from_english": false}
+{"sub_uri": "Q9558", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "IMovie", "from_english": false}
+{"sub_uri": "Q9539", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "GarageBand", "from_english": false}
+{"sub_uri": "Q693478", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Mac OS X Tiger", "from_english": false}
+{"sub_uri": "Q379741", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Advanced Systems Format", "from_english": true}
+{"sub_uri": "Q12397", "obj_uri": "Q8093", "obj_label": "\u4efb\u5929\u5802", "sub_label": "\u9280\u6cb3\u6230\u58eb\u7cfb\u5217", "from_english": false}
+{"sub_uri": "Q621196", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "AppleWorks", "from_english": true}
+{"sub_uri": "Q582159", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Siri", "from_english": false}
+{"sub_uri": "Q621312", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Apple Pippin", "from_english": false}
+{"sub_uri": "Q212960", "obj_uri": "Q41187", "obj_label": "\u7d22\u5c3c", "sub_label": "Super Audio CD", "from_english": false}
+{"sub_uri": "Q1931636", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Robotics Developer Studio", "from_english": false}
+{"sub_uri": "Q467649", "obj_uri": "Q66", "obj_label": "\u6ce2\u97f3", "sub_label": "B-47\u8f5f\u70b8\u6a5f", "from_english": false}
+{"sub_uri": "Q16927948", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "Attached Support Processor", "from_english": true}
+{"sub_uri": "Q978185", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "TypeScript", "from_english": false}
+{"sub_uri": "Q83382", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Pentium III", "from_english": false}
+{"sub_uri": "Q368215", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "App Store", "from_english": false}
+{"sub_uri": "Q83380", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe After Effects", "from_english": false}
+{"sub_uri": "Q360424", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Premiere Pro", "from_english": false}
+{"sub_uri": "Q268583", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "iPod nano", "from_english": false}
+{"sub_uri": "Q80689", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Access", "from_english": false}
+{"sub_uri": "Q3235742", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Patents", "from_english": false}
+{"sub_uri": "Q5654167", "obj_uri": "Q122741", "obj_label": "Sega", "sub_label": "Sega Smash Pack", "from_english": true}
+{"sub_uri": "Q164388", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Generalized Markup Language", "from_english": true}
+{"sub_uri": "Q528294", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM WebSphere MQ", "from_english": true}
+{"sub_uri": "Q526649", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM RPG II", "from_english": true}
+{"sub_uri": "Q13426582", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "ITunes Radio", "from_english": false}
+{"sub_uri": "Q18010946", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u82f9\u679c\u624b\u8868", "from_english": false}
+{"sub_uri": "Q868171", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "CUPS", "from_english": false}
+{"sub_uri": "Q863756", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Bing Maps", "from_english": false}
+{"sub_uri": "Q306222", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "iPod Classic", "from_english": false}
+{"sub_uri": "Q1055099", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "WinDbg", "from_english": false}
+{"sub_uri": "Q1455872", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "JFS", "from_english": false}
+{"sub_uri": "Q2389927", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "IBM\u901a\u7528\u5e76\u884c\u6587\u4ef6\u7cfb\u7edf", "from_english": false}
+{"sub_uri": "Q1928563", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "WebObjects", "from_english": true}
+{"sub_uri": "Q1756018", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "MASM", "from_english": false}
+{"sub_uri": "Q181233", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Installer", "from_english": false}
+{"sub_uri": "Q284140", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u6a19\u6e96\u7d05\u7da0\u85cd\u8272\u5f69\u7a7a\u9593", "from_english": false}
+{"sub_uri": "Q189842", "obj_uri": "Q739552", "obj_label": "\u53f2\u514b\u5a01\u723e", "sub_label": "\u6700\u7d42\u5e7b\u60f3\u7cfb\u5217", "from_english": false}
+{"sub_uri": "Q215819", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u5fae\u8edf\u7d50\u69cb\u5316\u67e5\u8a62\u8a9e\u8a00\u670d\u52d9\u5668", "from_english": false}
+{"sub_uri": "Q5249279", "obj_uri": "Q210278", "obj_label": "Gibson", "sub_label": "Deckadance", "from_english": true}
+{"sub_uri": "Q378640", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Pentium Dual-Core", "from_english": false}
+{"sub_uri": "Q284115", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Apple Books", "from_english": false}
+{"sub_uri": "Q9340", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Drive", "from_english": false}
+{"sub_uri": "Q13231451", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u73af\u804a", "from_english": false}
+{"sub_uri": "Q223563", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u65e5\u66c6", "from_english": false}
+{"sub_uri": "Q40984", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Skype", "from_english": false}
+{"sub_uri": "Q1537677", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Guice", "from_english": true}
+{"sub_uri": "Q222996", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Mac OS X Leopard", "from_english": false}
+{"sub_uri": "Q3059230", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u6c38\u6046\u9b25\u58eb", "from_english": false}
+{"sub_uri": "Q218924", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe InDesign", "from_english": false}
+{"sub_uri": "Q14636918", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Creative Cloud", "from_english": false}
+{"sub_uri": "Q6043802", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "IntelliPoint", "from_english": false}
+{"sub_uri": "Q1296464", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "\u8c37\u6b4c\u5065\u5eb7", "from_english": false}
+{"sub_uri": "Q7754665", "obj_uri": "Q122741", "obj_label": "Sega", "sub_label": "The Ocean Hunter", "from_english": true}
+{"sub_uri": "Q3353182", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u5f00\u653e\u6253\u5305\u7ea6\u5b9a", "from_english": false}
+{"sub_uri": "Q977900", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "XML\u7eb8\u5f20\u89c4\u8303", "from_english": false}
+{"sub_uri": "Q220577", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u5206\u6790", "from_english": false}
+{"sub_uri": "Q649571", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Final Cut Studio", "from_english": false}
+{"sub_uri": "Q1153113", "obj_uri": "Q41187", "obj_label": "\u7d22\u5c3c", "sub_label": "XDCAM", "from_english": false}
+{"sub_uri": "Q360295", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Media Player", "from_english": false}
+{"sub_uri": "Q144858", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Digital Editions", "from_english": true}
+{"sub_uri": "Q841259", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Internet Explorer 8", "from_english": false}
+{"sub_uri": "Q343961", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "ActiveSync", "from_english": true}
+{"sub_uri": "Q706480", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft OneNote", "from_english": false}
+{"sub_uri": "Q687559", "obj_uri": "Q739552", "obj_label": "\u53f2\u514b\u5a01\u723e", "sub_label": "\u6700\u7ec8\u5e7b\u60f3III", "from_english": false}
+{"sub_uri": "Q1426122", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "Transaction Processing Facility", "from_english": true}
+{"sub_uri": "Q1871249", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Connections", "from_english": true}
+{"sub_uri": "Q279979", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Office Open XML", "from_english": false}
+{"sub_uri": "Q1433417", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Product Search", "from_english": false}
+{"sub_uri": "Q933524", "obj_uri": "Q8093", "obj_label": "Nintendo", "sub_label": "Pilotwings 64", "from_english": true}
+{"sub_uri": "Q1122325", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Gears", "from_english": false}
+{"sub_uri": "Q456157", "obj_uri": "Q3884", "obj_label": "\u4e9e\u99ac\u905c\u516c\u53f8", "sub_label": "\u4e9e\u99ac\u905c\u7db2\u8def\u670d\u52d9\u7cfb\u7d71", "from_english": false}
+{"sub_uri": "Q1326420", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u5feb\u901f\u67e5\u770b", "from_english": false}
+{"sub_uri": "Q1058975", "obj_uri": "Q248", "obj_label": "Intel", "sub_label": "Yorkfield", "from_english": true}
+{"sub_uri": "Q4033880", "obj_uri": "Q3884", "obj_label": "\u4e9e\u99ac\u905c\u516c\u53f8", "sub_label": "Amazon\u7b80\u5355\u961f\u5217\u670d\u52a1", "from_english": false}
+{"sub_uri": "Q476786", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Buzz", "from_english": false}
+{"sub_uri": "Q628189", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "\u5954\u817ePro", "from_english": false}
+{"sub_uri": "Q360419", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Premiere Elements", "from_english": true}
+{"sub_uri": "Q762694", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "PostScript Printer Description", "from_english": true}
+{"sub_uri": "Q17424", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows RT", "from_english": false}
+{"sub_uri": "Q1200988", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Office XP", "from_english": false}
+{"sub_uri": "Q1209367", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows 2.1x", "from_english": false}
+{"sub_uri": "Q617214", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "XQuartz", "from_english": false}
+{"sub_uri": "Q476915", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Mac OS X Lion", "from_english": false}
+{"sub_uri": "Q1057445", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Logic Pro", "from_english": false}
+{"sub_uri": "Q192443", "obj_uri": "Q1136766", "obj_label": "\u8d39\u67f4\u5c14\u5fb7", "sub_label": "A-10\u96f7\u9706\u4e8c\u5f0f\u653b\u64ca\u6a5f", "from_english": false}
+{"sub_uri": "Q1153311", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Office 2000", "from_english": false}
+{"sub_uri": "Q3275036", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "MacsBug", "from_english": true}
+{"sub_uri": "Q593781", "obj_uri": "Q122741", "obj_label": "Sega", "sub_label": "Flicky", "from_english": true}
+{"sub_uri": "Q276101", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u860b\u679c\u5730\u5716", "from_english": false}
+{"sub_uri": "Q1142467", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Logic Studio", "from_english": false}
+{"sub_uri": "Q3919641", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "IOS 5", "from_english": false}
+{"sub_uri": "Q259201", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "Lotus Symphony", "from_english": false}
+{"sub_uri": "Q1090918", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Phone Store", "from_english": false}
+{"sub_uri": "Q1068393", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Bridge", "from_english": false}
+{"sub_uri": "Q360071", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Captivate", "from_english": false}
+{"sub_uri": "Q1440655", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe FrameMaker", "from_english": true}
+{"sub_uri": "Q18833", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "SharePoint", "from_english": false}
+{"sub_uri": "Q2006475", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Microsoft HealthVault", "from_english": true}
+{"sub_uri": "Q2386835", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM DeveloperWorks", "from_english": true}
+{"sub_uri": "Q2640389", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u91d1\u65a7", "from_english": false}
+{"sub_uri": "Q644560", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Internet Explorer 5", "from_english": false}
+{"sub_uri": "Q135288", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u5fae\u8edf\u5546\u5e97", "from_english": false}
+{"sub_uri": "Q609306", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Tizen", "from_english": false}
+{"sub_uri": "Q5968682", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM 4690 OS", "from_english": true}
+{"sub_uri": "Q2557489", "obj_uri": "Q9531", "obj_label": "\u82f1\u56fd\u5e7f\u64ad\u516c\u53f8", "sub_label": "BBC iPlayer", "from_english": false}
+{"sub_uri": "Q15114892", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Project Ara", "from_english": false}
+{"sub_uri": "Q82268", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "\u65e5\u98df", "from_english": false}
+{"sub_uri": "Q973966", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM System R", "from_english": true}
+{"sub_uri": "Q971102", "obj_uri": "Q248", "obj_label": "Intel", "sub_label": "Intel iAPX 432", "from_english": true}
+{"sub_uri": "Q277482", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Intel i960", "from_english": false}
+{"sub_uri": "Q6840172", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Microsoft Mail", "from_english": true}
+{"sub_uri": "Q840410", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "PowerShell", "from_english": false}
+{"sub_uri": "Q392501", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "AppleShare", "from_english": true}
+{"sub_uri": "Q654034", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u7db2\u9801\u5de5\u5177\u5305", "from_english": false}
+{"sub_uri": "Q330086", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Intel 8051", "from_english": false}
+{"sub_uri": "Q912481", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Mac OS X v10.0", "from_english": false}
+{"sub_uri": "Q478451", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Mac OS X Puma", "from_english": false}
+{"sub_uri": "Q1343889", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Mac OS 8", "from_english": false}
+{"sub_uri": "Q3146515", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Airline Control Program", "from_english": true}
+{"sub_uri": "Q7248471", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "Programmed Airline Reservations System", "from_english": true}
+{"sub_uri": "Q127141", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Bob", "from_english": false}
+{"sub_uri": "Q223381", "obj_uri": "Q739552", "obj_label": "\u53f2\u514b\u5a01\u723e", "sub_label": "\u6700\u7ec8\u5e7b\u60f3X", "from_english": false}
+{"sub_uri": "Q1058465", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u5206\u5c42\u6587\u4ef6\u7cfb\u7edf", "from_english": false}
+{"sub_uri": "Q1196601", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Interface Builder", "from_english": false}
+{"sub_uri": "Q2376827", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "\u7cfb\u7d71\u7269\u4ef6\u6a21\u578b", "from_english": false}
+{"sub_uri": "Q171186", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Blogger", "from_english": false}
+{"sub_uri": "Q2001900", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Tivoli Storage Manager", "from_english": true}
+{"sub_uri": "Q949728", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "XNA Game Studio Express", "from_english": false}
+{"sub_uri": "Q11226", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Server 2008 R2", "from_english": false}
+{"sub_uri": "Q748417", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Virtual PC", "from_english": false}
+{"sub_uri": "Q840644", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Internet Explorer 9", "from_english": false}
+{"sub_uri": "Q4438797", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows\u8f15\u9b06\u50b3\u8f38", "from_english": false}
+{"sub_uri": "Q221183", "obj_uri": "Q651778", "obj_label": "\u9053\u683c\u62c9\u65af\u98de\u884c\u5668\u516c\u53f8", "sub_label": "X-3\u8a66\u9a57\u6a5f", "from_english": false}
+{"sub_uri": "Q79531", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Chrome\u64cd\u4f5c\u7cfb\u7d71", "from_english": false}
+{"sub_uri": "Q79578", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Web Toolkit", "from_english": false}
+{"sub_uri": "Q856705", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Dynamics", "from_english": false}
+{"sub_uri": "Q1937864", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "Xgrid", "from_english": true}
+{"sub_uri": "Q863568", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "IBM PC DOS", "from_english": false}
+{"sub_uri": "Q15015195", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "Apple Pippin", "from_english": true}
+{"sub_uri": "Q697583", "obj_uri": "Q183275", "obj_label": "\u4e09\u83f1\u96c6\u56e2", "sub_label": "\u4e00\u5f0f\u9678\u4e0a\u653b\u64ca\u6a5f", "from_english": false}
+{"sub_uri": "Q333859", "obj_uri": "Q66", "obj_label": "\u6ce2\u97f3", "sub_label": "\u6ce2\u97f3X-37", "from_english": false}
+{"sub_uri": "Q2496511", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "UNIX System Services", "from_english": true}
+{"sub_uri": "Q1071337", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "HFS+", "from_english": false}
+{"sub_uri": "Q1138257", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Map Maker", "from_english": false}
+{"sub_uri": "Q14583", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "XNU", "from_english": false}
+{"sub_uri": "Q4891880", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM TopView", "from_english": true}
+{"sub_uri": "Q610968", "obj_uri": "Q8093", "obj_label": "\u4efb\u5929\u5802", "sub_label": "\u9a6c\u91cc\u5965\u5144\u5f1f", "from_english": false}
+{"sub_uri": "Q840543", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "\u62a5\u8868\u7a0b\u5e8f\u751f\u6210\u5668", "from_english": false}
+{"sub_uri": "Q79608", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u5de5\u5177\u5217", "from_english": false}
+{"sub_uri": "Q4116861", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM ViaVoice", "from_english": true}
+{"sub_uri": "Q379555", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "\u5148\u8fdb\u529f\u80fd\u6f14\u793a", "from_english": false}
+{"sub_uri": "Q777", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "\u8c37\u6b4c\u700f\u89bd\u5668", "from_english": false}
+{"sub_uri": "Q14253532", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Chromecast", "from_english": false}
+{"sub_uri": "Q2104904", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Entourage", "from_english": false}
+{"sub_uri": "Q344266", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u52d5\u614b\u4f3a\u670d\u5668\u7db2\u9801", "from_english": false}
+{"sub_uri": "Q3088434", "obj_uri": "Q739552", "obj_label": "\u53f2\u514b\u5a01\u723e", "sub_label": "\u524d\u7dda\u4efb\u52d93", "from_english": false}
+{"sub_uri": "Q1470005", "obj_uri": "Q739552", "obj_label": "\u53f2\u514b\u5a01\u723e", "sub_label": "\u524d\u7ebf\u4efb\u52a1\u7cfb\u5217", "from_english": false}
+{"sub_uri": "Q864915", "obj_uri": "Q41187", "obj_label": "\u7d22\u5c3c", "sub_label": "Clang", "from_english": false}
+{"sub_uri": "Q360187", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Fireworks", "from_english": false}
+{"sub_uri": "Q368338", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Publisher", "from_english": false}
+{"sub_uri": "Q594447", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "\u5c0f\u578b\u7f51\u9875\u683c\u5f0f", "from_english": false}
+{"sub_uri": "Q1123788", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Works", "from_english": false}
+{"sub_uri": "Q4041460", "obj_uri": "Q248", "obj_label": "Intel", "sub_label": "Intel Parallel Studio", "from_english": true}
+{"sub_uri": "Q7392671", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "SPSS Modeler", "from_english": false}
+{"sub_uri": "Q181596", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "SPSS", "from_english": false}
+{"sub_uri": "Q1198691", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u8d22\u7ecf", "from_english": false}
+{"sub_uri": "Q2962094", "obj_uri": "Q122741", "obj_label": "Sega", "sub_label": "Fantasy Zone", "from_english": true}
+{"sub_uri": "Q889578", "obj_uri": "Q66", "obj_label": "\u6ce2\u97f3", "sub_label": "\u6ce2\u97f3KC-767", "from_english": false}
+{"sub_uri": "Q621277", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Apple Lossless", "from_english": false}
+{"sub_uri": "Q135622", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "\u8c37\u6b4c\u7ffb\u8b6f", "from_english": false}
+{"sub_uri": "Q1011979", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Latitude", "from_english": false}
+{"sub_uri": "Q621240", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u860b\u679c\u6a94\u6848\u901a\u8a0a\u5354\u5b9a", "from_english": false}
+{"sub_uri": "Q372323", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Time Machine", "from_english": false}
+{"sub_uri": "Q359973", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe RGB \u8272\u5f69\u7a7a\u95f4", "from_english": false}
+{"sub_uri": "Q574992", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "V8", "from_english": false}
+{"sub_uri": "Q968663", "obj_uri": "Q66", "obj_label": "\u6ce2\u97f3", "sub_label": "F-15SE\u6c89\u9ed8\u9e70\u5f0f\u6218\u6597\u673a", "from_english": false}
+{"sub_uri": "Q1326659", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "VHD\u683c\u5f0f", "from_english": false}
+{"sub_uri": "Q921895", "obj_uri": "Q41187", "obj_label": "Sony", "sub_label": "BBeB", "from_english": true}
+{"sub_uri": "Q5465225", "obj_uri": "Q122741", "obj_label": "Sega", "sub_label": "Fonz", "from_english": true}
+{"sub_uri": "Q151524", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Bing Maps Platform", "from_english": true}
+{"sub_uri": "Q1202569", "obj_uri": "Q8093", "obj_label": "Nintendo", "sub_label": "Wii MotionPlus", "from_english": true}
+{"sub_uri": "Q2377163", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Systems Application Architecture", "from_english": true}
+{"sub_uri": "Q196305", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u6a94\u6848\u7e3d\u7ba1", "from_english": false}
+{"sub_uri": "Q2339542", "obj_uri": "Q122741", "obj_label": "Sega", "sub_label": "Clockwork Knight", "from_english": true}
+{"sub_uri": "Q1344448", "obj_uri": "Q66", "obj_label": "\u6ce2\u97f3", "sub_label": "\u6ce2\u97f3747-400 LCF", "from_english": false}
+{"sub_uri": "Q851356", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe FreeHand", "from_english": false}
+{"sub_uri": "Q748319", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows NT 3.1", "from_english": false}
+{"sub_uri": "Q16928056", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "Rational Team Concert", "from_english": true}
+{"sub_uri": "Q6488", "obj_uri": "Q67", "obj_label": "\u7a7a\u4e2d\u5ba2\u8f66", "sub_label": "\u7a7a\u4e2d\u5ba2\u8f66A320neo", "from_english": false}
+{"sub_uri": "Q864915", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Clang", "from_english": false}
+{"sub_uri": "Q1781396", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Live Mesh", "from_english": false}
+{"sub_uri": "Q609306", "obj_uri": "Q20716", "obj_label": "\u4e09\u661f\u96c6\u5718", "sub_label": "Tizen", "from_english": false}
+{"sub_uri": "Q621530", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "SPDY", "from_english": false}
+{"sub_uri": "Q1196084", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "MXML", "from_english": false}
+{"sub_uri": "Q1871279", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Lotus Word Pro", "from_english": true}
+{"sub_uri": "Q1061377", "obj_uri": "Q37093", "obj_label": "\u96c5\u864e", "sub_label": "Traffic Server", "from_english": false}
+{"sub_uri": "Q575092", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "\u8c37\u6b4c\u773c\u955c", "from_english": false}
+{"sub_uri": "Q787647", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "DVD Studio Pro", "from_english": true}
+{"sub_uri": "Q621303", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Motion", "from_english": false}
+{"sub_uri": "Q420767", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u860b\u679cA4", "from_english": false}
+{"sub_uri": "Q371060", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u9605\u8bfb\u5668", "from_english": false}
+{"sub_uri": "Q1153760", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Office 2003", "from_english": false}
+{"sub_uri": "Q1584816", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u5fae\u8edf\u95b1\u8b80\u5668", "from_english": false}
+{"sub_uri": "Q4043554", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u9ea6\u91d1\u5854\u6587\u4ef6\u7cfb\u7edf", "from_english": false}
+{"sub_uri": "Q1196805", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Resource Interchange File Format", "from_english": false}
+{"sub_uri": "Q758853", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u97f3\u9891\u4ea4\u6362\u6587\u4ef6\u683c\u5f0f", "from_english": false}
+{"sub_uri": "Q21207", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Mobile", "from_english": false}
+{"sub_uri": "Q1294021", "obj_uri": "Q3884", "obj_label": "\u4e9e\u99ac\u905c\u516c\u53f8", "sub_label": "OpenSearch", "from_english": false}
+{"sub_uri": "Q484892", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Me", "from_english": false}
+{"sub_uri": "Q127319", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "HPFS", "from_english": false}
+{"sub_uri": "Q127319", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "HPFS", "from_english": false}
+{"sub_uri": "Q16927958", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Business System 12", "from_english": true}
+{"sub_uri": "Q5532250", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "\u901a\u7528\u904b\u8f38\u8cc7\u8a0a\u898f\u683c", "from_english": false}
+{"sub_uri": "Q904533", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Microsoft Dynamics NAV", "from_english": true}
+{"sub_uri": "Q11325095", "obj_uri": "Q8093", "obj_label": "Nintendo", "sub_label": "Nintendo Video", "from_english": true}
+{"sub_uri": "Q81612", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "IBM WebSphere Application Server", "from_english": false}
+{"sub_uri": "Q5969059", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM System Management Facilities", "from_english": true}
+{"sub_uri": "Q3272893", "obj_uri": "Q248", "obj_label": "Intel", "sub_label": "Intel 80486DX2", "from_english": true}
+{"sub_uri": "Q858368", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows NT 3.51", "from_english": false}
+{"sub_uri": "Q771202", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows NT 3.5", "from_english": false}
+{"sub_uri": "Q6721707", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "MacApp", "from_english": true}
+{"sub_uri": "Q11223801", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM 4300", "from_english": true}
+{"sub_uri": "Q1152115", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Embedded CE 6.0", "from_english": false}
+{"sub_uri": "Q49740", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u6211\u7684\u4e16\u754c", "from_english": false}
+{"sub_uri": "Q620620", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Android\u5e94\u7528\u5f00\u53d1\u8005", "from_english": false}
+{"sub_uri": "Q1537673", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u806f\u7d61\u4eba", "from_english": false}
+{"sub_uri": "Q864915", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Clang", "from_english": false}
+{"sub_uri": "Q6486", "obj_uri": "Q67", "obj_label": "\u7a7a\u4e2d\u5ba2\u8f66", "sub_label": "\u7a7a\u4e2d\u5ba2\u8f66A300-600ST", "from_english": false}
+{"sub_uri": "Q1125773", "obj_uri": "Q122741", "obj_label": "Sega", "sub_label": "Congo Bongo", "from_english": true}
+{"sub_uri": "Q429839", "obj_uri": "Q183275", "obj_label": "\u4e09\u83f1\u96c6\u56e2", "sub_label": "\u4e5d\u516d\u5f0f\u8266\u8f09\u6230\u9b25\u6a5f", "from_english": false}
+{"sub_uri": "Q80336", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Project", "from_english": false}
+{"sub_uri": "Q683670", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "WebP", "from_english": false}
+{"sub_uri": "Q309440", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "WebM", "from_english": false}
+{"sub_uri": "Q488298", "obj_uri": "Q20716", "obj_label": "\u4e09\u661f\u96c6\u5718", "sub_label": "\u4e09\u661fKies", "from_english": false}
+{"sub_uri": "Q2069294", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u5149\u660e\u4e4b\u5fc3", "from_english": false}
+{"sub_uri": "Q270309", "obj_uri": "Q41187", "obj_label": "\u7d22\u5c3c", "sub_label": "\u901a\u7528\u5a92\u9ad4\u5149\u789f", "from_english": false}
+{"sub_uri": "Q5969165", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Workplace OS", "from_english": true}
+{"sub_uri": "Q1185591", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u725b\u9813 OS", "from_english": false}
+{"sub_uri": "Q1932245", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Robocopy", "from_english": true}
+{"sub_uri": "Q420764", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u860b\u679cA5", "from_english": false}
+{"sub_uri": "Q13426339", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "iOS 7", "from_english": false}
+{"sub_uri": "Q15940106", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "CarPlay", "from_english": false}
+{"sub_uri": "Q819537", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Internet Explorer 10", "from_english": false}
+{"sub_uri": "Q218387", "obj_uri": "Q183275", "obj_label": "\u4e09\u83f1\u96c6\u56e2", "sub_label": "\u96f6\u5f0f\u6c34\u4e0a\u89c0\u6e2c\u6a5f", "from_english": false}
+{"sub_uri": "Q3475322", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Schema.org", "from_english": true}
+{"sub_uri": "Q3475322", "obj_uri": "Q37093", "obj_label": "Yahoo", "sub_label": "Schema.org", "from_english": true}
+{"sub_uri": "Q1062254", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u9891\u9053\u5b9a\u4e49\u683c\u5f0f", "from_english": false}
+{"sub_uri": "Q219710", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Aero", "from_english": false}
+{"sub_uri": "Q4781242", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Apple Thunderbolt Display", "from_english": false}
+{"sub_uri": "Q431171", "obj_uri": "Q3884", "obj_label": "Amazon", "sub_label": "Amazon Silk", "from_english": true}
+{"sub_uri": "Q594763", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Microsoft Expression Blend", "from_english": true}
+{"sub_uri": "Q5235054", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u5149\u660e\u4e4b\u5203", "from_english": false}
+{"sub_uri": "Q358927", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Parallel Sysplex", "from_english": true}
+{"sub_uri": "Q13733263", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Internet Explorer 11", "from_english": false}
+{"sub_uri": "Q360299", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe_Muse", "from_english": false}
+{"sub_uri": "Q310403", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "iBooks Author", "from_english": true}
+{"sub_uri": "Q8038394", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "WriteNow", "from_english": true}
+{"sub_uri": "Q864915", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "Clang", "from_english": false}
+{"sub_uri": "Q79564", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u5373\u65f6", "from_english": false}
+{"sub_uri": "Q420922", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u860b\u679cA6", "from_english": false}
+{"sub_uri": "Q150323", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "iPad", "from_english": false}
+{"sub_uri": "Q8024429", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Windows Messaging", "from_english": true}
+{"sub_uri": "Q2656687", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u7d22\u5c3c\u514b\u8d5b\u8f662", "from_english": false}
+{"sub_uri": "Q2248863", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u7d22\u5c3c\u514b\u8d5b\u8f66", "from_english": false}
+{"sub_uri": "Q706294", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft InfoPath", "from_english": false}
+{"sub_uri": "Q1342266", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Office 97", "from_english": false}
+{"sub_uri": "Q446400", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "\u96d9\u540c\u6b65", "from_english": false}
+{"sub_uri": "Q307677", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "iOS 6", "from_english": false}
+{"sub_uri": "Q2846924", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Android Jelly Bean", "from_english": false}
+{"sub_uri": "Q17054505", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u96f2\u7aef\u5e73\u53f0", "from_english": false}
+{"sub_uri": "Q14887104", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Apple A7", "from_english": false}
+{"sub_uri": "Q595374", "obj_uri": "Q338906", "obj_label": "\u611b\u53ef\u4fe1", "sub_label": "NetFront", "from_english": false}
+{"sub_uri": "Q4049850", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Spanner", "from_english": false}
+{"sub_uri": "Q15628543", "obj_uri": "Q8093", "obj_label": "Nintendo", "sub_label": "Wii U system software", "from_english": true}
+{"sub_uri": "Q15282750", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Phone 8.1", "from_english": false}
+{"sub_uri": "Q18010990", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Apple Pay", "from_english": false}
+{"sub_uri": "Q5427102", "obj_uri": "Q7184", "obj_label": "NATO", "sub_label": "FS-1015", "from_english": true}
+{"sub_uri": "Q2745925", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u8d85\u7d1a\u5fcd", "from_english": false}
+{"sub_uri": "Q2437099", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "Object REXX", "from_english": true}
+{"sub_uri": "Q1195367", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "Xsan", "from_english": true}
+{"sub_uri": "Q1062589", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Windows SDK", "from_english": false}
+{"sub_uri": "Q5968918", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM OfficeVision", "from_english": true}
+{"sub_uri": "Q3815169", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "VP9", "from_english": false}
+{"sub_uri": "Q17157056", "obj_uri": "Q8093", "obj_label": "\u4efb\u5929\u5802", "sub_label": "Amiibo", "from_english": false}
+{"sub_uri": "Q593863", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Rational ClearCase", "from_english": true}
+{"sub_uri": "Q7854718", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Keep", "from_english": false}
+{"sub_uri": "Q1931585", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Microsoft Digital Video Recording", "from_english": true}
+{"sub_uri": "Q2643528", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u5a92\u4f53\u4e2d\u5fc3Windows XP\u7248", "from_english": false}
+{"sub_uri": "Q165777", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Movie Maker", "from_english": false}
+{"sub_uri": "Q117428", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Money", "from_english": false}
+{"sub_uri": "Q17157212", "obj_uri": "Q248", "obj_label": "Intel", "sub_label": "Silvermont", "from_english": true}
+{"sub_uri": "Q13426234", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "OS X Mavericks", "from_english": false}
+{"sub_uri": "Q2383167", "obj_uri": "Q8093", "obj_label": "\u4efb\u5929\u5802", "sub_label": "\u5730\u7403\u5192\u96693", "from_english": false}
+{"sub_uri": "Q18297390", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "IPad mini 3", "from_english": false}
+{"sub_uri": "Q15845850", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u860b\u679cA8", "from_english": false}
+{"sub_uri": "Q18298235", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Apple A8X", "from_english": false}
+{"sub_uri": "Q15057406", "obj_uri": "Q248", "obj_label": "Intel", "sub_label": "Intel Quark", "from_english": true}
+{"sub_uri": "Q15030574", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "iBeacon", "from_english": false}
+{"sub_uri": "Q15070207", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google Hummingbird", "from_english": true}
+{"sub_uri": "Q15091626", "obj_uri": "Q1418", "obj_label": "\u8bfa\u57fa\u4e9a", "sub_label": "Nokia Lumia 2520", "from_english": false}
+{"sub_uri": "Q8024433", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Windows Mobile 6.5", "from_english": true}
+{"sub_uri": "Q360144", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Encore", "from_english": false}
+{"sub_uri": "Q15961745", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Wear OS", "from_english": false}
+{"sub_uri": "Q18844946", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Holographic", "from_english": false}
+{"sub_uri": "Q360204", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u4e8b\u4ef6\u6aa2\u8996\u5668", "from_english": false}
+{"sub_uri": "Q17298682", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Android TV", "from_english": false}
+{"sub_uri": "Q17512080", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Android Runtime", "from_english": false}
+{"sub_uri": "Q17318432", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Android Auto", "from_english": false}
+{"sub_uri": "Q17679679", "obj_uri": "Q8093", "obj_label": "\u4efb\u5929\u5802", "sub_label": "\u65b0\u4efb\u5929\u58023DS", "from_english": false}
+{"sub_uri": "Q18031572", "obj_uri": "Q20716", "obj_label": "\u4e09\u661f\u96c6\u5718", "sub_label": "\u4e09\u661fGear VR", "from_english": false}
+{"sub_uri": "Q18511815", "obj_uri": "Q3884", "obj_label": "\u4e9e\u99ac\u905c\u516c\u53f8", "sub_label": "Amazon Echo", "from_english": false}
+{"sub_uri": "Q2330096", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "\u4f4d\u5716\u5b57\u9ad4\u5206\u4f48\u683c\u5f0f", "from_english": false}
+{"sub_uri": "Q1973127", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "Dynix", "from_english": true}
+{"sub_uri": "Q2736150", "obj_uri": "Q8093", "obj_label": "Nintendo", "sub_label": "Yoshi's Universal Gravitation", "from_english": true}
+{"sub_uri": "Q1808580", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "VoiceOver \u5de5\u5177\u7a0b\u5f0f", "from_english": false}
+{"sub_uri": "Q519774", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u6587\u5b57\u7de8\u8f2f", "from_english": false}
+{"sub_uri": "Q51707", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Security Essentials", "from_english": false}
+{"sub_uri": "Q1367610", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Internet Explorer 3", "from_english": false}
+{"sub_uri": "Q1968172", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u6346\u7ed1", "from_english": false}
+{"sub_uri": "Q1409043", "obj_uri": "Q739552", "obj_label": "\u53f2\u514b\u5a01\u723e", "sub_label": "\u65f6\u7a7a\u4e4b\u9738\u8005 \u6c99\u52a03 \u5b8c\u7ed3\u7bc7", "from_english": false}
+{"sub_uri": "Q1408991", "obj_uri": "Q739552", "obj_label": "\u53f2\u514b\u5a01\u723e", "sub_label": "\u6c99\u52a02 \u79d8\u5b9d\u4f20\u8bf4", "from_english": false}
+{"sub_uri": "Q1140503", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Internet Explorer Mobile", "from_english": false}
+{"sub_uri": "Q2704444", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "\u78c1\u789f\u5de5\u5177\u7a0b\u5f0f", "from_english": false}
+{"sub_uri": "Q265039", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "MSX BASIC", "from_english": true}
+{"sub_uri": "Q2551337", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Connect", "from_english": false}
+{"sub_uri": "Q632851", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "\u4e92\u8054\u7f51\u5b89\u5168\u548c\u52a0\u901f\u670d\u52a1\u5668", "from_english": false}
+{"sub_uri": "Q753609", "obj_uri": "Q207922", "obj_label": "Atari", "sub_label": "Atari DOS", "from_english": true}
+{"sub_uri": "Q1171872", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Dashboard", "from_english": false}
+{"sub_uri": "Q4811604", "obj_uri": "Q122741", "obj_label": "Sega", "sub_label": "Astron Belt", "from_english": true}
+{"sub_uri": "Q4188002", "obj_uri": "Q207922", "obj_label": "Atari", "sub_label": "Asteroids Deluxe", "from_english": true}
+{"sub_uri": "Q16996920", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows\u5b89\u88c5\u7a0b\u5e8f\u4fe1\u606f\u6587\u4ef6", "from_english": false}
+{"sub_uri": "Q1078773", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Photo Booth", "from_english": false}
+{"sub_uri": "Q3067167", "obj_uri": "Q122741", "obj_label": "\u4e16\u5609\u516c\u53f8", "sub_label": "\u6b7b\u4ea1\u8ff7\u5bae", "from_english": false}
+{"sub_uri": "Q338518", "obj_uri": "Q248", "obj_label": "\u82f1\u7279\u5c14", "sub_label": "\u82f1\u7279\u5c14i860", "from_english": false}
+{"sub_uri": "Q281431", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Microsoft Office Live", "from_english": false}
+{"sub_uri": "Q2160091", "obj_uri": "Q122741", "obj_label": "Sega", "sub_label": "Alien Storm", "from_english": true}
+{"sub_uri": "Q2858737", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "Apple Icon Image format", "from_english": true}
+{"sub_uri": "Q501149", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Rational Application Developer", "from_english": true}
+{"sub_uri": "Q1571984", "obj_uri": "Q37156", "obj_label": "\u570b\u969b\u5546\u696d\u6a5f\u5668\u80a1\u4efd\u6709\u9650\u516c\u53f8", "sub_label": "IBM\u8cc7\u8a0a\u7ba1\u7406\u7cfb\u7d71", "from_english": false}
+{"sub_uri": "Q3569293", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Windows Media Encoder", "from_english": true}
+{"sub_uri": "Q1341807", "obj_uri": "Q207922", "obj_label": "Atari", "sub_label": "Gran Trak 10", "from_english": true}
+{"sub_uri": "Q79593", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Google\u8edf\u9ad4\u96c6", "from_english": false}
+{"sub_uri": "Q1067615", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Driver Foundation", "from_english": false}
+{"sub_uri": "Q553702", "obj_uri": "Q8093", "obj_label": "\u4efb\u5929\u5802", "sub_label": "\u4fc4\u7f85\u65af\u65b9\u584aDS", "from_english": false}
+{"sub_uri": "Q123390", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "IBM Lotus SmartSuite", "from_english": true}
+{"sub_uri": "Q615095", "obj_uri": "Q312", "obj_label": "Apple", "sub_label": "Apple Open Directory", "from_english": true}
+{"sub_uri": "Q1892515", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Microsoft Schedule Plus", "from_english": true}
+{"sub_uri": "Q2651563", "obj_uri": "Q122741", "obj_label": "Sega", "sub_label": "Shadow Dancer", "from_english": true}
+{"sub_uri": "Q1332546", "obj_uri": "Q2283", "obj_label": "\u5fae\u8edf", "sub_label": "Windows Write", "from_english": false}
+{"sub_uri": "Q1147130", "obj_uri": "Q312", "obj_label": "\u860b\u679c\u516c\u53f8", "sub_label": "Cyberdog", "from_english": false}
+{"sub_uri": "Q2584726", "obj_uri": "Q11463", "obj_label": "Adobe", "sub_label": "Adobe Illustrator\u6587\u4ef6\u683c\u5f0f", "from_english": false}
+{"sub_uri": "Q851032", "obj_uri": "Q122741", "obj_label": "Sega", "sub_label": "Gain Ground", "from_english": true}

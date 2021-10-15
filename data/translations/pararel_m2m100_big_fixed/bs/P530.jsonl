@@ -1,0 +1,9 @@
+{"pattern": "[X] odr\u017eava diplomatske odnose sa [Y]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] odr\u017eava diplomatske odnose sa [X]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] vezuje diplomatske odnose sa [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] vezuje diplomatske odnose sa [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] ima diplomatske odnose sa [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] ima diplomatske odnose sa [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X], koji ima diplomatske odnose sa [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], koji ima diplomatske odnose sa [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], koji povezuje diplomatske odnose s [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

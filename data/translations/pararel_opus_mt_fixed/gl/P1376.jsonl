@@ -1,0 +1,14 @@
+{"pattern": "[X] \u00e9 a capital de [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "A capital de [Y] \u00e9 [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "A cidade capital de [Y] \u00e9 [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] \u00e9 a cidade capital de [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] \u00c9 capital, [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "A cidade capital de [Y], [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] capital \u00e9 [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "A cidade capital de [Y] \u00e9 [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], a capital de [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], a cidade capital de [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], esa \u00e9 a capital de [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], esa \u00e9 a cidade capital de [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], que ten a capital [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], que ten a cidade capital [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

@@ -1,0 +1,6 @@
+{"pattern": "[X] og [Y] er to byer.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] og [X] er to byer.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] er en tvillingeby i [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[Y] er en tvillingby i [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] er en tvillingeby i [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] er en tvillingby i [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

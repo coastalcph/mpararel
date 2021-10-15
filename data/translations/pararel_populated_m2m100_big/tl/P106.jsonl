@@ -1,0 +1,35 @@
+{"pattern": "[X] ay isang [Y] sa pamamagitan ng profesiya.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "Si [X] ay isang [Y] sa pamamagitan ng profesiya.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] ay isang [Y] sa pamamagitan ng profesiya.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] ay isang [Y] sa pamamagitan ng trabaho.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "Si [X] ay isang [Y] sa pamamagitan ng profesiya.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] ay isang [Y] sa pamamagitan ng training.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "Si [X] ay isang [Y] sa pamamagitan ng training.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] ay isang [Y] sa pamamagitan ng training.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "Si [X] ay isang [Y] sa pamamagitan ng training.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] ay isang [Y]", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X] ay [Y]", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "Si [X] ay isang [Y]", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X] ay nagtatrabaho bilang [Y]", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X] na nagtatrabaho bilang [Y]", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] na nagtatrabaho bilang isang [Y]", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] ay isang [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X] Occupation ay isang [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X] ay [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "Ang [X] ay isang [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "Ang trabaho ni [X] ay [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X] ay [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "ang [X] ay [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] ay isang [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "Si [X] ay isang [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] ay isang [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Ang trabaho [X] ay isang [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Ang trabaho ni [X] ay isang [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] ay isang [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Ang trabaho [X] ay isang [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Ang trabaho ni [X] ay isang [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] ay [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}
+{"pattern": "[X] ay isang [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}
+{"pattern": "Ang [X] ay [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}
+{"pattern": "Ang trabaho ni [X] ay isang [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}
+{"pattern": "Ang [X] ay isang [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

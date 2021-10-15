@@ -1,0 +1,13 @@
+{"pattern": "Hivyo ndivyo ilivyo katika nchi za Kiarabu.", "lemma": "work", "extended_lemma": "work-in-field", "tense": "present"}
+{"pattern": "Miongoni mwa mambo hayo ni y.", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
+{"pattern": "Huu ni mtazamo wa kipekee.", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
+{"pattern": "Huu ni ujuzi wa ujuzi.", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Huu ni ujuzi wa ujuzi.", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
+{"pattern": "Huu ni uwanja wa mazoezi.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Juu ya kazi ya [X] ni [Y].", "lemma": "domain-of-work", "extended_lemma": "domain-of-work", "tense": "present"}
+{"pattern": "Huu ni uwanja wa mazoezi.", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
+{"pattern": "Juu ya sehemu ya kazi ya [X] ni [Y].", "lemma": "area-of-work", "extended_lemma": "'s-area-of-work", "tense": "present"}
+{"pattern": "Jina la kazi ya [X] ni [Y].", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
+{"pattern": "Juu ya vichwa vingine vya kazi ni [X].", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
+{"pattern": "Na ujuzi wa ujuzi wa [X] ni [Y].", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}
+{"pattern": "(x) kazi katika eneo la [Y].", "lemma": "work", "extended_lemma": "work-in-area", "tense": "present"}

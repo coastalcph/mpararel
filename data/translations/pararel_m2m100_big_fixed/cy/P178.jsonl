@@ -1,0 +1,16 @@
+{"pattern": "[X] yn cael ei datblygu gan [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] yn cael ei datblygu gan [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X], yn datblygu gan [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "Mae'n cael ei credu gan [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "Yn cael ei credu gan [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "Mae'n creadigol i'w credu.", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] yn cynnyrch o [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] yn cynnyrch o [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], cynhyrchion o [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], cynhyrchion a sefydlwyd gan [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], cynnyrch a wnaed gan [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], cynnyrch a datblygu gan [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], sy'n datblygu [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "Mae'n creadigol i'w credu", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "Mae'r creadur yn ddiddordeb.", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] a chynhyrchion ei [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

@@ -1,0 +1,17 @@
+{"pattern": "[X] ay may posisyon ng [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "Ang [X] ay may posisyon ng [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] na may posisyon ng [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] kung saan ang posisyon ay ang ng [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] ang posisyon ay ang [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] kung saan ang posisyon ay ang [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] na ang posisyon ay [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] na ang posisyon ay na ng [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] ang posisyon ay [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "Ang posisyon [X] ay [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "Ang posisyon ng [X] ay [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] posisyon ay [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] ay [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] na nagtatag ng posisyon ng [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] ay nagtatag ng posisyon ng [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "Ang [X] ay nagtatag ng posisyon ng [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "Si [X] ay nagtatag ng posisyon ng [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

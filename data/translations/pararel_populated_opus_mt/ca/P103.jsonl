@@ -1,0 +1,20 @@
+{"pattern": "La llengua nativa de [X] \u00e9s [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "La llengua nativa [X] \u00e9s [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "L'idioma natiu de [X] \u00e9s [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X] \u00e9s [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "La llengua materna [X] \u00e9s [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "La llengua materna de [X] \u00e9s [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "El [Y] \u00e9s la llengua nativa [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] la llengua nativa de [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] \u00e9s la llengua nativa de [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] la llengua nativa [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] \u00e9s [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] \u00e9s la llengua nativa [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "El [Y] \u00e9s [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] de [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "El [Y] \u00e9s la llengua materna [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] la llengua materna de [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] \u00e9s la llengua materna de [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "El [Y] \u00e9s la llengua materna de [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] \u00e9s la llengua materna [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] la llengua materna [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

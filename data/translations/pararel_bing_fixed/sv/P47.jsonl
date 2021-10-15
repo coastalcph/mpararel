@@ -1,0 +1,9 @@
+{"pattern": "[X] delar kantlinjen med [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] kantlinjer med [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] delar gr\u00e4nsen med [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] delar sin gr\u00e4ns med [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] delar en gemensam gr\u00e4ns med [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] kantlinjer till [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] delar gr\u00e4nsen med [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] delar sin gr\u00e4ns med [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] delar en gemensam gr\u00e4ns med [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

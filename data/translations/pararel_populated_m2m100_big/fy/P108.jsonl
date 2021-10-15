@@ -1,0 +1,6 @@
+{"pattern": "[X] wurket foar [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] dy't wurket foar [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] is [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] is ynsteld by [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] wurdt br\u00fbkt troch [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] dy't [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

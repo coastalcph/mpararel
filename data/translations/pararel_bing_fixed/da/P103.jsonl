@@ -1,0 +1,4 @@
+{"pattern": "Det oprindelige sprog i [X] er [Y].", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Modersm\u00e5let for [X] er [Y].", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] er [X]s modersm\u00e5l.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] er [X]s modersm\u00e5l.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

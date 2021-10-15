@@ -1,0 +1,32 @@
+{"pattern": "[X] ka lindur n\u00eb [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] n\u00eb [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] \u00ebsht\u00eb origjinal nga [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] ishte fillimisht nga [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] ishte origjinal nga [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] \u00ebsht\u00eb i lindur n\u00eb [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] lindur n\u00eb [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] ka lindur n\u00eb [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] ishte i lindur [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] lindur [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] ishte i lindur n\u00eb [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] lindur n\u00eb [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] ka lindur n\u00eb [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] ka lindur [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] nga [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] ka lindur n\u00eb [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] vjen nga [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] nga [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] ishte nj\u00eb person i lindur [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] ishte nj\u00eb person i lindur n\u00eb [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] lindur n\u00eb [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] ishte nj\u00eb person i lindur [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] ishte nj\u00eb person i lindur n\u00eb [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] lindur n\u00eb [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb person i lindur [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb person i lindur n\u00eb [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb person i lindur [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb person i lindur n\u00eb [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] nj\u00eb person i lindur [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] nj\u00eb person i lindur n\u00eb [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] nj\u00eb person i lindur [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] nj\u00eb person i lindur n\u00eb [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

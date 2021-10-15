@@ -1,0 +1,13 @@
+{"pattern": "[X] es de [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] es [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] es la proprietat de [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] es la proprietat [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] lo proprietari [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[X] es lo proprietari [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[X] proprietari [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[X] proprietari de [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[X] de [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] es lo proprietari de [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] lo [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] possed\u00eds [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[X] de [Y]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

@@ -1,0 +1,11 @@
+{"pattern": "[X] \u00e8 stato originariamente in onda su [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] \u00e8 di debuttare su [y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] \u00e8 di debuttare [x].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debuttato [x].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debuttato su [y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "il debutto [y] di [x].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "la versione [y] di [x].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] \u00e8 stato rilasciato su [y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] rilasciato [x].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] a preavviso su [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] anteprime su [y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

@@ -1,0 +1,14 @@
+{"pattern": "[X] \u092e\u0942\u0932 \u0930\u0942\u092a \u0938\u0947 [Y] \u092a\u0930 \u092a\u094d\u0930\u0938\u093e\u0930\u093f\u0924 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0925\u093e\u0964", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[Y] \u0928\u0947 [X] \u0915\u094b \u0932\u0949\u0928\u094d\u091a \u0915\u093f\u092f\u093e\u0964", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] \u0928\u0947 [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] \u0928\u0947 [X] \u0939\u0948\u0964", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] \u0915\u0940 \u0936\u0941\u0930\u0941\u0906\u0924 [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] \u0915\u0947 [Y]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[X] \u0915\u0940 [Y]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "[X] \u0915\u094b [Y] \u092a\u0930 \u0930\u093f\u0932\u0940\u091c \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0925\u093e\u0964", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] \u092a\u0930 \u0930\u093f\u0932\u0940\u091c \u0915\u093f\u092f\u093e \u0917\u092f\u093e [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] \u092a\u0930 [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] \u0928\u0947 [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] \u0928\u0947 [X] \u0915\u093f\u092f\u093e\u0964", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] \u0928\u0947 [X] \u0915\u093f\u092f\u093e \u0939\u0948\u0964", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] \u0928\u0947 [X] \u091c\u093e\u0930\u0940 \u0915\u093f\u092f\u093e \u0939\u0948\u0964", "lemma": "release", "extended_lemma": "release", "tense": "past"}

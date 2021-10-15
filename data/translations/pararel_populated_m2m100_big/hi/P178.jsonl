@@ -1,0 +1,9 @@
+{"pattern": "[X] \u0915\u094b [Y] \u0926\u094d\u0935\u093e\u0930\u093e \u0935\u093f\u0915\u0938\u093f\u0924 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] \u0915\u094b [Y] \u0935\u093f\u0915\u0938\u093f\u0924 \u0915\u093f\u092f\u093e \u0939\u0948\u0964", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] \u0915\u094b [Y] \u0926\u094d\u0935\u093e\u0930\u093e \u0935\u093f\u0915\u0938\u093f\u0924 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0925\u093e\u0964", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X] \u0915\u094b [Y] \u0935\u093f\u0915\u0938\u093f\u0924 \u0915\u093f\u092f\u093e \u0925\u093e\u0964", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[Y] \u091c\u093f\u0938\u0928\u0947 \u092c\u0928\u093e\u092f\u093e [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] \u091c\u093f\u0938\u0928\u0947 [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] \u092c\u0928\u093e\u092f\u093e [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] \u091c\u093f\u0938\u0928\u0947 [X] \u0915\u093e \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u0915\u093f\u092f\u093e", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] \u0914\u0930 \u0907\u0938\u0915\u0947 \u0909\u0924\u094d\u092a\u093e\u0926 [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

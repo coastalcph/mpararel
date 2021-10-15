@@ -1,0 +1,44 @@
+{"pattern": "D\u00e9anann [Y] ionada\u00edocht ar [X]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[Y] Lip\u00e9ad Ceoil ionada\u00edocht ar [X]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[Y] ionada\u00edocht [X]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[Y] ionada\u00edocht ar [X]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "D\u00e9anann [Y] lip\u00e9ad [X]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "T\u00e1 [X] ionada\u00edocht ag [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "T\u00e1 [X] ag Lip\u00e9ad Taifead [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] ionada\u00edocht [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "T\u00e1 [X] ionada\u00edocht ag Lip\u00e9ad [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] Lip\u00e9ad Taifead [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "T\u00e1 [X] ag [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] ionada\u00edocht ar [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "D\u00e9anann [X] ionada\u00edocht ar [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] Taifead [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] Lip\u00e9ad [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "D\u00e9anann [Y] ionada\u00edocht ar [X]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[Y] ionada\u00edocht [X]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] a [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] a l\u00e9ir\u00edonn [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] a dh\u00e9anann ionada\u00edocht [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] a [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] a l\u00e9ir\u00edonn [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] ag [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] a bhfuil ionada\u00edocht [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Is \u00e9 [Y] an lip\u00e9ad ceoil a dh\u00e9anann ionada\u00edocht ar [X]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[Y] an lip\u00e9ad ceoil a dh\u00e9anann ionada\u00edocht ar [X]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "Is \u00e9 [Y] an lip\u00e9ad ceoil at\u00e1 ag d\u00e9anamh ionada\u00edochta ar [X]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[Y] an lip\u00e9ad ceoil at\u00e1 ag d\u00e9anamh ionada\u00edochta ar [X]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "Is \u00e9 [Y] an lip\u00e9ad ceoil at\u00e1 ag d\u00e9anamh ionada\u00edochta [X]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[Y] an lip\u00e9ad ceoil at\u00e1 ag d\u00e9anamh ionada\u00edochta [X]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "Is \u00e9 [Y] lip\u00e9ad ceoil [X]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[Y] lip\u00e9ad ceoil [X]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "Is [Y] lip\u00e9ad ceoil [X]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] taifeadadh [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] le haghaidh [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] Lip\u00e9ad: [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X] a [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] a scaoiltear le [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] le [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[Y] a [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] taifeadta [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "Eala\u00edont\u00f3ir\u00ed [Y] ar n\u00f3s [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "Eala\u00edont\u00f3ir\u00ed [Y] cos\u00fail [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "Eala\u00edont\u00f3ir\u00ed [Y] lena n-\u00e1ir\u00edtear [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

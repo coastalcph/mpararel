@@ -1,0 +1,11 @@
+{"pattern": "[X] je [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] z [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] je povezan z [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] je povezan [Y] vero.", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] je povezan z religijo [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] je povezan [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] sledi [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] sledi [Y] religiji.", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] sledi religiji [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[Y] je uradna [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] je uradna vera [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

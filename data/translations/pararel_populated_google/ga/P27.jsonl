@@ -1,0 +1,12 @@
+{"pattern": "Is saor\u00e1nach den [Y] \u00e9 [X]", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "Is saor\u00e1nach [Y] \u00e9 [X]", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
+{"pattern": "[X] saor\u00e1nach den [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X] saor\u00e1nach [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
+{"pattern": "[X] at\u00e1 ina shaor\u00e1nach den [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "[X] at\u00e1 ina shaor\u00e1nach [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
+{"pattern": "T\u00e1 saor\u00e1nacht na [Y] ag [X]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "T\u00e1 saor\u00e1nacht [Y] ag [X]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X] a shealbha\u00edonn saor\u00e1nacht na [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] a shealbha\u00edonn saor\u00e1nacht [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
+{"pattern": "[X] a bhfuil saor\u00e1nacht na [Y] aige.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
+{"pattern": "[X] a bhfuil saor\u00e1nacht [Y] aige.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}

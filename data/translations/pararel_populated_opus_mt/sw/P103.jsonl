@@ -1,0 +1,8 @@
+{"pattern": "Lugha ya kienyeji ya [X] ni [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Lugha ya asili ya [X] ni [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Lugha ya asili ya [X] ni [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] ya asili ya [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] ni lugha ya kienyeji ya [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] lugha ya kienyeji ya [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] ni lugha ya asili ya [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] ni lugha ya mama ya [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

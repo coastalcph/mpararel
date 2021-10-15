@@ -1,0 +1,15 @@
+{"pattern": "[X] \u0938\u092e\u094d\u092e\u093e\u0928\u092e\u093e [Y] \u0930\u093e\u0916\u093f\u090f\u0915\u094b \u0925\u093f\u092f\u094b\u0964", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] \u0938\u092e\u094d\u092e\u093e\u0928\u092e\u093e [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] \u0938\u092e\u094d\u092e\u093e\u0928\u092e\u093e [Y] \u0928\u093e\u0909\u0901 \u0930\u093e\u0916\u093f\u090f\u0915\u094b \u0925\u093f\u092f\u094b\u0964", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X] \u0938\u092e\u094d\u092e\u093e\u0928\u092e\u093e \u0928\u093e\u092e\u0915\u0930\u0923 [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X] \u0938\u092e\u094d\u092e\u093e\u0928\u092e\u093e [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X] \u0938\u092e\u094d\u092e\u093e\u0928\u092e\u093e \u0928\u093e\u092e\u0915\u0930\u0923 [Y] \u0964", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X] \u0938\u092e\u094d\u092e\u093e\u0928\u092e\u093e \u0928\u093e\u092e\u0915\u0930\u0923 \u0917\u0930\u093f\u090f\u0915\u094b [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[Y] \u092a\u091b\u093f [X]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X] \u091c\u0938\u0932\u093e\u0908 [Y] \u092d\u0928\u093f\u0928\u094d\u091b\u0964", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X] \u091c\u0938\u0932\u093e\u0908 [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X] \u091c\u0938\u0932\u093e\u0908 [Y] \u092a\u091b\u093f \u092d\u0928\u093f\u0928\u094d\u091b\u0964", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X] \u091c\u0938\u0932\u093e\u0908 [Y] \u092d\u0928\u093f\u0928\u094d\u0925\u094d\u092f\u094b\u0964", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X] \u091c\u0938\u0932\u093e\u0908 [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "[X] \u091c\u0938\u0932\u093e\u0908 [Y]", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}
+{"pattern": "[X] \u091c\u0938\u0932\u093e\u0908 [Y] \u092d\u0928\u093f\u0928\u094d\u091b\u0964", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

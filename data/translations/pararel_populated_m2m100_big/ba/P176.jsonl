@@ -1,0 +1,11 @@
+{"pattern": "[X] \u2014 [Y] \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u04bb\u044b.", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] \u2014 [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] \u2014 [Y] \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u04bb\u044b.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] \u2014 [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] \u2014 [Y] \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u04bb\u044b.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] \u2014 [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] \u2014 [Y] \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u04bb\u044b.", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] \u2014 [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X] \u2014 [Y] \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u04bb\u044b.", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X] \u2014 [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[X] \u2014 [Y] \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u04bb\u044b.", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}

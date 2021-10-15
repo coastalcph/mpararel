@@ -1,0 +1,8 @@
+{"pattern": "[X] bir [Y]", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] mesle\u011fi taraf\u0131ndan bir [Y]", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] mesle\u011fe g\u00f6re bir [Y]", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] mesle\u011fi [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X] i\u015fgali [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] mesle\u011fi bir [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] mesle\u011fi bir [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] mesle\u011fi [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

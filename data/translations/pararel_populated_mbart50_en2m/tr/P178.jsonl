@@ -1,0 +1,9 @@
+{"pattern": "[Y] taraf\u0131ndan \u00fcretilen bir \u00fcr\u00fcn olan [X]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[Y] taraf\u0131ndan [X] bir \u00fcr\u00fcn", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y] taraf\u0131ndan geli\u015ftirilen bir \u00fcr\u00fcn olan [X]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[X] geli\u015ftiren [Y]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[X] meydana getiren [Y]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[X] yarat\u0131c\u0131s\u0131 [Y]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[X] yarat\u0131c\u0131s\u0131 olan [Y]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] ve [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
+{"pattern": "[Y] ve \u00fcr\u00fcnleri [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

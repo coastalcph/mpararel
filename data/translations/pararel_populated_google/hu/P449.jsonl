@@ -1,0 +1,22 @@
+{"pattern": "[X] az [Y] deb\u00fct\u00e1l.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] a [Y] deb\u00fct\u00e1l.", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] a [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "Az [Y] az [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] az [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] a [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] az [X] deb\u00fct\u00e1l\u00e1sa.", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] deb\u00fct\u00e1lta [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] a [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] deb\u00fct\u00e1lt [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] kiadta [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] az [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] a [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] megjelent [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] bemutatott [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] premier\u00e1lt [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Premieres [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] az [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] Premieres a [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] a [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] premier [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

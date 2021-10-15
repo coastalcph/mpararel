@@ -1,0 +1,7 @@
+{"pattern": "[X] a [Y] yn ddinas gemau.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "Mae [X] a [Y] yn ddinas gemau.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] a [X] yn ddinas gemau.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "Mae [Y] a [X] yn ddinas gemau.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] yn ddinas gemau [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[Y] yn ddinas gemau o [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] yn ddinas gemau o [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

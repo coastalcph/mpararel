@@ -1,0 +1,37 @@
+{"pattern": "[X] ass [Y] gestuerwen.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] ass [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "De [X] ass zu [Y] gestuerwen.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] ass zu [Y] gestuerwen.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] ass zu [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] ass [Y] gestuerwen.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] ass [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "De [X] ass zu [Y] gestuerwen.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] ass zu [Y] gestuerwen.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] ass zu [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "De [X] ass zu [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] ass [Y] gestuerwen.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "De [X] ass [Y] gestuerwen.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "De [X] ass zu [Y] gestuerwen.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] ass zu [Y] gestuerwen.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] ass [Y] gestuerwen.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "De [X] ass zu [Y] gestuerwen.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] ass zu [Y] gestuerwen.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] ass [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "De [X] zu [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "De [X] ass zu [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] ass zu [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] zu [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] huet [Y] Liewen verl\u00e9ieren.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "De [X] huet s\u00e4in Liewen zu [Y] verl\u00e9ieren.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "De [X] huet s\u00e4in Liewen [Y] verl\u00e9ieren.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] huet s\u00e4in Liewen zu [Y] verl\u00e9ieren.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] huet s\u00e4in Liewen [Y] verl\u00e9ieren.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] war [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "De [X] ass zu [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "De [X] zu [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] huet [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] huet zu [Y] gefall.", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] zu [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "De [X] huet zu [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "De [X] huet zu [Y] gefall.", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "De [X] zu [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

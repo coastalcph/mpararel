@@ -1,0 +1,37 @@
+{"pattern": "[X] bi ni [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] ni [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] ni a bi ni [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] ni a bi ni Ilu [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] wa ni ak\u1ecdk\u1ecd lati [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] ni ak\u1ecdk\u1ecd lati [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] ti wa ni ak\u1ecdk\u1ecd lati [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] wa ni ak\u1ecdk\u1ecd lati [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] ni ak\u1ecdk\u1ecd lati [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] ni ipil\u1eb9\u1e63\u1eb9 lati [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] j\u1eb9 abinibi si [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] si [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] j\u1eb9 abinibi si [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] abinibi si [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] si [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] ti ipil\u1eb9\u1e63\u1eb9 lati [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] lati [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] wa lati [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] j\u1eb9 eniyan [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] j\u1eb9 eniyan ti o [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] j\u1eb9 eniyan ti o bi [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] j\u1eb9 eniyan [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] j\u1eb9 eniyan ti o [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] j\u1eb9 eniyan ti o bi [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] j\u1eb9 eniyan [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] j\u1eb9 eniyan ti [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] j\u1eb9 eniyan ti o [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] j\u1eb9 eniyan ti o bi [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] j\u1eb9 eniyan [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] j\u1eb9 eniyan ti [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] j\u1eb9 eniyan ti o [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] j\u1eb9 eniyan ti o bi [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] eniyan [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] eniyan [Y] kan.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] eniyan ti [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] eniyan [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] eniyan ti [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

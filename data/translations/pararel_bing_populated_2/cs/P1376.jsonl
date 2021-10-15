@@ -1,0 +1,7 @@
+{"pattern": "[X] je hlavn\u00edm m\u011bstem zem\u011b [Y]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] je hlavn\u00edm m\u011bstem [Y]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] m\u00e1 hlavn\u00ed m\u011bsto [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] kter\u00e9 m\u00e1 hlavn\u00ed m\u011bsto [X]", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] m\u00e1 hlavn\u00ed m\u011bsto [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] kter\u00e9 m\u00e1 hlavn\u00ed m\u011bsto [X]", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

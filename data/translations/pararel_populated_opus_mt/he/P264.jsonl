@@ -1,0 +1,42 @@
+{"pattern": "[X] \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d7\u05d1\u05e8\u05ea \u05de\u05d5\u05e1\u05d9\u05e7\u05d4 [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d7\u05d1\u05e8\u05ea [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u05de\u05d9\u05d5\u05e6\u05d2 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d7\u05d1\u05e8\u05ea [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d7\u05d1\u05e8\u05ea \u05d4\u05ea\u05e7\u05dc\u05d9\u05d8\u05d9\u05dd [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u05de\u05d9\u05d5\u05e6\u05d2 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d7\u05d1\u05e8\u05ea \u05d4\u05ea\u05e7\u05dc\u05d9\u05d8\u05d9\u05dd [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u05de\u05d9\u05d5\u05e6\u05d2 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u05de\u05d9\u05d5\u05e6\u05d2\u05ea \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d7\u05d1\u05e8\u05ea [Y]", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X] \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d7\u05d1\u05e8\u05ea [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u05de\u05d9\u05d5\u05e6\u05d2 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d7\u05d1\u05e8\u05ea [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d7\u05d1\u05e8\u05ea \u05d4\u05ea\u05e7\u05dc\u05d9\u05d8\u05d9\u05dd [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d7\u05d1\u05e8\u05ea \u05ea\u05e7\u05dc\u05d9\u05d8\u05d9\u05dd [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u05de\u05d9\u05d5\u05e6\u05d2 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d7\u05d1\u05e8\u05ea \u05ea\u05e7\u05dc\u05d9\u05d8\u05d9\u05dd [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u05de\u05d9\u05d5\u05e6\u05d2\u05ea \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d7\u05d1\u05e8\u05ea [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] \u05de\u05d9\u05d5\u05e6\u05d2 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] \u05de\u05d9\u05d5\u05e6\u05d2\u05d9\u05dd \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] \u05de\u05d9\u05d5\u05e6\u05d2\u05ea \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] \u05de\u05d9\u05d5\u05e6\u05d2 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] \u05d4\u05de\u05d9\u05d5\u05e6\u05d2\u05d9\u05dd \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] \u05d0\u05e9\u05e8 \u05de\u05d9\u05d5\u05e6\u05d2 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] \u05d4\u05de\u05d9\u05d5\u05e6\u05d2\u05d9\u05dd \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] \u05de\u05d9\u05d5\u05e6\u05d2\u05ea \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "\u05d7\u05d1\u05e8\u05ea \u05d4\u05ea\u05e7\u05dc\u05d9\u05d8\u05d9\u05dd \u05d4\u05de\u05d9\u05d9\u05e6\u05d2\u05ea \u05d0\u05ea [X] \u05d4\u05d9\u05d0 [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "\u05d7\u05d1\u05e8\u05ea \u05d4\u05ea\u05e7\u05dc\u05d9\u05d8\u05d9\u05dd \u05d4\u05de\u05d9\u05d9\u05e6\u05d2\u05ea [X] \u05d4\u05d9\u05d0 [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "\u05d7\u05d1\u05e8\u05ea \u05d4\u05ea\u05e7\u05dc\u05d9\u05d8\u05d9\u05dd \u05e9\u05de\u05d9\u05d9\u05e6\u05d2\u05ea \u05d0\u05ea [X] \u05d4\u05d9\u05d0 [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "[X] \u05d4\u05d9\u05d0 [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "\u05d7\u05d1\u05e8\u05ea \u05d4\u05ea\u05e7\u05dc\u05d9\u05d8\u05d9\u05dd [X] \u05d4\u05d9\u05d0 [Y]", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "\u05d7\u05d1\u05e8\u05ea \u05d4\u05ea\u05e7\u05dc\u05d9\u05d8\u05d9\u05dd \u05e9\u05dc [X] \u05d4\u05d9\u05d0 [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "\u05d7\u05d1\u05e8\u05ea \u05d4\u05ea\u05e7\u05dc\u05d9\u05d8\u05d9\u05dd \u05e9\u05dc [X] \u05d4\u05d9\u05d0 [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "\u05d7\u05d1\u05e8\u05ea \u05d4\u05ea\u05e7\u05dc\u05d9\u05d8\u05d9\u05dd \u05e9\u05dc [X] \u05d4\u05d9\u05d0 [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "\u05d7\u05d1\u05e8\u05ea \u05d4\u05de\u05d5\u05d6\u05d9\u05e7\u05d4 \u05e9\u05dc [X] \u05d4\u05d9\u05d0 [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] \u05e0\u05e8\u05e9\u05dd [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] \u05e2\u05d1\u05d5\u05e8 [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] Legue: [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X] \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] \u05e9\u05d5\u05d7\u05e8\u05e8 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] \u05e9\u05e9\u05d5\u05d7\u05e8\u05e8\u05d5 \u05e2\u05dc \u05d9\u05d3\u05d9 [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "\u05d0\u05de\u05e0\u05d9 [Y] \u05db\u05de\u05d5 [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "\u05d0\u05de\u05e0\u05d9 [Y] \u05db\u05d5\u05dc\u05dc [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

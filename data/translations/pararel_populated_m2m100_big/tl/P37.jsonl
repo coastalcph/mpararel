@@ -1,0 +1,18 @@
+{"pattern": "Ang opisyal na wika ng [X] ay [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ang opisyal na wika ng [X] ay ang [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ang official language ng [X] ay ang [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ang [Y] ay ang opisyal na wika ng [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] ay ang opisyal na wika ng [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ang [Y] ay ang opisyal na wika ng [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Sa [X] ang [Y] ay ang opisyal na wika.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "Ang [Y] ay ang wika ng [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ang [Y] ay ang opisyal na wika ng [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] ay ang wika ng [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ang batas sa [X] ay [Y] ang opisyal na wika.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "[X] ang [Y] ang opisyal na wika.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Ang law sa [X] ay inihayag na [Y] ang opisyal na wika.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Sa [X] ang [Y] ay ang opisyal na wika.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Ang batas sa [X] ay nagpapahiwatig ng [Y] bilang opisyal na wika.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Ang [X] ay [Y] opisyal na wika.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Ang batas sa [X] ay nagpapahiwatig ng [Y] bilang opisyal na wika.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Ang batas sa [X] ay nagpapakita ng [Y] bilang opisyal na wika.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

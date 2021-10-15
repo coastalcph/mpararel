@@ -1,0 +1,12 @@
+{"pattern": "[X] \u09b0\u09c7\u0995\u09b0 \u09cd \u09a1 \u09b2\u09c7\u09ac\u09c7\u09b2 [Y] \u09a6 \u09cd \u09ac\u09be\u09b0\u09be \u09aa \u09cd \u09b0\u09a4\u09bf\u09a8\u09bf\u09a7\u09bf\u09a4 \u0964", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u09b0\u09c7\u0995\u09b0 \u09cd \u09a1 [Y] \u09a6 \u09cd \u09ac\u09be\u09b0\u09be \u0964", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] \u09aa \u09cd [Y] \u0964", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] \u09cd [Y] \u0964", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] \u09cd \u09b8 [Y] \u0964", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] \u09cd [Y] \u0964", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] \u09b0\u09c7\u0995\u09b0 \u09cd \u09a1 [Y] \u09cd \u099f \u0964", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] \u09b0\u09c7\u0995\u09b0 \u09cd \u09a1 \u09a8 \u09cd \u09af\u09be\u09b2\u09c7\u09ae \u09cd \u099f \u09b9\u09b2 [Y] \u0964", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] \u09b0\u09c7\u0995\u09b0 \u09cd \u09a1 \u0995\u09cb\u09ae \u09cd \u09aa\u09be\u09a8\u09c0 \u09b9\u099a \u09cd \u099b\u09c7 [Y] \u0964", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "[X] music label is [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[Y] \u09b6\u09bf\u09b2 \u09cd \u09aa\u09c0 [X] \u0964", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] \u09b6\u09bf\u09b2 \u09cd [X] \u0964", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}

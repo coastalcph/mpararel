@@ -1,0 +1,17 @@
+{"pattern": "[X] nagdula sa musika sa [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X] nagdula sa musika [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X] sa musika sa [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X] sa [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X] nagdula nga [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X] nga [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X] nga nagdula sa musika sa [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] nga nagdula sa musika [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] nagdula [Y]", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X] nagdula sa [Y]", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X] nga [Y]", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X] nga nagdula [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] nagdula [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] nga nagdula sa [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "mga musikero sa [Y] sama sa [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}
+{"pattern": "Mga musikero sa [Y] sama sa [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}
+{"pattern": "Mga musikero sa [Y] sama [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

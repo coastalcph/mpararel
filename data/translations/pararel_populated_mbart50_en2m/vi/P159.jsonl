@@ -1,0 +1,17 @@
+{"pattern": "tr\u1ee5 s\u1edf c\u1ee7a [X] \u1edf [Y]", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "[X] \u1edf [Y]", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "tr\u1ee5 s\u1edf c\u1ee7a [X] \u1edf [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] \u1edf [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "tr\u1ee5 s\u1edf c\u1ee7a [X] n\u1eb1m \u1edf [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] n\u1eb1m \u1edf [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] c\u00f3 tr\u1ee5 s\u1edf c\u1ee7a [X]", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] c\u00f3 tr\u1ee5 s\u1edf \u1edf [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] c\u00f3 tr\u1ee5 s\u1edf c\u1ee7a [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "tr\u1ee5 s\u1edf c\u1ee7a [X] \u1edf [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "tr\u1ee5 s\u1edf [X] \u1edf [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] \u1edf [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X] tr\u1ee5 s\u1edf \u1edf [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] l\u00e0 ng\u00f4i nh\u00e0 c\u1ee7a [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[Y] l\u00e0 nh\u00e0 c\u1ee7a [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] c\u00f3 tr\u1ee5 s\u1edf \u1edf [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}
+{"pattern": "[X] \u1edf [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

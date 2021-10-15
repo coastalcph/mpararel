@@ -1,0 +1,18 @@
+{"pattern": "Si [X] sa [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "Si [X] nga gigamit sa pagtrabaho sa [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] nga gigamit sa pagtrabaho sa [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "Si [X] gigamit sa pagtrabaho sa [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] gigamit sa pagtrabaho sa [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] trabaho sa [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "Si [X] nakit-an nga trabaho sa [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] nakit-an nga trabaho sa [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "Si [X] trabaho sa [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "Si [X] nagtrabaho sa [Y]", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] nagtrabaho sa [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "Si [X] nagtrabaho sa [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "Si [X] nagtrabaho sa [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "Si [X] sa [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] nag-obra sa [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}

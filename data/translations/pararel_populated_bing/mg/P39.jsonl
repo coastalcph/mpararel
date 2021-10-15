@@ -1,0 +1,21 @@
+{"pattern": "[X] dia manana ny toeran'ny [Y] .", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] ny toeran'ny [Y] .", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] dia manana ny [Y] .", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] manana ny toeran'ny [Y] .", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] ny [Y] .", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] avy any [Y] .", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "Manana ny [X] i [Y] .", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] izay manana [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] izay manana ny toeran'ny [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] izay manana ny [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] izay [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] izay ny toerny dia [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] izay ny [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] izay mihazona ny toeran'ny [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] izay mihazona ny [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] no mihazona ny toeran'ny [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] mihazona ny toeran'ny [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] ny toeran'ny [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] no mihazona ny [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] ny [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] avy any [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

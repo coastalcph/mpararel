@@ -1,0 +1,6 @@
+{"pattern": "[X] se yon [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "[X] se yon pati nan [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "[X] pati [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "[X] yon pati nan [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "[X] se yon pati nan [Y] a.", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "[X] pati Bib [Y]", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}

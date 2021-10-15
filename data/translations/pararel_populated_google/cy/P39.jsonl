@@ -1,0 +1,11 @@
+{"pattern": "Mae gan [X] leoliad [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "Mae gan [X] o [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] sydd \u00e2 [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] sydd \u00e2 swydd [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] y mae ei [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] y mae ei swydd [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] y mae ei swydd yn [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] yw [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] o [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] sy'n dal swydd [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "Mae [X] yn dal swydd [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

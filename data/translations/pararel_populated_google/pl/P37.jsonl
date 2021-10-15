@@ -1,0 +1,23 @@
+{"pattern": "[X] jest [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Oficjalny j\u0119zyk [X] jest [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Oficjalnym j\u0119zykiem [X] jest [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Oficjalnym j\u0119zykiem [X] jest j\u0119zyk [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Oficjalnym j\u0119zykiem [X] jest [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Oficjalnym j\u0119zykiem [X] jest j\u0119zykiem [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] jest oficjalnym [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] jest j\u0119zykiem [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] jest oficjalnym j\u0119zykiem [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "J\u0119zyk [Y] jest oficjalnym [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "J\u0119zyk [Y] jest j\u0119zykiem oficjalnym [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] jest oficjalnym [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "J\u0119zyk [Y] jest j\u0119zykiem [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] jest oficjalnym j\u0119zykiem [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "J\u0119zyk [Y] jest oficjalnym j\u0119zykiem [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Oficjalnie [Y] jest j\u0119zykiem [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] jest j\u0119zykiem [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Prawo w [X] o\u015bwiadcza [Y]", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Prawo w [X] j\u0119zyk [Y]", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Prawo w [X] deklaruje [Y] j\u0119zyk oficjalny.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "Prawo w [X] j\u0119zyk [Y] jako j\u0119zyk urz\u0119dowy.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Prawo w [X] definiuje j\u0119zyk [Y] jako j\u0119zyk urz\u0119dowy.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "Prawo w [X] j\u0119zyk [Y] jako j\u0119zyk oficjalny.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

@@ -1,0 +1,8 @@
+{"pattern": "[X] sa nach\u00e1dza na kontinente [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] patr\u00ed k [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] patr\u00ed [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] patr\u00ed [Y] kontinentu.", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] k [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] je s\u00fa\u010das\u0165ou [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}
+{"pattern": "[X] je s\u00fa\u010das\u0165ou [Y] kontinentu.", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}
+{"pattern": "[X] s\u00fa\u010das\u0165ou [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

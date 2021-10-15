@@ -1,0 +1,24 @@
+{"pattern": "T\u00e1 post an [X] ag [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "T\u00e1 [X] an [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] T\u00e1 an seasamh [Y] .", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] T\u00e1 an seasamh [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] a bhfuil post an [Y] aige.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] a bhfuil post [Y] aige.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] a bhfuil post an [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] a bhfuil an [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] a bhfuil post [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] a bhfuil [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] arb \u00e9 an [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] an [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] seasamh [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] a [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] a bhfuil a phost sin [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] a bhfuil a phost sin de [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] a bhfuil post an [Y] aige.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] a bhfuil post [Y] aige.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] a bhfuil post an [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] a bhfuil post [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "T\u00e1 post an [Y] ag [X]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "T\u00e1 [Y] ag [X]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "T\u00e1 post [Y] ag [X]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[Y] an [X]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

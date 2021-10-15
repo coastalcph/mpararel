@@ -1,0 +1,16 @@
+{"pattern": "[X] \u00e8 [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] ha la posizione di [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] il [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] che ha il ruolo di [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] che ha la posizione di [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] la cui posizione \u00e8 quella [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] la cui posizione \u00e8 quella del [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "La posizione di [X] \u00e8 [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] \u00e8 [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] che occupa il posto di [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] che occupa la posizione di [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] che [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] \u00e8 [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] \u00e8 il [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] di [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] occupa la posizione di [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

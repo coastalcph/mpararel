@@ -1,0 +1,8 @@
+{"pattern": "Beliau telah meninggal dunia di [Y].", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "Beliau telah meninggal dunia di [Y].", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "Beliau telah meninggal dunia di [Y].", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "Beliau telah meninggal dunia di [Y].", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] yang telah ditubuhkan pada", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "Mereka telah kehilangan nyawa mereka di [Y].", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] telah berakhir dalam [Y]", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] telah diserahkan kepada", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

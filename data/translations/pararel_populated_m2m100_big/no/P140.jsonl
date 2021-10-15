@@ -1,0 +1,10 @@
+{"pattern": "[X] er knyttet til [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] er [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] er tilknyttet [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] er tilknyttet den [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] f\u00f8lger [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] f\u00f8lger den [Y] religionen.", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] f\u00f8lger den [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] er etterf\u00f8lger av [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[Y] er [X] offisielle religion.", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] er den offisielle [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

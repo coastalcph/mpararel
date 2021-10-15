@@ -1,0 +1,17 @@
+{"pattern": "\u0628\u06d2 \u0634\u06a9 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u0627 \u067e\u06cc\u062f\u0627 \u06a9\u06cc\u0627 \u06af\u06cc\u0627 \u06c1\u06d2", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "\u0648\u06c1 \u0627\u064f\u0646 \u0686\u06cc\u0632\u0648\u06ba \u0633\u06d2 \u067e\u06cc\u062f\u0627 \u06c1\u0648\u0627 \u06c1\u06d2 \u062c\u0646\u06c1\u06cc\u06ba \u0627\u0635\u0644 \u0645\u06cc\u06ba \u067e\u06cc\u062f\u0627 \u06a9\u06cc\u0627 \u06af\u06cc\u0627 \u06c1\u06d2", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "(\u0648\u06c1) \u062a\u062e\u0644\u06cc\u0642 \u06a9\u06cc \u0627\u0628\u062a\u062f\u0627\u0621 \u062e\u0648\u0628 \u062c\u0627\u0646\u0646\u06d2 \u0648\u0627\u0644\u0627 \u06c1\u06d2\u060c", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[ \u062a\u0635\u0648\u06cc\u0631 \u06a9\u0627 \u062d\u0648\u0627\u0644\u06c1 ]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[\u06af\u0631 ] \u0645\u06cc\u06ba \u067e\u06cc\u062f\u0627 \u06c1\u0648\u0627 \u062a\u06be\u0627.", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[ \u062a\u0635\u0648\u06cc\u0631 \u06a9\u0627 \u062d\u0648\u0627\u0644\u06c1 ]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[\u06af\u0631 ] \u0645\u06cc\u06ba \u067e\u06cc\u062f\u0627 \u06c1\u0648\u0627 \u062a\u06be\u0627 \u06d4", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "\u06a9\u06c1 \u0648\u06c1 (\u0632\u0645\u06cc\u0646 \u067e\u0631) \u067e\u06cc\u062f\u0627 \u06a9\u06cc\u0627 \u06af\u06cc\u0627 \u06c1\u06d2\u060c", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[\u0628\u06cc\u200c\u0633\u06cc\u0633 ] \u0645\u06cc\u06ba \u0642\u06cc\u062f \u062a\u06be\u0627 \u06d4", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "(\u0648\u06c1) \u0644\u0648\u062d\u0650 \u0645\u062d\u0641\u0648\u0638 \u0645\u06cc\u06ba (\u0644\u06a9\u06be\u0627 \u06c1\u0648\u0627) \u06c1\u06d2\u060c", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[ \u062a\u0635\u0648\u06cc\u0631 \u06a9\u0627 \u062d\u0648\u0627\u0644\u06c1 ]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[\u0648\u06cc\u0633 ] \u0633\u06d2 \u062a\u06be\u0627.", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "\u0648\u06c1 \u0627\u064f\u0646 \u0644\u0648\u06af\u0648\u06ba \u0633\u06d2 \u0628\u06be\u06cc \u0628\u0691\u0627 \u062a\u06be\u0627 \u062c\u0648 \u067e\u06cc\u0686\u06be\u06d2 \u0631\u06c1 \u06af\u0626\u06d2 \u062a\u06be\u06d2", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "\u0686\u06be\u067e\u06d2 \u06c1\u0648\u0626\u06d2 \u0633\u06d2", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X] \u0645\u06cc\u06ba \u0641\u0631\u0648\u063a \u062f\u06cc\u0627 \u06af\u06cc\u0627 \u06c1\u06d2.", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[%s] \u0645\u06cc\u06ba \u0641\u0631\u0648\u063a \u062f\u06cc\u0627 \u06af\u06cc\u0627 \u06c1\u06d2.", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[\u0633\u06cc ] \u0645\u06cc\u06ba", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

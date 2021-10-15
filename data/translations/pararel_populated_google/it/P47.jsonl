@@ -1,0 +1,15 @@
+{"pattern": "[X] condivide il confine con [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] con [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] con [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "Bordi di [X] con [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "Bordi [X] con [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] Borders con [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] condivide il confine con [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] condivide il suo confine con [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] condivide un confine comune con [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "Bordi [Y] con [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] con [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "Bordi di [Y] con [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] condivide il confine con [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] condivide il suo confine con [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] condivide un confine comune con [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

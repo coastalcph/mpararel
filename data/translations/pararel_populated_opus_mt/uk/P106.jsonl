@@ -1,0 +1,12 @@
+{"pattern": "\u0417\u0430\u043d\u044f\u0442\u0442\u044f [X] - [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X] - [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X] - [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] \u0454 [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "\u0417\u0430\u0432\u043e\u044e\u0432\u0430\u043d\u043d\u044f [X] - [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "\u041f\u0440\u043e\u0444\u0435\u0441\u0456\u044f [X] - [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] - [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "\u041f\u0440\u043e\u0444\u0435\u0441\u0456\u044f [X] - [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] - [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "\u041f\u0440\u043e\u0444\u0435\u0441\u0456\u044f [X] - [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}
+{"pattern": "[X] - [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}
+{"pattern": "[X] \u0454 [Y]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "[X] \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 [Y] \u0c85\u0cb5\u0cb3\u0cbf \u0ca8\u0c97\u0cb0\u0c97\u0cb3\u0cbe\u0c97\u0cbf\u0cb5\u0cc6.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 [X] \u0c85\u0cb5\u0cb3\u0cbf \u0ca8\u0c97\u0cb0\u0c97\u0cb3\u0cbe\u0c97\u0cbf\u0cb5\u0cc6.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] \u0c92\u0c82\u0ca6\u0cc1 \u0c85\u0cb5\u0cb3\u0cbf \u0ca8\u0c97\u0cb0 [X].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] \u0c92\u0c82\u0ca6\u0cc1 \u0c85\u0cb5\u0cb3\u0cbf \u0ca8\u0c97\u0cb0 [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

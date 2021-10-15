@@ -1,0 +1,16 @@
+{"pattern": "[X] jest rozwijany przez [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] zosta\u0142 stworzony przez [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "Rozwini\u0119ty przez [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "Zosta\u0142 stworzony przez [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] zosta\u0142 stworzony przez [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "Stworzony przez Boga,", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] jest produktem [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] by\u0142 produktem [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[X], kt\u00f3ry jest produktem [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], produkt stworzony przez [Y]", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], produkt wytwarzany przez [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], produkt opracowany przez [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y], kt\u00f3ry rozwin\u0105\u0142 si\u0119 [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "kt\u00f3ry stworzy\u0142,", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "Stw\u00f3rca \u015bwiata [X]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] i jego produkt [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

@@ -1,0 +1,34 @@
+{"pattern": "A [X] a [Y] nyelven \u00edrt\u00e1k.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] nyelven [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "A [X] nyelven [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] a [Y] nyelven \u00edrt.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] a [Y] nyelven \u00edr\u00f3dott.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "A [X] a [Y] nyelven \u00edr\u00f3dott.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "A [X] nyelven [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] nyelven [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "A [X] nyelve [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] nyelve [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "A [X] nyelve [Y] volt.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] nyelve [Y] volt.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] egy [Y] nyelv\u0171 munka.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "A [X] egy [Y] nyelv\u0171 munka.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] egy [Y] nyelv\u0171 munka.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] nyelven [Y] munka.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "A [X] a [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] a [Y] nyelven val\u00f3 munka.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] a [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "A [X] a [Y] nyelven dolgozott.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] a [Y] nyelven dolgozott.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] nyelv\u0171 l\u00e9trehoz\u00e1s [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "A [Y] l\u00e9trehoz\u00e1s [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "A [Y] nyelv\u0171 [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] l\u00e9trehoz\u00e1s [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] nyelv\u0171 [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "A [Y] a [X] nyelve.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] a [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "A [Y] a [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] a [X] nyelve.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] a [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] volt a [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] volt a [X] nyelve.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

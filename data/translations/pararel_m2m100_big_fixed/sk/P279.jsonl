@@ -1,0 +1,4 @@
+{"pattern": "[X] je podskupina z [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], \u010do je subklasa z [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], podtrieda z [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], ako aj druh [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}

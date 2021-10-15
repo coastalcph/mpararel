@@ -1,0 +1,4 @@
+{"pattern": "Az [X] a [Y] ter\u00fclet\u00e9n tal\u00e1lhat\u00f3", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] a kontinensen tal\u00e1lhat\u00f3 [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] a kontinenshez tartozik [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] a kontinens egy r\u00e9sze [Y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

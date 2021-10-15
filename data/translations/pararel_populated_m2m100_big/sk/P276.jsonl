@@ -1,0 +1,7 @@
+{"pattern": "[X] sa nach\u00e1dza [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] sa nach\u00e1dza v [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] sa [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] sa nach\u00e1dza [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] sa nach\u00e1dza v [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] sa [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] sa kon\u00e1 [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}

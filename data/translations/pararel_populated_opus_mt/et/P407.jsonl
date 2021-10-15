@@ -1,0 +1,19 @@
+{"pattern": "[X] kirjutati [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] kirjutati [Y] keeles.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] on kirjutatud [Y] keeles.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] kirjutatud [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] kirjutatud [Y] keeles.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] keel on [Y] keel.", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] keel on [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] keel oli [Y] keel.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] keel oli [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] on [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] on [Y] teos.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[Y] keel on [X] keel.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] on [X] keel.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] keel on [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] on [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] keel oli [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] oli [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] keel oli [X] keel.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] oli [X] keel.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

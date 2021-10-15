@@ -1,0 +1,9 @@
+{"pattern": "[X] nag-ambit sa utlanan sa [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] Mga utlanan sa [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] nakigbahin sa utlanan sa [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "Gipaambit sa [X] ang utlanan niini sa [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] nakigbahin sa usa ka sagad nga utlanan sa [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] mga utlanan nga adunay [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] nag-ambit sa utlanan sa [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "Gipaambit ang utlanan niini sa [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[K] nakigbahin sa usa ka sagad nga utlanan sa [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

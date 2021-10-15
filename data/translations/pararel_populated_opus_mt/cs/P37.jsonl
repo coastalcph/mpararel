@@ -1,0 +1,20 @@
+{"pattern": "Ofici\u00e1ln\u00ed jazyk [X] je [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ofici\u00e1ln\u00edm jazykem [X] je [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ofici\u00e1ln\u00edm jazykem [X] je [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ofici\u00e1ln\u00edm jazykem [X] je [Y] jazyk.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] je ofici\u00e1ln\u00ed jazyk [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] je [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] je ofici\u00e1ln\u00edm jazykem [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] jazyk je ofici\u00e1ln\u00edm jazykem [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] je ofici\u00e1ln\u00edm jazykem [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] je \u00fa\u0159edn\u00edm jazykem [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "V [X] je [Y]", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "[X] je [Y] ofici\u00e1ln\u00edm jazykem.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "V [X] je [Y] ofici\u00e1ln\u00edm jazykem.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "V [X] je [Y] \u00fa\u0159edn\u00ed jazyk.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "V [X] je [Y] jazyk.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "Ofici\u00e1ln\u011b je [Y] jazykem [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Ofici\u00e1ln\u011b je [Y] jazyk [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] je [X]", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}

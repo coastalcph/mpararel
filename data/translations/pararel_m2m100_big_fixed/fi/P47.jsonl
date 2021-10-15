@@ -1,0 +1,9 @@
+{"pattern": "[X] jakaa rajan kanssa [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] rajat yhdess\u00e4 [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] jakaa rajan kanssa [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] jakaa rajansa [Y] kanssa", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] jakaa yhteisen rajan [Y] kanssa", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] rajat yhdess\u00e4 [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] jakaa rajan kanssa [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] jakaa rajansa [X] kanssa", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] jakaa yhteisen rajan [X] kanssa", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

@@ -1,0 +1,8 @@
+{"pattern": "[X] je u vlasni\u0161tvu [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] je u vlasni\u0161tvu tvrtke [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] vlasnik [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] je [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] je vlasnik [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] je vlasnik tvrtke [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] u vlasni\u0161tvu [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}
+{"pattern": "[Y] vlasni\u0161tvu [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

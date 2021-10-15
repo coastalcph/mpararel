@@ -1,0 +1,15 @@
+{"pattern": "[X] on kirjoitettu [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] on kirjoitettu [Y] kielell\u00e4.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] kieli on [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] kieli oli [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] on [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] on [Y] ty\u00f6.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] oli [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] oli [Y] ty\u00f6.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] oli ty\u00f6 [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] kieli on [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] on [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] kieli on [X] kieli.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] on [X] kieli.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] oli [X] kieli.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] kieli oli [X] kieli.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

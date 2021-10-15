@@ -1,0 +1,16 @@
+{"pattern": "[X] je izvorno iz [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] iz [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] je izvorno bio iz [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] je izvorno iz [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] potje\u010de [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] potje\u010de iz [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] potje\u010de [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] dolazi iz [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] iz [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] potje\u010de iz [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] je osoba ro\u0111ena u [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] je u [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] je osoba ro\u0111ena u [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] je u [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] osoba ro\u0111ena [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] osoba ro\u0111ena u [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

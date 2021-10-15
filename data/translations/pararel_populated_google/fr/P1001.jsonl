@@ -1,0 +1,5 @@
+{"pattern": "Le [X] est un terme juridique [Y]", "lemma": "legal-term", "extended_lemma": "legal-term", "tense": "present"}
+{"pattern": "Le [X] est un terme juridique en [Y]", "lemma": "legal-term", "extended_lemma": "legal-term", "tense": "present"}
+{"pattern": "[X] est un terme juridique [Y]", "lemma": "legal-term", "extended_lemma": "legal-term", "tense": "present"}
+{"pattern": "[X] est un terme juridique au [Y]", "lemma": "legal-term", "extended_lemma": "legal-term", "tense": "present"}
+{"pattern": "Le [X] est [Y]", "lemma": "legal-term", "extended_lemma": "legal-term", "tense": "present"}

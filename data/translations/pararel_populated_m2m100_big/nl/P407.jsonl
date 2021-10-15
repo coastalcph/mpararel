@@ -1,0 +1,66 @@
+{"pattern": "[X] werd in het [Y] geschreven.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] in het [Y] geschreven.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] werd in het [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] in het [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] geschreven in het [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] is in het [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] is in het [Y] geschreven.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] in het [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] in het [Y] geschreven.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] is geschreven in het [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] geschreven in het [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] werd in [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] geschreven in [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] geschreven in de [Y] taal.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] de [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] in [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] in het [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] in het [Y] geschreven.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] is geschreven in het [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] is in het [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] is geschreven in [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] geschreven in de [Y] taal.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] geschreven in [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] is in [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] is geschreven in het [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] geschreven in het [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] is in het [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] geschreven in het [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] geschreven in [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] geschreven in de [Y] taal.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "De taal van [X] is [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "De taal van [X] was [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] is een [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] is een werk in het [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] is een werk in [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] is een [Y] werk.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] is een [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] is een werk in het [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] is een werk in [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] is een [Y] werk.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] een [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] een werk in het [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] een werk in [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] een [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] een werk in het [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] een werk in [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] was een [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] een [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] een [Y] werk.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] was een [Y] werk.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] was een [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] een [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] een werk in het [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] een [Y] werk.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] was een [Y] werk.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] is een werk in de [Y] taal.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] is een werk in [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] is een werk in het [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] was een werk in de [Y] taal.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] was een werk in [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] een werk in [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] een werk in de [Y] taal.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] is de taal van [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] is de taal van de [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] was de taal van [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] was de taal van de [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

@@ -1,0 +1,13 @@
+{"pattern": "[X] \u10d0\u10e0\u10d8\u10e1 [Y] \u10ec\u10d4\u10d5\u10e0\u10d8.", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] \u10d0\u10e0\u10d8\u10e1 [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] \u10d0\u10e0\u10d8\u10e1 [Y] \u10d8\u10e1 \u10ec\u10d4\u10d5\u10e0\u10d8.", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] \u10d4\u10d9\u10e3\u10d7\u10d5\u10dc\u10d8\u10e1 [Y] \u10dd\u10e0\u10d2\u10d0\u10dc\u10d8\u10d6\u10d0\u10ea\u10d8\u10d0\u10e1.", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] \u10d4\u10d9\u10e3\u10d7\u10d5\u10dc\u10d8\u10e1 [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] \u10e1 [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] \u10d4\u10d9\u10e3\u10d7\u10d5\u10dc\u10d8\u10e1 [Y] \u10e1 \u10dd\u10e0\u10d2\u10d0\u10dc\u10d8\u10d6\u10d0\u10ea\u10d8\u10d0\u10e1.", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] \u10dd\u10e0\u10d2\u10d0\u10dc\u10d8\u10d6\u10d0\u10ea\u10d8\u10d8\u10e1 [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] \u10d0\u10e0\u10d8\u10e1 [Y] \u10dd\u10e0\u10d2\u10d0\u10dc\u10d8\u10d6\u10d0\u10ea\u10d8\u10d8\u10e1 \u10dc\u10d0\u10ec\u10d8\u10da\u10d8.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] \u10d0\u10e0\u10d8\u10e1 [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] \u10d0\u10e0\u10d8\u10e1 [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] \u10e8\u10d4\u10d3\u10d8\u10e1 [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] \u10e8\u10d4\u10d3\u10d8\u10e1 [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

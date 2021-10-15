@@ -1,0 +1,17 @@
+{"pattern": "[X] creatus est in [y].", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X], quod creatus est in [y].", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X], creavit in [y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], quod in [y].", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] originated in [y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] formatae in [y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] in [y].", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X], quod in [y].", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] Fuit formulavit in [y].", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X], formulavit in [y].", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X], quod formulavit in [y].", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] Erat ex [y].", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], qui ex [y].", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], ex [y].", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X], quod erat developed in [y].", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] Esset developed in [y].", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X], developed in [y].", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

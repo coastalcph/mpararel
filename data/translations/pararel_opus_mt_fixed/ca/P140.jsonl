@@ -1,0 +1,4 @@
+{"pattern": "[X] est\u00e0 aficionat amb la religi\u00f3 [Y].", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] segueix la religi\u00f3 [Y].", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] segueix [Y].", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[Y] \u00e9s la religi\u00f3 oficial de l'[X].", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

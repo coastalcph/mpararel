@@ -1,0 +1,19 @@
+{"pattern": "[X] gumaganap [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "Si [X] ay gumaganap ng [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "Si [X] ay gumaganap [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] ay tumutugtog ng [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] ay [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "Si [X] ay [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[Y] manlalaro na si [X] ", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "[Y] na si [X] ", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "Ang manunugtog ng [Y] na si [X] ", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "manunugtog ng [Y] na si [X] ", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "[X] gumaganap ng [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] ang gumaganap ng [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] ng [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] ang tumutugtog ng [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "Si [X] ang gumaganap ng [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "Si [X] ang gumaganap [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "Si [X] ang [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "Si [X] ay isang manlalaro ng [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "Si [X] ay isang [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

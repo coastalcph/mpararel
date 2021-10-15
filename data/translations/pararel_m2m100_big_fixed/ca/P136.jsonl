@@ -1,0 +1,6 @@
+{"pattern": "[X] toca la m\u00fasica [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X], qui juga [Y] la m\u00fasica", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] Juguen amb el", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X], el que juga [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "I els m\u00fasics [X]", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "Per a m\u00fasics com [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

@@ -1,0 +1,19 @@
+{"pattern": "Nu basa asalna tina [X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Nu basa asalna [X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Nu basa [X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Basa [X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "[X] basa [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Basa asalna [X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Basa asalna tina [X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Basa [X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "[X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "[X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Basa [X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Nu basa [X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Basa [X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "basa [X] nya\u00e9ta [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] nya\u00e9ta basa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] basa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] nya\u00e9ta basa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

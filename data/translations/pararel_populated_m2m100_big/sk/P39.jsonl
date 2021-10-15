@@ -1,0 +1,5 @@
+{"pattern": "[X] ktor\u00e9ho poz\u00edcia je poz\u00edcia [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] ktor\u00e9ho poz\u00edcia je [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "Poz\u00edcia [X] je [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] je [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}

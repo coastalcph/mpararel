@@ -1,0 +1,19 @@
+{"pattern": "[X] er [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Opinber tungum\u00e1l [X] er [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Opinber [X] er [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Fyrsta tungum\u00e1li\u00f0 \u00ed [X] var [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Fyrsta tungum\u00e1li\u00f0 [X] var [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "[X] var [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Tungum\u00e1li\u00f0 \u00ed [X] er [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Tungum\u00e1li\u00f0 [X] er [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "[X] er [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Tungum\u00e1li\u00f0 \u00ed [X] var [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] var [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Tungum\u00e1li\u00f0 [X] var [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] er tungum\u00e1li\u00f0 [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] er [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] er tungum\u00e1li\u00f0 \u00ed [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] er tungum\u00e1l [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] var tungum\u00e1li\u00f0 [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] var [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] var tungum\u00e1li\u00f0 \u00ed [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

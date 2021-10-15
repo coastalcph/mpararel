@@ -1,0 +1,17 @@
+{"pattern": "\u201c[X]\u201d musiqi etiketi il\u0259 t\u0259svir edilir.", "lemma": "represented-by-music-label", "extended_lemma": "represented-by-music-label", "tense": "present"}
+{"pattern": "[X]\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X]\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "Bu bar\u0259d\u0259 \u201c[X]\u201d m\u0259lumat yay\u0131b.", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X]\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "\u201c[X]\u201d adl\u0131 musiqi etiketi \u201c[Y]\u201ddir.", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "\u201c[X]\u201d musiqisi \u201cX\u201d musiqisini \u201c[Y]\u201d musiqisi kimi t\u0259svir edir.", "lemma": "representing", "extended_lemma": "that-representing", "tense": "present"}
+{"pattern": "\u201c[X]\u201d etiketinin ad\u0131 \u201c[Y]\u201ddir.", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "\u201c[X]\u201d jurnal\u0131n\u0131n ad\u0131 \u201c[Y]\u201ddir.", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "\u201c[X]\u201d \u015firk\u0259ti is\u0259 \u201cX\u201d \u015firk\u0259tidir.", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "\u201c[X]\u201din musiqi etiketi \u201c[Y]\u201ddir.", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X]\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "\u018fsas s\u0259hif\u0259 Etiketl\u0259r: [X]\u018fB\u018fR", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X]\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "Art\u0131q \u201c[X]\u201d jurnal\u0131na daxil olub.", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "Artistl\u0259r d\u0259 bel\u0259dir.", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "Artistl\u0259r d\u0259 var.", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

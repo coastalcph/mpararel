@@ -1,0 +1,3 @@
+{"pattern": "Der [X] ist in [Y]", "lemma": "legal-term", "extended_lemma": "legal-term", "tense": "present"}
+{"pattern": "[X] ist in [Y]", "lemma": "legal-term", "extended_lemma": "legal-term", "tense": "present"}
+{"pattern": "Der [X] ist in [Y] eine gesetzliche Amtszeit.", "lemma": "legal-term", "extended_lemma": "legal-term", "tense": "present"}

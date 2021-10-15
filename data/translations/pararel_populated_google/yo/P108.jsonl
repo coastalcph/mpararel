@@ -1,0 +1,8 @@
+{"pattern": "[X] \u1e63i\u1e63\u1eb9 fun [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] fun [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] o \u1e63i\u1e63\u1eb9 fun [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] ti o \u1e63i\u1e63\u1eb9 fun [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] ni ooj\u1ecd nipas\u1eb9 [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] nipas\u1eb9 [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] o gba agbanisi\u1e63\u1eb9 nipas\u1eb9 [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] ti o gba agbanisi\u1e63\u1eb9 nipas\u1eb9 [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

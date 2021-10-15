@@ -1,0 +1,14 @@
+{"pattern": "[X] suk\u016br\u0117 [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X] suk\u016br\u0117 [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X] buvo sukurtas [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X] buvo [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X] suk\u016br\u0117 [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] kur\u012f suk\u016br\u0117 [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] suk\u016br\u0117 [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X] suk\u016br\u0117 [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[Y] kuri suk\u016br\u0117 [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y] suk\u016br\u0117 [X]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "[Y] suk\u016br\u0117 [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] kuri suk\u016br\u0117 [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[Y] ir jos produktas [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
+{"pattern": "[Y] ir jos [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

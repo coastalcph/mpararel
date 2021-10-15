@@ -1,0 +1,14 @@
+{"pattern": "[X] pleide \u00e5 kommunisere p\u00e5 [Y]", "lemma": "communicate", "extended_lemma": "communicate", "tense": "past"}
+{"pattern": "[X] pleide \u00e5 kommunisere [Y]", "lemma": "communicate", "extended_lemma": "communicate", "tense": "past"}
+{"pattern": "[X] p\u00e5 [Y]", "lemma": "communicate", "extended_lemma": "communicate", "tense": "past"}
+{"pattern": "[X] kommunisert p\u00e5 [Y]", "lemma": "communicate", "extended_lemma": "communicate", "tense": "past"}
+{"pattern": "[X] kommuniserte p\u00e5 [Y]", "lemma": "communicate", "extended_lemma": "communicate", "tense": "past"}
+{"pattern": "[X] kommuniserte [Y]", "lemma": "communicate", "extended_lemma": "communicate", "tense": "past"}
+{"pattern": "[X] brukte vanligvis [Y] \u00e5 kommunisere.", "lemma": "communicate", "extended_lemma": "communicate", "tense": "past"}
+{"pattern": "[X] brukte vanligvis [Y] til \u00e5 kommunisere.", "lemma": "communicate", "extended_lemma": "communicate", "tense": "past"}
+{"pattern": "[X] brukte [Y] \u00e5 kommunisere.", "lemma": "communicate", "extended_lemma": "communicate", "tense": "past"}
+{"pattern": "[X] brukte [Y] til \u00e5 kommunisere.", "lemma": "communicate", "extended_lemma": "communicate", "tense": "past"}
+{"pattern": "[Y] var et spr\u00e5k som brukes av [X]", "lemma": "language", "extended_lemma": "language", "tense": "past"}
+{"pattern": "[Y] var et spr\u00e5k som ble brukt av [X]", "lemma": "language", "extended_lemma": "language", "tense": "past"}
+{"pattern": "[Y] er spr\u00e5ket som brukes av [X]", "lemma": "language", "extended_lemma": "language", "tense": "past"}
+{"pattern": "[Y] er spr\u00e5ket som vanligvis brukes av [X]", "lemma": "language", "extended_lemma": "language", "tense": "past"}

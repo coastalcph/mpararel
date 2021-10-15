@@ -1,0 +1,4 @@
+{"pattern": "[X] milik [Y].", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "pemilik [X]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "milik [Y].", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "milik [Y]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

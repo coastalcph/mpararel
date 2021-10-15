@@ -1,0 +1,57 @@
+{"pattern": "Ang [X] sa [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] gilalang sa [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "Si [X] gilalang sa [Y]", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X] kana gimugna sa [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] kana gilalang sa [Y]", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X] gihimo sa [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] nga [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] gilalang sa [Y]", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] nga naggikan sa [Y]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] naggikan sa [Y]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] nga [Y]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] kana naggikan sa [Y]", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "Ang [X] naggikan sa [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] naggikan sa [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] naporma sa [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "Ang [X] naporma sa [Y]", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "Ang [X] naporma sa [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] naporma sa [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X] kana naporma sa [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] naporma sa [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] nga naporma sa [Y]", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "Ang [X] gihimo sa [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] gihimo sa [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X] nga gihimo sa [Y]", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X] kana gihimo sa [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] gihimo sa [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] nga gihimo sa [Y]", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] taga - [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "Si [X] taga - [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "Ang [X] maoy [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "Ang [X] taga - [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] nga taga - [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X] nga taga - [Y]", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X] nga [Y]", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X] nga gikan sa [Y]", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X] kana gihimo sa [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] kana naugmad sa [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "Ang [X] kana naugmad sa [Y]", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "Ang [X] naugmad sa [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] naugmad sa [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}
+{"pattern": "[X] nga naugmad sa [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}
+{"pattern": "[X] nga [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}
+{"pattern": "Ang [X] naugmad sa [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}
+{"pattern": "[X] mitungha sa [Y]", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

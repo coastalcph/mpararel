@@ -1,0 +1,6 @@
+{"pattern": "[X] t\u00e4hendab algkeelt [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Esimeseks keeleks oli [X].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Keeleks on [X] ja [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Keel oli [X] ja [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "See on [X]-i keel.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "See oli [X]-i keel.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

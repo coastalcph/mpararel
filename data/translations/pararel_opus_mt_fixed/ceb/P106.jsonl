@@ -1,0 +1,11 @@
+{"pattern": "[Si[X] maoy usa ka [Y] pinaagi sa propesyon.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[Si[X] maoy usa ka [Y] pinaagi sa propesyon.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] maoy usa ka [Y] pinaagi sa pagbansay.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] maoy usa ka [Y] pinaagi sa pagbansay.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] naglihok ingon [Y].", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], kinsa nagtrabaho ingong [Y].", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] Ang trabaho [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "ang trabaho ni [X] mao [Y].", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] Ang propesyon [Y] maoy usa ka [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] Ang propesyon [Y] maoy usa ka [Y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] mao [Y].", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

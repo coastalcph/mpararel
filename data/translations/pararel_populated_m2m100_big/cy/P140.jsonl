@@ -1,0 +1,15 @@
+{"pattern": "[X] yn gysylltiedig \u00e2'r religion [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "Mae [X] yn gysylltiedig \u00e2'r religion [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "Mae'r [X] yn gysylltiedig \u00e2'r religion [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] yn \u00f4l y religion [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] y religion [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] yn adolygu ar y religion [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] adolygu ar y religion [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] yn adolygu ar y [Y]", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] yn [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "Mae'r [X] yn [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] yn arbenigwr [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] yn arbenigwr o [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[Y] religion swyddogol [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] yw religion swyddogol [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] yn religion swyddogol [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

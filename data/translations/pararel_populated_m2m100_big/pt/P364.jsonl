@@ -1,0 +1,33 @@
+{"pattern": "A l\u00edngua original [X] \u00e9 [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "A l\u00edngua original de [X] \u00e9 [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "A l\u00edngua original da [X] \u00e9 o [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "A l\u00edngua original [X] \u00e9 o [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "A l\u00edngua original de [X] \u00e9 o [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "A l\u00edngua original [X] era [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "A l\u00edngua original de [X] era [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "A l\u00edngua original [X] era o [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "A l\u00edngua original da [X] o [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "A l\u00edngua original [X] o [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "A l\u00edngua original de [X] era o [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "A l\u00edngua da [X] \u00e9 [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "A l\u00edngua [X] \u00e9 [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "A l\u00edngua [X] \u00e9 o [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "A l\u00edngua da [X] \u00e9 o [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "A l\u00edngua oficial [X] \u00e9 o [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "A l\u00edngua oficial de [X] \u00e9 o [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "A l\u00edngua de [X] \u00e9 o [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "A l\u00edngua da [X] era [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "A l\u00edngua [X] era [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "A l\u00edngua da [X] era o [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "A l\u00edngua [X] era o [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "A l\u00edngua oficial [X] era o [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "O [Y] \u00e9 a l\u00edngua da [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "O [Y] \u00e9 a l\u00edngua [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] \u00e9 a l\u00edngua da [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] \u00e9 a l\u00edngua [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "O [Y] \u00e9 a l\u00edngua de [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "O [Y] era a l\u00edngua da [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "O [Y] era a l\u00edngua [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] era a l\u00edngua da [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] era a l\u00edngua [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "O [Y] era a l\u00edngua de [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

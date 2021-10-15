@@ -1,0 +1,9 @@
+{"pattern": "[X] Akciju robe\u017eas ar [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] robe\u017eas ar [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] piekr\u012bt robe\u017eai ar [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] piekr\u012bt savu robe\u017eu ar [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] dal\u0101s kop\u0113j\u0101 robe\u017ea ar [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] robe\u017eas ar [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] piekr\u012bt robe\u017eai ar [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] piekr\u012bt savu robe\u017eu ar [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] piekr\u012bt kop\u0113jai robe\u017eai ar [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

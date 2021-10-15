@@ -1,0 +1,13 @@
+{"pattern": "[Y] ad\u0131n\u0131 da\u015f\u0131yan [X]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[Y] ad\u0131na [X]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[Y] ad\u0131n\u0131 [X]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[Y] ad\u0131n\u0131 da\u015f\u0131yan [X]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[Y] adland\u0131r\u0131lan [X]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[Y] \u00fc\u00e7\u00fcn adland\u0131r\u0131lan [X]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[Y] \u00fc\u00e7\u00fcn [X]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[Y] adland\u0131r\u0131lan [X]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[Y] \u00fc\u00e7\u00fcn [X]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[Y] \u00fc\u00e7\u00fcn adland\u0131r\u0131lan [X]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[Y] sonra [X]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[Y] sonra adlanan [X]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[Y] adlanan [X]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}

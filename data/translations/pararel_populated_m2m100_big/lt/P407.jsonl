@@ -1,0 +1,18 @@
+{"pattern": "[X] buvo [Y] kalba.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] buvo para\u0161ytas [Y] kalba.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] buvo [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] para\u0161yta [Y] kalba.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] buvo para\u0161yta [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] para\u0161yta [Y] kalba.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] para\u0161yta [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] yra [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] yra [Y] kalbos k\u016brinys.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] yra darbas [Y] kalba.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] yra [Y] kalba.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] darbas [Y] kalba.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] buvo [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] buvo [Y] kalbos k\u016brinys.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] buvo darbas [Y] kalba.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[X] buvo [Y] kalba.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "[Y] kalba buvo [X] kalba.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] buvo [X] kalba.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

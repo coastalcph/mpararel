@@ -1,0 +1,16 @@
+{"pattern": "[X] berkongsi sempadan dengan [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] dengan [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] dengan [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "Sempadan [X] dengan [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] bersempadan dengan [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] berkongsi sempadan dengan [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] dengan [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] berkongsi sempadannya dengan [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] dengan [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] berkongsi sempadan yang sama dengan [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] dengan [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "Sempadan [Y] dengan [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] bersempadan dengan [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] berkongsi sempadan dengan [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] berkongsi sempadannya dengan [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] berkongsi sempadan yang sama dengan [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

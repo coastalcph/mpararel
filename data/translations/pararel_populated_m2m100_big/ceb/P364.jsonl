@@ -1,0 +1,12 @@
+{"pattern": "Ang orihinal nga pinulongan sa [X] mao ang [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Ang orihinal nga pinulongan sa The [X] mao ang [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Ang orihinal nga pinulongan sa [X] mao ang [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Ang orihinal nga pinulongan sa The [X] mao ang [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Ang dili sa [X] mao ang [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ang pinulongan sa [X] mao ang [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ang dili sa [X] mao ang [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Ang pinulongan sa [X] mao ang [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Ang [Y] mao ang pinulongan sa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] mao ang pinulongan sa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Ang [Y] mao ang pinulongan sa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] mao ang pinulongan sa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

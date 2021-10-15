@@ -1,0 +1,8 @@
+{"pattern": "[Y] taraf\u0131ndan geli\u015ftirilen [X]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[Y] taraf\u0131ndan [X]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[Y] taraf\u0131ndan [X]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[Y] taraf\u0131ndan geli\u015ftirilen [X]", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] bir [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X] bir [Y] \u00fcr\u00fcn\u00fc", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[Y] ve [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
+{"pattern": "[Y] ve \u00fcr\u00fcnleri [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

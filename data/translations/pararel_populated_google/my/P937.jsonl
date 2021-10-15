@@ -1,0 +1,8 @@
+{"pattern": "[X] \u101e\u100a\u103a [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] \u101e\u100a\u103a [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] \u101e\u100a\u103a [Y] \u1010\u103d\u1004\u103a\u1021\u101c\u102f\u1015\u103a\u1001\u1014\u1037\u103a\u1011\u102c\u1038\u1001\u1032\u1037\u101e\u100a\u103a\u104b", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] \u1000\u102d\u102f [Y]", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] \u101e\u100a\u103a [Y] \u1010\u103d\u1004\u103a\u1021\u101c\u102f\u1015\u103a\u101c\u102f\u1015\u103a\u1001\u1032\u1037\u101e\u100a\u103a\u104b", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] \u101e\u100a\u103a [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] \u101e\u100a\u103a [Y] \u1010\u103d\u1004\u103a\u1021\u101c\u102f\u1015\u103a\u101c\u102f\u1015\u103a\u101e\u100a\u103a\u104b", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] \u101e\u100a\u103a [Y] \u1010\u103d\u1004\u103a\u1021\u101c\u102f\u1015\u103a\u1010\u1000\u103a\u1001\u1032\u1037\u101e\u100a\u103a\u104b", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}

@@ -1,0 +1,30 @@
+{"pattern": "[X] wurde auf [Y] geschrieben.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] wurde [Y] geschrieben.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] auf [Y] geschrieben.", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] ist auf [Y] geschrieben.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] auf [Y] geschrieben.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] ist [Y] geschrieben.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "Die [X] auf [Y] geschrieben.", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] wurde [Y] geschrieben.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] wurde in [Y] Sprache geschrieben.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] in [Y] Sprache geschrieben.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] in der [Y] Sprache geschrieben.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] geschrieben [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] geschrieben in [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] geschrieben in [Y] Sprache.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "[X] auf [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Die Sprache [X] ist [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Die Sprache der [X] ist [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Die Sprache von [X] ist [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Die Sprache der [X] war [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Die Sprache [X] war [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Die Sprache von [X] war [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] ist ein Werk in [Y] Sprache.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] ist ein Werk [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] ist ein Werk in der [Y] Sprache.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[Y] ist die Sprache [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] ist die Sprache der [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] ist die Sprache von [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] war die Sprache [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] war die Sprache der [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "[Y] war die Sprache von [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

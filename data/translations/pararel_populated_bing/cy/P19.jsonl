@@ -1,0 +1,55 @@
+{"pattern": "Ganed [X] yn [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] yn [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "Mae [X] yn wreiddiol o [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "Mae [X] yn wreiddiol [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] yn wreiddiol o [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] o [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] yn wreiddiol [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] yn [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "Daw [X] yn wreiddiol o [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] yn wreiddiol o [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] wreiddiol o [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "Roedd [X] yn wreiddiol [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "Roedd [X] yn wreiddiol o [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "Mae [X] yn frodorol i [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "Mae [X] yn frodorol [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] frodorol i [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "Mae [X] yn [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "Mae [X] yn gynhenid i [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] i [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "Roedd [X] yn frodorol i [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "Roedd [X] yn frodorol [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] frodorol i [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "Roedd [X] yn [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "Roedd [X] yn gynhenid i [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] i [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] o [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] yn tarddu o [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] tarddu o [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "Roedd [X] yn tarddu [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "Deilliodd [X] o [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] yn tarddu o [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] yn tarddu [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] tarddu o [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "Mae [X] yn tarddu [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "Roedd [X] yn berson a anwyd yn [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "Roedd [X] yn berson a anwyd [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] berson a anwyd yn [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] berson a anwyd [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "Roedd [X] yn berson a anwyd yn [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "Roedd [X] yn berson a anwyd [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] berson a anwyd yn [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] berson a anwyd [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "Mae [X] yn berson a anwyd yn [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "Mae [X] yn berson [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "Mae [X] yn berson a anwyd [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] berson a anwyd yn [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] berson a anwyd [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "Mae [X] yn berson a anwyd yn [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "Mae [X] yn berson a anwyd [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] berson a anwyd yn [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] berson a anwyd [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] person a anwyd yn [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] person a anwyd [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] person a anwyd yn [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] person a anwyd [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

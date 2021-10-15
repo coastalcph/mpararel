@@ -1,0 +1,10 @@
+{"pattern": "[X] ana dili [Y] dilidir.", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X] dilinin ana dili [Y] dilidir.", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X] dili [Y] dilidir.", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X] ana dili [Y] dilidir.", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] dili \u2014 [X] do\u011fma dili.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] dili [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] dili [X] ana dilidir.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] dili [X] dilidir.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] dili [X] ana dilidir.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] ana [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

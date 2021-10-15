@@ -1,0 +1,37 @@
+{"pattern": "[X] \u00e8 stato originariamente trasmesso [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] \u00e8 stato originariamente trasmesso su [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] \u00e8 stata originariamente trasmessa su [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] sulla [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] debutter\u00e0 [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] debutter\u00e0 sulla [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[X] su [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] di [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debuttare [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "La [Y] debuttare [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "La [Y] quella di debuttare [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] di debuttare [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "La [Y] ha debuttato [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] ha debuttato [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] sulla [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] ha debuttato [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] ha debuttato su [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] ha debuttato sulla [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "il rilascio [Y] di [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "il rilascio [Y] della [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "il rilascio di [Y] di [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] \u00e8 stato rilasciato [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] \u00e8 [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] \u00e8 stato rilasciato su [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] su [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] ha [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] ha rilasciato [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "La [Y] ha rilasciato [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] sulla [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] presentato [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] \u00e8 stato presentato su [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] stato presentato [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] in anteprima [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] in anteprima su [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] premi\u00e8res [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] sulla [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] su [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

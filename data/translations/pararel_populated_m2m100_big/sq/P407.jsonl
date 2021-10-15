@@ -1,0 +1,24 @@
+{"pattern": "[X] \u00ebsht\u00eb shkruar n\u00eb [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] shkruar n\u00eb [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] n\u00eb [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] \u00ebsht\u00eb shkruar n\u00eb [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] shkruar n\u00eb [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] e shkruar n\u00eb [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "Gjuha e [X] \u00ebsht\u00eb [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Gjuha e [X] ishte [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] \u00ebsht\u00eb pun\u00eb n\u00eb gjuh\u00ebn [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb vep\u00ebr n\u00eb gjuh\u00ebn [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb pun\u00eb n\u00eb gjuh\u00ebn [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] \u00ebsht\u00eb nj\u00eb vep\u00ebr n\u00eb gjuh\u00ebn [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] nj\u00eb pun\u00eb n\u00eb gjuh\u00ebn [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] nj\u00eb vep\u00ebr n\u00eb gjuh\u00ebn [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] nj\u00eb pun\u00eb n\u00eb gjuh\u00ebn [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] nj\u00eb vep\u00ebr n\u00eb gjuh\u00ebn [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] ishte nj\u00eb pun\u00eb n\u00eb gjuh\u00ebn [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] ishte nj\u00eb vep\u00ebr n\u00eb gjuh\u00ebn [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] ishte nj\u00eb pun\u00eb n\u00eb gjuh\u00ebn [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] ishte nj\u00eb vep\u00ebr n\u00eb gjuh\u00ebn [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[Y] \u00ebsht\u00eb gjuha e [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Gjuha [Y] \u00ebsht\u00eb gjuha e [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] ishte gjuha e [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Gjuha [Y] ishte gjuha e [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

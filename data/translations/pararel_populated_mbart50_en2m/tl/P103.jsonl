@@ -1,0 +1,4 @@
+{"pattern": "[X] \u044f\u0437\u044b\u043a [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "[X] is [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "is [Y] native [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] is [X] native language.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}

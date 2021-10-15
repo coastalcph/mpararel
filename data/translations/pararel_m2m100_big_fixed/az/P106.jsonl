@@ -1,0 +1,11 @@
+{"pattern": "[X]. \u018fhm\u0259dov is\u0259 bu i\u015fd\u0259 i\u015ftirak etmi\u015fdir.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X]. \u018fhm\u0259dov is\u0259 bu i\u015fd\u0259 i\u015ftirak etmi\u015fdir.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X]. \u018fhm\u0259dov \u201cQ\u0259b\u0259l\u0259\u201d il\u0259 g\u00f6r\u00fc\u015f\u00fcb", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X]. \u018fhm\u0259dov \u201cQ\u0259b\u0259l\u0259\u201d il\u0259 g\u00f6r\u00fc\u015f\u00fcb", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X]\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X]\u018fB\u018fRL\u018fR: X\u018fB\u018fRL\u018fR\u0130N T\u018fB\u018fRL\u018fR\u0130", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "\u201c[X]\u201din i\u015f yeri ([Y])", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X]\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X]. \u018fhm\u0259dov is\u0259 bu i\u015fd\u0259 i\u015ftirak etmi\u015fdir.", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X]. \u018fhm\u0259dov da bu i\u015fd\u0259 i\u015ftirak etmi\u015fdir.", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Bu bar\u0259d\u0259 \u201c[X]\u201d \u015firk\u0259tinin m\u0259lumat\u0131 a\u00e7\u0131qlan\u0131b.", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

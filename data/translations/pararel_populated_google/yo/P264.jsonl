@@ -1,0 +1,53 @@
+{"pattern": "[X] j\u1eb9 a\u1e63oju nipas\u1eb9 aami [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] j\u1eb9 a\u1e63oju nipas\u1eb9 [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] nipas\u1eb9 [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] a\u1e63oju nipas\u1eb9 [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "Aw\u1ecdn [X] nipas\u1eb9 [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "Aw\u1ecdn [X] j\u1eb9 a\u1e63oju nipas\u1eb9 [Y]", "lemma": "represented-by-record-label", "extended_lemma": "represented-by-record-label", "tense": "present"}
+{"pattern": "[X] j\u1eb9 a\u1e63oju nipas\u1eb9 [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] a\u1e63oju nipas\u1eb9 [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "Aw\u1ecdn [X] a\u1e63oju nipas\u1eb9 [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] wa ni a\u1e63oju nipas\u1eb9 [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] ni a\u1e63oju nipas\u1eb9 [Y]", "lemma": "represented-by", "extended_lemma": "represented-by", "tense": "present"}
+{"pattern": "[X] iy\u1eb9n ni a\u1e63oju nipas\u1eb9 [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] iy\u1eb9n ni a\u1e63oju [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] a\u1e63oju nipas\u1eb9 [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "Aw\u1ecdn [X] iy\u1eb9n ni a\u1e63oju [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] j\u1eb9 a\u1e63oju nipas\u1eb9 [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] iy\u1eb9n j\u1eb9 a\u1e63oju nipas\u1eb9 [Y]", "lemma": "represented-by", "extended_lemma": "that-represented-by", "tense": "present"}
+{"pattern": "[X] eyiti o j\u1eb9 a\u1e63oju nipas\u1eb9 [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] eyiti o j\u1eb9 a\u1e63oju [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "[X] o j\u1eb9 a\u1e63oju [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Aw\u1ecdn [X] eyiti o j\u1eb9 a\u1e63oju nipas\u1eb9 [Y]", "lemma": "represented-by", "extended_lemma": "which-represented-by", "tense": "present"}
+{"pattern": "Laminal orin n a\u1e63oju [X] j\u1eb9 [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] orin n a\u1e63oju [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] orin n [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] orin n a\u1e63oju aw\u1ecdn [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] orin ti o [Y]", "lemma": "representing", "extended_lemma": "representing", "tense": "present"}
+{"pattern": "[X] j\u1eb9 [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "Aami [X] j\u1eb9 [Y]", "lemma": "s-label", "extended_lemma": "s-label", "tense": "present"}
+{"pattern": "[X] j\u1eb9 [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "[X] igbasil\u1eb9 [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "Isamisi Igbasil\u1eb9 [X] j\u1eb9 [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "Isamisi [X] j\u1eb9 [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-label", "tense": "present"}
+{"pattern": "Ile-i\u1e63\u1eb9 [X] j\u1eb9 [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Ile-i\u1e63\u1eb9 Igbasil\u1eb9 [X] j\u1eb9 [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Ile-i\u1e63\u1eb9 igbasil\u1eb9 [X] j\u1eb9 [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Ile-i\u1e63\u1eb9 [X] ni [Y]", "lemma": "s-record-label", "extended_lemma": "s-record-company", "tense": "present"}
+{"pattern": "Isamisi [X] j\u1eb9 [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] j\u1eb9 [Y]", "lemma": "s-music-label", "extended_lemma": "s-music-label", "tense": "present"}
+{"pattern": "[X] fun [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] sil\u1eb9 fun [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "Aw\u1ecdn [X] ti o gbasil\u1eb9 fun [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] ti gbasil\u1eb9 fun [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] ti o gbasil\u1eb9 fun [Y]", "lemma": "recorded-for", "extended_lemma": "recorded-for", "tense": "present"}
+{"pattern": "[X] sil\u1eb9 nipas\u1eb9 [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] nipas\u1eb9 [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] tu nipas\u1eb9 [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] tu [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "[X] idasil\u1eb9 nipas\u1eb9 [Y]", "lemma": "released-by", "extended_lemma": "released-by", "tense": "present"}
+{"pattern": "Aw\u1ecdn o\u1e63ere [Y] bii [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "Aw\u1ecdn o\u1e63ere [Y] aw\u1ecdn [X]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "Aw\u1ecdn o\u1e63ere [Y] p\u1eb9lu [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "[Y] o\u1e63ere p\u1eb9lu [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}
+{"pattern": "Aw\u1ecdn o\u1e63ere [Y] p\u1eb9lu aw\u1ecdn [X]", "lemma": "artist-including", "extended_lemma": "artist-including", "tense": "-"}

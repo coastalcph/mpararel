@@ -1,0 +1,56 @@
+{"pattern": "[X] sa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "Ang mga [X] sa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] gisulat sa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "Ang [X] gisulat sa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "Ang [X] gisulat sa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "Ang mga [X] sa [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "Ang mga [X] sa [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "Ang [X] gisulat sa [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "Ang [X] gisulat sa [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X] nga gisulat sa [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Ang [X] nga gisulat sa [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Ang dili sa [X] mao ang [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ang [X] mao ang [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ang pinulongan [X] mao ang [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Ang [X] mao ang [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Ang dili sa [X] mao ang [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "Ang pinulongan [X] mao ang [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] mao ang [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "Ang [X] mao ang [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] mao ang usa ka [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] mao ang usa ka [Y] nga trabaho.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] usa ka [Y] nga trabaho.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] mao ang usa ka [Y] trabaho.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "Ang [X] usa ka [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "Ang [X] mao ang usa ka [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "Ang [X] mao ang usa ka trabaho sa [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] mao ang [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "Ang [X] mao ang [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] mao ang usa ka [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] mao ang usa ka [Y] nga trabaho.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] usa ka [Y] nga trabaho.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] mao ang usa ka [Y] trabaho.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "Ang [X] usa ka [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "Ang [X] mao ang usa ka [Y]", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] usa ka [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "Ang [X] usa ka [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] sa [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] usa ka trabaho sa [Y]", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] usa ka trabaho sa [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "Ang [X] usa ka trabaho sa [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] mao ang usa ka trabaho sa [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "Ang [X] mao ang usa ka trabaho sa [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] mao ang usa ka trabaho sa [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Ang [X] mao ang usa ka trabaho sa [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Ang [Y] mao ang dili sa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Ang [Y] mao ang [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Ang [Y] mao ang pinulongan [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Ang [Y] mao ang pinulongan sa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Ang [Y] mao ang [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Ang [Y] mao ang pinulongan sa [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}
+{"pattern": "Ang [Y] mao ang pinulongan [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

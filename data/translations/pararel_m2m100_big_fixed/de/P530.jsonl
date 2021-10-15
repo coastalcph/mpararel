@@ -1,0 +1,9 @@
+{"pattern": "[X] unterh\u00e4lt diplomatische Beziehungen zu [Y]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] unterh\u00e4lt diplomatische Beziehungen zu [X]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] verbindet diplomatische Beziehungen mit [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] verbindet diplomatische Beziehungen mit [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] hat diplomatische Beziehungen zu [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] hat diplomatische Beziehungen zu [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X], die diplomatische Beziehungen zu [Y] hat", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], die diplomatische Beziehungen zu [X] hat", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], die diplomatische Beziehungen mit [X] verbindet", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

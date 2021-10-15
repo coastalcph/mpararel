@@ -1,0 +1,8 @@
+{"pattern": "[X] halott volt a [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] halott volt a [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "Az [X]-ben elhal\u00e1lozott", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] elhaladt a [Y] alatt", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] a [Y] alatt lej\u00e1ratott", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] elvesztette \u00e9let\u00e9t a [Y] alatt.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] \u00e9lete a [Y] v\u00e9g\u00e9n \u00e9rt v\u00e9get.", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] a [Y] al\u00e1 helyezve", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

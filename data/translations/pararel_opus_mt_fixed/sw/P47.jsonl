@@ -1,0 +1,9 @@
+{"pattern": "[X] weka mpaka na [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[9] na [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[X] weka mpaka pamoja [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] weka mpaka wake na [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[X] huunganisha mpaka mmoja na [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
+{"pattern": "[Y] weka mipaka na [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
+{"pattern": "[Y] weka mpaka na [9].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] weka mpaka wake na [9].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
+{"pattern": "[Y] weka mpaka mmoja na [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

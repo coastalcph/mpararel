@@ -1,0 +1,7 @@
+{"pattern": "[X] iku milik [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] iku [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[X] ana ing [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[X] ing [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[X] pemilik [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[X] iku pemilik [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] duwe [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}

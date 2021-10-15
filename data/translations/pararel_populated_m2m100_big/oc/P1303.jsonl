@@ -1,0 +1,10 @@
+{"pattern": "[X] p\u00f2t tocar [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] lo [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] p\u00f2t [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] joga lo [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] lo [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] interpr\u00e8t [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] la [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] joga lo [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] es un [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "[X] es [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

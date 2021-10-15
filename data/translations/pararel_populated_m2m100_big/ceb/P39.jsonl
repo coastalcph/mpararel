@@ -1,0 +1,19 @@
+{"pattern": "[X] adunay posisyon sa [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "Ang [X] adunay posisyon sa [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] nga adunay posisyon sa [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "Si [X] nga posisyon mao ang sa [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] nga posisyon mao ang sa [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] sa [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "Ang posisyon ni [X] mao ang [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "Ang posisyon [X] mao ang [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] mao ang [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "Ang posisyon sa [X] mao ang [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] nga adunay posisyon sa [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] nga nagtan-aw sa posisyon sa [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "Si [X] nga nagtan-aw sa posisyon sa [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] adunay posisyon sa [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "Ang [X] adunay posisyon sa [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "Ang [X] posisyon sa [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] posisyon sa [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "Si [X] adunay posisyon sa [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] sa posisyon sa [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

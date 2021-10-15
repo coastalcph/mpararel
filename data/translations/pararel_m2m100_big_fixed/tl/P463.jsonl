@@ -1,0 +1,5 @@
+{"pattern": "[X] ay isang miyembro ng [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
+{"pattern": "[X] ay nasa organisasyon ng [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
+{"pattern": "[X] ay isang bahagi ng [Y] na organisasyon.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
+{"pattern": "[X] ay nakatuon sa [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
+{"pattern": "[X] ay kumpanya sa [Y] na organisasyon.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

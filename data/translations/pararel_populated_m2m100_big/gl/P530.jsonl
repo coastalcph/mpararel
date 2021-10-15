@@ -1,0 +1,19 @@
+{"pattern": "[X] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas con [Y]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas [Y]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas con [X]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas [X]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas con [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas con [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas con [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas con [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] que mant\u00e9n relaci\u00f3ns diplom\u00e1ticas con [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] que mant\u00e9n relaci\u00f3ns diplom\u00e1ticas [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] que mant\u00e9n relaci\u00f3ns diplom\u00e1ticas con [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] que mant\u00e9n relaci\u00f3ns diplom\u00e1ticas [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] que ten relaci\u00f3ns diplom\u00e1ticas con [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] que relaci\u00f3ns diplom\u00e1ticas con [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y] relaci\u00f3ns diplom\u00e1ticas con [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

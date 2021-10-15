@@ -1,0 +1,11 @@
+{"pattern": "[X] je [Y] podle povol\u00e1n\u00ed", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] je [Y] podle povol\u00e1n\u00ed", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] je vzd\u011bl\u00e1vac\u00ed n\u00e1stroj", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] je vzd\u011bl\u00e1vac\u00edm prost\u0159edkem", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] se chov\u00e1 jako [Y]", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "A co se t\u00fd\u010de t\u011bch, kte\u0159\u00ed se chovaj\u00ed podobn\u011b?", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] je zam\u011bstn\u00e1n\u00ed [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "V\u017edy\u0165 je to [X] a je to [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] je povol\u00e1n\u00ed je [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] je povol\u00e1n\u00ed je [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Jde o profesi [X]", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

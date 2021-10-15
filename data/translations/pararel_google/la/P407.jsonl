@@ -1,0 +1,18 @@
+{"pattern": "[X] in [y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] scriptum est [y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] scriptum est in [y] linguae.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] scriptum est in [y] lingua.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], in [y] linguae.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Et lingua [x] est [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Et lingua [x] fuit [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] Est [y] -Language opus.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] An [y] -Language opus.", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], A [y] -Language opus.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], quod [y] -Language opus.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] Erat autem [y] -Language opus.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] fuit [y] -Language opus.", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] Est opus in [y] linguae.", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] Erat opus in [y] linguae.", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Quod [y] -Language creaturae [x]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Ego] est lingua [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Ego] erat lingua [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

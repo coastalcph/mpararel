@@ -1,0 +1,18 @@
+{"pattern": "[X] yra kil\u0119s i\u0161 [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] yra i\u0161 [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] kil\u0119s i\u0161 [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] i\u0161 [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] i\u0161 prad\u017ei\u0173 buvo i\u0161 [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] i\u0161 [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] yra [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] gim\u0117 [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] gim\u0117 [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] kil\u0119s i\u0161 [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] i\u0161 [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] kil\u0119s i\u0161 [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] i\u0161 [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] yra kil\u0119s i\u0161 [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] yra [Y] gim\u0119s \u017emogus.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] yra [Y] gim\u0119s asmuo.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] yra [Y] gim\u0119s \u017emogus.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] yra [Y] gim\u0119s asmuo.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

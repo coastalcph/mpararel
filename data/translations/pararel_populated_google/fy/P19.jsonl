@@ -1,0 +1,35 @@
+{"pattern": "[X] waard berne yn [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] is oarspronklik fan [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] wie oarspronklik fan [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] wie oarspronklik [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] is l\u00e2nseigen yn [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] is l\u00e2nseigen [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] is [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] wie [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] wie l\u00e2nseigen yn [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] wie l\u00e2nseigen [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] \u00fbntstie \u00fat [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] \u00fat [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] is \u00fbntstien \u00fat [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] \u00fbntstien \u00fat [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] \u00fbntstiet \u00fat [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] \u00fat [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] komt fan [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] wie in [Y] persoan.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] wie in [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] wie in persoan fan [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] wie in [Y] persoan.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] wie in [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] wie in persoan fan [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] is in [Y] persoan.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] is in [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] is in persoan fan [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] is in [Y] persoan.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] is in [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] is in persoan fan [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] in [Y] persoan.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] in [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] in persoan fan [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] in [Y] persoan.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] in [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] in persoan fan [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

@@ -1,0 +1,11 @@
+{"pattern": "Lanbidez lan egiten du.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "Lanbidez lan egiten du.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "Entrenamenduz da [X] bat.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "Entrenamenduz da [X] bat.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] [Y] bezala lan egiten du.", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "\"[X]\", \"B\" bezala lan egiten duena.", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] okupazioa [Y] da", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "[X] okupazioa da.", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] lanbide bat da.", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] lanbide bat da.", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X]-ren lanbidea da.", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

@@ -1,0 +1,17 @@
+{"pattern": "Se vol\u00e8tz pas o creire,", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "Aqu\u00f2 es la creacion.", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "Lo creator (o creator) es lo creator.", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X] qu\u2019ei lo comen\u00e7ament de la gu\u00e8rra.", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t originari de [Y]", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "Se form\u00e8t en [X].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "Se vol\u00e8tz pas o creire,", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "Aqu\u00f2 se deban\u00e8t en [i].", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t formulat en [Y]", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X], en \u00e7\u00f2 que se ditz en [Y]", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "Aqu\u00f2 s\u2019explica en [Y].", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t de [Y]", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "Qu\u2019ei ua nov\u00e8la de [X].", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], de la part de [Y]", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "Aqu\u00f2 se deban\u00e8t en [i].", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t creat en [Y]", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X] qu'ei ua nov\u00e8la de las", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}

@@ -1,0 +1,10 @@
+{"pattern": "Hi\u00f0 h\u00f6fu\u00f0borg [X] er \u00ed [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "H\u00fasi\u00f0 \u00e1 [X] er \u00ed [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "H\u00fasi\u00f0 \u00e1 [X] er sta\u00f0sett \u00ed [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "Og sver \u00feess ei\u00f0 ( og stendur vi\u00f0 hann) a\u00f0 koma l\u00f6gum yfir \u00fea\u00f0.", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] er h\u00f6fu\u00f0st\u00f6\u00f0var \u00ed [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "Og sver \u00feess ei\u00f0 ( og stendur vi\u00f0 hann) a\u00f0 koma l\u00f6gum yfir \u00fe\u00e1 sem sekir eru.", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "[X] h\u00f6fu\u00f0st\u00f6\u00f0var eru \u00ed [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], sem h\u00f6fu\u00f0st\u00f6\u00f0var eru \u00ed [Y]", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "H\u00fasi\u00f0 er (e\u00f0a er) til a\u00f0 halda.", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] er byggt \u00e1 [Y]", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

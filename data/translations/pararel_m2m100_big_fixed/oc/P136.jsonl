@@ -1,0 +1,6 @@
+{"pattern": "[X] J\u00f2c de musica [Y]", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X], que canta [Y] musica", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] Lo j\u00f2c [Y]", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "Lo j\u00f2c que j\u00f2ga,", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "Los musicians [X]", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "Musicaires coma [X]", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

@@ -1,0 +1,25 @@
+{"pattern": "[X] het in [Y] gesterf.", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] in [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[X] het in [Y] gesterf.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] in [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] is in [Y] oorlede.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] is [Y] oorlede.", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
+{"pattern": "[X] is in [Y] oorlede.", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] in [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
+{"pattern": "[X] is by [Y] oorlede.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] is [Y] oorlede.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] is in [Y] oorlede.", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] in [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] het [Y] gesterf.", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] het by [Y] gesterf.", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] het [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] het in [Y] gesterf.", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] het in [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] het hulle lewe in [Y] verloor.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] het hulle lewe [Y] verloor.", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] se lewe het in [Y] ge\u00ebindig.", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
+{"pattern": "[X] het [Y] gesterf.", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] het by [Y] gesterf.", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] het [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] het in [Y] gesterf.", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] het in [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

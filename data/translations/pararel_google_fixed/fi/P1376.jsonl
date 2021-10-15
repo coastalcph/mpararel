@@ -1,0 +1,14 @@
+{"pattern": "[X] on [Y] p\u00e4\u00e4kaupunki.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y]: n p\u00e4\u00e4kaupunki on [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] p\u00e4\u00e4kaupunki on [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X] on p\u00e4\u00e4kaupunki [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] P\u00e4\u00e4kaupunki, [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y]: n p\u00e4\u00e4kaupunki, [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y] P\u00e4\u00e4kaupunki on [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y] P\u00e4\u00e4kaupunki on [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], p\u00e4\u00e4kaupunki [Y].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], p\u00e4\u00e4kaupunki [Y].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[X], se on [Y] p\u00e4\u00e4kaupunki.", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[X], se on [Y] p\u00e4\u00e4kaupunki.", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}
+{"pattern": "[Y], jolla on p\u00e4\u00e4oma [X].", "lemma": "capital", "extended_lemma": "capital-of", "tense": "present"}
+{"pattern": "[Y], jolla on p\u00e4\u00e4kaupunki [X].", "lemma": "capital-city", "extended_lemma": "capital-city-of", "tense": "present"}

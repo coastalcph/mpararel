@@ -1,0 +1,8 @@
+{"pattern": "[Y] \u0baa\u0bc6\u0baf\u0bb0\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f [X]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "[Y] \u0b95\u0bcc\u0bb0\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd [X]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[Y] \u0b95\u0bcc\u0bb0\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f [X]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[Y] \u0b95\u0bcc\u0bb0\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd [X]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[Y] \u0b95\u0bcc\u0bb0\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0baf\u0bb0\u0bbf\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f [X]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[Y] \u0baa\u0bbf\u0bb1\u0b95\u0bc1 \u0b85\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd [X]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[Y] \u0baa\u0bbf\u0bb1\u0b95\u0bc1 [X]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[Y] \u0b85\u0bb4\u0bc8\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd [X]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}

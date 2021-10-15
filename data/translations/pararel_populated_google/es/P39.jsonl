@@ -1,0 +1,23 @@
+{"pattern": "[X] tiene la posici\u00f3n del [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] tiene la posici\u00f3n [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] tiene la posici\u00f3n de [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
+{"pattern": "[X] tiene la posici\u00f3n [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] que tiene la posici\u00f3n [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] que tiene la posici\u00f3n de [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] tiene la posici\u00f3n del [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] que tiene la posici\u00f3n del [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
+{"pattern": "[X] cuya posici\u00f3n es la del [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "[X] cuya posici\u00f3n es la [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
+{"pattern": "La posici\u00f3n de [X] es [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
+{"pattern": "[X] la posici\u00f3n del [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] la posici\u00f3n [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] quien sostiene la posici\u00f3n del [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] sostiene la posici\u00f3n del [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] quien sostiene la posici\u00f3n [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] sostiene la posici\u00f3n [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] quien sostiene la posici\u00f3n de [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
+{"pattern": "[X] la posici\u00f3n del [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] la posici\u00f3n [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] sostiene la posici\u00f3n del [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] sostiene la posici\u00f3n [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
+{"pattern": "[X] la posici\u00f3n de [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

@@ -1,0 +1,9 @@
+{"pattern": "[X] padayong naghupot ug diplomatikong relasyon uban [kang Jehova].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[Si[Y] padayong naghupot ug diplomatikong relasyon uban [kang[X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] naglangkit sa diplomatikong relasyon uban [kang Jehova].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[ SILA] nakiglangkit sa diplomatikong relasyon uban [kang[X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] may diplomatikong relasyon uban [kang Jehova].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Si Jehova] may diplomatikong relasyon uban [kang[X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X], nga may diplomatikong relasyon uban [kang Jehova]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], nga may diplomatikong relasyon kang [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[Y], nga nakiglangkit sa diplomatikong relasyon kang [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

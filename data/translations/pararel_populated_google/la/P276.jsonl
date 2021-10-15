@@ -1,0 +1,4 @@
+{"pattern": "[X] sita in [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] sita est in [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] est in [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] in [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}

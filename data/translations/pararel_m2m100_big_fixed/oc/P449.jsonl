@@ -1,0 +1,11 @@
+{"pattern": "La primi\u00e8ra fogu\u00e8t [20].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] es lo comen\u00e7ament de [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "Lo primi\u00e8r es de debutar (x).", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "E que s\u2019enfon\u00e7a [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] fogu\u00e8t lo primi\u00e8r c\u00f2p.", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "Lo primi\u00e8r c\u00f2p de [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "La m\u00f2rt de [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] fogu\u00e8t liberat en [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "E que s\u2019enfon\u00e7a [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "Primi\u00e8r c\u00f2p (en primi\u00e8r)", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] Lo primi\u00e8r c\u00f2p", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

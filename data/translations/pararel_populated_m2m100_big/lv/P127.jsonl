@@ -1,0 +1,9 @@
+{"pattern": "[X] pieder [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] \u012bpa\u0161nieks [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] ir [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] ir [X] \u012bpa\u0161nieks.", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] \u012bpa\u0161nieks ir [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] pieder [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] eso\u0161\u0101 [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}
+{"pattern": "[Y] \u012bpa\u0161um\u0101 [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}
+{"pattern": "[Y] \u012bpa\u0161um\u0101 eso\u0161\u0101 [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

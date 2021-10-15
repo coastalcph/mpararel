@@ -1,0 +1,19 @@
+{"pattern": "[Y] tao [X]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "[Y] i [X]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "Maty [Y] i [X]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "Maty tao [Y] i [X]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
+{"pattern": "Nodimandry tao [Y] i [X]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[Y] tao [X]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "Nodimandry [Y] i [X]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
+{"pattern": "[X] nandeha tany [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] tao [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] dia [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
+{"pattern": "[X] ny ainy tao [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] no namoy ny ainy tao [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] tao [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] namoy ny ainy tao [Y]", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
+{"pattern": "[X] dia [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] tao [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "[X] i [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "Nandositra tao [X] i [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}
+{"pattern": "Nandositra [X] i [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

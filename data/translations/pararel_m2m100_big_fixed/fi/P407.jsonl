@@ -1,0 +1,18 @@
+{"pattern": "[X] on kirjoitettu [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] on kirjoitettu [Y]", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] on kirjoitettu kielell\u00e4 [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] on kirjoitettu kielell\u00e4 [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], joka on kirjoitettu kielell\u00e4 [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Kieli on nimenomaan [X]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Kieli oli nimenomaan [X]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] on [Y] -kielinen teos", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] on [Y] -kielinen ty\u00f6", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] on kielenk\u00e4ytt\u00f6\u00f6n tarkoitettu", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] [Y]hden kielen ty\u00f6t\u00e4", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] oli [Y] -kielinen ty\u00f6", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] oli [Y] -kielinen ty\u00f6", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] on teos kielell\u00e4 [Y]", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] oli teos [Y] kielell\u00e4", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Kielen luominen [X]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "Kieli on nimenomaan [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "Kieli oli nimenomaan [X]:n kieli.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

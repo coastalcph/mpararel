@@ -1,0 +1,8 @@
+{"pattern": "Si [X] ay dating nagtatrabaho sa [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] nagtatrabaho sa [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "Nakahanap ng trabaho si [X] sa [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] ng trabaho sa [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "Si [X] ay nagtatrabaho sa [Y]", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "Si [X] ay nagtrabaho sa [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "Si [X] ay nagtrabaho sa [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}

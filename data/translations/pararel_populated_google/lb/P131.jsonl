@@ -1,0 +1,11 @@
+{"pattern": "[X] ass an [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] ass [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] an [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[X] ass [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] ass am [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] ass an [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] kann [Y] fonnt ginn.", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "[X] kann am [Y] fonnt ginn.", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "[X] kann an [Y] fonnt ginn.", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "[X] zu [Y] fonnt ginn.", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
+{"pattern": "[X] kann zu [Y] fonnt ginn.", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}

@@ -1,0 +1,11 @@
+{"pattern": "[X] lavorava a [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "used-work", "extended_lemma": "used-work", "tense": "past"}
+{"pattern": "[X] ha trovato lavoro a [Y]", "lemma": "found-employment", "extended_lemma": "found-employment", "tense": "past"}
+{"pattern": "[X] era impiegato a [Y]", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] impiegato a [Y]", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] \u00e8 stato impiegato a [Y]", "lemma": "was-employment", "extended_lemma": "was-employment", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] ha lavorato a [Y]", "lemma": "work-in", "extended_lemma": "work-in", "tense": "past"}
+{"pattern": "[X] a [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] ha iniziato a lavorare a [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}
+{"pattern": "[X] ha preso il lavoro a [Y]", "lemma": "take-work", "extended_lemma": "take-work", "tense": "past"}

@@ -1,0 +1,6 @@
+{"pattern": "Det ursprungliga spr\u00e5ket i [X] \u00e4r [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
+{"pattern": "Det ursprungliga spr\u00e5ket i [X] var [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
+{"pattern": "Spr\u00e5ket i [X] \u00e4r [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Spr\u00e5ket i [X] var [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[Y] \u00e4r spr\u00e5ket i [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] var spr\u00e5ket i [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

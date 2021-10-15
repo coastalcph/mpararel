@@ -1,0 +1,4 @@
+{"pattern": "[X] je vlastnictv\u00edm [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "Vlastn\u00edkem je [X].", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "Vlastn\u00edkem je [X].", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Vlastn\u00edkem je [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "[Y] ile diplomatik ili\u015fkileri olan [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] ile diplomatik ili\u015fkileri olan [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] ile diplomatik ili\u015fkiler kuran [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
+{"pattern": "[X] ile diplomatik ili\u015fkiler [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

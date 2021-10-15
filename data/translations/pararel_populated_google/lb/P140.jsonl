@@ -1,0 +1,14 @@
+{"pattern": "[X] mat [Y] Relioun verbraucht.", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] ass mat der [Y]", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] g\u00ebtt mat der [Y] Relioun verbraucht.", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] mat der [Y] verbraucht.", "lemma": "affiliated-with", "extended_lemma": "affiliated-with", "tense": "present"}
+{"pattern": "[X] follegt [Y] Relioun.", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] de [Y] Relioun.", "lemma": "follow", "extended_lemma": "follow", "tense": "present"}
+{"pattern": "[X] ass Follower [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] ass Follower vum [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] ass [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[Y] ass [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] ass [X] hir offiziell Relioun.", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] ass [X] offiziell Relioun.", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] ass [X] seng offiziell Relioun.", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] ass dem [X] seng offiziell Relioun.", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

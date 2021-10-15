@@ -1,0 +1,4 @@
+{"pattern": "El idioma nativo de [X] es [Y].", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "La lengua materna de [X] es [Y].", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] es el idioma nativo de [X].", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] es la lengua materna [X].", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

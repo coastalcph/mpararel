@@ -1,0 +1,11 @@
+{"pattern": "[X] a szakma \u00e1ltali [y].", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] a szakma \u00e1ltali [Y].", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] az [Y] k\u00e9pz\u00e9ssel.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] k\u00e9pz\u00e9ssel [Y].", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] [y].", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], aki [y].", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] foglalkoz\u00e1sa [y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "Az [x] foglalkoz\u00e1sa [y].", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "Az [X] szakma egy [y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Az [X] szakma [y].", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "Az [X] szakma [Y].", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

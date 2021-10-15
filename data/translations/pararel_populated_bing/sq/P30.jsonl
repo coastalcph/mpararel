@@ -1,0 +1,5 @@
+{"pattern": "[X] ndodhet n\u00eb [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] n\u00eb [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] ndodhet n\u00eb kontinentin [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] n\u00eb kontinentin [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] ndodhet n\u00eb kontinentin e [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}

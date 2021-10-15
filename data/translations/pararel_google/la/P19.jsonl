@@ -1,0 +1,13 @@
+{"pattern": "[X] natus est in [y].", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] est primum ex [y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] fuit primum ex [y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] Est patria [y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] fuit patria [y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] Originated ex [y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] originem ex [y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] fuit [y] -born persona.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] fuit [y] -born persona.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] Est [y] -Born persona.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] An [y] -Born.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], A [y] -Born.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], an [y] -born persona.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

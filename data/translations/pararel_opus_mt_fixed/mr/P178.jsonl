@@ -1,0 +1,16 @@
+{"pattern": "[ \u0968\u096c \u092a\u093e\u0928\u093e\u0902\u0935\u0930\u0940\u0932 \u091a\u094c\u0915\u091f / \u091a\u093f\u0924\u094d\u0930]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "\u0938\u093e. \u092f\u0941.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[ \u0967\u096b \u092a\u093e\u0928\u093e\u0902\u0935\u0930\u0940\u0932 \u091a\u094c\u0915\u091f / \u091a\u093f\u0924\u094d\u0930\u0947]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "%s [%s] \u092c\u0930\u094d\u0928 \u0915\u0930\u0924 \u0906\u0939\u0947", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[ \u091a\u093f\u0924\u094d\u0930]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "[%s], %d....", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[ \u091a\u093f\u0924\u094d\u0930\u093e\u091a\u0947 \u0936\u094d\u0930\u0947\u092f]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[ \u091a\u093f\u0924\u094d\u0930\u093e\u091a\u0947 \u0936\u094d\u0930\u0947\u092f]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "[ \u091a\u093f\u0924\u094d\u0930\u093e\u091a\u0947 \u0936\u094d\u0930\u0947\u092f]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "%s [%s] [%s] \u0935\u0930 \u0905\u0935\u0932\u0902\u092c\u0942\u0928 \u0906\u0939\u0947", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[ \u091a\u093f\u0924\u094d\u0930\u093e\u091a\u0947 \u0936\u094d\u0930\u0947\u092f]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[ \u091a\u093f\u0924\u094d\u0930\u093e\u091a\u0947 \u0936\u094d\u0930\u0947\u092f]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "\u0935\u093f\u092d\u093e\u091c\u0915,% 1 [% 2] [% 2]% 3] [% 3] [% 3] [% 3] [% 3] [% 3] [% 3] [% 3] [% 3] [% 3]", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "%s [%s] [%s]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "[ \u091a\u093f\u0924\u094d\u0930\u093e\u091a\u0947 \u0936\u094d\u0930\u0947\u092f]", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "DVDs \u0935 DVDs", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

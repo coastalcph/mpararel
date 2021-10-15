@@ -1,0 +1,4 @@
+{"pattern": "[X] tulajdon\u00e1ban van a [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] A tulajdonos", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "Az [X] tulajdona.", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "Az [Y] tulajdon\u00e1ban \u00e1ll\u00f3 [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

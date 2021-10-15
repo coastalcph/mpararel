@@ -1,0 +1,32 @@
+{"pattern": "[X] is in [Y] gebore.", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] is oorspronklik van [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] was oorspronklik van [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] is afkomstig [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] is [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] is in [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] is in [Y] gebore.", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] was [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] in [Y] gebore.", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] in [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] is in [Y] gebore.", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] was in [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] is van [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] is van [Y] afkomstig.", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] het sy oorsprong in [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] is van [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] van [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] is van [Y] afkomstig.", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] kom van [Y] af.", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] was 'n [Y] persoon.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] was 'n [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] is 'n [Y] persoon.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] is 'n [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] is 'n [Y] persoon.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] is 'n [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] 'n [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] 'n [Y] persoon.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] 'n persoon gebore in [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] 'n [Y] persoon.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] 'n [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] 'n persoon gebore [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] 'n persoon gebore in [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

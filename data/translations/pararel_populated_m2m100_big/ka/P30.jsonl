@@ -1,0 +1,5 @@
+{"pattern": "[X] \u10db\u10d3\u10d4\u10d1\u10d0\u10e0\u10d4\u10dd\u10d1\u10e1 [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
+{"pattern": "[X] \u10db\u10d3\u10d4\u10d1\u10d0\u10e0\u10d4\u10dd\u10d1\u10e1 [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
+{"pattern": "[X] \u10db\u10dd\u10d8\u10ea\u10d0\u10d5\u10e1 [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
+{"pattern": "[X] \u10d0\u10e0\u10d8\u10e1 [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}
+{"pattern": "[X] \u10d0\u10e0\u10d8\u10e1 \u10dc\u10d0\u10ec\u10d8\u10da\u10d8 [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

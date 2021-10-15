@@ -1,0 +1,11 @@
+{"pattern": "[X] ir [Y] p\u0113c profesijas.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] ir [Y] p\u0113c profesijas.", "lemma": "by-profession", "extended_lemma": "is-by-profession", "tense": "present"}
+{"pattern": "[X] ir [Y] ar treni\u0146u pal\u012bdz\u012bbu.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] ir viens [Y] ar apm\u0101c\u012bbu.", "lemma": "by-training", "extended_lemma": "is-by-training", "tense": "present"}
+{"pattern": "[X] darbojas k\u0101 [Y]", "lemma": "work", "extended_lemma": "work-as", "tense": "present"}
+{"pattern": "[X], kas darbojas k\u0101 [Y]", "lemma": "work", "extended_lemma": "who-work-as", "tense": "present"}
+{"pattern": "[X] nodarb\u012bba ir [Y]", "lemma": "occupation", "extended_lemma": "'s-occupation-is", "tense": "present"}
+{"pattern": "Tas ir [X] ir [Y] ir [Y]", "lemma": "occupation", "extended_lemma": "occupation-is", "tense": "present"}
+{"pattern": "[X] profesijas ir a [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "[X] profesija ir viena [Y]", "lemma": "profession", "extended_lemma": "profession-is", "tense": "present"}
+{"pattern": "T\u0101 ir [X] profesijas j\u0113ga.", "lemma": "profession", "extended_lemma": "profession-of-is", "tense": "present"}

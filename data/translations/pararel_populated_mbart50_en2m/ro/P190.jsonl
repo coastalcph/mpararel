@@ -1,0 +1,10 @@
+{"pattern": "[X] \u015fi [Y] sunt dou\u0103 ora\u015fe.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] \u015fi [X] sunt dou\u0103 ora\u015fe.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
+{"pattern": "[Y] este un ora\u015f [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[Y] este un ora\u015f dublu [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[Y] este un ora\u015f dublu, [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[Y] este un ora\u015f dublu al [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] este un ora\u015f [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] este un ora\u015f dublu, [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] este un ora\u015f dublu al [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
+{"pattern": "[X] este un ora\u015f dublu [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

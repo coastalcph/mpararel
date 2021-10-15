@@ -1,0 +1,18 @@
+{"pattern": "[X] a fost scris \u00een [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "past"}
+{"pattern": "[X] este scris \u00een [Y].", "lemma": "write", "extended_lemma": "write-in", "tense": "present"}
+{"pattern": "[X] a fost scris \u00een limba [y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "past"}
+{"pattern": "[X] este scris \u00een limba [y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
+{"pattern": "[X], scris \u00een limba [y].", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
+{"pattern": "Limba [x] este [y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
+{"pattern": "Limba lui [x] a fost [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
+{"pattern": "[X] este o lucrare [y].", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X] este o lucrare [y].", "lemma": "language", "extended_lemma": "-language", "tense": "present"}
+{"pattern": "[X], o munc\u0103 [y].", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X], o munc\u0103 [y] -alguage.", "lemma": "language", "extended_lemma": "language", "tense": "?"}
+{"pattern": "[X] a fost o lucrare [y].", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] a fost o lucrare [y].", "lemma": "language", "extended_lemma": "-language", "tense": "past"}
+{"pattern": "[X] este o lucrare \u00een limba [y].", "lemma": "language", "extended_lemma": "in-language", "tense": "present"}
+{"pattern": "[X] a fost o lucrare \u00een limba [y].", "lemma": "language", "extended_lemma": "in-language", "tense": "past"}
+{"pattern": "Crearea [Y] -Language [x]", "lemma": "-language", "extended_lemma": "-language", "tense": "?"}
+{"pattern": "[Y] este limba [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
+{"pattern": "[Y] a fost limba [x].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

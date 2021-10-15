@@ -1,0 +1,6 @@
+{"pattern": "[X] : [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[X] \ub77c\ubca8 : [Y]", "lemma": "label-colon", "extended_lemma": "label-colon", "tense": "-"}
+{"pattern": "[Y] \ub808\ucf54\ub529 \uc544\ud2f0\uc2a4\ud2b8 [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[Y] \uae30\ub85d [X]", "lemma": "recording-artist", "extended_lemma": "recording-artist", "tense": "-"}
+{"pattern": "[X] \uac19\uc740 [Y]", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}
+{"pattern": "[X] \uac19\uc740 [Y] \uc608\uc220\uac00\ub4e4\uc774\uc8e0.", "lemma": "artist-such", "extended_lemma": "artist-such", "tense": "-"}

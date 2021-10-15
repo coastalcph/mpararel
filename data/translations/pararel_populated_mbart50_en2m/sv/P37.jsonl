@@ -1,0 +1,17 @@
+{"pattern": "Det officiella spr\u00e5ket i [X] \u00e4r [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] \u00e4r [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] spr\u00e5k \u00e4r [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] officiella spr\u00e5k \u00e4r [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Det officiella spr\u00e5ket i [X] \u00e4r [Y]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Det officiella spr\u00e5ket i [X] \u00e4r det [Y] spr\u00e5ket.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "Det officiella spr\u00e5ket i [X] \u00e4r [Y] spr\u00e5ket.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] \u00e4r det officiella spr\u00e5ket i [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] \u00e4r [X] officiella spr\u00e5k.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] \u00e4r [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] \u00e4r det officiella spr\u00e5ket i [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] \u00e4r [X]", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "I [X] \u00e4r [Y] det officiella spr\u00e5ket.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "Lagen i [X] definierar [Y] som officiellt spr\u00e5k.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] definierar [Y] som officiellt spr\u00e5k.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] som [Y] spr\u00e5k.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] lag [Y] som officiellt spr\u00e5k.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

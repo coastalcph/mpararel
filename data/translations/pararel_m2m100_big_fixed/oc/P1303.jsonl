@@ -1,0 +1,4 @@
+{"pattern": "[X] J\u00f2c [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "Lo J\u00f2c [X] ", "lemma": "player", "extended_lemma": "player", "tense": "present"}
+{"pattern": "Lo j\u00f2c [X] es lo j\u00f2c [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] es un j\u00f2c de j\u00f2c.", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

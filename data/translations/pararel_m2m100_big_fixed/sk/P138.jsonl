@@ -1,0 +1,20 @@
+{"pattern": "N\u00e1zov po \u0148om je [X].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "N\u00e1zov po \u0148om bol [X].", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X] sa naz\u00fdva pre [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X] bol pomenovan\u00fd pre [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], ktor\u00fd sa naz\u00fdva po [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "[X], ktor\u00fd bol pomenovan\u00fd po [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "[X], ktor\u00fd sa naz\u00fdva pre [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "[X], ktor\u00fd bol pomenovan\u00fd pre [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "[X], pomenovan\u00fd pre [Y]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "N\u00e1zov: N\u00e1zov: N\u00e1zov: N\u00e1zov: N\u00e1zov: N\u00e1zov:", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] je pomenovan\u00fd v mene [Y] na po\u010des\u0165.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] bol pomenovan\u00fd na po\u010des\u0165 [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "[X], pomenovan\u00fd na po\u010des\u0165 [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "[X], ktor\u00fd je pomenovan\u00fd na \u010des\u0165 [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X], ktor\u00fd bol pomenovan\u00fd na po\u010des\u0165 [Y]", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "Po \u0148om sa vol\u00e1:", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Po \u0148om sa vol\u00e1:", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "[X], ktor\u00fd sa vol\u00e1 po [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "[X], ktor\u00fd bol volan\u00fd po [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "Po \u0148om sa vol\u00e1:", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

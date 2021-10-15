@@ -1,0 +1,8 @@
+{"pattern": "[X] arbetar f\u00f6r [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] som jobbar f\u00f6r [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] \u00e4r anst\u00e4lld [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] \u00e4r anst\u00e4lld av [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] som \u00e4r anst\u00e4lld hos [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] som \u00e4r anst\u00e4lld [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] som \u00e4r anst\u00e4lld p\u00e5 [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] som \u00e4r anst\u00e4lld av [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

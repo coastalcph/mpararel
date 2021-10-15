@@ -1,0 +1,36 @@
+{"pattern": "[X] se narodil v [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] se narodil [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] se v [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] se [Y]", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] poch\u00e1z\u00ed z [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] z [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] byl p\u016fvodn\u011b z [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] byl p\u016fvodn\u011b [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] p\u016fvodn\u011b z [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] z [Y]", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] je [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] \u017eije [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] \u017eije v [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] v [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] byl [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] byl p\u016fvodcem [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] se narodil v [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] se v [Y]", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] poch\u00e1z\u00ed z [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] poch\u00e1z\u00ed [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] poch\u00e1z\u00ed z [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] poch\u00e1z\u00ed [Y]", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] se narodil v [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] se narodil [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] se v [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] se [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] se narodil v [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] se narodil [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] se v [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] se [Y]", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] se narodil [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] se narodil v [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] se [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] se narodil [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] se narodil v [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] se [Y]", "lemma": "born", "extended_lemma": "born", "tense": "present"}

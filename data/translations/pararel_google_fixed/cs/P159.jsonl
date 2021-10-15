@@ -1,0 +1,10 @@
+{"pattern": "Silometr\u016f [X] je v [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "\u00dast\u0159ed\u00ed [X] je v [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "S\u00eddlo [X] se nach\u00e1z\u00ed v [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] Obsahuje s\u00eddlo [X].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] se s\u00eddlem v [Y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] m\u00e1 s\u00eddlo [X].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "\u00dast\u0159ed\u00ed [X] jsou v [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], jeho\u017e s\u00eddlo jsou v [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] je domovem [X].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] je zalo\u017een v [Y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

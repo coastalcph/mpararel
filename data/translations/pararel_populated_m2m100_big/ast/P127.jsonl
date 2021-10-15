@@ -1,0 +1,10 @@
+{"pattern": "[X] ye propied\u00e1 de [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
+{"pattern": "[X] propietariu de [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[X] de [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[X] propied\u00e1 de [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
+{"pattern": "[Y] ye propied\u00e1 de [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[Y] de [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
+{"pattern": "[X] de [Y]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}
+{"pattern": "[X] propied\u00e1 de [Y]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}
+{"pattern": "El [X] de [Y]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}
+{"pattern": "El [X] propied\u00e1 de [Y]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

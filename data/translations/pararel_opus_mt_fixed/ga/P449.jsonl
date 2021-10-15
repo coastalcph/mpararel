@@ -1,0 +1,11 @@
+{"pattern": "[X] Bh\u00ed aired dt\u00fas ar [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] Is \u00e9 a t\u00fas ar [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] Is \u00e9 a t\u00fas [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debuted [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debuted on [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "an t\u00fas [Y] de [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "an scaoileadh [Y] [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] scaoileadh ar [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] scaoileadh [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] ar taispe\u00e1int ar [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] den ch\u00e9ad uair ar [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

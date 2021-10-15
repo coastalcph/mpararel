@@ -1,0 +1,8 @@
+{"pattern": "[X] suona [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] suona il [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] suona la [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] suona [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] suona il [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] suona la [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] \u00e8 un [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "[X] \u00e8 [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

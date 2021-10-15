@@ -1,0 +1,13 @@
+{"pattern": "[X] te f\u00e8t nan [Y].", "lemma": "born", "extended_lemma": "born-in", "tense": "past"}
+{"pattern": "[X] se orijinal soti nan [y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "present"}
+{"pattern": "[X] te orijin\u00e8lman soti nan [y].", "lemma": "from", "extended_lemma": "is-originally-from", "tense": "past"}
+{"pattern": "[X] se natif natal nan [y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "present"}
+{"pattern": "[X] te natif natal nan [y].", "lemma": "native", "extended_lemma": "is-native-to", "tense": "past"}
+{"pattern": "[X] soti nan [y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "past"}
+{"pattern": "[X] Prake soti nan [Y].", "lemma": "originate", "extended_lemma": "originate-from", "tense": "present"}
+{"pattern": "[X] se te yon moun [Y] -Born.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] se te yon moun [y] -born.", "lemma": "born", "extended_lemma": "born", "tense": "past"}
+{"pattern": "[X] se yon moun [Y] -Born.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X] se yon moun ki [y] -born.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], yon moun [y] -born.", "lemma": "born", "extended_lemma": "born", "tense": "present"}
+{"pattern": "[X], yon moun [Y] -Born.", "lemma": "born", "extended_lemma": "born", "tense": "present"}

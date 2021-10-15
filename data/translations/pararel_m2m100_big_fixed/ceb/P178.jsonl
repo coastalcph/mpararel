@@ -1,0 +1,16 @@
+{"pattern": "(Ang Pinadayag :) Apan gilupig sila ug wala nay dapit pa alang kanila didto sa langit.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "(Ang Pinadayag :) Apan gilupig sila ug wala nay dapit pa alang kanila didto sa langit.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "(Ang Pinadayag :) Apan gilupig sila ug wala nay dapit pa alang kanila didto sa langit.", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "(Ang Pinadayag :) Apan gilupig sila; ug wala nay dapit pa alang kanila didto sa langit.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "(Ang Pinadayag :) Apan gilupig sila; ug wala nay dapit pa alang kanila didto sa langit", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "(Ang Pinadayag :) Apan gilupig sila; ug wala nay dapit pa alang kanila didto sa langit", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "(Ang Pinadayag :) Apan gilupig sila ug wala nay dapit pa alang kanila didto sa langit.", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "(Ang Pinadayag :) Apan gilupig sila ug wala nay dapit pa alang kanila didto sa langit.", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "(Ang Pinadayag :) Apan gilupig sila ug wala nay dapit pa alang kanila didto sa langit.", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "(Ang Pinadayag :) Apan gilupig sila; ug wala nay dapit pa alang kanila didto sa langit.", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], usa ka produkto nga gihimo sa [Y]", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], usa ka produkto nga gitukod sa [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "Ug kini nakapahimuot kaayo kang [X].", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "Oo, tug-anan ko kamo, ug labaw pa gani sa profeta.", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "Oo, tug-anan ko kamo, ug labaw pa gani sa profeta.", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "Ang yuta palibot sa [X]-ray kay lain-lain.", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

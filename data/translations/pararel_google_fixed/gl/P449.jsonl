@@ -1,0 +1,11 @@
+{"pattern": "[X] foi inicialmente emitido en [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] \u00e9 debutar en [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] \u00e9 debutar [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debut\u00f3 [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debut\u00f3 en [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "O debut [Y] de [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "a versi\u00f3n [Y] de [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] foi lanzado en [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] lanzou [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] estreouse [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] estr\u00e9ase en [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

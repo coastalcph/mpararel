@@ -1,0 +1,12 @@
+{"pattern": "[Y]\u00fcce Y\u00fcce Y\u00fcce Y\u00fcce Y\u00fcce", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X]\u2019in yarat\u0131l\u0131\u015f\u0131 ise,", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], taraf\u0131ndan geli\u015ftirilen [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X] taraf\u0131ndan \u00fcretilen ve", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "[Y]\u00fcce Allah taraf\u0131ndan yarat\u0131lm\u0131\u015ft\u0131r.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[Y]\u00fcce Y\u00fcce Y\u00fcce Yarat\u0131c\u0131", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X]\u2019in bir \u00fcr\u00fcn\u00fc vard\u0131r.", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X], bir \u00fcr\u00fcn i\u00e7in [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[Y]\u00fcce Y\u00fcce Y\u00fcce Yarat\u0131l\u0131\u015f", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], bir \u00fcr\u00fcn taraf\u0131ndan geli\u015ftirilen [Y],", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "[Y]\u00fcce Y\u00fcce Yarat\u0131c\u0131", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] ve onun \u00fcr\u00fcnleri [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

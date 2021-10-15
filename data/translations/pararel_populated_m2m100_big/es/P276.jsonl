@@ -1,0 +1,6 @@
+{"pattern": "[X] se encuentra en [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "La [X] se encuentra en [Y]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] est\u00e1 en [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] en [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "La [X] en [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
+{"pattern": "[X] se encuentra en [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}

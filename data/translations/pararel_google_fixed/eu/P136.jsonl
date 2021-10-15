@@ -1,0 +1,6 @@
+{"pattern": "[X] Plays [Y] musika.", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
+{"pattern": "[X], jotzen duena [Y] musika", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[X] antzezten du [Y]", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
+{"pattern": "[X], antzezten duena [Y].", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
+{"pattern": "[Y] musikariak [X].", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
+{"pattern": "[Y] [X] bezalako musikariak.", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

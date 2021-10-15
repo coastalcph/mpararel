@@ -1,0 +1,16 @@
+{"pattern": "[X]\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X]\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR", "lemma": "develop", "extended_lemma": "develop-by", "tense": "past"}
+{"pattern": "[X]\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X]\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "[X]\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR X\u018fB\u018fRL\u018fR", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
+{"pattern": "O, yarad\u0131c\u0131l\u0131qla ba\u011fl\u0131d\u0131r.", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "\u201c[X]\u201d is\u0259 \u201c[Y]\u201dd\u0259n ibar\u0259tdir.", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "\u201c[X]\u201d \u201cX\u201d \u201c[Y]\u201d \u201cY\u201d \u201cY\u201d \u201cY\u201d \u201cY\u201d \u201cY\u201d \u201cY\u201d \u201cY\u201d", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
+{"pattern": "\u201c[X]\u201d v\u0259 \u201c[Y]\u201d \u015firk\u0259tl\u0259ri", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "\u201c[X]\u201dnin yarad\u0131c\u0131l\u0131\u011f\u0131n\u0131n bir hiss\u0259si", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X] v\u0259 [Y] t\u0259r\u0259find\u0259n istehsal edilmi\u015f bir \u00fcr\u0259k", "lemma": "product", "extended_lemma": "product-manufacture-by", "tense": "?"}
+{"pattern": "[X], bir \u00fcr\u0259k t\u0259r\u0259find\u0259n yarad\u0131lm\u0131\u015fd\u0131r [Y]", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "Bu bar\u0259d\u0259 \u201c[X]\u201d x\u0259b\u0259r verir.", "lemma": "developed", "extended_lemma": "that-develope", "tense": "past"}
+{"pattern": "O, yaratd\u0131qdan sonra", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}
+{"pattern": "\u201c[X]\u201din yarad\u0131c\u0131s\u0131", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "\u201c[X]\u201d v\u0259 \u201cX\u201d \u015firk\u0259tl\u0259ri", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

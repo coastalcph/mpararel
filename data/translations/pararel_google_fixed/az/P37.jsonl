@@ -1,0 +1,9 @@
+{"pattern": "[X] r\u0259smi dili [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] -in r\u0259smi dili [Y] dildir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] [X] r\u0259smi dilidir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[Y] dili [X] r\u0259smi dilidir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X], [Y] r\u0259smi dildir.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
+{"pattern": "R\u0259smi olaraq, [Y] [X] dilidir.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
+{"pattern": "[X] -d\u0259 qanun [Y] r\u0259smi dil elan edir.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
+{"pattern": "[X] -d\u0259 qanun [Y] r\u0259smi dil olaraq t\u0259yin edir.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
+{"pattern": "[X] -d\u0259 qanun [Y] dilini r\u0259smi dil olaraq t\u0259yin edir.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

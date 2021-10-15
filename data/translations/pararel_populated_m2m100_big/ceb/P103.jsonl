@@ -1,0 +1,20 @@
+{"pattern": "Ang [X] mao ang [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Ang ngalan sa [X] mao ang [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Ang pinulongan ni [X] mao ang [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Ang native language sa [X] mao ang [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Ang pinulongan [X] mao ang [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Ang matanga [X] mao ang [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "Ang matanga ni [X] mao ang [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "Ang [X] mao ang [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "Ang matanga sa [X] mao ang [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "Ang [Y] mao ang native language ni [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "Ang [Y] mao ang native language [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] mao ang native language ni [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] mao ang native language [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "Ang [Y] mao ang native language sa [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] mao ang native language sa [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] mao ang [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "Ang [Y] mao ang [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "Ang [Y] mao ang mother tongue [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "[Y] mao ang mother tongue sa [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
+{"pattern": "Ang [Y] mao ang mother tongue sa [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

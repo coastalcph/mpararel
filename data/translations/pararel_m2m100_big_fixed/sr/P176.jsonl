@@ -1,0 +1,12 @@
+{"pattern": "[X] \u0458\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d \u043e\u0434 [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "present"}
+{"pattern": "[X] \u0458\u0435 \u0440\u0430\u0437\u0432\u0438\u0458\u0435\u043d \u043e\u0434 \u0441\u0442\u0440\u0430\u043d\u0435 [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "present"}
+{"pattern": "[X], \u0440\u0430\u0437\u0432\u0438\u0458\u0435\u043d \u043e\u0434 \u0441\u0442\u0440\u0430\u043d\u0435 [Y]", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
+{"pattern": "[X], \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d \u043e\u0434 \u0441\u0442\u0440\u0430\u043d\u0435 [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
+{"pattern": "On je stvoren od Allaha.", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
+{"pattern": "i stvaranje od njega,", "lemma": "create", "extended_lemma": "create-by", "tense": "?"}
+{"pattern": "[X] \u0458\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434 \u043e\u0434 [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
+{"pattern": "[X] \u0458\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434 \u043e\u0434 [Y]", "lemma": "product", "extended_lemma": "product-of", "tense": "?"}
+{"pattern": "[X], \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434 \u043a\u043e\u0458\u0438 \u0458\u0435 \u0441\u0442\u0432\u043e\u0440\u0438\u043e [Y],", "lemma": "product", "extended_lemma": "product-release-by", "tense": "?"}
+{"pattern": "[X], \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434 \u043a\u043e\u0458\u0438 \u0458\u0435 \u0440\u0430\u0437\u0432\u0438\u043e [Y],", "lemma": "product", "extended_lemma": "product-develope-by", "tense": "?"}
+{"pattern": "i stvarao je,", "lemma": "creator", "extended_lemma": "creator-of", "tense": "?"}
+{"pattern": "[Y] \u0438 \u045a\u0435\u0433\u043e\u0432 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434 [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

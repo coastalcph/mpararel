@@ -1,0 +1,6 @@
+{"pattern": "[X] het [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] is een volger van [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] is een volger van het [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[X] is een volgeling van [Y]", "lemma": "follower", "extended_lemma": "follower", "tense": "present"}
+{"pattern": "[Y] is de offici\u00eble religie van [X]", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}
+{"pattern": "[Y] is [X] offici\u00eble religie.", "lemma": "official-religion", "extended_lemma": "official-religion", "tense": "present"}

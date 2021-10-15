@@ -1,0 +1,17 @@
+{"pattern": "De [X] huet [Y] gespielt.", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] huet [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] huet de [Y] gespielt.", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "[X] huet [Y] gespielt.", "lemma": "play", "extended_lemma": "play", "tense": "present"}
+{"pattern": "De [X] huet [Y] gespielt.", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "De [X] de [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] huet [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] huet de [Y] gespielt.", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] de [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] huet [Y] gespielt.", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
+{"pattern": "[X] ass [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "[X] ass en [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "De [X] ass e [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "[X] ass e [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "De [X] ass [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "De [X] ass [Y] Spiller.", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
+{"pattern": "[X] ass [Y] Spiller.", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

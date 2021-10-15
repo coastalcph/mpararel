@@ -1,0 +1,20 @@
+{"pattern": "Lo nom d'aqueth nom es [X]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "Se n'an\u00e8t lo nom d'aqueth nom,", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "Lo nom d'aqueth nom es [X]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "Lo nom d'aqueth nom es [X]", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "Lo nom de l'afar (o de l'afar) es lo nom d'afar.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
+{"pattern": "Lo nom de l'afar (o de l'afar) es lo nom de l'afar.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
+{"pattern": "Lo nom d'aqueth nom es :", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "present"}
+{"pattern": "Lo nom d'aqueth nom es [X].", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "past"}
+{"pattern": "Lo nom de la t\u00e8rra,", "lemma": "is-name-for", "extended_lemma": "is-name-for", "tense": "?"}
+{"pattern": "Lo nom de la t\u00e8rra (o de la t\u00e8rra)", "lemma": "name-after", "extended_lemma": "name-after", "tense": "?"}
+{"pattern": "[X] es lo nom de [Y] dins l'onor de [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "[X] fogu\u00e8t nomenat en onor de [Y].", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "Lo nom de l'\u00f2me (o de l'\u00f2me)", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "?"}
+{"pattern": "Lo nom d'aqueth nom es (o es) lo nom d'aquel nom.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "present"}
+{"pattern": "Lo nom d'aqueth nom es [X] lo nom de la t\u00e8rra.", "lemma": "is-name-in-honor", "extended_lemma": "is-name-in-honor", "tense": "past"}
+{"pattern": "Se vol\u00e8tz pas o cridar,", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Se vol\u00e8tz pas o cridar,", "lemma": "is-call-after", "extended_lemma": "is-nacallme-after", "tense": "past"}
+{"pattern": "Que v\u00e0dem vielhs e que p\u00e8rdem lo crin ;", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
+{"pattern": "Que v\u00e0dem vielhs e que p\u00e8rdem lo crin ;", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "past"}
+{"pattern": "Se n'an\u00e8t a cridar,", "lemma": "call-after", "extended_lemma": "call-after", "tense": "?"}

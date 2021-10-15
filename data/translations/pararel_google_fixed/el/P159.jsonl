@@ -1,0 +1,10 @@
+{"pattern": "\u0397 \u03ad\u03b4\u03c1\u03b1 \u03c4\u03bf\u03c5 [X] \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03b5 [Y].", "lemma": "headquarter", "extended_lemma": "headquarter", "tense": "present"}
+{"pattern": "\u0397 \u03ad\u03b4\u03c1\u03b1 \u03c4\u03bf\u03c5 [X] \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03b5 [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "\u0397 \u03ad\u03b4\u03c1\u03b1 \u03c4\u03bf\u03c5 [X] \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf [Y].", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
+{"pattern": "[Y] \u03c0\u03b5\u03c1\u03b9\u03ad\u03c7\u03b5\u03b9 \u03c4\u03b7\u03bd \u03ad\u03b4\u03c1\u03b1 \u03c4\u03bf\u03c5 [X].", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
+{"pattern": "[X] \u03ad\u03c7\u03b5\u03b9 \u03c4\u03b7\u03bd \u03ad\u03b4\u03c1\u03b1 \u03c4\u03bf\u03c5 [Y].", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
+{"pattern": "[Y] \u03ad\u03c7\u03b5\u03b9 \u03c4\u03b7\u03bd \u03ad\u03b4\u03c1\u03b1 \u03c4\u03bf\u03c5 [X].", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
+{"pattern": "\u03a4\u03b1 \u03ba\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ac \u03b3\u03c1\u03b1\u03c6\u03b5\u03af\u03b1 [X] \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c4\u03bf [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[X], \u03c4\u03b7\u03c2 \u03bf\u03c0\u03bf\u03af\u03b1\u03c2 \u03b7 \u03ad\u03b4\u03c1\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c4\u03bf [Y].", "lemma": "headquarters", "extended_lemma": "headquarters-in", "tense": "present"}
+{"pattern": "[Y] \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03c3\u03c0\u03af\u03c4\u03b9 \u03c3\u03c4\u03bf [X].", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
+{"pattern": "[X] \u03b2\u03b1\u03c3\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf [Y].", "lemma": "based", "extended_lemma": "based-in", "tense": "present"}

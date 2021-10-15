@@ -1,0 +1,11 @@
+{"pattern": "[X] \u1e63i\u1e63\u1eb9 fun [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
+{"pattern": "[X] ti o \u1e63i\u1e63\u1eb9 fun [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
+{"pattern": "[X] j\u1eb9 [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] ti [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] ni a \u1e63i\u1e63\u1eb9 [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] nipas\u1eb9 [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
+{"pattern": "[X] ti [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] ti o ti \u1e63i\u1e63\u1eb9 [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] ti o ti \u1e63i\u1e63\u1eb9 nipas\u1eb9 [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] eyi ti o ti \u1e63i\u1e63\u1eb9 [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
+{"pattern": "[X] eyi ti o ti \u1e63i\u1e63\u1eb9 nipa [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

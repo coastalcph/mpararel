@@ -1,0 +1,35 @@
+{"pattern": "[X] ay inilathala mula sa [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "Ang [X] ay inilathala mula sa [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "Ang [X] ay nagsisimula sa [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] ay upang debut sa [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] ay nagsimula sa [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "Ang [Y] ay nagsimula sa [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] ay nagsimula [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] ay [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "Ang [Y] ay [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] ng [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "Ang [Y] sa [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] sa [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "Ipinanganak ng [Y] ang [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] ng [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[Y] ay nagsimula [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "Ang [X] debuted sa [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "[X] debuted sa [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "ang [Y] debut ng [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "ang [Y] ng [X]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "ang [Y] release ng [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "ang [Y] ng [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "Ang [X] ay inilabas sa [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] ay inilabas sa [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] ng [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] ay [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[Y] ang [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] sa [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] nagsimula sa [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "Ang [X] sa [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] sa [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}
+{"pattern": "[X] ay nagsimula sa [Y]", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

@@ -1,0 +1,4 @@
+{"pattern": "Die oulike taal van [X] is [Y].", "lemma": "native", "extended_lemma": "native", "tense": "present"}
+{"pattern": "Die moedertaal van [X] is [Y].", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
+{"pattern": "[Y] is [X] se eie taal.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
+{"pattern": "[Y] is [X] se moedertaal.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
