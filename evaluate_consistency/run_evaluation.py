@@ -4,12 +4,14 @@ python evaluate_consistency/run_evaluation.py \
     --predictions_folder=$WORKDIR/data/mpararel_predictions/mbert_cased_wrong
 """
 import argparse
-import wandb
-import json
-from logger_utils import get_logger
-import os
 import collections
+import json
+import os
+
+import numpy as np
 import tqdm
+import wandb
+from logger_utils import get_logger
 
 LOG = get_logger(__name__)
 
@@ -62,9 +64,14 @@ def main(args):
     english_metrics = list(language_to_metrics["en"].items())
     for metric, en_value in english_metrics:
         wandb.run.summary[f"en - {metric}"] = en_value
+        r_metric = []
         for lang in language_to_metrics.keys():
             language_to_metrics[lang]["r-" + metric] = (
                 language_to_metrics[lang][metric] / (en_value + 1e-13))
+            r_metric.append(language_to_metrics[lang]["r-" + metric])
+        wandb.run.summary["min r-" + metric] = min(r_metric)
+        wandb.run.summary["max r-" + metric] = max(r_metric)
+        wandb.run.summary["avg r-" + metric] = np.average(np.array(r_metric))
     for metric in language_to_metrics[language].keys():
         data = [(l, language_to_metrics[l][metric])
                 for l in language_to_metrics.keys()]
