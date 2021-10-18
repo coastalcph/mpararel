@@ -4,17 +4,20 @@ It only creates the spreadsheet that have not been created before. To check this
 it uses the worksheet where the links of the generated spreadsheets are added.
 
 python dataset/crowdsourcing/generate_all_sheets.py \
-    --mpararel_folder=$WORKDIR/data/mpararel_00_00_06_02_logging \
+    --mpararel_folder=$WORKDIR/data/mpararel_no_populated_with_chinese \
     --pararel_patterns_folder=$WORKDIR/data/pararel/pattern_data/graphs_json \
     --language_mapping_file=$WORKDIR/dataset/languages_mapping.txt
 """
 import argparse
+
 import gspread
-from oauth2client.service_account import ServiceAccountCredentials
-from dataset.crowdsourcing.generate_sheet import SCOPES, REVIEWERS_SHEET, CREDENTIALS_PATH
-from dataset.crowdsourcing.generate_sheet import main as generate_sheet
+import numpy as np
 import pandas as pd
+from dataset.crowdsourcing.generate_sheet import (CREDENTIALS_PATH,
+                                                  REVIEWERS_SHEET, SCOPES)
+from dataset.crowdsourcing.generate_sheet import main as generate_sheet
 from logger_utils import get_logger
+from oauth2client.service_account import ServiceAccountCredentials
 
 LOG = get_logger(__name__)
 
@@ -35,7 +38,7 @@ def main(args):
 
     # Read already created spreadsheets.
     created_sheets = reviewers_sheet.worksheet("Reviewers spreadsheets")
-    created_sheets = created_sheets.get_all_values()[1:]
+    created_sheets = np.array(created_sheets.get_all_values())[1:, 0:4]
     created_sheets = set([
         lang_code + name + mail for lang_code, name, mail, _ in created_sheets
     ])

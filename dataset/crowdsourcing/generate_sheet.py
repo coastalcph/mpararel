@@ -1,7 +1,7 @@
 """Script to create a spreedsheet for review.
 
 python dataset/crowdsourcing/generate_sheet.py \
-    --mpararel_folder=$WORKDIR/data/mpararel_00_00_06_02_logging \
+    --mpararel_folder=$WORKDIR/data/mpararel_no_populated_with_chinese \
     --pararel_patterns_folder=$WORKDIR/data/pararel/pattern_data/graphs_json \
     --reviewer_name="constanza" --reviewer_mail="my_mail@gmail.com" \
     --language_code="es"
