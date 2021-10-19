@@ -88,9 +88,10 @@ class GenerateTemplateTupleExamples():
                     max_tokens_count = max(max_tokens_count, len(tokens))
                 for template in self.get_templates(language, relation):
                     for tuple in self.get_tuples(language, relation):
+                        tuple_key = f"{tuple[SUBJECT_KEY]}-{tuple[OBJECT_KEY]}"
                         if (hasattr(self, 'existing_predictions')
-                                and tuple in self.existing_predictions and
-                                template in self.existing_predictions[tuple]):
+                                and tuple_key in self.existing_predictions and template
+                                in self.existing_predictions[tuple_key]):
                             continue
                         for masks_count in tokens_count_to_obj_to_ids.keys():
                             inputs.append(
@@ -176,7 +177,8 @@ def write_predictions(results, output_folder, path_to_existing_predictions):
 
 
 def init_wandb(args):
-    wandb.init(project="mpararel-get-predictions", name=args.model_name)
+    wandb.init(project="mpararel-get-predictions",
+               name=os.path.basename(args.output_folder))
     wandb.config.update(args)
 
 
