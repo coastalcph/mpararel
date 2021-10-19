@@ -14,6 +14,7 @@ python dataset/create_mpararel.py \
 	--wandb_run_name <run_name>
 """
 import argparse
+import traceback
 import json
 import os
 from collections import defaultdict
@@ -24,7 +25,7 @@ import wandb
 from logger_utils import get_logger
 from tqdm import tqdm
 
-from dataset.cleanup import clean_template
+from dataset.cleanup import clean_template, VALID_RELATIONS
 
 LOG = get_logger(__name__)
 
@@ -144,9 +145,10 @@ def add_mlama(df, agreed_translations, mlama_folder):
         with open(os.path.join(mlama_folder, lang, "templates.jsonl")) as f:
             for line in f:
                 read_line = json.loads(line)
-                if not read_line["relation"].startswith("P"):
-                    continue
                 relation = read_line["relation"]
+                if (not relation.startswith("P")
+                        or relation not in VALID_RELATIONS):
+                    continue
                 mlama_template = clean_template(read_line["template"])
                 lang_relation_templates = set(
                     [t for t, _ in agreed_translations[lang][relation]])
@@ -179,8 +181,15 @@ def add_ratio_column(df, count_column, base_lang="en"):
     en_total = df[df['language'] == base_lang][count_column].values
     df[new_column_name] = -1
     for language in df['language'].unique():
-        df.loc[df['language'] == language, new_column_name] = (
-            df[df['language'] == language][count_column] / en_total)
+        try:
+            df.loc[df['language'] == language, new_column_name] = (
+                df[df['language'] == language][count_column] / en_total)
+        except Exception as e:
+            LOG.debug("num. relations in en {len(en_total)}")
+            LOG.debug(f"num. relations in {language} "
+                      "{len(df[df['language'] == language][count_column])}")
+            print(traceback.format_exc())
+            raise (e)
 
 
 def get_language_and_relations_count(valid_df):
@@ -330,12 +339,11 @@ def main():
         type=str,
         required=True,
         help="The path to the folder with the pararel json patterns.")
-    parser.add_argument(
-        "--mlama_folder",
-        default=None,
-        type=str,
-        required=True,
-        help="")
+    parser.add_argument("--mlama_folder",
+                        default=None,
+                        type=str,
+                        required=True,
+                        help="")
     parser.add_argument(
         "--min_templates_per_relation",
         type=float,
@@ -392,7 +400,7 @@ def main():
     agreed_translations, df = add_english_stats(df, agreed_translations,
                                                 args.pararel_patterns_folder)
     agreed_translations, df = add_mlama(df, agreed_translations,
-                                                args.mlama_folder)
+                                        args.mlama_folder)
 
     df = add_tuples_counts(df, args.tuples_folder)
     df["phrases_count"] = df["agreed_templates_count"] * df["tuples_count"]
