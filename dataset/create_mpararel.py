@@ -5,6 +5,7 @@ python dataset/create_mpararel.py \
 	--translations_folders_glob=${WORKDIR}/data/cleaned_mtrex_and_mpatterns/patterns/* \
 	--tuples_folder ${WORKDIR}/data/cleaned_mtrex_and_mpatterns/tuples \
     --pararel_patterns_folder=$WORKDIR/data/pararel/pattern_data/graphs_json \
+    --mlama_folder=$WORKDIR/data/mlama1.1 \
 	--min_templates_per_relation 0.0 \
 	--min_phrases_per_relation 0.0 \
 	--min_relations_count 0.6 \
@@ -330,6 +331,12 @@ def main():
         required=True,
         help="The path to the folder with the pararel json patterns.")
     parser.add_argument(
+        "--mlama_folder",
+        default=None,
+        type=str,
+        required=True,
+        help="")
+    parser.add_argument(
         "--min_templates_per_relation",
         type=float,
         default=0.0,
@@ -384,6 +391,8 @@ def main():
 
     agreed_translations, df = add_english_stats(df, agreed_translations,
                                                 args.pararel_patterns_folder)
+    agreed_translations, df = add_mlama(df, agreed_translations,
+                                                args.mlama_folder)
 
     df = add_tuples_counts(df, args.tuples_folder)
     df["phrases_count"] = df["agreed_templates_count"] * df["tuples_count"]
