@@ -1,9 +1,11 @@
 """Queries the model and saves the predictions.
 
 python evaluate_consistency/get_model_predictions.py \
-    --mpararel_folder=$WORKDIR/data/mpararel_00_00_06_02_logging \
+    --mpararel_folder=$WORKDIR/data/mpararel_with_mlama \
     --model_name="bert-base-multilingual-cased" --batch_size=32 \
-    --output_folder=$WORKDIR/data/mpararel_predictions/mbert_cased
+    --output_folder=$WORKDIR/data/mpararel_predictions/mbert_cased_with_mlama \
+    --path_to_existing_predictions=$WORKDIR/data/mpararel_predictions/mbert_cased \
+    --cpus 10
 
 """
 import argparse
@@ -49,6 +51,16 @@ class GenerateTemplateTupleExamples():
         self.get_templates = get_templates
         self.get_tuples = get_tuples
 
+    def load_existing_predictions(self, path):
+        self.existing_predictions = defaultdict(set)
+        for lang in os.listdir(path):
+            for relation in os.listdir(os.path.join(path, lang)):
+                with open(os.path.join(path, lang, relation)) as f:
+                    tuple_to_predictions = json.load(f)
+                    for tuple, predictions in tuple_to_predictions.items():
+                        for template, _, _ in predictions:
+                            self.existing_predictions[tuple].add(template)
+
     def __iter__(self):
         """Yields the encoded batch, the indices of the masks, and the target.
 
@@ -76,6 +88,10 @@ class GenerateTemplateTupleExamples():
                     max_tokens_count = max(max_tokens_count, len(tokens))
                 for template in self.get_templates(language, relation):
                     for tuple in self.get_tuples(language, relation):
+                        if (hasattr(self, 'existing_predictions')
+                                and tuple in self.existing_predictions and
+                                template in self.existing_predictions[tuple]):
+                            continue
                         for masks_count in tokens_count_to_obj_to_ids.keys():
                             inputs.append(
                                 get_populated_template(
@@ -134,10 +150,26 @@ def get_candidates_probabilities(logits_i, mask_indexes_i,
     return candidates_to_prob
 
 
-def write_predictions(results, output_folder):
+def write_predictions(results, output_folder, path_to_existing_predictions):
     for language, relation_to_predictions in results.items():
         os.makedirs(os.path.join(output_folder, language), exist_ok=True)
         for relation, tuple_to_predictions in relation_to_predictions.items():
+            if path_to_existing_predictions and os.path.isfile(
+                    os.path.join(path_to_existing_predictions, language,
+                                 relation)):
+                with open(
+                        os.path.join(path_to_existing_predictions, language,
+                                     relation)) as existing_f:
+                    existing_tuple_to_predictions = json.load(existing_f)
+                    for tuple, predictions in existing_tuple_to_predictions.items(
+                    ):
+                        if tuple in tuple_to_predictions:
+                            # We assumed only new templates are in
+                            # tuple_to_predictions, so we can safely merge the
+                            # predictions knowing there will be no duplicates.
+                            tuple_to_predictions[tuple].append(predictions)
+                        else:
+                            tuple_to_predictions[tuple] = predictions
             filename = os.path.join(output_folder, language, relation)
             with open(filename, 'w') as f:
                 json.dump(tuple_to_predictions, f)
@@ -179,6 +211,9 @@ def main(args):
     template_tuple_examples = GenerateTemplateTupleExamples(
         tokenizer, languages, relations, get_candidates, get_templates,
         get_tuples)
+    if args.path_to_existing_predictions:
+        template_tuple_examples.load_existing_predictions(
+            args.path_to_existing_predictions)
     model_queries_count = 0
     for template_tuple_i, (inputs, candidates_to_ids,
                            this_template_tuple) in enumerate(
@@ -237,7 +272,8 @@ def main(args):
     processes_pool.join()
     wandb.run.summary["#model_queries"] = model_queries_count
     wandb.run.summary["#template_tuple_examples"] = template_tuple_i
-    write_predictions(tuples_predictions, args.output_folder)
+    write_predictions(tuples_predictions, args.output_folder,
+                      args.path_to_existing_predictions)
 
 
 def create_parser():
@@ -262,11 +298,17 @@ def create_parser():
                         type=int,
                         required=True,
                         help="")
+    parser.add_argument(
+        "--path_to_existing_predictions",
+        default=None,
+        type=str,
+        help="If this is provided then the sentences for which there's already"
+        " a prediction are skipped.")
     parser.add_argument("--output_folder",
                         default=None,
                         type=str,
                         required=True,
-                        help="")
+                        help="Where to write the predictions.")
     parser.add_argument("--device", default="cpu", type=str, help="")
     return parser
 
