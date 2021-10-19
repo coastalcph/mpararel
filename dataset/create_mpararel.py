@@ -14,18 +14,20 @@ python dataset/create_mpararel.py \
 	--wandb_run_name <run_name>
 """
 import argparse
-import traceback
 import json
 import os
+import traceback
 from collections import defaultdict
 from glob import glob
 
+import nltk
+import numpy as np
 import pandas as pd
 import wandb
 from logger_utils import get_logger
 from tqdm import tqdm
 
-from dataset.cleanup import clean_template, VALID_RELATIONS
+from dataset.cleanup import VALID_RELATIONS, clean_template
 
 LOG = get_logger(__name__)
 
@@ -243,20 +245,26 @@ def write_mpararel(df_valid, agreed_translations, out_folder):
 def log_statistics(df_valid, agreed_translations):
     df_data = []
     translators_count_to_patterns_count = defaultdict(int)
+    language_to_string_distance = {}
     for language in df_valid.language.unique():
+        string_distances = []
         for relation in df_valid[df_valid.language ==
                                  language].relation.unique():
-            templates = []
             for template, translators in agreed_translations[language][
                     relation]:
-                templates.append(template)
                 translators_count = len([
                     t for t in translators
                     if not t.endswith(DOUBLE_VOTE_KEYWORD)
                 ])
                 translators_count_to_patterns_count[translators_count] += 1
-            #TODO: add syntactic and lexical variation.
-            df_data.append((language, relation, len(templates)))
+                #TODO: add syntactic and lexical variation.
+                for template_j, _ in agreed_translations[language][relation]:
+                    if template != template_j:
+                        string_distances.append(
+                            nltk.edit_distance(template, template_j))
+            df_data.append((language, relation,
+                            len(agreed_translations[language][relation])))
+        language_to_string_distance[language] = np.average(string_distances)
 
     # Log statistics of the number of translators.
     wandb.log({
@@ -268,7 +276,7 @@ def log_statistics(df_valid, agreed_translations):
             "#patterns",
             title="Number of patterns that were agreed by X translators")
     })
-    # Log statistics about #patterns in each relation.
+    # Log statistics about #patterns in the relations.
     df = pd.DataFrame(df_data, columns=["lang", "relation", "count_patterns"])
     wandb.run.summary["min #patterns in a relation"] = df[
         "count_patterns"].min()
@@ -276,6 +284,21 @@ def log_statistics(df_valid, agreed_translations):
         "count_patterns"].max()
     wandb.run.summary["avg #patterns in a relation"] = df[
         "count_patterns"].mean()
+
+    # Log statistics about the variability of the patterns for each language.
+    wandb.run.summary["string distance (avg)"] = np.average(
+        list(language_to_string_distance.values()))
+    wandb.run.summary[
+        "en string distance (avg)"] = language_to_string_distance["en"]
+    wandb.log({
+        "string-distance-by-language":
+        wandb.plot.bar(wandb.Table(data=list(
+            language_to_string_distance.items()),
+                                   columns=["language", "string distance"]),
+                       "language",
+                       "string distance",
+                       title="String distance by language")
+    })
 
     # Log statistics per language.
     data = []
@@ -440,27 +463,12 @@ def main():
         "total phrases")
     valid_languages = enough_relations_langs.intersection(enough_phrases_langs)
     valid_df = valid_df[valid_df["language"].isin(valid_languages)]
-    summary = {
-        "#templates translated across all languages":
-        len(df),
-        "(1) #templates with minimum #templates per relation":
-        len(enough_templates_df),
-        "(2) #templates with minimum #phrases per relation and (1)":
-        len(valid_df),
-        "(3) #languages with minimum #relations and (2)":
-        len(enough_relations_langs),
-        "(4) #languages with minimum total #phrases and (2)":
-        len(enough_phrases_langs),
-        "valid #languages [(3) and (4)]":
-        len(valid_languages)
-    }
-    for k, v in summary.items():
-        wandb.run.summary[k] = v
     LOG.info("The valid languages are: {}".format(valid_languages))
+    wandb.run.summary["valid #languages"] = len(valid_languages)
     LOG.info("Writing valid languages data to the output folder.")
-    # Write mpararel.
     write_mpararel(valid_df[['language', 'relation']], agreed_translations,
                    args.out_folder)
+    LOG.info("Computing and logging statistics.")
     log_statistics(valid_df[['language', 'relation']], agreed_translations)
 
 
