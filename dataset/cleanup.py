@@ -25,9 +25,8 @@ def is_template_valid(template):
             and not re.match(r'^[\b\[X\]\b\b\[Y\]\b., ]+$', template))
 
 
-def clean_template(data):
-    """Cleans the pattern and keeps only relevant keys."""
-    template = data["pattern"].lower()
+def clean_template(template):
+    template = template.lower()
     # Remove extra spaces and extra brackets from the subject/object and
     # capitalize them.
     template = re.sub('\[+ ?[x] ?\]+', '[X]', template)
@@ -37,7 +36,12 @@ def clean_template(data):
     # Remove extra spaces
     template = re.sub(r' +', ' ', template)
     template = re.sub(r' $', '', template)
-    data["pattern"] = template
+    return template
+
+
+def clean_template_line(data):
+    """Cleans the pattern and keeps only relevant keys."""
+    data["pattern"] = clean_template(data["pattern"])
     return data
 
 
@@ -47,8 +51,8 @@ def get_cleaned_valid_templates(templates_lines):
     patterns = set()
     for line in templates_lines:
         if (is_template_valid(line["pattern"])
-                and clean_template(line)["pattern"] not in patterns):
-            clean_templates_lines.append(clean_template(line))
+                and clean_template_line(line)["pattern"] not in patterns):
+            clean_templates_lines.append(clean_template_line(line))
             patterns.add(line["pattern"])
     return clean_templates_lines
 

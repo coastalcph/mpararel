@@ -17,11 +17,13 @@ import json
 import os
 from collections import defaultdict
 from glob import glob
-import wandb
 
 import pandas as pd
+import wandb
 from logger_utils import get_logger
 from tqdm import tqdm
+
+from dataset.cleanup import clean_template
 
 LOG = get_logger(__name__)
 
@@ -108,7 +110,8 @@ def add_tuples_counts(df, tuples_folder):
 
 
 def add_english_stats(df, agreed_translations, pararel_patterns_folder):
-    # 'language', 'relation', 'agreed_templates_count', 'translators_count'
+    # This list contains the columns: 'language', 'relation',
+    # 'agreed_templates_count', 'translators_count'.
     en_columns = []
     for relation_file in os.listdir(pararel_patterns_folder):
         relation = relation_file[:-len(".jsonl")]
@@ -117,7 +120,7 @@ def add_english_stats(df, agreed_translations, pararel_patterns_folder):
             for line in pararel_patterns:
                 json_dict = json.loads(line)
                 agreed_translations["en"][relation].append(
-                    (json_dict["pattern"], []))
+                    (clean_template(json_dict["pattern"]), []))
             if len(agreed_translations["en"][relation]) == 1:
                 agreed_translations["en"].pop(relation)
                 continue
@@ -129,6 +132,44 @@ def add_english_stats(df, agreed_translations, pararel_patterns_folder):
                              'translators_count'
                          ])
     return agreed_translations, pd.concat([df, en_df])
+
+
+def add_mlama(df, agreed_translations, mlama_folder):
+    mlama_columns = []
+    LOG.info("Adding mlama templates")
+    for lang in tqdm(os.listdir(mlama_folder)):
+        if not os.path.isdir(os.path.join(mlama_folder, lang)):
+            continue
+        with open(os.path.join(mlama_folder, lang, "templates.jsonl")) as f:
+            for line in f:
+                read_line = json.loads(line)
+                if not read_line["relation"].startswith("P"):
+                    continue
+                relation = read_line["relation"]
+                mlama_template = clean_template(read_line["template"])
+                lang_relation_templates = set(
+                    [t for t, _ in agreed_translations[lang][relation]])
+                if mlama_template in lang_relation_templates:
+                    continue
+                agreed_translations[lang][relation].append(
+                    (mlama_template, {}))
+                existing_value = df.loc[(df['language'] == lang) &
+                                        (df['relation'] == relation),
+                                        'agreed_templates_count'].values
+                if len(existing_value) > 0:
+                    df.loc[(df['language'] == lang) &
+                           (df['relation'] == relation),
+                           'agreed_templates_count'] = existing_value[0] + 1
+                else:
+                    mlama_columns.append(
+                        (lang, relation,
+                         len(agreed_translations[lang][relation]), 1))
+    mlama_df = pd.DataFrame(mlama_columns,
+                            columns=[
+                                'language', 'relation',
+                                'agreed_templates_count', 'translators_count'
+                            ])
+    return agreed_translations, pd.concat([df, mlama_df])
 
 
 def add_ratio_column(df, count_column, base_lang="en"):
