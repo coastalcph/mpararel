@@ -2,6 +2,7 @@
 
 python evaluate_consistency/run_evaluation.py \
     --predictions_folder=$WORKDIR/data/mpararel_predictions/mbert_cased_wrong
+    --mlama_folder=$WORKDIR/data/mlama1.1 \
 """
 import argparse
 import collections
@@ -12,11 +13,12 @@ import numpy as np
 import tqdm
 import wandb
 from logger_utils import get_logger
+from dataset.create_mpararel import read_mlama
 
 LOG = get_logger(__name__)
 
 
-def compute_relation_metrics(tuple_to_prediction):
+def compute_relation_metrics(tuple_to_prediction, mlama_template):
     """Computes the metrics for one relation predictions."""
     metrics = collections.defaultdict(float)
     # Iterate over the tuples.
@@ -24,16 +26,21 @@ def compute_relation_metrics(tuple_to_prediction):
         consistency_count = 0.0
         accuracy_count = 0.0
         accuracy_consistency_count = 0.0
+        mlama_accuracy_count = 0.0
         # Iterate over the templates.
-        for i, (_, prediction_i, rank_of_correct_i) in enumerate(predictions):
+        for i, (template, prediction_i,
+                rank_of_correct_i) in enumerate(predictions):
             if rank_of_correct_i == "0":
                 accuracy_count += 1
+                if template == mlama_template:
+                    mlama_accuracy_count += 1
             for _, prediction_j, _ in predictions[i + 1:]:
                 if prediction_i == prediction_j:
                     consistency_count += 1
                     if rank_of_correct_i == "0":
                         accuracy_consistency_count += 1
         metrics["accuracy"] += accuracy_count / len(predictions)
+        metrics["mlama-accuracy"] += mlama_accuracy_count
         total_consistency_pairs = len(predictions) * (len(predictions) - 1) / 2
         metrics["consistency"] += consistency_count / total_consistency_pairs
         metrics["accuracy-consistency"] += (accuracy_consistency_count /
@@ -47,6 +54,7 @@ def main(args):
     wandb.init(project="mpararel-evaluate",
                name=os.path.basename(args.predictions_folder))
     wandb.config.update(args)
+    mlama = read_mlama(args.mlama_folder)
     language_to_metrics = collections.defaultdict(
         lambda: collections.defaultdict(float))
     for language in tqdm.tqdm(os.listdir(args.predictions_folder)):
@@ -55,8 +63,10 @@ def main(args):
         for relation_file in relations:
             with open(os.path.join(language_dir, relation_file)) as f:
                 tuple_to_prediction = json.load(f)
-                for metric_name, value in compute_relation_metrics(
-                        tuple_to_prediction).items():
+                metrics = compute_relation_metrics(
+                    tuple_to_prediction,
+                    mlama[language][relation_file[:-len(".jsonl")]])
+                for metric_name, value in metrics.items():
                     language_to_metrics[language][metric_name] += value
         # We take the macro average across the relations.
         for metric_name in language_to_metrics[language].keys():
@@ -88,6 +98,11 @@ def main(args):
 def create_parser():
     parser = argparse.ArgumentParser()
     parser.add_argument("--predictions_folder",
+                        default=None,
+                        type=str,
+                        required=True,
+                        help="")
+    parser.add_argument("--mlama_folder",
                         default=None,
                         type=str,
                         required=True,
