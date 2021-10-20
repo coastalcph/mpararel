@@ -7,6 +7,10 @@ python evaluate_consistency/get_model_predictions.py \
     --path_to_existing_predictions=$WORKDIR/data/mpararel_predictions/mbert_cased \
     --cpus 10
 
+
+TODO:
+    Add tests for the ranking, the writing of the file, and the dataloader.
+
 """
 import argparse
 import json
@@ -90,7 +94,8 @@ class GenerateTemplateTupleExamples():
                     for tuple in self.get_tuples(language, relation):
                         tuple_key = f"{tuple[SUBJECT_KEY]}-{tuple[OBJECT_KEY]}"
                         if (hasattr(self, 'existing_predictions')
-                                and tuple_key in self.existing_predictions and template
+                                and tuple_key in self.existing_predictions
+                                and template
                                 in self.existing_predictions[tuple_key]):
                             continue
                         for masks_count in tokens_count_to_obj_to_ids.keys():
@@ -154,7 +159,18 @@ def get_candidates_probabilities(logits_i, mask_indexes_i,
 def write_predictions(results, output_folder, path_to_existing_predictions):
     for language, relation_to_predictions in results.items():
         os.makedirs(os.path.join(output_folder, language), exist_ok=True)
-        for relation, tuple_to_predictions in relation_to_predictions.items():
+        existing_relations = []
+        if path_to_existing_predictions:
+            existing_relations = [
+                f[:-len(".jsonl")] for f in os.listdir(
+                    os.path.join(path_to_existing_predictions, language))
+            ]
+        relations = set(relation_to_predictions.keys()).update(
+            set(existing_relations))
+        for relation in relations:
+            # relation_to_predictions is a defaultdict so it'd be an empty list
+            # if there are no predictions for that relation.
+            tuple_to_predictions = relation_to_predictions[relation]
             if path_to_existing_predictions and os.path.isfile(
                     os.path.join(path_to_existing_predictions, language,
                                  relation)):
@@ -162,13 +178,13 @@ def write_predictions(results, output_folder, path_to_existing_predictions):
                         os.path.join(path_to_existing_predictions, language,
                                      relation)) as existing_f:
                     existing_tuple_to_predictions = json.load(existing_f)
-                    for tuple, predictions in existing_tuple_to_predictions.items(
-                    ):
+                    for (tuple,
+                         predictions) in existing_tuple_to_predictions.items():
                         if tuple in tuple_to_predictions:
                             # We assumed only new templates are in
                             # tuple_to_predictions, so we can safely merge the
                             # predictions knowing there will be no duplicates.
-                            tuple_to_predictions[tuple].append(predictions)
+                            tuple_to_predictions[tuple] += predictions
                         else:
                             tuple_to_predictions[tuple] = predictions
             filename = os.path.join(output_folder, language, relation)
