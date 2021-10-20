@@ -159,14 +159,11 @@ def get_candidates_probabilities(logits_i, mask_indexes_i,
 def write_predictions(results, output_folder, path_to_existing_predictions):
     for language, relation_to_predictions in results.items():
         os.makedirs(os.path.join(output_folder, language), exist_ok=True)
-        existing_relations = []
+        relations = set(relation_to_predictions.keys())
         if path_to_existing_predictions:
-            existing_relations = [
-                f[:-len(".jsonl")] for f in os.listdir(
-                    os.path.join(path_to_existing_predictions, language))
-            ]
-        relations = set(relation_to_predictions.keys()).update(
-            set(existing_relations))
+            existing_relations = os.listdir(
+                os.path.join(path_to_existing_predictions, language))
+            relations.update(set(existing_relations))
         for relation in relations:
             # relation_to_predictions is a defaultdict so it'd be an empty list
             # if there are no predictions for that relation.
