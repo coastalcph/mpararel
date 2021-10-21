@@ -3,7 +3,7 @@
 python evaluate_consistency/get_model_predictions.py \
     --mpararel_folder=$WORKDIR/data/mpararel_with_mlama \
     --model_name="bert-base-multilingual-cased" --batch_size=32 \
-    --output_folder=$WORKDIR/data/mpararel_predictions/mbert_cased_with_mlama \
+    --output_folder=$WORKDIR/data/mpararel_predictions/mbert_cased_with_mlama_2 \
     --path_to_existing_predictions=$WORKDIR/data/mpararel_predictions/mbert_cased \
     --cpus 10
 
@@ -56,14 +56,16 @@ class GenerateTemplateTupleExamples():
         self.get_tuples = get_tuples
 
     def load_existing_predictions(self, path):
-        self.existing_predictions = defaultdict(set)
+        self.existing_predictions = defaultdict(
+            lambda: defaultdict(lambda: defaultdict(set)))
         for lang in os.listdir(path):
             for relation in os.listdir(os.path.join(path, lang)):
                 with open(os.path.join(path, lang, relation)) as f:
                     tuple_to_predictions = json.load(f)
-                    for tuple, predictions in tuple_to_predictions.items():
+                    for tuple_, predictions in tuple_to_predictions.items():
                         for template, _, _ in predictions:
-                            self.existing_predictions[tuple].add(template)
+                            self.existing_predictions[lang][relation][
+                                tuple_].add(template)
 
     def __iter__(self):
         """Yields the encoded batch, the indices of the masks, and the target.
@@ -79,7 +81,7 @@ class GenerateTemplateTupleExamples():
             template_tuple: TemplateTuple
         """
         inputs, candidates_to_ids = [], []
-        for i, language in tqdm(enumerate(self.languages, 1)):
+        for language in tqdm(self.languages):
             for relation in self.relations:
                 tokens_count_to_obj_to_ids = defaultdict(
                     lambda: defaultdict(list))
@@ -91,12 +93,12 @@ class GenerateTemplateTupleExamples():
                         tokens)][candidate_obj] = ids
                     max_tokens_count = max(max_tokens_count, len(tokens))
                 for template in self.get_templates(language, relation):
-                    for tuple in self.get_tuples(language, relation):
+                    for i, tuple in enumerate(
+                            self.get_tuples(language, relation), 1):
                         tuple_key = f"{tuple[SUBJECT_KEY]}-{tuple[OBJECT_KEY]}"
-                        if (hasattr(self, 'existing_predictions')
-                                and tuple_key in self.existing_predictions
-                                and template
-                                in self.existing_predictions[tuple_key]):
+                        if (hasattr(self, 'existing_predictions') and template
+                                in self.existing_predictions[language]
+                            [relation][tuple_key]):
                             continue
                         for masks_count in tokens_count_to_obj_to_ids.keys():
                             inputs.append(

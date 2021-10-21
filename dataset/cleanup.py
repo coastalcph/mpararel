@@ -17,6 +17,7 @@ VALID_RELATIONS = set([
     'P37', 'P413', 'P27', 'P20', 'P190', 'P1303', 'P39', 'P108', 'P463',
     'P530', 'P47'
 ])
+CHINESE_CORRECTION = {'zh': 'zh-hans', 'zh-classical': 'zh-hant'}
 
 
 def is_template_valid(template):
@@ -87,6 +88,9 @@ def main():
         "translations of the templates. Each translation folder"
         " contains a folder by language, where there is a json "
         "file for each relation with the translated templates.")
+    parser.add_argument("--correct_chinese_wiki_code",
+                        default=False,
+                        action='store_true')
     parser.add_argument("--out_folder",
                         default=None,
                         type=str,
@@ -111,9 +115,12 @@ def main():
                     continue
                 templates_filename = os.path.join(language_folder_path,
                                                   relation_filename)
+                out_language_dirname = language_dirname
+                if language_dirname in CHINESE_CORRECTION and args.correct_chinese_wiki_code:
+                    out_language_dirname = CHINESE_CORRECTION[language_dirname]
                 output_templates_filename = os.path.join(
                     args.out_folder, PATTERNS_FOLDER_NAME, translator_name,
-                    language_dirname, relation_filename)
+                    out_language_dirname, relation_filename)
                 os.makedirs(output_templates_filename[:-len(
                     os.path.basename(output_templates_filename))],
                             exist_ok=True)
