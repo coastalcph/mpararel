@@ -309,6 +309,12 @@ def main(args):
             })
         predicted, correct_rank = get_predicted_and_rank_of_correct(
             candidates_to_prob, this_template_tuple.object)
+        LOG.debug(
+            "[{}/{}/{}-{}]\nQueried the model with: '{}'\nConsidered the "
+            "candidates: '{}'\nGot predicted='{}' and rank of correct is '{}'".
+            format(this_template_tuple.language, this_template_tuple.relation,
+                   this_template_tuple.subject, this_template_tuple.object,
+                   inputs, candidates_to_ids.keys(), predicted, correct_rank))
         tuples_predictions[this_template_tuple.language][
             this_template_tuple.relation][
                 f"{this_template_tuple.subject}-{this_template_tuple.object}"].append(
