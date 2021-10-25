@@ -6,11 +6,6 @@ python evaluate_consistency/get_model_predictions.py \
     --output_folder=$WORKDIR/data/mpararel_predictions/mbert_cased_with_mlama_2 \
     --path_to_existing_predictions=$WORKDIR/data/mpararel_predictions/mbert_cased \
     --cpus 10
-
-
-TODO:
-    Add tests for the ranking, the writing of the file, and the dataloader.
-
 """
 import argparse
 import json
@@ -85,13 +80,11 @@ class GenerateTemplateTupleExamples():
             for relation in self.relations:
                 tokens_count_to_obj_to_ids = defaultdict(
                     lambda: defaultdict(list))
-                max_tokens_count = 0
                 for candidate_obj in self.get_candidates(language, relation):
                     tokens = self.tokenizer.tokenize(candidate_obj)
                     ids = self.tokenizer.convert_tokens_to_ids(tokens)
                     tokens_count_to_obj_to_ids[len(
                         tokens)][candidate_obj] = ids
-                    max_tokens_count = max(max_tokens_count, len(tokens))
                 for template in self.get_templates(language, relation):
                     for i, tuple in enumerate(
                             self.get_tuples(language, relation), 1):
@@ -136,7 +129,7 @@ def build_model_by_name(model_name, device):
 
 
 def get_populated_template(template, tuple, mask_token, mask_token_count):
-    template = template.replace("[X]", tuple[OBJECT_KEY])
+    template = template.replace("[X]", tuple[SUBJECT_KEY])
     template = template.replace("[Y]",
                                 ' '.join([mask_token] * mask_token_count))
     return template
@@ -175,7 +168,7 @@ def write_predictions(results, output_folder, path_to_existing_predictions):
                                  relation)):
                 with open(
                         os.path.join(path_to_existing_predictions, language,
-                                     relation)) as existing_f:
+                                     relation), 'r') as existing_f:
                     existing_tuple_to_predictions = json.load(existing_f)
                     for (tuple,
                          predictions) in existing_tuple_to_predictions.items():
@@ -197,6 +190,59 @@ def init_wandb(args):
     wandb.config.update(args)
 
 
+def get_data(args):
+    languages = os.listdir(os.path.join(args.mpararel_folder, "patterns"))
+    if args.only_languages:
+        LOG.info(
+            "Going to iterate only over the languages: {}".args.only_languages)
+        languages = args.only_languages
+    relations = os.listdir(os.path.join(args.mpararel_folder, "tuples", "en"))
+    get_templates = lambda lang, relation: get_items(
+        os.path.join(args.mpararel_folder, "patterns", lang, relation),
+        "pattern")
+    get_tuples = lambda lang, relation: get_items(
+        os.path.join(args.mpararel_folder, "tuples", lang, relation))
+    get_candidates = lambda lang, relation: get_items(
+        os.path.join(args.mpararel_folder, "tuples", lang, relation),
+        OBJECT_KEY)
+    if args.different_tuples_folder:
+        LOG.info(
+            "Using tuples from '{}' instead of those from mpararel.".format(
+                args.different_tuples_folder))
+        get_tuples = lambda lang, relation: get_items(
+            os.path.join(args.different_tuples_folder, lang, relation))
+        get_candidates = lambda lang, relation: get_items(
+            os.path.join(args.different_tuples_folder, lang, relation),
+            OBJECT_KEY)
+    return languages, relations, get_candidates, get_templates, get_tuples
+
+
+def batchify(inputs, candidates_to_ids, batch_size):
+    if len(inputs) != len(candidates_to_ids):
+        raise Exception("Can't batchify lists of different sizes.")
+    batches = []
+    for batch_i in range(0, len(inputs), batch_size):
+        input_batch = inputs[batch_i:min(len(inputs), batch_i + batch_size)]
+        candidates_to_ids_batch = candidates_to_ids[
+            batch_i:min(len(inputs), batch_i + batch_size)]
+        batches.append((input_batch, candidates_to_ids_batch))
+    return batches
+
+
+def get_predicted_and_rank_of_correct(candidates_to_prob, correct):
+    # Sort in descending probability.
+    candidates_and_prob = sorted(candidates_to_prob.items(),
+                                 key=lambda x: x[1],
+                                 reverse=True)
+    correct_rank = np.argwhere(
+        np.array(candidates_and_prob)[:, 0] == correct)[0][0]
+    return candidates_and_prob[0][0], correct_rank
+
+
+def get_masks_indices(encoded_input, mask_token_id):
+    return torch.where(encoded_input.input_ids == mask_token_id, 1, 0)
+
+
 def main(args):
     """Queries the model and saves the predictions.
 
@@ -215,16 +261,8 @@ def main(args):
     model, tokenizer = build_model_by_name(args.model_name, args.device)
     tuples_predictions = defaultdict(
         lambda: defaultdict(lambda: defaultdict(list)))
-    languages = os.listdir(os.path.join(args.mpararel_folder, "patterns"))
-    relations = os.listdir(os.path.join(args.mpararel_folder, "tuples", "en"))
-    get_candidates = lambda lang, relation: get_items(
-        os.path.join(args.mpararel_folder, "tuples", lang, relation),
-        OBJECT_KEY)
-    get_templates = lambda lang, relation: get_items(
-        os.path.join(args.mpararel_folder, "patterns", lang, relation),
-        "pattern")
-    get_tuples = lambda lang, relation: get_items(
-        os.path.join(args.mpararel_folder, "tuples", lang, relation))
+    (languages, relations, get_candidates, get_templates,
+     get_tuples) = get_data(args)
     template_tuple_examples = GenerateTemplateTupleExamples(
         tokenizer, languages, relations, get_candidates, get_templates,
         get_tuples)
@@ -236,18 +274,14 @@ def main(args):
                            this_template_tuple) in enumerate(
                                template_tuple_examples, 1):
         candidates_to_prob = {}
-        for batch_i in range(0, len(inputs), args.batch_size):
-            # Prepare the batch.
-            input_batch = inputs[batch_i:min(len(inputs), batch_i +
-                                             args.batch_size)]
-            candidates_to_ids_batch = candidates_to_ids[
-                batch_i:min(len(inputs), batch_i + args.batch_size)]
+        for input_batch, candidates_to_ids_batch in batchify(
+                inputs, candidates_to_ids, args.batch_size):
             encoded_input = tokenizer(input_batch,
                                       padding=True,
                                       return_tensors='pt')
             encoded_input = encoded_input.to(args.device)
-            mask_indexes = torch.where(
-                encoded_input.input_ids == tokenizer.mask_token_id, 1, 0)
+            mask_indexes = get_masks_indices(encoded_input,
+                                             tokenizer.mask_token_id)
             # Query the model.
             init_time_model_query = time.time()
             with torch.no_grad():
@@ -273,17 +307,12 @@ def main(args):
                 "Average time checking the candidates of each example":
                 total_time_iter / len(input_batch)
             })
-        # Sort in descending probability.
-        candidates_and_prob = sorted(candidates_to_prob.items(),
-                                     key=lambda x: x[1],
-                                     reverse=True)
-        correct_rank = np.argwhere(
-            np.array(candidates_and_prob)[:, 0] ==
-            this_template_tuple.object)[0][0]
+        predicted, correct_rank = get_predicted_and_rank_of_correct(
+            candidates_to_prob, this_template_tuple.object)
         tuples_predictions[this_template_tuple.language][
             this_template_tuple.relation][
                 f"{this_template_tuple.subject}-{this_template_tuple.object}"].append(
-                    (this_template_tuple.template, candidates_and_prob[0][0],
+                    (this_template_tuple.template, predicted,
                      str(correct_rank)))
     processes_pool.close()
     processes_pool.join()
@@ -300,6 +329,16 @@ def create_parser():
                         type=str,
                         required=True,
                         help="The path to the folder with the mpararel data.")
+    parser.add_argument(
+        "--different_tuples_folder",
+        default=None,
+        type=str,
+        help="Select this folder to get the tuples from there instead of "
+        "mpararel_folder/tuples.")
+    parser.add_argument(
+        "--only_languages",
+        nargs='*',
+        help="If you don't want to iterate over all languages.")
     parser.add_argument("--model_name",
                         default=None,
                         type=str,
