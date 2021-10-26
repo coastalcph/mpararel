@@ -100,6 +100,56 @@ class TestGetModelsPredictions(unittest.TestCase):
         ]
         self.assertListEqual(results, expected_results)
 
+    def test_data_generator_adding_point(self):
+        tuples = {
+            "en": {
+                "P103.jsonl": [{
+                    "sub_label": "Santiago",
+                    "obj_label": "Chile"
+                }]
+            },
+        }
+        templates = {
+            "en": {
+                "P103.jsonl": ["[X] is the capital of [Y]"],
+            },
+        }
+        get_tuples = lambda lang, relation: tuples[lang][relation]
+        get_candidates = lambda lang, relation: [
+            pair["obj_label"] for pair in tuples[lang][relation]
+        ]
+        get_templates = lambda lang, relation: templates[lang][relation]
+        languages = templates.keys()
+        relations = templates["en"].keys()
+        tokenizer = mock.Mock()
+        tokenizer.mask_token = "[MASK]"
+        tokenizer.tokenize.side_effect = dummy_tokenizer
+        tokenizer.convert_tokens_to_ids.side_effect = lambda tokens: [
+            -1 for t in tokens
+        ]
+        template_tuple_examples = get_model_predictions.GenerateTemplateTupleExamples(
+            tokenizer,
+            languages,
+            relations,
+            get_candidates,
+            get_templates,
+            get_tuples,
+            add_point=True)
+        results = [r for r in template_tuple_examples]
+        expected_results = [
+            ([
+                'Santiago is the capital of [MASK] .',
+            ], [{
+                'Chile': [-1]
+            }],
+             TemplateTuple(language='en',
+                           relation='P103.jsonl',
+                           template='[X] is the capital of [Y]',
+                           subject='Santiago',
+                           object='Chile')),
+        ]
+        self.assertListEqual(results, expected_results)
+
     def test_get_masks_indices(self):
         encoded_input = mock.Mock()
         encoded_input.input_ids = torch.tensor([[1, 2, 25, 4, 5],
@@ -213,7 +263,8 @@ class TestGetModelsPredictions(unittest.TestCase):
                     ]
                 }, m()),
             mock.call(en_p303, m())
-        ], any_order=True)
+        ],
+                                        any_order=True)
 
 
 if __name__ == '__main__':

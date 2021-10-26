@@ -41,14 +41,21 @@ class TemplateTuple():
 
 
 class GenerateTemplateTupleExamples():
-    def __init__(self, tokenizer, languages, relations, get_candidates,
-                 get_templates, get_tuples) -> None:
+    def __init__(self,
+                 tokenizer,
+                 languages,
+                 relations,
+                 get_candidates,
+                 get_templates,
+                 get_tuples,
+                 add_point=False) -> None:
         self.tokenizer = tokenizer
         self.languages = languages
         self.relations = relations
         self.get_candidates = get_candidates
         self.get_templates = get_templates
         self.get_tuples = get_tuples
+        self.add_point = add_point
 
     def load_existing_predictions(self, path):
         self.existing_predictions = defaultdict(
@@ -97,7 +104,7 @@ class GenerateTemplateTupleExamples():
                             inputs.append(
                                 get_populated_template(
                                     template, tuple, self.tokenizer.mask_token,
-                                    masks_count))
+                                    masks_count, self.add_point))
                             candidates_to_ids.append(
                                 tokens_count_to_obj_to_ids[masks_count])
                         this_template_tuple = TemplateTuple(
@@ -128,10 +135,16 @@ def build_model_by_name(model_name, device):
     return model, tokenizer
 
 
-def get_populated_template(template, tuple, mask_token, mask_token_count):
+def get_populated_template(template,
+                           tuple,
+                           mask_token,
+                           mask_token_count,
+                           add_point=False):
     template = template.replace("[X]", tuple[SUBJECT_KEY])
     template = template.replace("[Y]",
                                 ' '.join([mask_token] * mask_token_count))
+    if add_point:
+        template = template + ' .'
     return template
 
 
@@ -193,8 +206,8 @@ def init_wandb(args):
 def get_data(args):
     languages = os.listdir(os.path.join(args.mpararel_folder, "patterns"))
     if args.only_languages:
-        LOG.info(
-            "Going to iterate only over the languages: {}".args.only_languages)
+        LOG.info("Going to iterate only over the languages: {}".format(
+            args.only_languages))
         languages = args.only_languages
     relations = os.listdir(os.path.join(args.mpararel_folder, "tuples", "en"))
     get_templates = lambda lang, relation: get_items(
@@ -265,7 +278,7 @@ def main(args):
      get_tuples) = get_data(args)
     template_tuple_examples = GenerateTemplateTupleExamples(
         tokenizer, languages, relations, get_candidates, get_templates,
-        get_tuples)
+        get_tuples, args.add_period_to_sentences)
     if args.path_to_existing_predictions:
         template_tuple_examples.load_existing_predictions(
             args.path_to_existing_predictions)
@@ -309,15 +322,16 @@ def main(args):
             })
         predicted, correct_rank = get_predicted_and_rank_of_correct(
             candidates_to_prob, this_template_tuple.object)
-        if np.random.rand() > 0.7:
+        if np.random.rand() > 0.98:
             LOG.debug(
                 "[{}/{}/{}-{}]\nQueried the model with: '{}'\nConsidered the "
-                "candidates: '{}'\nGot predicted='{}' and rank of correct is '{}'"
-                .format(this_template_tuple.language,
-                        this_template_tuple.relation,
-                        this_template_tuple.subject,
-                        this_template_tuple.object, inputs,
-                        candidates_to_ids.keys(), predicted, correct_rank))
+                "candidates: '{}'\nGot predicted='{}' and rank of correct is "
+                "'{}'".format(this_template_tuple.language,
+                              this_template_tuple.relation,
+                              this_template_tuple.subject,
+                              this_template_tuple.object, inputs,
+                              [c.keys() for c in candidates_to_ids], predicted,
+                              correct_rank))
         tuples_predictions[this_template_tuple.language][
             this_template_tuple.relation][
                 f"{this_template_tuple.subject}-{this_template_tuple.object}"].append(
@@ -348,6 +362,12 @@ def create_parser():
         "--only_languages",
         nargs='*',
         help="If you don't want to iterate over all languages.")
+    parser.add_argument(
+        "--add_period_to_sentences",
+        action='store_true',
+        help="If true ' .' is added at the end of the phrases. This shouldn't "
+        "be used for all the languages as not all the languages use a period as"
+        " end puntuaction.")
     parser.add_argument("--model_name",
                         default=None,
                         type=str,
