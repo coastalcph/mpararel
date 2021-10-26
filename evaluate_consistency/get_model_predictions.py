@@ -21,6 +21,7 @@ import wandb
 from dataset.constants import OBJECT_KEY, SUBJECT_KEY
 from logger_utils import get_logger
 from tqdm import tqdm
+import logging
 
 try:
     mp.set_start_method('spawn')
@@ -28,7 +29,11 @@ except RuntimeError:
     pass
 from transformers import AutoModelForMaskedLM, AutoTokenizer
 
-LOG = get_logger(__name__)
+LOG = get_logger(
+    __name__,
+    '/home/wsr217/mpararel/evaluate_consistency/debug_logging_get_model_predictions.log',
+    level=logging.INFO,
+    only_file_level=logging.DEBUG)
 
 
 @dataclass
@@ -256,6 +261,10 @@ def get_masks_indices(encoded_input, mask_token_id):
     return torch.where(encoded_input.input_ids == mask_token_id, 1, 0)
 
 
+def get_k(list_, k):
+    return list_[:min(len(list_), k)]
+
+
 def main(args):
     """Queries the model and saves the predictions.
 
@@ -322,16 +331,15 @@ def main(args):
             })
         predicted, correct_rank = get_predicted_and_rank_of_correct(
             candidates_to_prob, this_template_tuple.object)
-        if np.random.rand() > 0.98:
-            LOG.debug(
-                "[{}/{}/{}-{}]\nQueried the model with: '{}'\nConsidered the "
-                "candidates: '{}'\nGot predicted='{}' and rank of correct is "
-                "'{}'".format(this_template_tuple.language,
-                              this_template_tuple.relation,
-                              this_template_tuple.subject,
-                              this_template_tuple.object, inputs,
-                              [c.keys() for c in candidates_to_ids], predicted,
-                              correct_rank))
+        LOG.debug(
+            "[{}/{}/{}-{}]\nQueried the model with: '{}'\nConsidered the "
+            "candidates: '{} ...'\nGot predicted='{}' and rank of correct is "
+            "'{}'".format(this_template_tuple.language,
+                          this_template_tuple.relation,
+                          this_template_tuple.subject,
+                          this_template_tuple.object, inputs,
+                          [c.keys() for c in get_k(candidates_to_ids, 5)],
+                          predicted, correct_rank))
         tuples_predictions[this_template_tuple.language][
             this_template_tuple.relation][
                 f"{this_template_tuple.subject}-{this_template_tuple.object}"].append(
