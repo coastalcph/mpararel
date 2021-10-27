@@ -277,21 +277,21 @@ def log_plots_by_language(mpararel,
     ], [
         min([len(patterns) for patterns in new_mpararel[lang].values()])
         for lang in languages
-    ], "Minimum number of patterns in\na relation")
+    ], "Minimum number of patterns in a relation")
     plot_barh_by_languages(languages_names, [
         max([len(patterns) for patterns in mpararel[lang].values()])
         for lang in languages
     ], [
         max([len(patterns) for patterns in new_mpararel[lang].values()])
         for lang in languages
-    ], "Maximum number of patterns in\na relation")
+    ], "Maximum number of patterns in a relation")
     plot_barh_by_languages(languages_names, [
         np.average([len(patterns) for patterns in mpararel[lang].values()])
         for lang in languages
     ], [
         np.average([len(patterns) for patterns in new_mpararel[lang].values()])
         for lang in languages
-    ], "Average number of patterns in\na relation")
+    ], "Average number of patterns in a relation")
     plot_barh_by_languages(languages_names, [
         sum([len(patterns) for patterns in mpararel[lang].values()])
         for lang in languages
