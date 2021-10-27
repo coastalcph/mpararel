@@ -320,9 +320,8 @@ def write_mpararel(output_folder, new_mpararel):
     for language in new_mpararel.keys():
         for relation in new_mpararel[language].keys():
             os.makedirs(os.path.join(output_folder, language), exist_ok=True)
-            with open(
-                    os.path.join(output_folder, language, relation + '.jsonl'),
-                    'w') as f:
+            with open(os.path.join(output_folder, language, relation),
+                      'w') as f:
                 for template in new_mpararel[language][relation]:
                     f.write("{}\n".format(json.dumps({"pattern": template})))
 
@@ -348,6 +347,7 @@ def main(args):
                          reviewed_languages)
     log_plots_by_language(mpararel, new_mpararel, wiki_code_to_name,
                           reviewed_languages)
+    LOG.info("Writing reviewed mpararel")
     write_mpararel(args.output_folder, new_mpararel)
 
 
