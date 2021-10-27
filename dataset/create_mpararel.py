@@ -27,7 +27,7 @@ import wandb
 from logger_utils import get_logger
 from tqdm import tqdm
 
-from dataset.cleanup import VALID_RELATIONS, clean_template
+from mpararel_utils import VALID_RELATIONS, clean_template
 
 LOG = get_logger(__name__)
 
@@ -164,19 +164,17 @@ def add_mlama(df, agreed_translations, mlama_folder):
                 [t for t, _ in agreed_translations[lang][relation]])
             if mlama_template in existing_templates:
                 continue
-            agreed_translations[lang][relation].append(
-                (mlama_template, {}))
+            agreed_translations[lang][relation].append((mlama_template, {}))
             existing_value = df.loc[(df['language'] == lang) &
                                     (df['relation'] == relation),
                                     'agreed_templates_count'].values
             if len(existing_value) > 0:
-                df.loc[(df['language'] == lang) &
-                        (df['relation'] == relation),
-                        'agreed_templates_count'] = existing_value[0] + 1
+                df.loc[(df['language'] == lang) & (df['relation'] == relation),
+                       'agreed_templates_count'] = existing_value[0] + 1
             else:
                 mlama_columns.append(
-                    (lang, relation,
-                        len(agreed_translations[lang][relation]), 1))
+                    (lang, relation, len(agreed_translations[lang][relation]),
+                     1))
     mlama_df = pd.DataFrame(mlama_columns,
                             columns=[
                                 'language', 'relation',

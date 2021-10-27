@@ -1,43 +1,16 @@
 import argparse
 import json
 import os
-import re
 from glob import glob
 
 from logger_utils import get_logger
 from tqdm import tqdm
+from mpararel_utils import is_template_valid, clean_template, VALID_RELATIONS
 
 LOG = get_logger(__name__)
 TUPLES_FOLDER_NAME = "tuples"
 PATTERNS_FOLDER_NAME = "patterns"
-VALID_RELATIONS = set([
-    'P937', 'P1412', 'P127', 'P103', 'P276', 'P159', 'P140', 'P136', 'P495',
-    'P17', 'P361', 'P36', 'P740', 'P264', 'P407', 'P138', 'P30', 'P131',
-    'P176', 'P449', 'P279', 'P19', 'P101', 'P364', 'P106', 'P1376', 'P178',
-    'P37', 'P413', 'P27', 'P20', 'P190', 'P1303', 'P39', 'P108', 'P463',
-    'P530', 'P47'
-])
 CHINESE_CORRECTION = {'zh': 'zh-hans', 'zh-classical': 'zh-hant'}
-
-
-def is_template_valid(template):
-    """Checks that the template has one [X], one [Y], and extra text."""
-    return (template.count("[X]") == 1 and template.count("[Y]") == 1
-            and not re.match(r'^[\b\[X\]\b\b\[Y\]\b., ]+$', template))
-
-
-def clean_template(template):
-    template = template.lower()
-    # Remove extra spaces and extra brackets from the subject/object and
-    # capitalize them.
-    template = re.sub('\[+ ?[x] ?\]+', '[X]', template)
-    template = re.sub('\[+ ?[y] ?\]+', '[Y]', template)
-    # Remove final puntuaction
-    template = re.sub(r'[.:。]', '', template)
-    # Remove extra spaces
-    template = re.sub(r' +', ' ', template)
-    template = re.sub(r' $', '', template)
-    return template
 
 
 def clean_template_line(data):
