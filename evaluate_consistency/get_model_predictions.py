@@ -9,6 +9,7 @@ python evaluate_consistency/get_model_predictions.py \
 """
 import argparse
 import json
+import logging
 import os
 import time
 from collections import defaultdict
@@ -20,8 +21,8 @@ import torch.multiprocessing as mp
 import wandb
 from dataset.constants import OBJECT_KEY, SUBJECT_KEY
 from logger_utils import get_logger
+from mpararel_utils import VALID_RELATIONS
 from tqdm import tqdm
-import logging
 
 try:
     mp.set_start_method('spawn')
@@ -214,7 +215,6 @@ def get_data(args):
         LOG.info("Going to iterate only over the languages: {}".format(
             args.only_languages))
         languages = args.only_languages
-    relations = os.listdir(os.path.join(args.mpararel_folder, "tuples", "en"))
     get_templates = lambda lang, relation: get_items(
         os.path.join(args.mpararel_folder, "patterns", lang, relation),
         "pattern")
@@ -232,7 +232,7 @@ def get_data(args):
         get_candidates = lambda lang, relation: get_items(
             os.path.join(args.different_tuples_folder, lang, relation),
             OBJECT_KEY)
-    return languages, relations, get_candidates, get_templates, get_tuples
+    return languages, VALID_RELATIONS, get_candidates, get_templates, get_tuples
 
 
 def batchify(inputs, candidates_to_ids, batch_size):
