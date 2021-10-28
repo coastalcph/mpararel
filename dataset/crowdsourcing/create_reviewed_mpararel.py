@@ -6,7 +6,7 @@ python dataset/crowdsourcing/create_reviewed_mpararel.py \
     --mpararel_folder=$WORKDIR/data/mpararel_with_mlama_zh_corrected \
     --reviews_filepath=$WORKDIR/data/reviews.pickle \
     --use_reviews_in_file \
-    --output_folder=$WORKDIR/data/mpararel_reviewed
+    --output_folder=$WORKDIR/data/mpararel_reviewed/patterns
 """
 
 import argparse
