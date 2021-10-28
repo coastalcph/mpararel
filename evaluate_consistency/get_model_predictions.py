@@ -215,6 +215,7 @@ def get_data(args):
         LOG.info("Going to iterate only over the languages: {}".format(
             args.only_languages))
         languages = args.only_languages
+    relations = [relation + '.jsonl' for relation in VALID_RELATIONS]
     get_templates = lambda lang, relation: get_items(
         os.path.join(args.mpararel_folder, "patterns", lang, relation),
         "pattern")
@@ -232,7 +233,7 @@ def get_data(args):
         get_candidates = lambda lang, relation: get_items(
             os.path.join(args.different_tuples_folder, lang, relation),
             OBJECT_KEY)
-    return languages, VALID_RELATIONS, get_candidates, get_templates, get_tuples
+    return languages, relations, get_candidates, get_templates, get_tuples
 
 
 def batchify(inputs, candidates_to_ids, batch_size):
