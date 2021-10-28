@@ -101,6 +101,8 @@ def get_review(worksheet):
 
 def get_reviewed_version(existing_templates, templates_answers,
                          extra_templates, stats):
+    existing_templates = existing_templates.copy()
+    stats["Existing templates"] += len(existing_templates)
     # Remove incorrect ones
     for template, _, is_incorrect, correction in templates_answers:
         if template not in existing_templates:
@@ -121,14 +123,16 @@ def get_reviewed_version(existing_templates, templates_answers,
             existing_templates.remove(template)
             stats["Removed wrong template"] += 1
     # Add corrections.
-    stats["Corrections and extra templates"] += len(extra_templates)
     for extra_template in extra_templates:
         cleaned_template = mpararel_utils.clean_template(extra_template)
         if not mpararel_utils.is_template_valid(cleaned_template):
             raise Exception(
                 "The correction provided '{}' is not a valid template.".format(
                     cleaned_template))
+        if cleaned_template not in existing_templates:
+            stats["Corrections and extra templates"] += len(extra_templates)
         existing_templates.add(cleaned_template)
+    stats["Reviewed templates"] += len(existing_templates)
     return existing_templates, stats
 
 
@@ -183,12 +187,17 @@ def get_reviewed_mpararel(mpararel, reviews):
     # We remove the defaultdicts to be able to count the number of non empty
     # relations.
     new_mpararel = {}
-    for language in list(new_mpararel_def.keys()):
+    for language in new_mpararel_def.keys():
         new_mpararel[language] = dict(new_mpararel_def[language])
     return new_mpararel, stats_by_language
 
 
 def plot_barh_by_languages(column, old_data, new_data, title):
+    data = [(c, o, n) for c, o, n in zip(column, old_data, new_data)]
+    wandb.log({
+        title + "_table":
+        wandb.Table(data=data, columns=["Language", "old", "new"])
+    })
     colors = sns.color_palette('colorblind', 10)
     plt.style.use('seaborn-colorblind')
     plt.figure(figsize=(4, 8), dpi=150)
@@ -213,21 +222,11 @@ def log_string_distances(mpararel, new_mpararel, wiki_code_to_name, languages):
 
     old_str_distance = []
     new_str_distance = []
-    data = []
-    columns = []
     for language in languages:
         old_str_distance.append(
             np.average(get_edit_distances(mpararel[language].values())))
         new_str_distance.append(
             np.average(get_edit_distances(new_mpararel[language].values())))
-        data.append((language, old_str_distance[-1], new_str_distance[-1]))
-    columns = [
-        "language", "old avg. string distance", "new avg. string distance"
-    ]
-    wandb.log({
-        "String distance per reviewed language":
-        wandb.Table(data=data, columns=columns)
-    })
     plot_barh_by_languages([wiki_code_to_name[code] for code in languages],
                            old_str_distance, new_str_distance,
                            "Average string distance")
