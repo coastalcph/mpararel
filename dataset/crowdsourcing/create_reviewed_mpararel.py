@@ -3,8 +3,8 @@ of the dataset.
 
 python dataset/crowdsourcing/create_reviewed_mpararel.py \
     --language_mapping_file=$WORKDIR/dataset/languages_mapping.txt \
-    --mpararel_folder=$WORKDIR/data/mpararel_with_mlama_zh_corrected \
-    --reviews_filepath=$WORKDIR/data/reviews.pickle \
+    --mpararel_folder=$WORKDIR/data/mpararel \
+    --reviews_filepath=$WORKDIR/data/reviews_2.pickle \
     --use_reviews_in_file \
     --output_folder=$WORKDIR/data/mpararel_reviewed/patterns
 """
@@ -34,10 +34,12 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 LOG = get_logger(__name__)
 
+REMOVE_LANGUAGES = ['hi']
+
 
 def get_review(worksheet):
     # Remove all the headers and the empty column
-    rows_cells = np.array(worksheet.get_all_values())[5:, 1:5]
+    rows_cells = np.array(worksheet.get_all_values())[4:, 1:5]
     extra_templates_divider = -1
     for i, row_cells in enumerate(rows_cells):
         if "If you want to add other paraphrases not encountered above" in row_cells[
@@ -86,22 +88,10 @@ def fetch_reviews_from_sheets():
     return reviews
 
 
-def get_review(worksheet):
-    # Remove all the headers and the empty column
-    rows_cells = np.array(worksheet.get_all_values())[5:, 1:]
-    extra_templates_divider = -1
-    for i, row_cells in enumerate(rows_cells):
-        if "If you want to add other paraphrases not encountered above" in row_cells[
-                0]:
-            extra_templates_divider = i
-            break
-    return (rows_cells[:extra_templates_divider - 2, :],
-            [t for t, _, _, _ in rows_cells[extra_templates_divider + 1:, :]])
-
-
 def get_reviewed_version(existing_templates, templates_answers,
                          extra_templates, stats):
     existing_templates = existing_templates.copy()
+    templates_reviewed_by_human = set()
     stats["Existing templates"] += len(existing_templates)
     # Remove incorrect ones
     for template, _, is_incorrect, correction in templates_answers:
@@ -122,6 +112,8 @@ def get_reviewed_version(existing_templates, templates_answers,
         elif is_incorrect == 'TRUE' and template in existing_templates:
             existing_templates.remove(template)
             stats["Removed wrong template"] += 1
+        else:
+            templates_reviewed_by_human.add(template)
     # Add corrections.
     for extra_template in extra_templates:
         cleaned_template = mpararel_utils.clean_template(extra_template)
@@ -132,8 +124,9 @@ def get_reviewed_version(existing_templates, templates_answers,
         if cleaned_template not in existing_templates:
             stats["Corrections and extra templates"] += len(extra_templates)
         existing_templates.add(cleaned_template)
+        templates_reviewed_by_human.add(cleaned_template)
     stats["Reviewed templates"] += len(existing_templates)
-    return existing_templates, stats
+    return existing_templates, templates_reviewed_by_human, stats
 
 
 def get_all_reviews(args):
@@ -154,6 +147,7 @@ def get_all_reviews(args):
                 LOG.info(
                     "Getting all the reviews failed with error '{}', waiting 1 "
                     "minute and re trying.".format(e))
+                print(traceback.format_exc())
                 time.sleep(60)
 
 
@@ -161,6 +155,7 @@ def get_reviewed_mpararel(mpararel, reviews):
     """Returns mpararel reviewed for the present languages in the reviews."""
     new_mpararel_def = collections.defaultdict(
         lambda: collections.defaultdict(set))
+    templates_checked_by_human = set()
     stats_by_language = {}
     for reviewer_name, language_to_relations in reviews.items():
         for language, relation_to_review in language_to_relations.items():
@@ -170,14 +165,17 @@ def get_reviewed_mpararel(mpararel, reviews):
                 try:
                     existing_templates = mpararel[language][relation +
                                                             '.jsonl']
-                    reviewed_templates, stats = get_reviewed_version(
+                    reviewed_templates, subset_reviewed, stats = get_reviewed_version(
                         existing_templates, templates_answers, extra_templates,
                         stats)
+                    templates_checked_by_human = templates_checked_by_human.union(
+                        subset_reviewed)
                 except Exception as e:
-                    print(traceback.format_exc())
-                    raise Exception(
+                    LOG.error(
                         "Got error '{}' when processing the worksheet '{}' "
                         "review from '{}'.".format(e, relation, reviewer_name))
+                    print(traceback.format_exc())
+                    raise Exception()
                 # We consider a template as correct as long as one reviewer set
                 # it as correct.
                 new_mpararel_def[language][relation + '.jsonl'] = (
@@ -189,7 +187,7 @@ def get_reviewed_mpararel(mpararel, reviews):
     new_mpararel = {}
     for language in new_mpararel_def.keys():
         new_mpararel[language] = dict(new_mpararel_def[language])
-    return new_mpararel, stats_by_language
+    return new_mpararel, templates_checked_by_human, stats_by_language
 
 
 def plot_barh_by_languages(column, old_data, new_data, title):
@@ -210,7 +208,13 @@ def plot_barh_by_languages(column, old_data, new_data, title):
     wandb.log({title: wandb.Image(plt)})
 
 
-def log_string_distances(mpararel, new_mpararel, wiki_code_to_name, languages):
+def log_string_distances(mpararel,
+                         new_mpararel,
+                         wiki_code_to_name,
+                         languages=None):
+    if languages is None:
+        languages = list(mpararel.keys())
+
     def get_edit_distances(templates_list):
         edit_distances = []
         for templates in templates_list:
@@ -227,6 +231,7 @@ def log_string_distances(mpararel, new_mpararel, wiki_code_to_name, languages):
             np.average(get_edit_distances(mpararel[language].values())))
         new_str_distance.append(
             np.average(get_edit_distances(new_mpararel[language].values())))
+    wandb.run.summary["avg. string distance"] = np.average(new_str_distance)
     plot_barh_by_languages([wiki_code_to_name[code] for code in languages],
                            old_str_distance, new_str_distance,
                            "Average string distance")
@@ -236,6 +241,8 @@ def log_overall_patterns_stats(mpararel, new_mpararel):
     # Overall number of patterns stats.
     old_count_patterns = []
     new_count_patterns = []
+    total_relations = []
+    total_patterns = []
     for language, relation_to_templates in mpararel.items():
         old_count_patterns += [
             len(templates) for templates in relation_to_templates.values()
@@ -243,8 +250,17 @@ def log_overall_patterns_stats(mpararel, new_mpararel):
         new_count_patterns += [
             len(templates) for templates in new_mpararel[language].values()
         ]
+        total_relations.append(len(new_mpararel[language]))
+        total_patterns.append(
+            sum([
+                len(templates)
+                for templates in new_mpararel[language].values()
+            ]))
     columns = [
-        "old min", "new min", "old avg", "new avg", "old max", "new max"
+        "old min #patterns in a relation", "new min #patterns in a relation",
+        "old avg #patterns in a relation", "new avg #patterns in a relation",
+        "old max #patterns in a relation", "new max #patterns in a relation",
+        "avg #relations per language", "avg total #patterns per language"
     ]
     data = [
         min(old_count_patterns),
@@ -252,7 +268,9 @@ def log_overall_patterns_stats(mpararel, new_mpararel):
         np.average(old_count_patterns),
         np.average(new_count_patterns),
         max(old_count_patterns),
-        max(new_count_patterns)
+        max(new_count_patterns),
+        np.average(total_relations),
+        np.average(total_patterns)
     ]
     for value, column in zip(data, columns):
         wandb.run.summary[column] = value
@@ -315,14 +333,34 @@ def log_reviews_stats(stats_by_language):
     wandb.log({"Reviews stats": wandb.Table(data=data, columns=columns)})
 
 
-def write_mpararel(output_folder, new_mpararel):
+def write_mpararel(output_folder, new_mpararel, templates_checked_by_human):
+    if os.path.exists(output_folder):
+        raise Exception("The output folder already exists.")
     for language in new_mpararel.keys():
         for relation in new_mpararel[language].keys():
             os.makedirs(os.path.join(output_folder, language), exist_ok=True)
             with open(os.path.join(output_folder, language, relation),
                       'w') as f:
                 for template in new_mpararel[language][relation]:
-                    f.write("{}\n".format(json.dumps({"pattern": template})))
+                    f.write("{}\n".format(
+                        json.dumps({
+                            "pattern":
+                            template,
+                            "checked-by-human":
+                            template in templates_checked_by_human
+                        })))
+
+
+def remove_relations_with_not_enough_templates(new_mpararel):
+    for language in list(new_mpararel.keys()):
+        for relation in list(new_mpararel[language].keys()):
+            if len(new_mpararel[language][relation]) < 2:
+                LOG.info(
+                    "Relation '{}' in language '{}' now has '{}' templates so "
+                    "we're removing it.".format(
+                        relation, language,
+                        len(new_mpararel[language][relation])))
+                new_mpararel[language].pop(relation)
 
 
 def main(args):
@@ -333,21 +371,26 @@ def main(args):
     reviews = get_all_reviews(args)
     mpararel = mpararel_utils.read_mpararel_templates(args.mpararel_folder)
     LOG.info("Constructing reviewed mpararel")
-    new_mpararel, stats_by_language = get_reviewed_mpararel(mpararel, reviews)
+    (new_mpararel, templates_checked_by_human,
+     stats_by_language) = get_reviewed_mpararel(mpararel, reviews)
+    remove_relations_with_not_enough_templates(new_mpararel)
     log_reviews_stats(stats_by_language)
     reviewed_languages = list(new_mpararel.keys())
     for lang_not_reviewed in set(mpararel.keys()).difference(
             set(new_mpararel.keys())):
         new_mpararel[lang_not_reviewed] = mpararel[lang_not_reviewed]
+    for language in REMOVE_LANGUAGES:
+        new_mpararel.pop(language)
+        mpararel.pop(language)
     LOG.info("Logging stats to wandb")
     log_overall_patterns_stats(mpararel, new_mpararel)
     wiki_code_to_name = get_wiki_to_names(args.language_mapping_file)
-    log_string_distances(mpararel, new_mpararel, wiki_code_to_name,
-                         reviewed_languages)
+    log_string_distances(mpararel, new_mpararel, wiki_code_to_name)
     log_plots_by_language(mpararel, new_mpararel, wiki_code_to_name,
                           reviewed_languages)
     LOG.info("Writing reviewed mpararel")
-    write_mpararel(args.output_folder, new_mpararel)
+    write_mpararel(args.output_folder, new_mpararel,
+                   templates_checked_by_human)
 
 
 def create_parser():

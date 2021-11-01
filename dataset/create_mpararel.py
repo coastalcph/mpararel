@@ -32,6 +32,7 @@ from mpararel_utils import VALID_RELATIONS, clean_template
 LOG = get_logger(__name__)
 
 DOUBLE_VOTE_KEYWORD = "_2vote"
+NOT_REAL_TRANSLATORS = set(["mLAMA"])
 
 
 def get_agreed_translations_and_stats(translations_folders):
@@ -164,7 +165,8 @@ def add_mlama(df, agreed_translations, mlama_folder):
                 [t for t, _ in agreed_translations[lang][relation]])
             if mlama_template in existing_templates:
                 continue
-            agreed_translations[lang][relation].append((mlama_template, {}))
+            agreed_translations[lang][relation].append(
+                (mlama_template, ["mLAMA"]))
             existing_value = df.loc[(df['language'] == lang) &
                                     (df['relation'] == relation),
                                     'agreed_templates_count'].values
@@ -234,8 +236,17 @@ def get_valid_langs(language_and_counts, min_en_fraction,
     return valid_languages
 
 
+def get_valid_translators(translators):
+    return [
+        t for t in translators if t not in NOT_REAL_TRANSLATORS
+        and not t.endswith(DOUBLE_VOTE_KEYWORD)
+    ]
+
+
 def write_mpararel(df_valid, agreed_translations, out_folder):
     """Writes to the output folder the translations in the df_valid."""
+    if os.path.exists(out_folder):
+        raise Exception("The specified output folder already exists.")
     for language in df_valid.language.unique():
         for relation in df_valid[df_valid.language ==
                                  language].relation.unique():
@@ -243,9 +254,15 @@ def write_mpararel(df_valid, agreed_translations, out_folder):
             os.makedirs(this_folder, exist_ok=True)
             with open(os.path.join(this_folder, relation + ".jsonl"),
                       'w') as fout:
-                for template, _ in agreed_translations[language][relation]:
-                    fout.write("{}\n".format(json.dumps({"pattern":
-                                                         template})))
+                for template, translators in agreed_translations[language][
+                        relation]:
+                    fout.write("{}\n".format(
+                        json.dumps({
+                            "pattern":
+                            template,
+                            "translators":
+                            get_valid_translators(translators)
+                        })))
 
 
 def log_statistics(df_valid, agreed_translations):
@@ -258,10 +275,7 @@ def log_statistics(df_valid, agreed_translations):
                                  language].relation.unique():
             for template, translators in agreed_translations[language][
                     relation]:
-                translators_count = len([
-                    t for t in translators
-                    if not t.endswith(DOUBLE_VOTE_KEYWORD)
-                ])
+                translators_count = len(get_valid_translators(translators))
                 translators_count_to_patterns_count[translators_count] += 1
                 #TODO: add syntactic and lexical variation.
                 for template_j, _ in agreed_translations[language][relation]:
@@ -312,6 +326,8 @@ def log_statistics(df_valid, agreed_translations):
         "language", "#relations", "min #patterns", "max #patterns",
         "avg #patterns", "total patterns"
     ]
+    num_patterns = []
+    num_relations = []
     for lang in df.lang.unique():
         this_df = df[df["lang"] == lang]
         relations = this_df.relation.unique()
@@ -319,6 +335,10 @@ def log_statistics(df_valid, agreed_translations):
             (lang, len(relations), this_df["count_patterns"].min(),
              this_df["count_patterns"].max(), this_df["count_patterns"].mean(),
              this_df["count_patterns"].sum()))
+        num_patterns.append(this_df["count_patterns"].sum())
+        num_relations.append(len(relations))
+    wandb.run.summary["avg. #relations"] = np.average(num_relations)
+    wandb.run.summary["avg. #patterns"] = np.average(num_patterns)
     table = wandb.Table(data=data, columns=columns)
     wandb.log({"Patterns statistics per language": table})
     for column in columns[1:]:
