@@ -156,7 +156,7 @@ def get_reviewed_mpararel(mpararel, reviews):
     """Returns mpararel reviewed for the present languages in the reviews."""
     new_mpararel_def = collections.defaultdict(
         lambda: collections.defaultdict(set))
-    templates_checked_by_human = set()
+    templates_checked_by_human = collections.defaultdict(set)
     stats_by_language = {}
     for reviewer_name, language_to_relations in reviews.items():
         for language, relation_to_review in language_to_relations.items():
@@ -169,8 +169,9 @@ def get_reviewed_mpararel(mpararel, reviews):
                     reviewed_templates, subset_reviewed, stats = get_reviewed_version(
                         existing_templates, templates_answers, extra_templates,
                         stats)
-                    templates_checked_by_human = templates_checked_by_human.union(
-                        subset_reviewed)
+                    templates_checked_by_human[
+                        language] = templates_checked_by_human[language].union(
+                            subset_reviewed)
                 except Exception as e:
                     LOG.error(
                         "Got error '{}' when processing the worksheet '{}' "
@@ -348,7 +349,7 @@ def write_mpararel(output_folder, new_mpararel, templates_checked_by_human):
                             PATTERN:
                             template,
                             HUMAN_CHECKED:
-                            template in templates_checked_by_human
+                            template in templates_checked_by_human[language]
                         })))
 
 
