@@ -28,6 +28,7 @@ import tqdm
 import wandb
 from dataset.crowdsourcing.generate_sheet import (CREDENTIALS_PATH,
                                                   REVIEWERS_SHEET, SCOPES)
+from dataset.constants import HUMAN_CHECKED, PATTERN
 from dataset.translate_utils import get_wiki_to_names
 from logger_utils import get_logger
 from oauth2client.service_account import ServiceAccountCredentials
@@ -344,9 +345,9 @@ def write_mpararel(output_folder, new_mpararel, templates_checked_by_human):
                 for template in new_mpararel[language][relation]:
                     f.write("{}\n".format(
                         json.dumps({
-                            "pattern":
+                            PATTERN:
                             template,
-                            "checked-by-human":
+                            HUMAN_CHECKED:
                             template in templates_checked_by_human
                         })))
 

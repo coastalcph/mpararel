@@ -2,6 +2,7 @@
 
 python evaluate_consistency/run_evaluation.py \
     --predictions_folder=$WORKDIR/data/predictions_mpararel/reviewed_mbert_base_cased \
+    --mpararel_folder=$WORKDIR/data/mpararel \
     --mlama_folder=$WORKDIR/data/mlama1.1
 """
 import argparse
@@ -14,6 +15,7 @@ import tqdm
 import wandb
 from logger_utils import get_logger
 from dataset.create_mpararel import read_mlama
+from mpararel_utils import read_mpararel_templates
 
 LOG = get_logger(__name__)
 
@@ -22,7 +24,7 @@ def compute_relation_metrics(tuple_to_prediction, mlama_template=None):
     """Computes the metrics for one relation predictions."""
     metrics = collections.defaultdict(float)
     # Iterate over the tuples.
-    for _, predictions in tuple_to_prediction.items():
+    for _, predictions in tuple_to_prediction:
         consistency_count = 0.0
         accuracy_count = 0.0
         accuracy_consistency_count = 0.0
@@ -43,11 +45,55 @@ def compute_relation_metrics(tuple_to_prediction, mlama_template=None):
         metrics["mlama-accuracy"] += mlama_accuracy_count
         total_consistency_pairs = len(predictions) * (len(predictions) - 1) / 2
         metrics["consistency"] += consistency_count / total_consistency_pairs
-        metrics["accuracy-consistency"] += (accuracy_consistency_count /
+        metrics["consistency-accuracy"] += (accuracy_consistency_count /
                                             total_consistency_pairs)
     for metric_name in metrics.keys():
         metrics[metric_name] /= len(tuple_to_prediction)
     return metrics
+
+
+def get_only_mpararel_predictions(mpararel_templates, tuple_to_prediction):
+    filtered_tuple_to_prediction = []
+    for data, predictions in tuple_to_prediction:
+        templates = set([p[0] for p in predictions])
+        if mpararel_templates.difference(templates):
+            LOG.warning(
+                "mpararel templates not found in the predictions: {}".format(
+                    mpararel_templates.difference(templates)))
+        filtered_tuple_to_prediction.append(
+            (data, [p for p in predictions if p[0] in mpararel_templates]))
+    return filtered_tuple_to_prediction
+
+
+def compute_metrics_by_language(mpararel, predictions_folder, mlama):
+    """Computes the metrics based on the templates in mpararel."""
+    language_to_metrics = collections.defaultdict(
+        lambda: collections.defaultdict(float))
+    for language in tqdm.tqdm(mpararel.keys()):
+        for relation in mpararel[language].keys():
+            # The corrected chinese codes are not in mLAMA.
+            if (language in mlama
+                    and relation[:-len(".jsonl")] in mlama[language]):
+                mlama_template = mlama[language][relation[:-len(".jsonl")]]
+            else:
+                LOG.info(
+                    "language or relation not in mLAMA (language={}, relation={})"
+                    .format(language, relation))
+                mlama_template = None
+            with open(os.path.join(predictions_folder, language, relation),
+                      'r') as f:
+                tuple_to_prediction = json.load(f)
+                tuple_to_prediction = get_only_mpararel_predictions(
+                    mpararel[language][relation], tuple_to_prediction.items())
+                metrics = compute_relation_metrics(tuple_to_prediction,
+                                                   mlama_template)
+            for metric_name, value in metrics.items():
+                language_to_metrics[language][metric_name] += value
+        # We take the macro average across the relations.
+        for metric_name in language_to_metrics[language].keys():
+            language_to_metrics[language][metric_name] /= len(
+                mpararel[language])
+    return language_to_metrics
 
 
 def main(args):
@@ -55,31 +101,11 @@ def main(args):
                name=os.path.basename(args.predictions_folder))
     wandb.config.update(args)
     mlama = read_mlama(args.mlama_folder)
-    language_to_metrics = collections.defaultdict(
-        lambda: collections.defaultdict(float))
-    for language in tqdm.tqdm(os.listdir(args.predictions_folder)):
-        language_dir = os.path.join(args.predictions_folder, language)
-        relations = os.listdir(language_dir)
-        for relation_file in relations:
-            with open(os.path.join(language_dir, relation_file)) as f:
-                tuple_to_prediction = json.load(f)
-                # The corrected chinese codes are not in mLAMA.
-                if (language in mlama
-                        and relation_file[:-len(".jsonl")] in mlama[language]):
-                    mlama_template = mlama[language][
-                        relation_file[:-len(".jsonl")]]
-                else:
-                    LOG.info(
-                        "language or relation not in mLAMA (language={}, relation={})"
-                        .format(language, relation_file))
-                    mlama_template = None
-                metrics = compute_relation_metrics(tuple_to_prediction,
-                                                   mlama_template)
-                for metric_name, value in metrics.items():
-                    language_to_metrics[language][metric_name] += value
-        # We take the macro average across the relations.
-        for metric_name in language_to_metrics[language].keys():
-            language_to_metrics[language][metric_name] /= len(relations)
+    mpararel = read_mpararel_templates(args.mpararel_folder,
+                                       args.only_human_reviewed)
+    language_to_metrics = compute_metrics_by_language(mpararel,
+                                                      args.predictions_folder,
+                                                      mlama)
     english_metrics = list(language_to_metrics["en"].items())
     for metric, en_value in english_metrics:
         wandb.run.summary[f"en - {metric}"] = en_value
@@ -91,7 +117,8 @@ def main(args):
         wandb.run.summary["min r-" + metric] = min(r_metric)
         wandb.run.summary["max r-" + metric] = max(r_metric)
         wandb.run.summary["avg r-" + metric] = np.average(np.array(r_metric))
-    for metric in language_to_metrics[language].keys():
+    metrics = list(language_to_metrics.items())[0][1].keys()
+    for metric in metrics:
         data = [(l, language_to_metrics[l][metric])
                 for l in language_to_metrics.keys()]
         columns = ["language", "value"]
@@ -116,6 +143,14 @@ def create_parser():
                         type=str,
                         required=True,
                         help="")
+    parser.add_argument("--mpararel_folder",
+                        default=None,
+                        type=str,
+                        required=True,
+                        help="")
+    parser.add_argument("--only_human_reviewed",
+                        default=False,
+                        action="store_true")
     return parser
 
 

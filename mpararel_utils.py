@@ -2,6 +2,7 @@ import os
 import collections
 import json
 import re
+from dataset.constants import PATTERN, HUMAN_CHECKED
 
 VALID_RELATIONS = set([
     'P937', 'P1412', 'P127', 'P103', 'P276', 'P159', 'P140', 'P136', 'P495',
@@ -11,8 +12,8 @@ VALID_RELATIONS = set([
     'P530', 'P47'
 ])
 
-
-def read_mpararel_templates(mpararel_folder):
+# TODO: test
+def read_mpararel_templates(mpararel_folder, only_human_reviewed=False):
     mpararel_folder = os.path.join(mpararel_folder, "patterns")
     patterns = collections.defaultdict(lambda: collections.defaultdict(set))
     for language in os.listdir(mpararel_folder):
@@ -20,10 +21,11 @@ def read_mpararel_templates(mpararel_folder):
         for relation_file in os.listdir(language_dir):
             with open(os.path.join(language_dir, relation_file)) as f:
                 for line in f:
-                    if line:
+                    if (line and
+                        (line_data[HUMAN_CHECKED] or not only_human_reviewed)):
                         line_data = json.loads(line)
                         patterns[language][relation_file].add(
-                            line_data["pattern"])
+                            line_data[PATTERN])
     return patterns
 
 

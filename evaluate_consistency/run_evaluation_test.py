@@ -1,12 +1,16 @@
 import unittest
 from unittest import mock
-from evaluate_consistency.run_evaluation import compute_relation_metrics
+
 import numpy as np
+
+from evaluate_consistency.run_evaluation import (compute_metrics_by_language,
+                                                 compute_relation_metrics,
+                                                 get_only_mpararel_predictions)
 
 
 class TestMyClass(unittest.TestCase):
-    def test_compute_relation_metrics(self):
-        tuple_to_prediction = {
+    def setUp(self):
+        self.tuple_to_prediction = {
             "Rubens Barrichello-Brazil":
             [["[X] is [Y] citizen", "Brazil", "0"],
              ["as a citizen of [Y], [X]", "Germany", "5"],
@@ -14,16 +18,57 @@ class TestMyClass(unittest.TestCase):
              ["[X] a citizen of [Y]", "Brazil", "0"]],
             "Yves Mirande-France":
             [["[X] is [Y] citizen", "Brazil", "10"],
-             ["as a citizen of [Y], [X]", "France", "0"],
-             ["[X], who has a citizenship of [Y]", "Germany", "9"],
+             ["as a citizen of [Y], [X]", "Germany", "9"],
+             ["[X], who has a citizenship of [Y]", "France", "0"],
              ["[X] a citizen of [Y]", "Germany", "5"]],
         }
-        metrics = compute_relation_metrics(tuple_to_prediction)
-        self.assertEqual(metrics["accuracy"], np.average([3 / 4, 1 / 4]))
-        self.assertEqual(metrics["consistency"],
-                         np.average([3 / (4 * 3 / 2), 1 / (4 * 3 / 2)]))
-        self.assertEqual(metrics["accuracy-consistency"],
-                         np.average([3 / (4 * 3 / 2), 0]))
+        self.accuracy = np.average([3 / 4, 1 / 4])
+        self.consistency = np.average([3 / (4 * 3 / 2), 1 / (4 * 3 / 2)])
+        self.consistency_accuracy = np.average([3 / (4 * 3 / 2), 0])
+        self.templates = [
+            "[X] is [Y] citizen", "as a citizen of [Y], [X]",
+            "[X], who has a citizenship of [Y]", "[X] a citizen of [Y]"
+        ]
+
+    def test_compute_relation_metrics(self):
+        metrics = compute_relation_metrics(self.tuple_to_prediction.items())
+        self.assertEqual(metrics["accuracy"], self.accuracy)
+        self.assertEqual(metrics["consistency"], self.consistency)
+        self.assertEqual(metrics["consistency-accuracy"],
+                         self.consistency_accuracy)
+        self.assertEqual(metrics["mlama-accuracy"], 0)
+        metrics = compute_relation_metrics(self.tuple_to_prediction.items(),
+                                           "[X] a citizen of [Y]")
+        self.assertEqual(metrics["mlama-accuracy"], 0.5)
+
+    def test_compute_metrics_by_language(self):
+        mpararel = {
+            "en": {
+                "P101.jsonl": set(self.templates),
+                "P102.jsonl": set(self.templates)
+            },
+            "es": {
+                "P101.jsonl": set(self.templates[:2])
+            }
+        }
+        m = mock.mock_open()
+        with mock.patch('builtins.open', m), \
+                mock.patch('json.load') as json_load_mock:
+            json_load_mock.return_value = self.tuple_to_prediction
+            language_to_metrics = compute_metrics_by_language(mpararel, "", {})
+        m.assert_any_call('en/P101.jsonl', 'r')
+        m.assert_any_call('en/P102.jsonl', 'r')
+        m.assert_any_call('es/P101.jsonl', 'r')
+        # The macro average would divide by 2 so the accuracy would be the same
+        # as in one relation.
+        self.assertEqual(language_to_metrics["en"]["accuracy"], self.accuracy)
+        self.assertEqual(language_to_metrics["es"]["accuracy"], 0.25)
+        self.assertSetEqual(
+            set(list(language_to_metrics.items())[0][1].keys()),
+            set([
+                "accuracy", "consistency", "consistency-accuracy",
+                "mlama-accuracy"
+            ]))
 
 
 if __name__ == '__main__':
