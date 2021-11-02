@@ -5,7 +5,7 @@ import numpy as np
 
 from evaluate_consistency.run_evaluation import (compute_metrics_by_language,
                                                  compute_relation_metrics,
-                                                 get_only_mpararel_predictions)
+                                                 filter_predictions)
 
 
 class TestMyClass(unittest.TestCase):
@@ -34,7 +34,7 @@ class TestMyClass(unittest.TestCase):
         metrics = compute_relation_metrics(self.tuple_to_prediction.items())
         self.assertEqual(metrics["accuracy"], self.accuracy)
         self.assertEqual(metrics["consistency"], self.consistency)
-        self.assertEqual(metrics["consistency-accuracy"],
+        self.assertEqual(metrics["accuracy-consistency"],
                          self.consistency_accuracy)
         self.assertEqual(metrics["mlama-accuracy"], 0)
         metrics = compute_relation_metrics(self.tuple_to_prediction.items(),
@@ -53,7 +53,8 @@ class TestMyClass(unittest.TestCase):
         }
         m = mock.mock_open()
         with mock.patch('builtins.open', m), \
-                mock.patch('json.load') as json_load_mock:
+                mock.patch('json.load') as json_load_mock, \
+                mock.patch('wandb.run'):
             json_load_mock.return_value = self.tuple_to_prediction
             language_to_metrics = compute_metrics_by_language(mpararel, "", {})
         m.assert_any_call('en/P101.jsonl', 'r')
@@ -66,9 +67,22 @@ class TestMyClass(unittest.TestCase):
         self.assertSetEqual(
             set(list(language_to_metrics.items())[0][1].keys()),
             set([
-                "accuracy", "consistency", "consistency-accuracy",
+                "accuracy", "consistency", "accuracy-consistency",
                 "mlama-accuracy"
             ]))
+
+    def test_filter_predictions_repeated_subjects(self):
+        tuple_to_prediction = self.tuple_to_prediction
+        tuple_to_prediction["Rubens Barrichello-Chile"] = [[
+            "[X] is [Y] citizen", "Chile", "0"
+        ]]
+        with mock.patch('wandb.run'):
+            filtered_tuple_to_prediction = filter_predictions(
+                set(self.templates), tuple_to_prediction.items(), True)
+        self.assertListEqual(
+            filtered_tuple_to_prediction,
+            [("Yves Mirande-France",
+              self.tuple_to_prediction["Yves Mirande-France"])])
 
 
 if __name__ == '__main__':

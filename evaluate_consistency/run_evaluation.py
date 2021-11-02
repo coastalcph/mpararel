@@ -1,8 +1,8 @@
 """Evaluate consistency and accuracy of the predictions in the mpararel dataset.
 
 python evaluate_consistency/run_evaluation.py \
-    --predictions_folder=$WORKDIR/data/predictions_mpararel/reviewed_mbert_base_cased \
-    --mpararel_folder=$WORKDIR/data/mpararel \
+    --predictions_folder=$WORKDIR/data/predictions_mpararel/reviewed_mbert_base_cased_2 \
+    --mpararel_folder=$WORKDIR/data/mpararel_reviewed_with_tag \
     --mlama_folder=$WORKDIR/data/mlama1.1
 """
 import argparse
@@ -45,16 +45,24 @@ def compute_relation_metrics(tuple_to_prediction, mlama_template=None):
         metrics["mlama-accuracy"] += mlama_accuracy_count
         total_consistency_pairs = len(predictions) * (len(predictions) - 1) / 2
         metrics["consistency"] += consistency_count / total_consistency_pairs
-        metrics["consistency-accuracy"] += (accuracy_consistency_count /
+        metrics["accuracy-consistency"] += (accuracy_consistency_count /
                                             total_consistency_pairs)
     for metric_name in metrics.keys():
         metrics[metric_name] /= len(tuple_to_prediction)
     return metrics
 
 
-def get_only_mpararel_predictions(mpararel_templates, tuple_to_prediction):
+def filter_predictions(mpararel_templates,
+                       tuple_to_prediction,
+                       remove_repeated_subjects=False):
     filtered_tuple_to_prediction = []
+    subject_count = collections.Counter(
+        [data.split('-')[0] for data, _ in tuple_to_prediction])
+    repeated_subjects = 0
     for data, predictions in tuple_to_prediction:
+        if subject_count[data.split('-')[0]] > 1 and remove_repeated_subjects:
+            repeated_subjects += 1
+            continue
         templates = set([p[0] for p in predictions])
         if mpararel_templates.difference(templates):
             LOG.warning(
@@ -62,15 +70,26 @@ def get_only_mpararel_predictions(mpararel_templates, tuple_to_prediction):
                     mpararel_templates.difference(templates)))
         filtered_tuple_to_prediction.append(
             (data, [p for p in predictions if p[0] in mpararel_templates]))
+    wandb.run.summary["removed_repeated_subjects"] = repeated_subjects
     return filtered_tuple_to_prediction
 
 
-def compute_metrics_by_language(mpararel, predictions_folder, mlama):
+def compute_metrics_by_language(mpararel,
+                                predictions_folder,
+                                mlama,
+                                remove_repeated_subjects=False):
     """Computes the metrics based on the templates in mpararel."""
     language_to_metrics = collections.defaultdict(
         lambda: collections.defaultdict(float))
     for language in tqdm.tqdm(mpararel.keys()):
         for relation in mpararel[language].keys():
+            # When looking at only the reviewed templates this could happen.
+            if len(mpararel[language][relation]) < 2:
+                LOG.info(
+                    "Skipping relation '{}' in language '{}' because there's {}"
+                    " templates".format(relation, language,
+                                        len(mpararel[language][relation])))
+                continue
             # The corrected chinese codes are not in mLAMA.
             if (language in mlama
                     and relation[:-len(".jsonl")] in mlama[language]):
@@ -83,8 +102,9 @@ def compute_metrics_by_language(mpararel, predictions_folder, mlama):
             with open(os.path.join(predictions_folder, language, relation),
                       'r') as f:
                 tuple_to_prediction = json.load(f)
-                tuple_to_prediction = get_only_mpararel_predictions(
-                    mpararel[language][relation], tuple_to_prediction.items())
+                tuple_to_prediction = filter_predictions(
+                    mpararel[language][relation], tuple_to_prediction.items(),
+                    remove_repeated_subjects)
                 metrics = compute_relation_metrics(tuple_to_prediction,
                                                    mlama_template)
             for metric_name, value in metrics.items():
@@ -103,9 +123,9 @@ def main(args):
     mlama = read_mlama(args.mlama_folder)
     mpararel = read_mpararel_templates(args.mpararel_folder,
                                        args.only_human_reviewed)
-    language_to_metrics = compute_metrics_by_language(mpararel,
-                                                      args.predictions_folder,
-                                                      mlama)
+    language_to_metrics = compute_metrics_by_language(
+        mpararel, args.predictions_folder, mlama,
+        args.remove_repeated_subjects)
     english_metrics = list(language_to_metrics["en"].items())
     for metric, en_value in english_metrics:
         wandb.run.summary[f"en - {metric}"] = en_value
@@ -149,6 +169,9 @@ def create_parser():
                         required=True,
                         help="")
     parser.add_argument("--only_human_reviewed",
+                        default=False,
+                        action="store_true")
+    parser.add_argument("--remove_repeated_subjects",
                         default=False,
                         action="store_true")
     return parser
