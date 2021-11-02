@@ -58,20 +58,20 @@ def filter_predictions(mpararel_templates,
     filtered_tuple_to_prediction = []
     subject_count = collections.Counter(
         [data.split('-')[0] for data, _ in tuple_to_prediction])
-    repeated_subjects = 0
+    stats = {"removed_repeated_subjects": 0, "total_phrases": 0}
     for data, predictions in tuple_to_prediction:
         if subject_count[data.split('-')[0]] > 1 and remove_repeated_subjects:
-            repeated_subjects += 1
+            stats["removed_repeated_subjects"] += 1
             continue
         templates = set([p[0] for p in predictions])
         if mpararel_templates.difference(templates):
             LOG.warning(
                 "mpararel templates not found in the predictions: {}".format(
                     mpararel_templates.difference(templates)))
+        stats["total_phrases"] += len(mpararel_templates)
         filtered_tuple_to_prediction.append(
             (data, [p for p in predictions if p[0] in mpararel_templates]))
-    wandb.run.summary["removed_repeated_subjects"] = repeated_subjects
-    return filtered_tuple_to_prediction
+    return filtered_tuple_to_prediction, stats
 
 
 def compute_metrics_by_language(mpararel,
@@ -81,6 +81,8 @@ def compute_metrics_by_language(mpararel,
     """Computes the metrics based on the templates in mpararel."""
     language_to_metrics = collections.defaultdict(
         lambda: collections.defaultdict(float))
+    language_to_stats = collections.defaultdict(
+        lambda: collections.defaultdict(int))
     for language in tqdm.tqdm(mpararel.keys()):
         for relation in mpararel[language].keys():
             # When looking at only the reviewed templates this could happen.
@@ -102,9 +104,10 @@ def compute_metrics_by_language(mpararel,
             with open(os.path.join(predictions_folder, language, relation),
                       'r') as f:
                 tuple_to_prediction = json.load(f)
-                tuple_to_prediction = filter_predictions(
-                    mpararel[language][relation], tuple_to_prediction.items(),
-                    remove_repeated_subjects)
+                tuple_to_prediction, language_to_stats[
+                    language] = filter_predictions(
+                        mpararel[language][relation],
+                        tuple_to_prediction.items(), remove_repeated_subjects)
                 metrics = compute_relation_metrics(tuple_to_prediction,
                                                    mlama_template)
             for metric_name, value in metrics.items():
@@ -113,7 +116,7 @@ def compute_metrics_by_language(mpararel,
         for metric_name in language_to_metrics[language].keys():
             language_to_metrics[language][metric_name] /= len(
                 mpararel[language])
-    return language_to_metrics
+    return language_to_metrics, language_to_stats
 
 
 def main(args):
@@ -123,7 +126,7 @@ def main(args):
     mlama = read_mlama(args.mlama_folder)
     mpararel = read_mpararel_templates(args.mpararel_folder,
                                        args.only_human_reviewed)
-    language_to_metrics = compute_metrics_by_language(
+    language_to_metrics, language_to_stats = compute_metrics_by_language(
         mpararel, args.predictions_folder, mlama,
         args.remove_repeated_subjects)
     english_metrics = list(language_to_metrics["en"].items())
@@ -148,6 +151,18 @@ def main(args):
                            columns[0],
                            columns[1],
                            title=metric)
+        })
+    stats = list(language_to_stats.items())[0][1].keys()
+    for stat in stats:
+        data = [(l, language_to_stats[l][stat])
+                for l in language_to_stats.keys()]
+        columns = ["language", "value"]
+        wandb.log({
+            metric:
+            wandb.plot.bar(wandb.Table(data=data, columns=columns),
+                           columns[0],
+                           columns[1],
+                           title=stat)
         })
 
 

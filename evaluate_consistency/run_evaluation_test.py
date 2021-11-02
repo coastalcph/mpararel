@@ -56,7 +56,8 @@ class TestMyClass(unittest.TestCase):
                 mock.patch('json.load') as json_load_mock, \
                 mock.patch('wandb.run'):
             json_load_mock.return_value = self.tuple_to_prediction
-            language_to_metrics = compute_metrics_by_language(mpararel, "", {})
+            language_to_metrics, _ = compute_metrics_by_language(
+                mpararel, "", {})
         m.assert_any_call('en/P101.jsonl', 'r')
         m.assert_any_call('en/P102.jsonl', 'r')
         m.assert_any_call('es/P101.jsonl', 'r')
@@ -77,12 +78,14 @@ class TestMyClass(unittest.TestCase):
             "[X] is [Y] citizen", "Chile", "0"
         ]]
         with mock.patch('wandb.run'):
-            filtered_tuple_to_prediction = filter_predictions(
+            filtered_tuple_to_prediction, stats = filter_predictions(
                 set(self.templates), tuple_to_prediction.items(), True)
         self.assertListEqual(
             filtered_tuple_to_prediction,
             [("Yves Mirande-France",
               self.tuple_to_prediction["Yves Mirande-France"])])
+        self.assertEqual(stats["removed_repeated_subjects"], 2)
+        self.assertEqual(stats["total_phrases"], 4)
 
 
 if __name__ == '__main__':
