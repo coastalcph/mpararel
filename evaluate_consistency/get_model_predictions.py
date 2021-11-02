@@ -14,6 +14,7 @@ import os
 import time
 from collections import defaultdict
 from dataclasses import dataclass
+import shutil
 
 import numpy as np
 import torch
@@ -171,6 +172,8 @@ def get_candidates_probabilities(logits_i, mask_indexes_i,
 
 
 def write_predictions(results, output_folder, path_to_existing_predictions):
+    if os.path.exists(output_folder):
+        raise Exception("Output folder already exists.")
     for language, relation_to_predictions in results.items():
         os.makedirs(os.path.join(output_folder, language), exist_ok=True)
         relations = set(relation_to_predictions.keys())
@@ -201,6 +204,14 @@ def write_predictions(results, output_folder, path_to_existing_predictions):
             filename = os.path.join(output_folder, language, relation)
             with open(filename, 'w') as f:
                 json.dump(tuple_to_predictions, f)
+    if path_to_existing_predictions:
+        existing_languages = set(
+            os.listdir(os.path.join(path_to_existing_predictions)))
+        missing_languages = existing_languages.difference(set(results.keys()))
+        for language in missing_languages:
+            shutil.copytree(
+                os.path.join(path_to_existing_predictions, language),
+                os.path.join(output_folder, language))
 
 
 def init_wandb(args):

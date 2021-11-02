@@ -236,8 +236,9 @@ class TestGetModelsPredictions(unittest.TestCase):
         with mock.patch('builtins.open', m), mock.patch('os.makedirs'), \
                 mock.patch('os.listdir') as mock_listdir, \
                 mock.patch('os.path.isfile') as mock_isfile, \
-                mock.patch('json.load') as json_load_mock:
-            mock_listdir.return_value = ["P101.jsonl"]
+                mock.patch('json.load') as json_load_mock, \
+                mock.patch('shutil.copytree') as copy_mock :
+            mock_listdir.side_effect = lambda path: ["P101.jsonl"] if path.endswith("en") else ["es", "en"]
             mock_isfile.side_effect = lambda path: path.endswith("P101.jsonl")
             json_load_mock.return_value = {
                 "Ottawa-Canada":
@@ -265,6 +266,7 @@ class TestGetModelsPredictions(unittest.TestCase):
             mock.call(en_p303, m())
         ],
                                         any_order=True)
+        copy_mock.assert_called_once_with("existing/es", "output/es")
 
 
 if __name__ == '__main__':
