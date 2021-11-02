@@ -1,8 +1,8 @@
 """Evaluate consistency and accuracy of the predictions in the mpararel dataset.
 
 python evaluate_consistency/run_evaluation.py \
-    --predictions_folder=$WORKDIR/data/mpararel_predictions/mbert_cased_wrong
-    --mlama_folder=$WORKDIR/data/mlama1.1 \
+    --predictions_folder=$WORKDIR/data/predictions_mpararel/reviewed_mbert_base_cased \
+    --mlama_folder=$WORKDIR/data/mlama1.1
 """
 import argparse
 import collections
@@ -18,7 +18,7 @@ from dataset.create_mpararel import read_mlama
 LOG = get_logger(__name__)
 
 
-def compute_relation_metrics(tuple_to_prediction, mlama_template):
+def compute_relation_metrics(tuple_to_prediction, mlama_template=None):
     """Computes the metrics for one relation predictions."""
     metrics = collections.defaultdict(float)
     # Iterate over the tuples.
@@ -32,7 +32,7 @@ def compute_relation_metrics(tuple_to_prediction, mlama_template):
                 rank_of_correct_i) in enumerate(predictions):
             if rank_of_correct_i == "0":
                 accuracy_count += 1
-                if template == mlama_template:
+                if mlama_template is not None and template == mlama_template:
                     mlama_accuracy_count += 1
             for _, prediction_j, _ in predictions[i + 1:]:
                 if prediction_i == prediction_j:
@@ -63,9 +63,18 @@ def main(args):
         for relation_file in relations:
             with open(os.path.join(language_dir, relation_file)) as f:
                 tuple_to_prediction = json.load(f)
-                metrics = compute_relation_metrics(
-                    tuple_to_prediction,
-                    mlama[language][relation_file[:-len(".jsonl")]])
+                # The corrected chinese codes are not in mLAMA.
+                if (language in mlama
+                        and relation_file[:-len(".jsonl")] in mlama[language]):
+                    mlama_template = mlama[language][
+                        relation_file[:-len(".jsonl")]]
+                else:
+                    LOG.info(
+                        "language or relation not in mLAMA (language={}, relation={})"
+                        .format(language, relation_file))
+                    mlama_template = None
+                metrics = compute_relation_metrics(tuple_to_prediction,
+                                                   mlama_template)
                 for metric_name, value in metrics.items():
                     language_to_metrics[language][metric_name] += value
         # We take the macro average across the relations.
