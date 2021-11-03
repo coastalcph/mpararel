@@ -324,7 +324,7 @@ def log_statistics(df_valid, agreed_translations):
     data = []
     columns = [
         "language", "#relations", "min #patterns", "max #patterns",
-        "avg #patterns", "total patterns"
+        "avg #patterns", "total patterns", "total phrases"
     ]
     num_patterns = []
     num_relations = []
@@ -334,7 +334,7 @@ def log_statistics(df_valid, agreed_translations):
         data.append(
             (lang, len(relations), this_df["count_patterns"].min(),
              this_df["count_patterns"].max(), this_df["count_patterns"].mean(),
-             this_df["count_patterns"].sum()))
+             this_df["count_patterns"].sum(), this_df["phrases_count"].sum()))
         num_patterns.append(this_df["count_patterns"].sum())
         num_relations.append(len(relations))
     wandb.run.summary["avg. #relations"] = np.average(num_relations)
