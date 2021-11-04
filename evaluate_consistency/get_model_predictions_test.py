@@ -223,6 +223,9 @@ class TestGetModelsPredictions(unittest.TestCase):
         en_p303 = {
             "Albert Einstein-Ulm": [('[X] was born in [Y]', "Berlin", "1")]
         }
+        fr_p101 = {
+            "Ottawa-Canadá": ["[X] est la capitale de [Y]", "Canadá", "0"]
+        }
         results = {
             "en": {
                 "P101.jsonl": {
@@ -231,6 +234,9 @@ class TestGetModelsPredictions(unittest.TestCase):
                 },
                 "P303.jsonl": en_p303
             },
+            "fr": {
+                "P101.jsonl": fr_p101
+            }
         }
         m = mock.mock_open()
         with mock.patch('builtins.open', m), mock.patch('os.makedirs'), \
@@ -238,7 +244,11 @@ class TestGetModelsPredictions(unittest.TestCase):
                 mock.patch('os.path.isfile') as mock_isfile, \
                 mock.patch('json.load') as json_load_mock, \
                 mock.patch('shutil.copytree') as copy_mock :
-            mock_listdir.side_effect = lambda path: ["P101.jsonl"] if path.endswith("en") else ["es", "en"]
+            list_dir_dispatch = {
+                "existing/en": ["P101.jsonl"],
+                "existing": ["es", "en"]
+            }
+            mock_listdir.side_effect = lambda path: list_dir_dispatch[path]
             mock_isfile.side_effect = lambda path: path.endswith("P101.jsonl")
             json_load_mock.return_value = {
                 "Ottawa-Canada":
@@ -252,6 +262,7 @@ class TestGetModelsPredictions(unittest.TestCase):
         m.assert_any_call('existing/en/P101.jsonl', 'r')
         m.assert_any_call('output/en/P101.jsonl', 'w')
         m.assert_any_call('output/en/P303.jsonl', 'w')
+        m.assert_any_call('output/fr/P101.jsonl', 'w')
         json_dump_mock.assert_has_calls([
             mock.call(
                 {
@@ -263,7 +274,8 @@ class TestGetModelsPredictions(unittest.TestCase):
                         ('[X] is the capital of [Y]', 'Germany', '0')
                     ]
                 }, m()),
-            mock.call(en_p303, m())
+            mock.call(en_p303, m()),
+            mock.call(fr_p101, m())
         ],
                                         any_order=True)
         copy_mock.assert_called_once_with("existing/es", "output/es")

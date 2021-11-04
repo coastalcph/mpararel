@@ -11,10 +11,12 @@ import argparse
 import json
 import logging
 import os
+import pickle
+import shutil
 import time
+import traceback
 from collections import defaultdict
 from dataclasses import dataclass
-import shutil
 
 import numpy as np
 import torch
@@ -174,44 +176,55 @@ def get_candidates_probabilities(logits_i, mask_indexes_i,
 def write_predictions(results, output_folder, path_to_existing_predictions):
     if os.path.exists(output_folder):
         raise Exception("Output folder already exists.")
-    for language, relation_to_predictions in results.items():
-        os.makedirs(os.path.join(output_folder, language), exist_ok=True)
-        relations = set(relation_to_predictions.keys())
-        if path_to_existing_predictions:
-            existing_relations = os.listdir(
-                os.path.join(path_to_existing_predictions, language))
-            relations.update(set(existing_relations))
-        for relation in relations:
-            # relation_to_predictions is a defaultdict so it'd be an empty list
-            # if there are no predictions for that relation.
-            tuple_to_predictions = relation_to_predictions[relation]
-            if path_to_existing_predictions and os.path.isfile(
-                    os.path.join(path_to_existing_predictions, language,
-                                 relation)):
-                with open(
+    try:
+        for language, relation_to_predictions in results.items():
+            os.makedirs(os.path.join(output_folder, language), exist_ok=True)
+            relations = set(relation_to_predictions.keys())
+            if path_to_existing_predictions and os.path.exists(
+                    os.path.join(path_to_existing_predictions, language)):
+                existing_relations = os.listdir(
+                    os.path.join(path_to_existing_predictions, language))
+                relations.update(set(existing_relations))
+            for relation in relations:
+                # relation_to_predictions is a defaultdict so it'd be an empty list
+                # if there are no predictions for that relation.
+                tuple_to_predictions = relation_to_predictions[relation]
+                if path_to_existing_predictions and os.path.isfile(
                         os.path.join(path_to_existing_predictions, language,
-                                     relation), 'r') as existing_f:
-                    existing_tuple_to_predictions = json.load(existing_f)
-                    for (tuple,
-                         predictions) in existing_tuple_to_predictions.items():
-                        if tuple in tuple_to_predictions:
-                            # We assumed only new templates are in
-                            # tuple_to_predictions, so we can safely merge the
-                            # predictions knowing there will be no duplicates.
-                            tuple_to_predictions[tuple] += predictions
-                        else:
-                            tuple_to_predictions[tuple] = predictions
-            filename = os.path.join(output_folder, language, relation)
-            with open(filename, 'w') as f:
-                json.dump(tuple_to_predictions, f)
-    if path_to_existing_predictions:
-        existing_languages = set(
-            os.listdir(os.path.join(path_to_existing_predictions)))
-        missing_languages = existing_languages.difference(set(results.keys()))
-        for language in missing_languages:
-            shutil.copytree(
-                os.path.join(path_to_existing_predictions, language),
-                os.path.join(output_folder, language))
+                                     relation)):
+                    with open(
+                            os.path.join(path_to_existing_predictions,
+                                         language, relation),
+                            'r') as existing_f:
+                        existing_tuple_to_predictions = json.load(existing_f)
+                        for (tuple, predictions
+                             ) in existing_tuple_to_predictions.items():
+                            if tuple in tuple_to_predictions:
+                                # We assumed only new templates are in
+                                # tuple_to_predictions, so we can safely merge the
+                                # predictions knowing there will be no duplicates.
+                                tuple_to_predictions[tuple] += predictions
+                            else:
+                                tuple_to_predictions[tuple] = predictions
+                filename = os.path.join(output_folder, language, relation)
+                with open(filename, 'w') as f:
+                    json.dump(tuple_to_predictions, f)
+        if path_to_existing_predictions:
+            existing_languages = set(os.listdir(path_to_existing_predictions))
+            missing_languages = existing_languages.difference(
+                set(results.keys()))
+            for language in missing_languages:
+                shutil.copytree(
+                    os.path.join(path_to_existing_predictions, language),
+                    os.path.join(output_folder, language))
+    except Exception as e:
+        results_not_default = {}
+        for language, relation_to_predictions in results.items():
+            results_not_default[language] = dict(relation_to_predictions)
+        with open("./results.pickle", 'wb') as f:
+            pickle.dump(results_not_default, f)
+        print(traceback.format_exc())
+        raise Exception(e)
 
 
 def init_wandb(args):
