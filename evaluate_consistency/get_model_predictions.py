@@ -57,14 +57,14 @@ class GenerateTemplateTupleExamples():
                  get_candidates,
                  get_templates,
                  get_tuples,
-                 add_point=False) -> None:
+                 add_at_eos=None) -> None:
         self.tokenizer = tokenizer
         self.languages = languages
         self.relations = relations
         self.get_candidates = get_candidates
         self.get_templates = get_templates
         self.get_tuples = get_tuples
-        self.add_point = add_point
+        self.add_at_eos = add_at_eos
 
     def load_existing_predictions(self, path):
         self.existing_predictions = defaultdict(
@@ -113,7 +113,7 @@ class GenerateTemplateTupleExamples():
                             inputs.append(
                                 get_populated_template(
                                     template, tuple, self.tokenizer.mask_token,
-                                    masks_count, self.add_point))
+                                    masks_count, self.add_at_eos))
                             candidates_to_ids.append(
                                 tokens_count_to_obj_to_ids[masks_count])
                         this_template_tuple = TemplateTuple(
@@ -148,12 +148,12 @@ def get_populated_template(template,
                            tuple,
                            mask_token,
                            mask_token_count,
-                           add_point=False):
+                           add_at_eos=None):
     template = template.replace("[X]", tuple[SUBJECT_KEY])
     template = template.replace("[Y]",
                                 ' '.join([mask_token] * mask_token_count))
-    if add_point:
-        template = template + ' .'
+    if add_at_eos:
+        template = template + add_at_eos
     return template
 
 
@@ -312,7 +312,7 @@ def main(args):
      get_tuples) = get_data(args)
     template_tuple_examples = GenerateTemplateTupleExamples(
         tokenizer, languages, relations, get_candidates, get_templates,
-        get_tuples, args.add_period_to_sentences)
+        get_tuples, args.add_end_of_sentence_punctuation)
     if args.path_to_existing_predictions:
         template_tuple_examples.load_existing_predictions(
             args.path_to_existing_predictions)
@@ -395,12 +395,10 @@ def create_parser():
         "--only_languages",
         nargs='*',
         help="If you don't want to iterate over all languages.")
-    parser.add_argument(
-        "--add_period_to_sentences",
-        action='store_true',
-        help="If true ' .' is added at the end of the phrases. This shouldn't "
-        "be used for all the languages as not all the languages use a period as"
-        " end puntuaction.")
+    parser.add_argument("--add_end_of_sentence_punctuation",
+                        default=None,
+                        type=str,
+                        help="")
     parser.add_argument("--model_name",
                         default=None,
                         type=str,

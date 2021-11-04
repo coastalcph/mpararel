@@ -134,7 +134,7 @@ class TestGetModelsPredictions(unittest.TestCase):
             get_candidates,
             get_templates,
             get_tuples,
-            add_point=True)
+            add_at_eos=' .')
         results = [r for r in template_tuple_examples]
         expected_results = [
             ([
