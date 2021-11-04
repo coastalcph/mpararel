@@ -80,6 +80,10 @@ def compute_metrics_by_language(mpararel,
                                 remove_repeated_subjects=False):
     """Computes the metrics based on the templates in mpararel."""
     language_to_metrics = collections.defaultdict(
+        lambda: collections.defaultdict(list))
+    language_to_avg_metrics = collections.defaultdict(
+        lambda: collections.defaultdict(float))
+    language_to_std_metrics = collections.defaultdict(
         lambda: collections.defaultdict(float))
     language_to_stats = collections.defaultdict(
         lambda: collections.defaultdict(int))
@@ -111,14 +115,15 @@ def compute_metrics_by_language(mpararel,
                     language_to_stats[language][stat_name] += value
                 metrics = compute_relation_metrics(tuple_to_prediction,
                                                    mlama_template)
-                print(language, relation, metrics)
             for metric_name, value in metrics.items():
-                language_to_metrics[language][metric_name] += value
+                language_to_metrics[language][metric_name].append(value)
         # We take the macro average across the relations.
         for metric_name in language_to_metrics[language].keys():
-            language_to_metrics[language][metric_name] /= len(
-                mpararel[language])
-    return language_to_metrics, language_to_stats
+            language_to_avg_metrics[language][metric_name] = np.average(
+                language_to_metrics[language][metric_name])
+            language_to_std_metrics[language][metric_name] = np.std(
+                language_to_metrics[language][metric_name])
+    return language_to_avg_metrics, language_to_std_metrics, language_to_stats
 
 
 def main(args):
@@ -133,25 +138,16 @@ def main(args):
             set(args.only_languages))
         for to_remove in remove_languages:
             mpararel.pop(to_remove)
-    language_to_metrics, language_to_stats = compute_metrics_by_language(
-        mpararel, args.predictions_folder, mlama,
-        args.remove_repeated_subjects, args.micro_average)
-    english_metrics = list(language_to_metrics["en"].items())
-    for metric, en_value in english_metrics:
-        wandb.run.summary[f"en - {metric}"] = en_value
-        r_metric = []
-        for lang in language_to_metrics.keys():
-            language_to_metrics[lang]["r-" + metric] = (
-                language_to_metrics[lang][metric] / (en_value + 1e-13))
-            r_metric.append(language_to_metrics[lang]["r-" + metric])
-        wandb.run.summary["min r-" + metric] = min(r_metric)
-        wandb.run.summary["max r-" + metric] = max(r_metric)
-        wandb.run.summary["avg r-" + metric] = np.average(np.array(r_metric))
-    metrics = list(language_to_metrics.items())[0][1].keys()
+    (language_to_avg_metrics, language_to_std_metrics,
+     language_to_stats) = compute_metrics_by_language(
+         mpararel, args.predictions_folder, mlama,
+         args.remove_repeated_subjects, args.micro_average)
+    metrics = list(language_to_avg_metrics.items())[0][1].keys()
     for metric in metrics:
-        data = [(l, language_to_metrics[l][metric])
-                for l in language_to_metrics.keys()]
-        columns = ["language", "value"]
+        data = [(l, language_to_avg_metrics[l][metric],
+                 language_to_std_metrics[l][metric])
+                for l in language_to_avg_metrics.keys()]
+        columns = ["language", "value", "std"]
         wandb.log({
             metric:
             wandb.plot.bar(wandb.Table(data=data, columns=columns),

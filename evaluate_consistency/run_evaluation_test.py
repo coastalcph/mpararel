@@ -55,17 +55,21 @@ class TestMyClass(unittest.TestCase):
         with mock.patch('builtins.open', m), \
                 mock.patch('json.load') as json_load_mock:
             json_load_mock.return_value = self.tuple_to_prediction
-            language_to_metrics, stats_by_language = compute_metrics_by_language(
-                mpararel, "", {})
+            (language_to_avg_metrics, language_to_std_metrics,
+             stats_by_language) = compute_metrics_by_language(
+                 mpararel, "", {})
         m.assert_any_call('en/P101.jsonl', 'r')
         m.assert_any_call('en/P102.jsonl', 'r')
         m.assert_any_call('es/P101.jsonl', 'r')
         # The macro average would divide by 2 so the accuracy would be the same
         # as in one relation.
-        self.assertEqual(language_to_metrics["en"]["accuracy"], self.accuracy)
-        self.assertEqual(language_to_metrics["es"]["accuracy"], 0.25)
+        self.assertEqual(language_to_avg_metrics["en"]["accuracy"],
+                         self.accuracy)
+        self.assertEqual(language_to_avg_metrics["es"]["accuracy"], 0.25)
+        self.assertEqual(language_to_std_metrics["en"]["accuracy"], 0.0)
+        self.assertEqual(language_to_std_metrics["es"]["accuracy"], 0.0)
         self.assertSetEqual(
-            set(list(language_to_metrics.items())[0][1].keys()),
+            set(list(language_to_avg_metrics.items())[0][1].keys()),
             set([
                 "accuracy", "consistency", "accuracy-consistency",
                 "mlama-accuracy"
@@ -87,6 +91,28 @@ class TestMyClass(unittest.TestCase):
                     len(self.tuple_to_prediction.keys())
                 },
             })
+
+    def test_compute_metrics_by_language_std(self):
+        mpararel = {
+            "en": {
+                "P101.jsonl": set(self.templates[:2]),  # 0.25
+                "P102.jsonl": set(self.templates)  # 0.5
+            },
+        }
+        m = mock.mock_open()
+        with mock.patch('builtins.open', m), \
+                mock.patch('json.load') as json_load_mock:
+            json_load_mock.return_value = self.tuple_to_prediction
+            (language_to_avg_metrics, language_to_std_metrics,
+             _) = compute_metrics_by_language(mpararel, "", {})
+        m.assert_any_call('en/P101.jsonl', 'r')
+        m.assert_any_call('en/P102.jsonl', 'r')
+        # The macro average would divide by 2 so the accuracy would be the same
+        # as in one relation.
+        self.assertEqual(language_to_avg_metrics["en"]["accuracy"],
+                         np.average([0.25, 0.5]))
+        self.assertEqual(language_to_std_metrics["en"]["accuracy"],
+                         np.std([0.25, 0.5]))
 
     def test_filter_predictions_repeated_subjects(self):
         tuple_to_prediction = self.tuple_to_prediction
