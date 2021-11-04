@@ -53,10 +53,9 @@ class TestMyClass(unittest.TestCase):
         }
         m = mock.mock_open()
         with mock.patch('builtins.open', m), \
-                mock.patch('json.load') as json_load_mock, \
-                mock.patch('wandb.run'):
+                mock.patch('json.load') as json_load_mock:
             json_load_mock.return_value = self.tuple_to_prediction
-            language_to_metrics, _ = compute_metrics_by_language(
+            language_to_metrics, stats_by_language = compute_metrics_by_language(
                 mpararel, "", {})
         m.assert_any_call('en/P101.jsonl', 'r')
         m.assert_any_call('en/P102.jsonl', 'r')
@@ -71,6 +70,23 @@ class TestMyClass(unittest.TestCase):
                 "accuracy", "consistency", "accuracy-consistency",
                 "mlama-accuracy"
             ]))
+        self.assertDictEqual(
+            stats_by_language, {
+                "en": {
+                    "removed_repeated_subjects":
+                    0,
+                    "total_phrases":
+                    len(self.templates) * 2 *
+                    len(self.tuple_to_prediction.keys())
+                },
+                "es": {
+                    "removed_repeated_subjects":
+                    0,
+                    "total_phrases":
+                    len(self.templates[:2]) *
+                    len(self.tuple_to_prediction.keys())
+                },
+            })
 
     def test_filter_predictions_repeated_subjects(self):
         tuple_to_prediction = self.tuple_to_prediction

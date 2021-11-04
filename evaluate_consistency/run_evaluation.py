@@ -104,12 +104,14 @@ def compute_metrics_by_language(mpararel,
             with open(os.path.join(predictions_folder, language, relation),
                       'r') as f:
                 tuple_to_prediction = json.load(f)
-                tuple_to_prediction, language_to_stats[
-                    language] = filter_predictions(
-                        mpararel[language][relation],
-                        tuple_to_prediction.items(), remove_repeated_subjects)
+                tuple_to_prediction, stats = filter_predictions(
+                    mpararel[language][relation], tuple_to_prediction.items(),
+                    remove_repeated_subjects)
+                for stat_name, value in stats.items():
+                    language_to_stats[language][stat_name] += value
                 metrics = compute_relation_metrics(tuple_to_prediction,
                                                    mlama_template)
+                print(language, relation, metrics)
             for metric_name, value in metrics.items():
                 language_to_metrics[language][metric_name] += value
         # We take the macro average across the relations.
@@ -126,9 +128,14 @@ def main(args):
     mlama = read_mlama(args.mlama_folder)
     mpararel = read_mpararel_templates(args.mpararel_folder,
                                        args.only_human_reviewed)
+    if args.only_languages:
+        remove_languages = set(mpararel.keys()).difference(
+            set(args.only_languages))
+        for to_remove in remove_languages:
+            mpararel.pop(to_remove)
     language_to_metrics, language_to_stats = compute_metrics_by_language(
         mpararel, args.predictions_folder, mlama,
-        args.remove_repeated_subjects)
+        args.remove_repeated_subjects, args.micro_average)
     english_metrics = list(language_to_metrics["en"].items())
     for metric, en_value in english_metrics:
         wandb.run.summary[f"en - {metric}"] = en_value
@@ -158,7 +165,7 @@ def main(args):
                 for l in language_to_stats.keys()]
         columns = ["language", "value"]
         wandb.log({
-            metric:
+            stat:
             wandb.plot.bar(wandb.Table(data=data, columns=columns),
                            columns[0],
                            columns[1],
@@ -189,6 +196,14 @@ def create_parser():
     parser.add_argument("--remove_repeated_subjects",
                         default=False,
                         action="store_true")
+    parser.add_argument("--only_languages", nargs='*', help="")
+    parser.add_argument(
+        "--micro_average",
+        default=False,
+        action="store_true",
+        help=
+        "To compute the micro average between the relations, note that we'd still be computing the macro averages"
+    )
     return parser
 
 
