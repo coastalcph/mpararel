@@ -12,6 +12,7 @@ VALID_RELATIONS = set([
     'P530', 'P47'
 ])
 
+
 # TODO: test
 def read_mpararel_templates(mpararel_folder, only_human_reviewed=False):
     mpararel_folder = os.path.join(mpararel_folder, "patterns")
@@ -21,11 +22,11 @@ def read_mpararel_templates(mpararel_folder, only_human_reviewed=False):
         for relation_file in os.listdir(language_dir):
             with open(os.path.join(language_dir, relation_file)) as f:
                 for line in f:
-                    if (line and
-                        (line_data[HUMAN_CHECKED] or not only_human_reviewed)):
+                    if line:
                         line_data = json.loads(line)
-                        patterns[language][relation_file].add(
-                            line_data[PATTERN])
+                        if not only_human_reviewed or line_data[HUMAN_CHECKED]:
+                            patterns[language][relation_file].add(
+                                line_data[PATTERN])
     return patterns
 
 

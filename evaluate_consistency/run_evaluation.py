@@ -141,19 +141,19 @@ def main(args):
     (language_to_avg_metrics, language_to_std_metrics,
      language_to_stats) = compute_metrics_by_language(
          mpararel, args.predictions_folder, mlama,
-         args.remove_repeated_subjects, args.micro_average)
+         args.remove_repeated_subjects)
     metrics = list(language_to_avg_metrics.items())[0][1].keys()
     for metric in metrics:
         data = [(l, language_to_avg_metrics[l][metric],
                  language_to_std_metrics[l][metric])
                 for l in language_to_avg_metrics.keys()]
         columns = ["language", "value", "std"]
+        table = wandb.Table(data=data, columns=columns)
         wandb.log({
             metric:
-            wandb.plot.bar(wandb.Table(data=data, columns=columns),
-                           columns[0],
-                           columns[1],
-                           title=metric)
+            wandb.plot.bar(table, columns[0], columns[1], title=metric),
+            metric + "_table_std":
+            table
         })
     stats = list(language_to_stats.items())[0][1].keys()
     for stat in stats:
@@ -193,13 +193,6 @@ def create_parser():
                         default=False,
                         action="store_true")
     parser.add_argument("--only_languages", nargs='*', help="")
-    parser.add_argument(
-        "--micro_average",
-        default=False,
-        action="store_true",
-        help=
-        "To compute the micro average between the relations, note that we'd still be computing the macro averages"
-    )
     return parser
 
 
