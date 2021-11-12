@@ -30,7 +30,7 @@ SCOPES = [
 ]
 # Obtained from the Google Cloud App from the Drive API when creating service
 # credentials.
-CREDENTIALS_PATH = '/home/wsr217/mpararel/dataset/crowdsourcing/credentials.json'
+CREDENTIALS_PATH = './credentials.json'
 REVIEWERS_SHEET = "1LT6qo2BwdDfRr1Eusq7avLysPg-yDmfIxM53bxACoY0"
 TEMPLATE_SHEET = "1JYKEM6t12VzlYO0pM543Rv1wozpEvlMkEzbYVY65yeU"
 PERCENTAGE_TO_REVIEW = 0.5

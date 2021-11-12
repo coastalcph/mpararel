@@ -33,11 +33,7 @@ except RuntimeError:
     pass
 from transformers import AutoModelForMaskedLM, AutoTokenizer
 
-LOG = get_logger(
-    __name__,
-    '/home/wsr217/mpararel/evaluate_consistency/debug_logging_get_model_predictions.log',
-    level=logging.INFO,
-    only_file_level=logging.DEBUG)
+LOG = get_logger(__name__, level=logging.INFO)
 
 
 @dataclass

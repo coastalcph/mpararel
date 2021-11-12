@@ -31,7 +31,7 @@ class GoogleTranslator():
 
 class BingTranslator():
     LANGUAGE_CODES_HEADER = "bing_BCP_47"
-    BING_SUBSCRIPTION_KEY = "116942a2615b481d835e51af3cf569c0"
+    BING_SUBSCRIPTION_KEY = ""
     BING_ENDPOINT = "https://api.cognitive.microsofttranslator.com/"
 
     def translate(self, text, from_lang, to_lang):
@@ -140,3 +140,12 @@ def get_wiki_language_mapping(path: str, translator: Translator) -> dict:
 def get_wiki_languages(path: str) -> np.ndarray:
     language_mapping = pd.read_csv(path, sep='\t')
     return language_mapping.wiki.values
+
+
+def get_wiki_to_names(path: str) -> dict:
+    language_mapping = pd.read_csv(path, sep='\t')
+    return {
+        code: name
+        for code, name in zip(language_mapping.wiki.values,
+                              language_mapping.name.values)
+    }

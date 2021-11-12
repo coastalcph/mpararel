@@ -7,7 +7,7 @@ The repository was forked from https://github.com/norakassner/mlama from where w
 
 ## Dataset
 
-You can find the reviewed templates and the subject-object tuples in the folder `data/mpararel_reviewed`.
+You can find the reviewed templates and the subject-object tuples in the folder [`data/mpararel_reviewed`](https://github.com/coastalcph/mpararel/tree/master/data).
 
 ## Reproduce the results
 
@@ -45,7 +45,7 @@ You can also add the flags `--only_languages zh-hans` if you want don't want to 
 
 ## To recreate the dataset
 
-To recreate the generation of the dataset follow the steps in `dataset/mpararel.sh`
+To recreate the generation of the dataset follow the steps in [`dataset/mpararel.sh`](https://github.com/coastalcph/mpararel/blob/master/dataset/mpararel.sh)
 
 ## Reference:
 
