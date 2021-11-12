@@ -7,7 +7,7 @@ wget https://dl.fbaipublicfiles.com/LAMA/data.zip -P ${WORKDIR}/data/lama
 unzip ${WORKDIR}/data/lama/data.zip -d ${WORKDIR}/data/lama && rm ${WORKDIR}/data/lama/data.zip
 mv ${WORKDIR}/data/lama/data/TREx ${WORKDIR}/data/lama/TREx && rm -R ${WORKDIR}/data/lama/data
 
-# (2) Download entity data
+# (2) Download entity data.
 mkdir -p ${WORKDIR}/data/wikidata_entities
 python dataset/download_trexentities.py \
 --datapath ${WORKDIR}/data/lama/TREx \
