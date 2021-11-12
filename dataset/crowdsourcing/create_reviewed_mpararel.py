@@ -6,7 +6,8 @@ python dataset/crowdsourcing/create_reviewed_mpararel.py \
     --mpararel_folder=$WORKDIR/data/mpararel \
     --reviews_filepath=$WORKDIR/data/reviews_2.pickle \
     --use_reviews_in_file \
-    --output_folder=$WORKDIR/data/mpararel_reviewed/patterns
+    --add_ppdb_paraphrases \
+    --output_folder=$WORKDIR/data/mpararel_reviewed_ppdb/patterns
 """
 
 import argparse
@@ -28,6 +29,7 @@ import tqdm
 import wandb
 from dataset.crowdsourcing.generate_sheet import (CREDENTIALS_PATH,
                                                   REVIEWERS_SHEET, SCOPES)
+import dataset.ppdb_utils as ppdb_utils
 from dataset.constants import HUMAN_CHECKED, PATTERN
 from dataset.translate_utils import get_wiki_to_names
 from logger_utils import get_logger
@@ -94,6 +96,8 @@ def get_reviewed_version(existing_templates, templates_answers,
     existing_templates = existing_templates.copy()
     templates_reviewed_by_human = set()
     stats["Existing templates"] += len(existing_templates)
+    stats["Reviewed templates"] += len(templates_answers)
+    stats["Extra templates in sheet"] += len(extra_templates)
     # Remove incorrect ones
     for template, _, is_incorrect, correction in templates_answers:
         if template not in existing_templates:
@@ -123,10 +127,9 @@ def get_reviewed_version(existing_templates, templates_answers,
                 "The correction provided '{}' is not a valid template.".format(
                     cleaned_template))
         if cleaned_template not in existing_templates:
-            stats["Corrections and extra templates"] += len(extra_templates)
+            stats["Corrections and extra templates"] += 1
         existing_templates.add(cleaned_template)
         templates_reviewed_by_human.add(cleaned_template)
-    stats["Reviewed templates"] += len(existing_templates)
     return existing_templates, templates_reviewed_by_human, stats
 
 
@@ -190,6 +193,47 @@ def get_reviewed_mpararel(mpararel, reviews):
     for language in new_mpararel_def.keys():
         new_mpararel[language] = dict(new_mpararel_def[language])
     return new_mpararel, templates_checked_by_human, stats_by_language
+
+
+def add_ppdb_paraphrases(mpararel):
+    ppdb_templates = collections.defaultdict(
+        lambda: collections.defaultdict(set))
+    LOG.info("Looking in PPDB...")
+    counts = []
+    added_total = 0
+    for language in tqdm.tqdm(mpararel.keys()):
+        ppdb = ppdb_utils.get_ppdb_paraphrases(language)
+        if not ppdb:
+            continue
+        for relation in mpararel[language].keys():
+            for template in mpararel[language][relation]:
+                middle_text = ppdb_utils.get_middle_text(template)
+                if middle_text and middle_text in ppdb:
+                    ppdb_templates[language][relation].update(
+                        ["[X] {} [Y]".format(t) for t in ppdb[middle_text]])
+            if not ppdb_templates[language][relation]:
+                LOG.info(
+                    "No ppdb paraphrase found for language '{}/{}'".format(
+                        language, relation))
+            else:
+                new_templates_count = len(
+                    ppdb_templates[language][relation].difference(
+                        mpararel[language][relation]))
+                counts.append((language, relation, new_templates_count))
+                added_total += new_templates_count
+                LOG.info(
+                    "'{}' extra paraphrases added from ppdb in '{}/{}'".format(
+                        new_templates_count, language, relation))
+            mpararel[language][relation].update(
+                ppdb_templates[language][relation])
+    #wandb.log({
+    #    "ppdb_added":
+    #    wandb.Table(data=counts, columns=["language", "relation", "added"])
+    #})
+    LOG.info("PPDB added:")
+    print(counts)
+    wandb.run.summary["ppdb_added_total"] = added_total
+    return ppdb_templates
 
 
 def plot_barh_by_languages(column, old_data, new_data, title):
@@ -335,7 +379,13 @@ def log_reviews_stats(stats_by_language):
     wandb.log({"Reviews stats": wandb.Table(data=data, columns=columns)})
 
 
-def write_mpararel(output_folder, new_mpararel, templates_checked_by_human):
+def write_mpararel(output_folder,
+                   new_mpararel,
+                   templates_checked_by_human,
+                   ppdb_extras=None):
+    if ppdb_extras is None:
+        ppdb_extras = collections.defaultdict(
+            lambda: collections.defaultdict(int))
     if os.path.exists(output_folder):
         raise Exception("The output folder already exists.")
     for language in new_mpararel.keys():
@@ -349,7 +399,9 @@ def write_mpararel(output_folder, new_mpararel, templates_checked_by_human):
                             PATTERN:
                             template,
                             HUMAN_CHECKED:
-                            template in templates_checked_by_human[language]
+                            template in templates_checked_by_human[language],
+                            "from-ppdb":
+                            template in ppdb_extras[language][relation]
                         })))
 
 
@@ -375,15 +427,20 @@ def main(args):
     LOG.info("Constructing reviewed mpararel")
     (new_mpararel, templates_checked_by_human,
      stats_by_language) = get_reviewed_mpararel(mpararel, reviews)
-    remove_relations_with_not_enough_templates(new_mpararel)
-    log_reviews_stats(stats_by_language)
     reviewed_languages = list(new_mpararel.keys())
-    for lang_not_reviewed in set(mpararel.keys()).difference(
-            set(new_mpararel.keys())):
+    log_reviews_stats(stats_by_language)
+    for lang_not_reviewed in set(
+            mpararel.keys()).difference(reviewed_languages):
         new_mpararel[lang_not_reviewed] = mpararel[lang_not_reviewed]
     for language in REMOVE_LANGUAGES:
         new_mpararel.pop(language)
         mpararel.pop(language)
+    remove_relations_with_not_enough_templates(new_mpararel)
+    ppdb_extras = None
+    if args.add_ppdb_paraphrases:
+        ppdb_extras = add_ppdb_paraphrases(new_mpararel)
+        reviewed_languages = list(
+            set(reviewed_languages + list(ppdb_extras.keys())))
     LOG.info("Logging stats to wandb")
     log_overall_patterns_stats(mpararel, new_mpararel)
     wiki_code_to_name = get_wiki_to_names(args.language_mapping_file)
@@ -392,7 +449,7 @@ def main(args):
                           reviewed_languages)
     LOG.info("Writing reviewed mpararel")
     write_mpararel(args.output_folder, new_mpararel,
-                   templates_checked_by_human)
+                   templates_checked_by_human, ppdb_extras)
 
 
 def create_parser():
@@ -404,6 +461,7 @@ def create_parser():
                         help="The path to the folder with the mpararel data.")
     parser.add_argument("--reviews_filepath", required=True, type=str, help="")
     parser.add_argument("--use_reviews_in_file", action="store_true")
+    parser.add_argument("--add_ppdb_paraphrases", action="store_true")
     parser.add_argument("--language_mapping_file",
                         required=True,
                         type=str,
