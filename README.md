@@ -43,14 +43,9 @@ python evaluate_consistency/run_evaluation.py \
 ```
 You can also add the flags `--only_languages zh-hans` if you want don't want to get the numbers of all the languages in the mpararel_folder.
 
-## To recreate the dataset
+## Recreate the dataset
 
 To recreate the generation of the dataset follow the steps in [`dataset/mpararel.sh`](https://github.com/coastalcph/mpararel/blob/master/dataset/mpararel.sh)
-
-## Reference:
-
-```bibtex
-```
 
 ## Acknowledgements
 
