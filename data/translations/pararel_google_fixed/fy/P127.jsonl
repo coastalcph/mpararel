@@ -1,4 +1,0 @@
-{"pattern": "[X] is eigendom fan [Y].", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "[X] Eigner [Y].", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
-{"pattern": "[Y] besit [X].", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "De [Y] -Owned [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

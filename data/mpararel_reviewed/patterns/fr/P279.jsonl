@@ -1,0 +1,5 @@
+{"pattern": "[X], une sous-classe de [Y]", "checked-by-human": false}
+{"pattern": "[X] est une sous-classe de [Y]", "checked-by-human": true}
+{"pattern": "[X], un type de [Y]", "checked-by-human": false}
+{"pattern": "[X] est un type de [Y]", "checked-by-human": true}
+{"pattern": "[X], qui est une sous-classe de [Y]", "checked-by-human": true}

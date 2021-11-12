@@ -1,0 +1,4 @@
+{"pattern": "[Y] owns [X]", "checked-by-human": false}
+{"pattern": "the [Y]-owned [X]", "checked-by-human": false}
+{"pattern": "[X] is owned by [Y]", "checked-by-human": false}
+{"pattern": "[X] owner [Y]", "checked-by-human": false}

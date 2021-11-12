@@ -1,0 +1,6 @@
+{"pattern": "[X] \u00e9 empregado de [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e9 trabalhador de [Y]", "checked-by-human": true}
+{"pattern": "[X] trabalha para [Y]", "checked-by-human": true}
+{"pattern": "[X], que \u00e9 empregado por [Y]", "checked-by-human": true}
+{"pattern": "[X], que trabalha para [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e9 empregado por [Y]", "checked-by-human": false}

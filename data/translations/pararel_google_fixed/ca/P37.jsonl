@@ -1,9 +1,0 @@
-{"pattern": "La llengua oficial de [X] \u00e9s [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "La llengua oficial de [X] \u00e9s la llengua [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] \u00e9s la llengua oficial de [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "El llenguatge [Y] \u00e9s la llengua oficial de [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "A [X], [Y] \u00e9s la llengua oficial.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
-{"pattern": "Oficialment, [Y] \u00e9s la llengua de [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "La Llei de [X] declara [Y] la llengua oficial.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
-{"pattern": "La llei a [X] defineix [Y] com a llengua oficial.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
-{"pattern": "La llei de [X] defineix la llengua [Y] com a llengua oficial.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

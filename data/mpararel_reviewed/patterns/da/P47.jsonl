@@ -1,0 +1,11 @@
+{"pattern": "[Y] kanter med [X]", "checked-by-human": false}
+{"pattern": "[X] deler gr\u00e6nsen med [Y]", "checked-by-human": false}
+{"pattern": "[X] deler gr\u00e6nsen til [Y]", "checked-by-human": false}
+{"pattern": "[X] deler en f\u00e6lles gr\u00e6nse med [Y]", "checked-by-human": false}
+{"pattern": "[Y] deler sin gr\u00e6nse med [X]", "checked-by-human": true}
+{"pattern": "[X] deler sin gr\u00e6nse med [Y]", "checked-by-human": true}
+{"pattern": "[X] deler kanten med [Y]", "checked-by-human": false}
+{"pattern": "[Y] deler gr\u00e6nsen med [X]", "checked-by-human": false}
+{"pattern": "[Y] deler en f\u00e6lles gr\u00e6nse med [X]", "checked-by-human": true}
+{"pattern": "[X] kanter med [Y]", "checked-by-human": false}
+{"pattern": "[X] gr\u00e6nser op til [Y]", "checked-by-human": true}

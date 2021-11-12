@@ -1,0 +1,4 @@
+{"pattern": "[X] omistaa [Y]", "checked-by-human": false}
+{"pattern": "[Y] omistaa [X]", "checked-by-human": false}
+{"pattern": "[X] omistaja [Y]", "checked-by-human": false}
+{"pattern": "[Y]n omistama [X]", "checked-by-human": false}

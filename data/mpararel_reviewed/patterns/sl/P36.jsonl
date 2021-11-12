@@ -1,0 +1,12 @@
+{"pattern": "glavno mesto [X] je [Y]", "checked-by-human": false}
+{"pattern": "[Y], glavno mesto [X]", "checked-by-human": false}
+{"pattern": "[X], ki ima kapital [Y]", "checked-by-human": false}
+{"pattern": "glavno mesto [X], [Y]", "checked-by-human": false}
+{"pattern": "[Y] je glavno mesto [X]", "checked-by-human": false}
+{"pattern": "[X] je glavno mesto [Y]", "checked-by-human": false}
+{"pattern": "[X] glavno mesto je [Y]", "checked-by-human": false}
+{"pattern": "[X] je glavno mesto, [Y]", "checked-by-human": false}
+{"pattern": "kapital [X] je [Y]", "checked-by-human": false}
+{"pattern": "[X] je kapital, [Y]", "checked-by-human": false}
+{"pattern": "[Y], to je glavno mesto [X]", "checked-by-human": false}
+{"pattern": "[X], ki ima glavno mesto [Y]", "checked-by-human": false}

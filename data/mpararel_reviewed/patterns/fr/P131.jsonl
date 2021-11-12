@@ -1,0 +1,5 @@
+{"pattern": "[X] peut \u00eatre trouv\u00e9 \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] se trouve \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] est situ\u00e9e \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] est situ\u00e9 dans [Y]", "checked-by-human": false}
+{"pattern": "[X] est dans [Y]", "checked-by-human": false}

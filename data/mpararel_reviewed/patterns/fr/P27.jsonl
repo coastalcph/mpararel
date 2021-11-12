@@ -1,0 +1,15 @@
+{"pattern": "[X], qui est citoyen de [Y]", "checked-by-human": false}
+{"pattern": "[X], qui d\u00e9tient la citoyennet\u00e9 de [Y]", "checked-by-human": true}
+{"pattern": "[X] d\u00e9tient la citoyennet\u00e9 de [Y]", "checked-by-human": true}
+{"pattern": "[X], qui a la citoyennet\u00e9 de [Y]", "checked-by-human": true}
+{"pattern": "[X] poss\u00e8de la citoyennet\u00e9 de [Y]", "checked-by-human": false}
+{"pattern": "[X] a la nationalit\u00e9 de [Y]", "checked-by-human": true}
+{"pattern": "en tant que citoyen de [Y], [X]", "checked-by-human": false}
+{"pattern": "[X] est un citoyen de [Y]", "checked-by-human": true}
+{"pattern": "[X], un citoyen de [Y]", "checked-by-human": false}
+{"pattern": "[X] a la citoyennet\u00e9 de [Y]", "checked-by-human": true}
+{"pattern": "[X] a une citoyennet\u00e9 de [Y]", "checked-by-human": true}
+{"pattern": "[X], qui a une citoyennet\u00e9 de [Y]", "checked-by-human": false}
+{"pattern": "[X], citoyen de [Y]", "checked-by-human": true}
+{"pattern": "[X], qui est un citoyen de [Y]", "checked-by-human": false}
+{"pattern": "[X] est [Y] citoyen", "checked-by-human": false}

@@ -1,9 +1,0 @@
-{"pattern": "Coinn\u00edonn [X] caidreamh taidhleoireachta le [Y].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "Coinn\u00edonn [Y] caidreamh taidhleoireachta le [X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "Ceangla\u00edonn [X] caidreamh taidhleoireachta le [Y].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "Ceangla\u00edonn [Y] caidreamh taidhleoireachta le [X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "T\u00e1 caidreamh taidhleoireachta ag [X] le [Y].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "T\u00e1 caidreamh taidhleoireachta ag [Y] le [X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X], a bhfuil caidreamh taidhleoireachta aige le [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], a bhfuil caidreamh taidhleoireachta aige le [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], a nascann caidreamh taidhleoireachta le [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

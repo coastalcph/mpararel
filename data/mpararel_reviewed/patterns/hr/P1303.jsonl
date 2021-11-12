@@ -1,0 +1,5 @@
+{"pattern": "[X] reproducira [Y]", "checked-by-human": false}
+{"pattern": "[X] igra [Y]", "checked-by-human": false}
+{"pattern": "[Y] igra\u010d [X]", "checked-by-human": false}
+{"pattern": "[X] je igra\u010d [Y]", "checked-by-human": false}
+{"pattern": "[X] je [Y] igra\u010d", "checked-by-human": false}

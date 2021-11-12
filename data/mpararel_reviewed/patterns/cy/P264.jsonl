@@ -1,0 +1,15 @@
+{"pattern": "cynrychiolir [X] gan [Y]", "checked-by-human": false}
+{"pattern": "label cerddoriaeth [X]yw [Y]", "checked-by-human": false}
+{"pattern": "label record [X]yw [Y]", "checked-by-human": false}
+{"pattern": "[X] wedi'i gofnodi ar gyfer [Y]", "checked-by-human": false}
+{"pattern": "[X], sy'n cael ei gynrychioli gan [Y]", "checked-by-human": false}
+{"pattern": "y label cerddoriaeth sy'n cynrychioli [X] yw [Y]", "checked-by-human": false}
+{"pattern": "cynrychiolir [X] gan label cerddoriaeth [Y]", "checked-by-human": false}
+{"pattern": "label [X]yw [Y]", "checked-by-human": false}
+{"pattern": "cwmni recordiau [X]yw [Y]", "checked-by-human": false}
+{"pattern": "label [X] [Y]", "checked-by-human": false}
+{"pattern": "artistiaid [Y] gan gynnwys [X]", "checked-by-human": false}
+{"pattern": "[Y] artist recordio [X]", "checked-by-human": false}
+{"pattern": "[Y] artistiaid fel [X]", "checked-by-human": false}
+{"pattern": "[X], a ryddhawyd gan [Y]", "checked-by-human": false}
+{"pattern": "cynrychiolir [X] gan label cofnod [Y]", "checked-by-human": false}

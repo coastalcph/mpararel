@@ -1,9 +1,0 @@
-{"pattern": "Iaith swyddogol [X] yw [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Iaith swyddogol [X] yw'r iaith [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] yw iaith swyddogol [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Yr iaith [Y] yw iaith swyddogol [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Yn [X], [Y] yw'r iaith swyddogol.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
-{"pattern": "Yn swyddogol, [Y] yw iaith [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Mae'r gyfraith yn [X] yn datgan [Y] yr iaith swyddogol.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
-{"pattern": "Mae'r gyfraith yn [X] yn diffinio [Y] fel yr iaith swyddogol.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
-{"pattern": "Mae'r gyfraith yn [X] yn diffinio'r iaith [Y] fel yr iaith swyddogol.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

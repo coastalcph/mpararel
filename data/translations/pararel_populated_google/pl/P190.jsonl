@@ -1,8 +1,0 @@
-{"pattern": "[X] i [Y] to bli\u017aniacze miasta.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] i [X] to bli\u017aniacze miasta.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] i [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] to bli\u017aniacze miasto [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[Y] jest bli\u017aniacem [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] jest bli\u017aniacem [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] jest [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] to bli\u017aniacze miasto [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

@@ -1,9 +1,0 @@
-{"pattern": "Ny [X] dia tompon'ny [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "[X] dia tompon'ny [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "Ny [X] dia [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
-{"pattern": "Ny [X] dia tompon'ny [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
-{"pattern": "[X] tompon'ny [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
-{"pattern": "Ny [Y] dia tompon'ny [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "[Y] dia tompon'ny [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "Ny [Y] dia [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "[Y] dia [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}

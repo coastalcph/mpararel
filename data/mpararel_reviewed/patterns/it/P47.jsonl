@@ -1,0 +1,8 @@
+{"pattern": "[X] condivide un confine comune con [Y]", "checked-by-human": true}
+{"pattern": "[Y] condivide un confine comune con [X]", "checked-by-human": true}
+{"pattern": "[Y] confina con [X]", "checked-by-human": false}
+{"pattern": "[Y] condivide il suo confine con [X]", "checked-by-human": true}
+{"pattern": "[X] condivide il confine con [Y]", "checked-by-human": false}
+{"pattern": "[X] confina con [Y]", "checked-by-human": true}
+{"pattern": "[X] condivide il suo confine con [Y]", "checked-by-human": false}
+{"pattern": "[Y] condivide il confine con [X]", "checked-by-human": false}

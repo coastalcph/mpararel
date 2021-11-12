@@ -1,0 +1,15 @@
+{"pattern": "[Y] est la capital de la [X]", "checked-by-human": true}
+{"pattern": "[Y] est la capital du [X]", "checked-by-human": true}
+{"pattern": "la capitale du [Y], [X]", "checked-by-human": true}
+{"pattern": "[Y], qui a la majuscule [X]", "checked-by-human": false}
+{"pattern": "[Y], capital du [X]", "checked-by-human": true}
+{"pattern": "la capitale de la [Y] est [X]", "checked-by-human": true}
+{"pattern": "[X] est la capitale de [Y]", "checked-by-human": false}
+{"pattern": "[X], c'est la capitale du [Y]", "checked-by-human": true}
+{"pattern": "la capitale de [Y] est [X]", "checked-by-human": false}
+{"pattern": "[Y], qui a comme capitale [X]", "checked-by-human": true}
+{"pattern": "la capitale de la [Y], [X]", "checked-by-human": true}
+{"pattern": "la capitale du [Y] est [X]", "checked-by-human": true}
+{"pattern": "[X], la capitale de [Y]", "checked-by-human": false}
+{"pattern": "[Y], capital de la [X]", "checked-by-human": true}
+{"pattern": "[X], c'est la capitale de la [Y]", "checked-by-human": true}

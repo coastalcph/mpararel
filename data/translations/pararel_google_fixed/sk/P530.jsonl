@@ -1,9 +1,0 @@
-{"pattern": "[X] udr\u017eiava diplomatick\u00e9 vz\u0165ahy s [Y].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] udr\u017eiava diplomatick\u00e9 vz\u0165ahy s [X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] sp\u00e1ja diplomatick\u00e9 vz\u0165ahy s [Y].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] via\u017ee diplomatick\u00e9 vz\u0165ahy s [X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] m\u00e1 diplomatick\u00e9 vz\u0165ahy s [Y].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] m\u00e1 diplomatick\u00e9 vz\u0165ahy s [X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X], ktor\u00fd m\u00e1 diplomatick\u00e9 vz\u0165ahy s [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], ktor\u00fd m\u00e1 diplomatick\u00e9 vz\u0165ahy s [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], ktor\u00fd sp\u00e1ja diplomatick\u00e9 vz\u0165ahy s [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

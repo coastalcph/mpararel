@@ -1,9 +1,0 @@
-{"pattern": "[X] deler grense med [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] grenser med [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "[X] deler grensen med [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] deler sin grense med [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] deler en felles grense med [Y]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
-{"pattern": "Grensene med [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "og deler grensen med [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "og deler sin grense med [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] deler en felles grense med [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

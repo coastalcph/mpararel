@@ -1,9 +1,0 @@
-{"pattern": "Uradni jezik [X] je [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Uradni jezik [X] je jezik [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] je uradni jezik [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Jezik [Y] je uradni jezik [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "V [X] je [Y] uradni jezik.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
-{"pattern": "Uradno, [Y] je jezik [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Zakon v [X] izjavlja [Y] uradni jezik.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
-{"pattern": "Zakon v [X] opredeljuje [Y] kot uradni jezik.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
-{"pattern": "Zakon v [X] opredeljuje [Y] jezik kot uradni jezik.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

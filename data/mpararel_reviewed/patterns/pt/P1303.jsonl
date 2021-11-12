@@ -1,0 +1,4 @@
+{"pattern": "[X] toca [Y]", "checked-by-human": true}
+{"pattern": "[X] toca o [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e9 um jogador [Y]", "checked-by-human": false}
+{"pattern": "[Y] jogador [X]", "checked-by-human": false}

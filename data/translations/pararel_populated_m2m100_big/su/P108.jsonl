@@ -1,9 +1,0 @@
-{"pattern": "[X] pikeun [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
-{"pattern": "[X] ngajadikeun [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
-{"pattern": "[X] anu dianggo pikeun [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
-{"pattern": "[X] anu kerja pikeun [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
-{"pattern": "[X] dipekerkeun ku [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
-{"pattern": "[X] ku [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
-{"pattern": "[X] mangrupakeun karyawan di [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
-{"pattern": "[X] dianggo ku [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
-{"pattern": "[X] anu dianggo ku [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

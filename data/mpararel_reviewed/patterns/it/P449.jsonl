@@ -1,0 +1,9 @@
+{"pattern": "[X] ha debuttato su [Y]", "checked-by-human": true}
+{"pattern": "[X] debutter\u00e0 su [Y]", "checked-by-human": true}
+{"pattern": "[X] debutta su [Y]", "checked-by-human": false}
+{"pattern": "[Y] ha rilasciato [X]", "checked-by-human": true}
+{"pattern": "[Y] rilascia [X]", "checked-by-human": true}
+{"pattern": "[Y] rilasciato [X]", "checked-by-human": false}
+{"pattern": "[X] \u00e8 stato originariamente trasmesso su [Y]", "checked-by-human": true}
+{"pattern": "[Y] debutter\u00e0 [X]", "checked-by-human": false}
+{"pattern": "[X] \u00e8 stato rilasciato su [Y]", "checked-by-human": false}

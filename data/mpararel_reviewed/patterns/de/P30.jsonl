@@ -1,0 +1,6 @@
+{"pattern": "[X] ist ein teil des kontinents von [Y]", "checked-by-human": false}
+{"pattern": "[X] geh\u00f6rt zum kontinent [Y]", "checked-by-human": true}
+{"pattern": "[X] befindet sich auf dem kontinent [Y]", "checked-by-human": true}
+{"pattern": "[X] ist ein teil des kontinents [Y]", "checked-by-human": true}
+{"pattern": "[X] geh\u00f6rt zum kontinent von [Y]", "checked-by-human": false}
+{"pattern": "[X] befindet sich in [Y]", "checked-by-human": true}

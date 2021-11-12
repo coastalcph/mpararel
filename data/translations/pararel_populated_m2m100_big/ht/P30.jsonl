@@ -1,9 +1,0 @@
-{"pattern": "[X] se sitiye nan [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] sitiye nan kontinan [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] sitiye nan kontinan an [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] se sitiye nan kontinan [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] nan kontinan an [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
-{"pattern": "[X] nan kontinan an nan [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
-{"pattern": "[X] se yon pati nan kontinan [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}
-{"pattern": "[X] se yon pati nan kontinan an [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}
-{"pattern": "[X] se yon pati nan kontinan an nan [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

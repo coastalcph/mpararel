@@ -1,0 +1,10 @@
+{"pattern": "loven i [X] angiver [Y] det officielle sprog", "checked-by-human": false}
+{"pattern": "[Y] er [X]'s officielle sprog", "checked-by-human": true}
+{"pattern": "loven i [X] definerer [Y]-sproget som det officielle sprog", "checked-by-human": false}
+{"pattern": "[X] er [Y]", "checked-by-human": false}
+{"pattern": "det officielle sprog i [X] er [Y]", "checked-by-human": true}
+{"pattern": "officielt er [Y] sproget i [X]", "checked-by-human": true}
+{"pattern": "loven i [X] definerer [Y] som det officielle sprog", "checked-by-human": false}
+{"pattern": "i [X] er [Y] det officielle sprog", "checked-by-human": true}
+{"pattern": "[Y] er det officielle sprog i [X]", "checked-by-human": true}
+{"pattern": "det officielle sprog for [X] er [Y]", "checked-by-human": false}

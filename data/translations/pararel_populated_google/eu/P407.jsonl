@@ -1,6 +1,0 @@
-{"pattern": "[X] hizkuntza [Y] da.", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
-{"pattern": "[X] hizkuntza [Y] zen.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
-{"pattern": "[X] hizkuntza [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
-{"pattern": "[Y] da [X] hizkuntza.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
-{"pattern": "[Y] da [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
-{"pattern": "[Y] zen [X] hizkuntza.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

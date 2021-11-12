@@ -1,6 +1,0 @@
-{"pattern": "[X] esitettiin alun perin [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
-{"pattern": "[X] debytoi [Y]", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
-{"pattern": "[Y] debytoi [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
-{"pattern": "[X] debytoi [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
-{"pattern": "[X] julkaistiin [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
-{"pattern": "[Y] julkaisi [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}

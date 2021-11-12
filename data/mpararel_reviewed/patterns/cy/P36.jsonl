@@ -1,0 +1,8 @@
+{"pattern": "[X], sydd \u00e2'r brifddinas [Y]", "checked-by-human": false}
+{"pattern": "[Y], prifddinas [X]", "checked-by-human": false}
+{"pattern": "prifddinas [X] yw [Y]", "checked-by-human": false}
+{"pattern": "[Y], dyna brifddinas [X]", "checked-by-human": false}
+{"pattern": "prifddinas [X], [Y]", "checked-by-human": false}
+{"pattern": "[Y] yw prifddinas [X]", "checked-by-human": false}
+{"pattern": "cyfalaf [X]yw [Y]", "checked-by-human": false}
+{"pattern": "prifddinas [X]yw [Y]", "checked-by-human": false}

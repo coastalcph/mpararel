@@ -1,4 +1,0 @@
-{"pattern": "[X] is die eienaar van [Y].", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "Hy is die eienaar van die", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
-{"pattern": "Hy is die eienaar van [X].", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "Die [Y]-eienaar [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

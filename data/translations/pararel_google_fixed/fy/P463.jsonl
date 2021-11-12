@@ -1,5 +1,0 @@
-{"pattern": "[X] is lid fan [Y].", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
-{"pattern": "[X] heart by de organisaasje fan [Y].", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[X] is in diel fan 'e [Y]-organisaasje.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "[X] is oansletten by [Y].", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "[X] is oansletten by de [Y]-organisaasje.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

@@ -1,8 +1,0 @@
-{"pattern": "[X] sonra [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
-{"pattern": "[X] ad\u0131 [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
-{"pattern": "[X] ad\u0131 [Y] gelmektedir.", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "present"}
-{"pattern": "[X] sonra [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
-{"pattern": "[X] ad\u0131n\u0131 [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
-{"pattern": "[X] sonra adland\u0131r\u0131lan [Y]", "lemma": "is-name-after", "extended_lemma": "is-name-after", "tense": "past"}
-{"pattern": "[X] sonra [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}
-{"pattern": "[X] sonra adland\u0131r\u0131lan [Y]", "lemma": "is-call-after", "extended_lemma": "is-call-after", "tense": "present"}

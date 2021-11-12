@@ -1,0 +1,11 @@
+{"pattern": "[Y], kt\u00f3ry ma kapita\u0142 [X]", "checked-by-human": false}
+{"pattern": "kapita\u0142 [Y], [X]", "checked-by-human": false}
+{"pattern": "stolica [Y], [X]", "checked-by-human": true}
+{"pattern": "[X] jest kapita\u0142em [Y]", "checked-by-human": false}
+{"pattern": "[X], stolica [Y]", "checked-by-human": false}
+{"pattern": "[X], kapita\u0142 [Y]", "checked-by-human": false}
+{"pattern": "[X] jest stolic\u0105 [Y]", "checked-by-human": true}
+{"pattern": "stolic\u0105 [Y] jest [X]", "checked-by-human": true}
+{"pattern": "[Y], kt\u00f3ra ma stolic\u0119 [X]", "checked-by-human": true}
+{"pattern": "[X], czyli stolica [Y]", "checked-by-human": true}
+{"pattern": "[Y], kt\u00f3ry ma stolic\u0119 [X]", "checked-by-human": false}

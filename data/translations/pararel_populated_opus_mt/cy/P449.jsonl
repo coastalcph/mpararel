@@ -1,7 +1,0 @@
-{"pattern": "Mae'r [X] ar [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
-{"pattern": "[X] ar [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
-{"pattern": "[X] ond ar [Y]", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
-{"pattern": "[X] ei ryddhau ar [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
-{"pattern": "[X] cael ei ryddhau ar [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
-{"pattern": "[X] ar [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
-{"pattern": "[X] yn rhyddhau ar [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}

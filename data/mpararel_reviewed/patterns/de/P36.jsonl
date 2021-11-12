@@ -1,0 +1,10 @@
+{"pattern": "[Y], die hauptstadt von [X]", "checked-by-human": false}
+{"pattern": "[X], die die hauptstadt [Y] hat", "checked-by-human": false}
+{"pattern": "[X]s hauptstadt, [Y]", "checked-by-human": true}
+{"pattern": "die hauptstadt von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "[X], das das kapital hat [Y]", "checked-by-human": false}
+{"pattern": "[Y] ist die hauptstadt von [X]", "checked-by-human": true}
+{"pattern": "[X] hauptstadt, [Y]", "checked-by-human": true}
+{"pattern": "[Y], das ist die hauptstadt von [X]", "checked-by-human": true}
+{"pattern": "[X]s hauptstadt ist [Y]", "checked-by-human": true}
+{"pattern": "[X], das das gro\u00dfbuchstaben [Y] hat", "checked-by-human": false}

@@ -1,0 +1,10 @@
+{"pattern": "[X] a la position [Y]", "checked-by-human": false}
+{"pattern": "[X] a le poste de [Y]", "checked-by-human": true}
+{"pattern": "[X], qui occupe le poste de [Y]", "checked-by-human": true}
+{"pattern": "[X] exerce d'office la fonction de [Y]", "checked-by-human": true}
+{"pattern": "[X] a \u00e9t\u00e9 nomm\u00e9 [Y]", "checked-by-human": true}
+{"pattern": "[X] a la position de [Y]", "checked-by-human": false}
+{"pattern": "[X], dont le post est [Y]", "checked-by-human": true}
+{"pattern": "[X] a occup\u00e9 le poste de [Y]", "checked-by-human": true}
+{"pattern": "[X], qui a la position de [Y]", "checked-by-human": false}
+{"pattern": "[X] occupe la position de [Y]", "checked-by-human": false}

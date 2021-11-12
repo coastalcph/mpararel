@@ -1,0 +1,9 @@
+{"pattern": "j\u0119zykiem [X] jest [Y]", "checked-by-human": true}
+{"pattern": "oryginalnym j\u0119zykiem [X] by\u0142o [Y]", "checked-by-human": false}
+{"pattern": "[X] by\u0142 po [Y]", "checked-by-human": true}
+{"pattern": "[Y] jest j\u0119zykiem [X]", "checked-by-human": true}
+{"pattern": "oryginalnym j\u0119zykiem [X] jest [Y]", "checked-by-human": false}
+{"pattern": "[Y] by\u0142 j\u0119zykiem [X]", "checked-by-human": true}
+{"pattern": "j\u0119zykiem [X] by\u0142o [Y]", "checked-by-human": true}
+{"pattern": "[X] by\u0142 w j\u0119zyku [Y]", "checked-by-human": true}
+{"pattern": "j\u0119zyk [X] by\u0142 [Y]", "checked-by-human": false}

@@ -1,6 +1,0 @@
-{"pattern": "[X] e [Y] son doas vilas.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] e [X] son doas vilas.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] es una vila twin [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[Y] es una vila twin de [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] es una vila twin [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] es una vila twin de [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

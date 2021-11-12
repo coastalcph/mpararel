@@ -1,7 +1,0 @@
-{"pattern": "[X] \u00e8 un cittadino [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
-{"pattern": "[X] cittadino [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
-{"pattern": "[X] ha la cittadinanza [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "[X] la cittadinanza [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X] che detiene la cittadinanza [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X] ha la cittadinanza [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "[X] che ha la cittadinanza [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}

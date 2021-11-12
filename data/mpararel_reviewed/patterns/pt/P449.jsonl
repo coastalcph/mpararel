@@ -1,0 +1,10 @@
+{"pattern": "[X] foi originalmente exibido em [Y]", "checked-by-human": false}
+{"pattern": "[X] estreou em [Y]", "checked-by-human": true}
+{"pattern": "[Y] vai estrear [X]", "checked-by-human": true}
+{"pattern": "[X] estreia em [Y]", "checked-by-human": true}
+{"pattern": "[X] vai estrear em [Y]", "checked-by-human": false}
+{"pattern": "a estreia de [X] em [Y]", "checked-by-human": true}
+{"pattern": "[Y] estreou [X]", "checked-by-human": false}
+{"pattern": "o lan\u00e7amento de [X] em [Y]", "checked-by-human": true}
+{"pattern": "[X] foi lan\u00e7ado em [Y]", "checked-by-human": false}
+{"pattern": "[Y] lan\u00e7ado [X]", "checked-by-human": false}

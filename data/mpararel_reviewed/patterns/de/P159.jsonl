@@ -1,0 +1,9 @@
+{"pattern": "[Y] hat den hauptsitz von [X]", "checked-by-human": true}
+{"pattern": "das hauptquartier von [X] befindet sich in [Y]", "checked-by-human": true}
+{"pattern": "[Y] enth\u00e4lt das hauptquartier von [X]", "checked-by-human": true}
+{"pattern": "[X] basiert auf [Y]", "checked-by-human": false}
+{"pattern": "[Y] enth\u00e4lt den hauptsitz von [X]", "checked-by-human": false}
+{"pattern": "[Y] ist die heimat von [X]", "checked-by-human": true}
+{"pattern": "[X], dessen hauptsitz sich in [Y] befindet", "checked-by-human": true}
+{"pattern": "[X] hat seinen hauptsitz in [Y]", "checked-by-human": true}
+{"pattern": "der hauptsitz von [X] befindet sich in [Y]", "checked-by-human": false}

@@ -1,0 +1,6 @@
+{"pattern": "[X] \u00e8 affiliato alla religione [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e8 affiliato con la religione [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e8 seguace di [Y]", "checked-by-human": true}
+{"pattern": "[X] segue la religione [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e8 un seguace di [Y]", "checked-by-human": true}
+{"pattern": "[Y] \u00e8 la religione ufficiale di [X]", "checked-by-human": false}

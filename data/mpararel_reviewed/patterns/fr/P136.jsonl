@@ -1,0 +1,14 @@
+{"pattern": "[Y] musiciens [X]", "checked-by-human": false}
+{"pattern": "[X], qui joue [Y] la musique", "checked-by-human": false}
+{"pattern": "[Y] musiciens tels que [X]", "checked-by-human": false}
+{"pattern": "[X] joue de la [Y]", "checked-by-human": true}
+{"pattern": "[X] joue du [Y]", "checked-by-human": true}
+{"pattern": "[X] joue [Y] musique", "checked-by-human": true}
+{"pattern": "[X] joue de la musique [Y]", "checked-by-human": true}
+{"pattern": "[X], qui joue de la musique [Y]", "checked-by-human": false}
+{"pattern": "[X] lit la musique [Y]", "checked-by-human": false}
+{"pattern": "des musiciens de [Y] comme [X]", "checked-by-human": true}
+{"pattern": "[X], qui joue du [Y]", "checked-by-human": true}
+{"pattern": "[X], qui joue de la [Y]", "checked-by-human": true}
+{"pattern": "[X] joue [Y] de la musique", "checked-by-human": false}
+{"pattern": "[X] est musicienne de [Y]", "checked-by-human": true}

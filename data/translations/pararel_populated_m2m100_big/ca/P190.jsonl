@@ -1,6 +1,0 @@
-{"pattern": "[X] i [Y] s\u00f3n ciutats bessones.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] i [X] s\u00f3n ciutats bessones.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] \u00e9s una ciutat bessona [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[Y] \u00e9s una ciutat bessona de [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] \u00e9s una ciutat bessona [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] \u00e9s una ciutat bessona de [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

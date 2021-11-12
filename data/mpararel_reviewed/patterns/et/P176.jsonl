@@ -1,0 +1,21 @@
+{"pattern": "[X], mis on toodetud [Y]", "checked-by-human": false}
+{"pattern": "[X], mille on loonud [Y]", "checked-by-human": false}
+{"pattern": "[X], toode [Y],", "checked-by-human": false}
+{"pattern": "[X] on loodud [Y]", "checked-by-human": false}
+{"pattern": "[X], toote [Y],", "checked-by-human": false}
+{"pattern": "[X], v\u00e4lja t\u00f6\u00f6tanud [Y]", "checked-by-human": false}
+{"pattern": "[X], loodud [Y]", "checked-by-human": false}
+{"pattern": "[X] on v\u00e4lja t\u00f6\u00f6tatud [Y]", "checked-by-human": false}
+{"pattern": "[X] on loonud [Y]", "checked-by-human": false}
+{"pattern": "[X], toote, mille on loonud [Y],", "checked-by-human": false}
+{"pattern": "[X] on toote [Y] toode", "checked-by-human": false}
+{"pattern": "[X], toote, mille on v\u00e4lja t\u00f6\u00f6tanud [Y],", "checked-by-human": false}
+{"pattern": "[X], mille on v\u00e4lja t\u00f6\u00f6tanud [Y]", "checked-by-human": false}
+{"pattern": "[Y], [X] looja", "checked-by-human": false}
+{"pattern": "[X] on v\u00e4lja t\u00f6\u00f6tanud [Y]", "checked-by-human": false}
+{"pattern": "[X] on toodetud [Y]", "checked-by-human": false}
+{"pattern": "[X] toodab [Y]", "checked-by-human": false}
+{"pattern": "[X] on [Y] toode", "checked-by-human": false}
+{"pattern": "[Y], looja [X]", "checked-by-human": false}
+{"pattern": "[Y] ja selle toode [X]", "checked-by-human": false}
+{"pattern": "[X], toodetud [Y]", "checked-by-human": false}

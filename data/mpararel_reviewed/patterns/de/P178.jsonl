@@ -1,0 +1,22 @@
+{"pattern": "[X], ein produkt, das von [Y] erstellt wurde", "checked-by-human": true}
+{"pattern": "[X] ist ein produkt von [Y]", "checked-by-human": true}
+{"pattern": "[Y] entwickelte [X]", "checked-by-human": true}
+{"pattern": "[X] war ein produkt von [Y]", "checked-by-human": true}
+{"pattern": "[Y], das entwickelte [X]", "checked-by-human": false}
+{"pattern": "[Y], sch\u00f6pfer von [X]", "checked-by-human": true}
+{"pattern": "[Y], die [X]", "checked-by-human": false}
+{"pattern": "[X] wird erstellt von [Y]", "checked-by-human": true}
+{"pattern": "[X], ein produkt von [Y]", "checked-by-human": true}
+{"pattern": "[X] wurde von [Y] erschaffen", "checked-by-human": true}
+{"pattern": "[Y], welche [X] entwickelte", "checked-by-human": true}
+{"pattern": "[X], ein von [Y] entwickeltes produkt", "checked-by-human": true}
+{"pattern": "[Y], die [X] entwickelte", "checked-by-human": true}
+{"pattern": "[X], ein von [Y] hergestelltes produkt", "checked-by-human": false}
+{"pattern": "[X] wurde von [Y] erstellt", "checked-by-human": false}
+{"pattern": "[Y] und sein produkt [X]", "checked-by-human": true}
+{"pattern": "[X], entwickelt von [Y]", "checked-by-human": true}
+{"pattern": "[X] wird von [Y] entwickelt", "checked-by-human": true}
+{"pattern": "[X], erstellt von [Y]", "checked-by-human": true}
+{"pattern": "[Y], der sch\u00f6pfer des [X]", "checked-by-human": false}
+{"pattern": "[X] wurde erstellt von [Y]", "checked-by-human": false}
+{"pattern": "[X] wurde von [Y] entwickelt", "checked-by-human": true}

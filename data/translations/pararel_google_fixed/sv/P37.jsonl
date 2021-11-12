@@ -1,9 +1,0 @@
-{"pattern": "Det officiella spr\u00e5ket i [X] \u00e4r [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Det officiella spr\u00e5ket i [X] \u00e4r [Y] -spr\u00e5ket.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] \u00e4r det officiella spr\u00e5ket i [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Spr\u00e5ket \u00e4r det officiella spr\u00e5ket i [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "I [X] \u00e4r [Y] det officiella spr\u00e5ket.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
-{"pattern": "Officiellt \u00e4r [Y] spr\u00e5ket i [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Lagen i [X] f\u00f6rklarar [Y] det officiella spr\u00e5ket.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
-{"pattern": "Lagen i [X] definierar [Y] som det officiella spr\u00e5ket.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
-{"pattern": "Lagen i [X] definierar [Y] -spr\u00e5ket som det officiella spr\u00e5ket.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

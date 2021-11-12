@@ -1,8 +1,0 @@
-{"pattern": "[X] si trova in [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] si [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] si trova [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "La [X] si trova in [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] si trova nel continente [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "La [X] si trova nel continente [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] fa parte del continente [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}
-{"pattern": "La [X] fa parte del continente [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

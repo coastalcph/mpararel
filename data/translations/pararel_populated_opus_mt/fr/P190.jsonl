@@ -1,6 +1,0 @@
-{"pattern": "[X] et [Y] sont des villes jumelles.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] et [X] sont des villes jumelles.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] est une ville jumelle [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[Y] est une ville jumelle de [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] est une ville jumelle [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] est une ville jumelle de [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

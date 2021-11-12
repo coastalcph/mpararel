@@ -1,0 +1,21 @@
+{"pattern": "[X] est publi\u00e9 par [Y]", "checked-by-human": true}
+{"pattern": "[X], lib\u00e9r\u00e9 par [Y]", "checked-by-human": false}
+{"pattern": "la maison de disques de [X] est [Y]", "checked-by-human": true}
+{"pattern": "l'\u00e9tiquette de [X] est [Y]", "checked-by-human": true}
+{"pattern": "[X] est repr\u00e9sent\u00e9 par le label de musique [Y]", "checked-by-human": false}
+{"pattern": "l'\u00e9tiquette musicale de [X] est [Y]", "checked-by-human": false}
+{"pattern": "[Y] artiste d'enregistrement [X]", "checked-by-human": false}
+{"pattern": "[X] est repr\u00e9sent\u00e9 par l'\u00e9tiquette musicale [Y]", "checked-by-human": false}
+{"pattern": "[Y] artistes dont [X]", "checked-by-human": false}
+{"pattern": "[X] est repr\u00e9sent\u00e9 par le label [Y]", "checked-by-human": true}
+{"pattern": "l\u2019\u00e9tiquette de musique qui repr\u00e9sente [X] est [Y]", "checked-by-human": false}
+{"pattern": "[X] est repr\u00e9sent\u00e9 par le label discographique [Y]", "checked-by-human": true}
+{"pattern": "le label de musique de [X] est [Y]", "checked-by-human": false}
+{"pattern": "[X] est repr\u00e9sent\u00e9 par [Y]", "checked-by-human": true}
+{"pattern": "[X] est repr\u00e9sent\u00e9 par la maison de disques [Y]", "checked-by-human": true}
+{"pattern": "l\u2019\u00e9tiquette de [X] est [Y]", "checked-by-human": false}
+{"pattern": "[X], qui est repr\u00e9sent\u00e9 par [Y]", "checked-by-human": false}
+{"pattern": "le label de [X] est [Y]", "checked-by-human": true}
+{"pattern": "l'\u00e9tiquette de musique qui repr\u00e9sente [X] est [Y]", "checked-by-human": true}
+{"pattern": "l\u2019\u00e9tiquette de musique repr\u00e9sentant [X] est [Y]", "checked-by-human": true}
+{"pattern": "[X] enregistr\u00e9 pour [Y]", "checked-by-human": false}

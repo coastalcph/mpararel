@@ -1,0 +1,21 @@
+{"pattern": "[X] wurde in der sprache [Y] geschrieben", "checked-by-human": true}
+{"pattern": "[X] war ein werk in der [Y] sprache", "checked-by-human": true}
+{"pattern": "die sprache von [X] war [Y]", "checked-by-human": true}
+{"pattern": "[Y] war die sprache von [X]", "checked-by-human": true}
+{"pattern": "[X], geschrieben in der sprache [Y]", "checked-by-human": true}
+{"pattern": "die [Y]-spracherstellung [X]", "checked-by-human": false}
+{"pattern": "[X] war ein werk in der [Y]-sprache", "checked-by-human": true}
+{"pattern": "[X], ein [Y]-sprachwerk", "checked-by-human": false}
+{"pattern": "[X] war ein [Y]-sprachiges werk", "checked-by-human": true}
+{"pattern": "[X] wird in der sprache [Y] geschrieben", "checked-by-human": true}
+{"pattern": "[Y] ist die sprache von [X]", "checked-by-human": true}
+{"pattern": "die sprache von [X] ist [Y]", "checked-by-human": false}
+{"pattern": "[X] ist ein [Y]-sprachiges werk", "checked-by-human": true}
+{"pattern": "[X] wird in [Y] geschrieben", "checked-by-human": true}
+{"pattern": "[X] ist ein werk in der [Y] sprache", "checked-by-human": true}
+{"pattern": "[X] ist in [Y] geschrieben", "checked-by-human": true}
+{"pattern": "[X], ein [Y]-sprachiges werk", "checked-by-human": false}
+{"pattern": "[X] ist in der sprache [Y] geschrieben", "checked-by-human": true}
+{"pattern": "[X] wurde in der [Y]-sprache geschrieben", "checked-by-human": true}
+{"pattern": "[X] wurde in [Y] geschrieben", "checked-by-human": true}
+{"pattern": "[X] ist ein werk in der [Y]-sprache", "checked-by-human": true}

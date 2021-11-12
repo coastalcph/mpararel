@@ -1,0 +1,4 @@
+{"pattern": "la lengua materna de [X] es [Y]", "checked-by-human": false}
+{"pattern": "el idioma nativo de [X] es [Y]", "checked-by-human": true}
+{"pattern": "[Y] es el idioma nativo de [X]", "checked-by-human": false}
+{"pattern": "[Y] es la lengua materna de [X]", "checked-by-human": true}

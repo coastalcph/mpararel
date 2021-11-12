@@ -1,0 +1,10 @@
+{"pattern": "a l\u00edngua [Y] \u00e9 a l\u00edngua oficial de [X]", "checked-by-human": true}
+{"pattern": "em [X], [Y] \u00e9 a l\u00edngua oficial", "checked-by-human": true}
+{"pattern": "[Y] \u00e9 a l\u00edngua oficial de [X]", "checked-by-human": true}
+{"pattern": "oficialmente, [Y] \u00e9 a l\u00edngua de [X]", "checked-by-human": false}
+{"pattern": "a lei em [X] define [Y] como a l\u00edngua oficial", "checked-by-human": false}
+{"pattern": "a lei em [X] define a l\u00edngua [Y] como a l\u00edngua oficial", "checked-by-human": true}
+{"pattern": "a l\u00edngua oficial de [X] \u00e9 a l\u00edngua [Y]", "checked-by-human": true}
+{"pattern": "o idioma oficial de [X] \u00e9 [Y]", "checked-by-human": false}
+{"pattern": "a l\u00edngua oficial de [X] \u00e9 [Y]", "checked-by-human": false}
+{"pattern": "a lei em [X] declara [Y] a l\u00edngua oficial", "checked-by-human": false}

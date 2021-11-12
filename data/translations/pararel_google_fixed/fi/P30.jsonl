@@ -1,4 +1,0 @@
-{"pattern": "[X] sijaitsee [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] sijaitsee mantereella [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] kuuluu [Y]: n mantereelle.", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
-{"pattern": "[X] on osa [Y]: n mantereelle.", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

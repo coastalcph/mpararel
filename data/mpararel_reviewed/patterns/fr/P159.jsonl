@@ -1,0 +1,11 @@
+{"pattern": "le si\u00e8ge de [X] est \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X], dont le si\u00e8ge est \u00e0 [Y]", "checked-by-human": false}
+{"pattern": "le si\u00e8ge social de [X] est \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[Y] abrite [X]", "checked-by-human": false}
+{"pattern": "le si\u00e8ge de [X] est \u00e9tabli \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[Y] contient le si\u00e8ge de [X]", "checked-by-human": false}
+{"pattern": "le si\u00e8ge de [X] est situ\u00e9 \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[Y] a le si\u00e8ge de [X]", "checked-by-human": false}
+{"pattern": "le si\u00e8ge social de [X] est situ\u00e9 \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] a son si\u00e8ge social \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] est bas\u00e9 \u00e0 [Y]", "checked-by-human": true}

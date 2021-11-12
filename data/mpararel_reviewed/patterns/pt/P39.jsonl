@@ -1,0 +1,8 @@
+{"pattern": "[X], que tem a posi\u00e7\u00e3o de [Y]", "checked-by-human": true}
+{"pattern": "[X] tem a posi\u00e7\u00e3o de [Y]", "checked-by-human": true}
+{"pattern": "[X] mant\u00e9m a posi\u00e7\u00e3o de [Y]", "checked-by-human": true}
+{"pattern": "[X], que mant\u00e9m a posi\u00e7\u00e3o de [Y]", "checked-by-human": true}
+{"pattern": "[X] posi\u00e7\u00e3o \u00e9 [Y]", "checked-by-human": false}
+{"pattern": "[X], cuja posi\u00e7\u00e3o \u00e9 a de [Y]", "checked-by-human": false}
+{"pattern": "[X] ocupa a posi\u00e7\u00e3o de [Y]", "checked-by-human": false}
+{"pattern": "[X], que ocupa a posi\u00e7\u00e3o de [Y]", "checked-by-human": false}

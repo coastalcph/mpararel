@@ -1,0 +1,4 @@
+{"pattern": "[Y] \u62e5\u6709 [X]", "checked-by-human": false}
+{"pattern": "[Y]\u62e5\u6709[X]", "checked-by-human": false}
+{"pattern": "[X] \u6240\u6709\u8005 [Y]", "checked-by-human": true}
+{"pattern": "[X] \u5f52 [Y] \u6240\u6709", "checked-by-human": true}

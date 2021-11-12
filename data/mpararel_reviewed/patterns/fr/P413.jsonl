@@ -1,0 +1,7 @@
+{"pattern": "jouer comme un [Y], [X]", "checked-by-human": false}
+{"pattern": "[X] joue en position [Y]", "checked-by-human": true}
+{"pattern": "[X], qui joue en position [Y]", "checked-by-human": false}
+{"pattern": "[X] joue dans la position [Y]", "checked-by-human": true}
+{"pattern": "le [Y] est la position o\u00f9 [X] joue", "checked-by-human": true}
+{"pattern": "la [Y] est la position o\u00f9 [X] joue", "checked-by-human": true}
+{"pattern": "[X] joue comme [Y]", "checked-by-human": true}

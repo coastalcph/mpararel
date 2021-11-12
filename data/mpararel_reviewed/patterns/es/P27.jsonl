@@ -1,0 +1,8 @@
+{"pattern": "[X] es un ciudadano de [Y]", "checked-by-human": false}
+{"pattern": "[X] tiene ciudadan\u00eda en [Y]", "checked-by-human": true}
+{"pattern": "[X] es ciudadano de [Y]", "checked-by-human": true}
+{"pattern": "[X], que tiene una ciudadan\u00eda de [Y]", "checked-by-human": false}
+{"pattern": "como ciudadano de [Y], [X]", "checked-by-human": true}
+{"pattern": "[X], un ciudadano de [Y]", "checked-by-human": false}
+{"pattern": "[X], que tiene la ciudadan\u00eda de [Y]", "checked-by-human": false}
+{"pattern": "[X], que es ciudadano de [Y]", "checked-by-human": true}

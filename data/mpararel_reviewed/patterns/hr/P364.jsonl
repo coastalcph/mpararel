@@ -1,0 +1,6 @@
+{"pattern": "jezik [X] bio je [Y]", "checked-by-human": false}
+{"pattern": "[Y] je bio jezik [X]", "checked-by-human": false}
+{"pattern": "izvorni jezik [X] bio je [Y]", "checked-by-human": false}
+{"pattern": "izvorni jezik [X] je [Y]", "checked-by-human": false}
+{"pattern": "jezik [X] je [Y]", "checked-by-human": false}
+{"pattern": "[Y] je jezik [X]", "checked-by-human": false}

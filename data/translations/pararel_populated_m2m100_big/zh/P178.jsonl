@@ -1,9 +1,0 @@
-{"pattern": "[X] \u7531 [Y] \u5f00\u53d1\u3002", "lemma": "develop", "extended_lemma": "develop-by", "tense": "?"}
-{"pattern": "[X] \u7531 [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
-{"pattern": "[X] \u7531 [Y] \u521b\u5efa", "lemma": "create", "extended_lemma": "create-by", "tense": "present"}
-{"pattern": "[X] \u7531 [Y]", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
-{"pattern": "[X] \u7531 [Y] \u521b\u5efa", "lemma": "create", "extended_lemma": "create-by", "tense": "past"}
-{"pattern": "[X] \u662f [Y] \u7684\u4ea7\u54c1\u3002", "lemma": "product", "extended_lemma": "is-product-of", "tense": "present"}
-{"pattern": "[X] \u662f [Y] \u7684\u4ea7\u54c1\u3002", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
-{"pattern": "[X] \u662f [Y]", "lemma": "product", "extended_lemma": "is-product-of", "tense": "past"}
-{"pattern": "[Y] \u521b\u5efa\u4e86 [X]", "lemma": "create", "extended_lemma": "that-create", "tense": "past"}

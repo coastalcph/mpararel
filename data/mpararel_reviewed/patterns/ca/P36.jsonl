@@ -1,0 +1,8 @@
+{"pattern": "[Y] \u00e9s la capital de [X]", "checked-by-human": false}
+{"pattern": "[la capital de [X], [Y]", "checked-by-human": false}
+{"pattern": "[Y], la capital de [X]", "checked-by-human": false}
+{"pattern": "la capital de [X] \u00e9s [Y]", "checked-by-human": false}
+{"pattern": "[el capital de [X], [Y]", "checked-by-human": false}
+{"pattern": "[X], que t\u00e9 la capital [Y]", "checked-by-human": false}
+{"pattern": "[Y], aquesta \u00e9s la capital de [X]", "checked-by-human": false}
+{"pattern": "[X], que t\u00e9 el capital [Y]", "checked-by-human": false}

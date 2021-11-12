@@ -1,9 +1,0 @@
-{"pattern": "[X] se yon [Y] nasyonal.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
-{"pattern": "[X] se yon moun nan [Y]", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
-{"pattern": "[X], yon moun nan [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
-{"pattern": "[X], ki se yon moun nan [Y]", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
-{"pattern": "[X] kenbe yon nasyonalite nan [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X] gen yon nasyonalite nan [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "[X], ki kenbe yon nasyonalite nan [Y]", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X], ki gen yon nasyonalite nan [Y]", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "k\u00f2m yon moun nan [Y], [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

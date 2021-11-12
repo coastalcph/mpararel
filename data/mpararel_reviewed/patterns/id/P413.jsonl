@@ -1,0 +1,5 @@
+{"pattern": "[X] bermain di posisi [Y]", "checked-by-human": false}
+{"pattern": "[X], yang bermain di posisi [Y]", "checked-by-human": false}
+{"pattern": "[X] bermain sebagai [Y]", "checked-by-human": false}
+{"pattern": "bermain sebagai [Y], [X]", "checked-by-human": false}
+{"pattern": "[X] berperan sebagai [Y]", "checked-by-human": false}

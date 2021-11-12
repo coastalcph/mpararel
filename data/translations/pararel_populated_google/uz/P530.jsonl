@@ -1,8 +1,0 @@
-{"pattern": "[Y] bilan diplomatik [X] ega", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] bilan diplomatik aloqalarga ega [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] bilan diplomatik aloqalarga ega bo'lgan [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] bilan diplomatik aloqalarga ega [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] bilan diplomatik aloqalarga ega bo'lgan [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] bilan diplomatik aloqalarni bog'laydigan [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] bilan diplomatik aloqalarni [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] bilan diplomatik aloqalarni amalga [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

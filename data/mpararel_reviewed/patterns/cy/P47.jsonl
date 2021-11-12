@@ -1,0 +1,10 @@
+{"pattern": "[Y] yn ffinio \u00e2 [X]", "checked-by-human": false}
+{"pattern": "[Y] yn rhannu'r ffin \u00e2 [X]", "checked-by-human": false}
+{"pattern": "[X] yn rhannu'r ffin \u00e2 [Y]", "checked-by-human": false}
+{"pattern": "mae [X] yn rhannu ffin \u00e2 [Y]", "checked-by-human": false}
+{"pattern": "mae [Y] yn rhannu ffin gyffredin gyda [X]", "checked-by-human": false}
+{"pattern": "mae [X] yn rhannu ffin gyffredin gyda [Y]", "checked-by-human": false}
+{"pattern": "[X] yn rhannu ei ffin \u00e2 [Y]", "checked-by-human": false}
+{"pattern": "[X] yn rhannu ffin \u00e2 [Y]", "checked-by-human": false}
+{"pattern": "[Y] yn rhannu ei ffin \u00e2 [X]", "checked-by-human": false}
+{"pattern": "[X] yn ffinio \u00e2 [Y]", "checked-by-human": false}

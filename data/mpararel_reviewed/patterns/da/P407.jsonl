@@ -1,0 +1,15 @@
+{"pattern": "[X] var et v\u00e6rk p\u00e5 [Y] sprog", "checked-by-human": false}
+{"pattern": "[X] blev skrevet i [Y]", "checked-by-human": false}
+{"pattern": "sproget i [X] er [Y]", "checked-by-human": false}
+{"pattern": "[X], skrevet p\u00e5 [Y]", "checked-by-human": true}
+{"pattern": "[X] er et v\u00e6rk p\u00e5 [Y]", "checked-by-human": true}
+{"pattern": "[X] er skrevet p\u00e5 [Y]", "checked-by-human": true}
+{"pattern": "[X] blev skrevet p\u00e5 [Y]", "checked-by-human": true}
+{"pattern": "[X] var et [Y]-sprog arbejde", "checked-by-human": false}
+{"pattern": "[X] er et [Y]-sprog arbejde", "checked-by-human": false}
+{"pattern": "[Y] er sproget i [X]", "checked-by-human": false}
+{"pattern": "[X], et [Y]-sproget arbejde", "checked-by-human": true}
+{"pattern": "[X] sprog var [Y]", "checked-by-human": false}
+{"pattern": "[X] er skrevet i [Y]", "checked-by-human": false}
+{"pattern": "oprettelse af [Y]-sprog [X]", "checked-by-human": false}
+{"pattern": "[X] var et v\u00e6rk p\u00e5 [Y]", "checked-by-human": true}

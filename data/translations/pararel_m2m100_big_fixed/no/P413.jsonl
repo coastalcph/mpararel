@@ -1,6 +1,0 @@
-{"pattern": "[X] spiller i [Y] posisjon", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
-{"pattern": "[X] spiller i stillingen av [Y]", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
-{"pattern": "[X] som spiller i [Y] posisjon.", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
-{"pattern": "Spille som a [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
-{"pattern": "Spille som en [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
-{"pattern": "[X] spiller som [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

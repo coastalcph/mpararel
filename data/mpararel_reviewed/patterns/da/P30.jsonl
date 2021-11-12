@@ -1,0 +1,6 @@
+{"pattern": "[X] er beliggende i [Y]", "checked-by-human": true}
+{"pattern": "[X] er en del af kontinentet [Y]", "checked-by-human": true}
+{"pattern": "[X] er placeret i [Y]", "checked-by-human": false}
+{"pattern": "[X] tilh\u00f8rer [Y]-kontinentet", "checked-by-human": false}
+{"pattern": "[X] er en del af [Y]-kontinentet", "checked-by-human": false}
+{"pattern": "[X] er placeret p\u00e5 kontinentet [Y]", "checked-by-human": true}

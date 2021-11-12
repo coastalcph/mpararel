@@ -1,0 +1,9 @@
+{"pattern": "[X] \u8207 [Y] \u5efa\u7acb\u5916\u4ea4\u95dc\u4fc2", "checked-by-human": false}
+{"pattern": "[Y] \u8207 [X] \u5efa\u7acb\u5916\u4ea4\u95dc\u4fc2", "checked-by-human": false}
+{"pattern": "[X] \u8207 [Y] \u6709\u5916\u4ea4\u95dc\u4fc2", "checked-by-human": false}
+{"pattern": "[Y] \u8207 [X] \u4fdd\u6301\u5916\u4ea4\u95dc\u4fc2", "checked-by-human": false}
+{"pattern": "[X] \u8207 [Y] \u4fdd\u6301\u5916\u4ea4\u95dc\u4fc2", "checked-by-human": false}
+{"pattern": "[Y] \u8207 [X] \u6709\u5916\u4ea4\u95dc\u4fc2", "checked-by-human": false}
+{"pattern": "[Y]\uff0c\u8207[X] \u5efa\u7acb\u5916\u4ea4\u95dc\u4fc2", "checked-by-human": false}
+{"pattern": "[X]\uff0c\u8207[Y] \u6709\u5916\u4ea4\u95dc\u4fc2", "checked-by-human": false}
+{"pattern": "[Y]\uff0c\u8207[X] \u6709\u5916\u4ea4\u95dc\u4fc2", "checked-by-human": false}

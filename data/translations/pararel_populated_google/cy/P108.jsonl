@@ -1,8 +1,0 @@
-{"pattern": "Mae [X] yn gweithio i [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
-{"pattern": "Mae [X] yn gweithio [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
-{"pattern": "[X] sy'n gweithio i [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
-{"pattern": "[X] sy'n gweithio [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
-{"pattern": "[X] gan [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
-{"pattern": "Mae [X] yn [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
-{"pattern": "Mae [X] yn cael ei gyflogi gan [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
-{"pattern": "[X] sy'n cael ei gyflogi gan [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

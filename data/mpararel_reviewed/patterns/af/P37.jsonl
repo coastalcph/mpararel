@@ -1,0 +1,10 @@
+{"pattern": "[Y] is die amptelike taal van [X]", "checked-by-human": false}
+{"pattern": "die amptelike taal van [X] is [Y]", "checked-by-human": false}
+{"pattern": "in [X] is [Y] die amptelike taal", "checked-by-human": false}
+{"pattern": "die amptelike taal van [X] is die [Y] taal", "checked-by-human": false}
+{"pattern": "amptelik is [Y] die taal van [X]", "checked-by-human": false}
+{"pattern": "in [X], [Y] is die amptelike taal", "checked-by-human": false}
+{"pattern": "die [Y] taal is die amptelike taal van [X]", "checked-by-human": false}
+{"pattern": "die wet in [X] definieer [Y] as die amptelike taal", "checked-by-human": false}
+{"pattern": "die wet in [X] definieer die [Y] taal as die amptelike taal", "checked-by-human": false}
+{"pattern": "die wet in [X] verklaar [Y] die amptelike taal", "checked-by-human": false}

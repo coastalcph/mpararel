@@ -1,9 +1,0 @@
-{"pattern": "[X] o\u2018z [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
-{"pattern": "[X] o\u2018z [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[X] o\u2018z [Y] o\u2018zingizdir.", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[X] o\u2018z [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "[X] o\u2018z [Y] o\u2018zingizdir.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "[X] o\u2018z [Y] o\u2018zidir.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "[X] o\u2018z [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "[X] organizasiyas\u0131na [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
-{"pattern": "[X] o\u2018z [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

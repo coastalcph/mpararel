@@ -1,6 +1,0 @@
-{"pattern": "Prvotni jezik [X] je [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
-{"pattern": "Izvorni jezik [X] je bio [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
-{"pattern": "Jezik [X] je jezik [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
-{"pattern": "Jezik [X] je bio [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
-{"pattern": "A jezik je uistinu onakav kakav je.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
-{"pattern": "I jezik je bio [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

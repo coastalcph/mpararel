@@ -1,9 +1,0 @@
-{"pattern": "[Y] dia miorina ao [X]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
-{"pattern": "[Y] ao [X]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
-{"pattern": "[Y] miorina ao [X]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
-{"pattern": "[Y] ny [X]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
-{"pattern": "[Y] no misy ny [X]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
-{"pattern": "Ao [Y] no misy ny [X]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
-{"pattern": "Ao [Y] no misy [X]", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
-{"pattern": "[Y] ny [X]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
-{"pattern": "Ao [Y] ny [X]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}

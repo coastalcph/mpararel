@@ -1,5 +1,0 @@
-{"pattern": "Ye un miembru de [Y].", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
-{"pattern": "[X] pertenez a la organizaci\u00f3n de [Y].", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[X] ye una parte de la [Y] organizaci\u00f3n.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "El so t\u00e9rminu municipal ta form\u00e1u por un solu nucleu de poblaci\u00f3n, ocupa una superficie total de 60,17 km2 y seg\u00fan los datos demogr\u00e1ficos recoy\u00edos nel padr\u00f3n municipal ellabor\u00e1u pol INE nel a\u00f1u 2017, cuenta con una poblaci\u00f3n de 94 habitantes.", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "[X] ye afili\u00e1u cola [Y] organizaci\u00f3n.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

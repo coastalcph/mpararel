@@ -1,0 +1,13 @@
+{"pattern": "[X] compartilha uma fronteira comum com [Y]", "checked-by-human": true}
+{"pattern": "[Y] compartilha a fronteira com [X]", "checked-by-human": false}
+{"pattern": "[X] faz fronteira com [Y]", "checked-by-human": false}
+{"pattern": "[X] partilha a sua fronteira com [Y]", "checked-by-human": true}
+{"pattern": "[Y] faz fronteira com [X]", "checked-by-human": true}
+{"pattern": "[Y] compartilha fronteira com [X]", "checked-by-human": true}
+{"pattern": "[X] partilha a fronteira com [Y]", "checked-by-human": true}
+{"pattern": "[X] compartilha a fronteira com [Y]", "checked-by-human": false}
+{"pattern": "[X] a\u00e7\u00f5es fronteira com [Y]", "checked-by-human": false}
+{"pattern": "[X] compartilha fronteira com [Y]", "checked-by-human": false}
+{"pattern": "[Y] compartilha sua fronteira com [X]", "checked-by-human": true}
+{"pattern": "[Y] compartilha uma fronteira comum com [X]", "checked-by-human": true}
+{"pattern": "[X] compartilha sua fronteira com [Y]", "checked-by-human": false}

@@ -1,9 +1,0 @@
-{"pattern": "Mae [X] yn aelod o [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
-{"pattern": "[X] yn perthyn i sefydliad [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "Mae [X] yn perthyn i sefydliad [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "Mae [X] yn rhan o sefydliad [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "Mae [X] yn rhan o'r sefydliad [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "Mae [X] yn gysylltiedig [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "Mae [X] yn gysylltiedig \u00e2 [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "Mae [X] yn gysylltiedig \u00e2 sefydliad [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
-{"pattern": "Mae [X] yn gysylltiedig \u00e2'r sefydliad [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

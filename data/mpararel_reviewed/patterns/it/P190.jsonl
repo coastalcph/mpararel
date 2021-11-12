@@ -1,0 +1,6 @@
+{"pattern": "[X] e [Y] sono citt\u00e0 gemellate", "checked-by-human": false}
+{"pattern": "[Y] e [X] sono citt\u00e0 gemelle", "checked-by-human": true}
+{"pattern": "[X] \u00e8 una citt\u00e0 gemella di [Y]", "checked-by-human": true}
+{"pattern": "[Y] \u00e8 una citt\u00e0 gemella di [X]", "checked-by-human": true}
+{"pattern": "[Y] e [X] sono citt\u00e0 gemellate", "checked-by-human": false}
+{"pattern": "[X] e [Y] sono citt\u00e0 gemelle", "checked-by-human": false}

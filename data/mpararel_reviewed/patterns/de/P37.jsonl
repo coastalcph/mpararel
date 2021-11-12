@@ -1,0 +1,17 @@
+{"pattern": "das gesetz in [X] definiert [Y] als amtssprache", "checked-by-human": true}
+{"pattern": "das gesetz in [X] erkl\u00e4rt [Y] zur amtssprache", "checked-by-human": false}
+{"pattern": "[Y] ist die offizielle sprache von [X]", "checked-by-human": true}
+{"pattern": "die offizielle sprache von [X] ist die [Y] sprache", "checked-by-human": true}
+{"pattern": "die [Y]-sprache ist die offizielle sprache von [X]", "checked-by-human": true}
+{"pattern": "das gesetz in [X] definiert die sprache [Y] als amtssprache", "checked-by-human": true}
+{"pattern": "die amtssprache von [X] ist die [Y] sprache", "checked-by-human": true}
+{"pattern": "[Y] ist die amtssprache von [X]", "checked-by-human": true}
+{"pattern": "die amtssprache von [X] ist [Y]", "checked-by-human": false}
+{"pattern": "das gesetz in [X] erkl\u00e4rt [Y] die amtssprache", "checked-by-human": false}
+{"pattern": "die [Y]-sprache ist die amtssprache von [X]", "checked-by-human": true}
+{"pattern": "in [X] ist [Y] die amtssprache", "checked-by-human": true}
+{"pattern": "offiziell ist [Y] die sprache von [X]", "checked-by-human": true}
+{"pattern": "das gesetz in [X] definiert die [Y]-sprache als amtssprache", "checked-by-human": false}
+{"pattern": "die sprache [Y] ist die offizielle sprache von [X]", "checked-by-human": true}
+{"pattern": "die offizielle sprache von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "die sprache [Y] ist die amtssprache von [X]", "checked-by-human": false}

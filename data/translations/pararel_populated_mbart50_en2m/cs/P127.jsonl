@@ -1,5 +1,0 @@
-{"pattern": "[X] pat\u0159\u00ed spole\u010dnosti [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "[X] pat\u0159\u00ed [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "[X] je vlastnictv\u00ed [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "[X] majitel [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
-{"pattern": "[Y] vlastn\u00ed [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}

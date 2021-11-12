@@ -1,0 +1,6 @@
+{"pattern": "iaith wreiddiol [X] oedd [Y]", "checked-by-human": false}
+{"pattern": "iaith wreiddiol [X] yw [Y]", "checked-by-human": false}
+{"pattern": "iaith [X] oedd [Y]", "checked-by-human": false}
+{"pattern": "iaith [X] yw [Y]", "checked-by-human": false}
+{"pattern": "[Y] yw iaith [X]", "checked-by-human": false}
+{"pattern": "[Y] oedd iaith [X]", "checked-by-human": false}

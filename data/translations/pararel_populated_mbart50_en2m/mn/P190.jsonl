@@ -1,9 +1,0 @@
-{"pattern": "[Y] \u0431\u043e\u043b\u043e\u043d [X] \u0445\u043e\u0451\u0440 \u0445\u043e\u043b\u044b\u043d \u0445\u043e\u0442 \u0431\u0430\u0439\u043d\u0430.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] \u0431\u043e\u043b\u043e\u043d [X] \u0431\u043e\u043b \u0445\u043e\u0451\u0440 \u0445\u043e\u043b\u044b\u043d \u0445\u043e\u0442.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] \u0431\u043e\u043b [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[Y] \u0431\u043e\u043b [X] \u0445\u043e\u0442.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[Y] \u0431\u043e\u043b [X] \u0445\u043e\u0451\u0440\u044b\u043d \u0445\u043e\u0442.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] \u0431\u043e\u043b [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] \u0431\u043e\u043b [Y] \u0445\u043e\u0451\u0440\u044b\u043d \u0445\u043e\u0442.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] \u0431\u043e\u043b [Y] \u0445\u043e\u0442.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] \u0431\u043e\u043b [Y] \u0442\u043e\u043c \u0445\u043e\u0442.", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

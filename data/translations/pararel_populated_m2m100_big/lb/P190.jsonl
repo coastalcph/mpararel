@@ -1,8 +1,0 @@
-{"pattern": "[X] an [Y] sinn Zwillingsst\u00e4dte.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[X] a [Y] sinn Zwillingsst\u00e4dte.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] a [X] sinn Zwillingsst\u00e4dte.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] sinn [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] ass eng Zwillingsstad [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[Y] ass eng Zwillingsstad vu [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[Y] ass eng Zwillingsstad vun [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] ass eng Zwillingsstad vu [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

@@ -1,8 +1,0 @@
-{"pattern": "[X] twouve l [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] twouve l ann [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] twouve [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] twouve l nan [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] twouve l nan kontinan [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] kontinan [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
-{"pattern": "[X] se yon pati nan kontinan [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}
-{"pattern": "[X] se yon pati nan kontinan [Y] la.", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

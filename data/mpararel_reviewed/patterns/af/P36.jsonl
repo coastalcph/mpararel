@@ -1,0 +1,7 @@
+{"pattern": "[X] se hoofstad is [Y]", "checked-by-human": false}
+{"pattern": "die hoofstad van [X] is [Y]", "checked-by-human": false}
+{"pattern": "[X] se hoofstad, [Y]", "checked-by-human": false}
+{"pattern": "[Y], die hoofstad van [X]", "checked-by-human": false}
+{"pattern": "[X]se hoofstad, [Y]", "checked-by-human": false}
+{"pattern": "[X], wat die hoofstad [Y] het", "checked-by-human": false}
+{"pattern": "[Y] is die hoofstad van [X]", "checked-by-human": false}

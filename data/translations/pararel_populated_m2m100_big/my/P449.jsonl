@@ -1,8 +1,0 @@
-{"pattern": "[X] \u1000\u102d\u102f\u1015\u1011\u1019\u1026\u1038\u1006\u102f\u1036\u1038 [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
-{"pattern": "\u1021\u1006\u102d\u102f\u1015\u102b [X] \u1000\u102d\u102f\u1015\u1011\u1019\u1026\u1038\u1006\u102f\u1036\u1038 [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
-{"pattern": "[Y] \u1000 [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
-{"pattern": "[Y] \u1000 [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
-{"pattern": "\u1021\u1006\u102d\u102f\u1015\u102b [Y] \u1000 [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
-{"pattern": "[Y] \u104f [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
-{"pattern": "[X] \u1000\u102d\u102f [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
-{"pattern": "[Y] \u1000 [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}

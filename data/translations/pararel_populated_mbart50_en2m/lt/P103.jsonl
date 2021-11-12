@@ -1,8 +1,0 @@
-{"pattern": "[X] gimtoji kalba yra [Y] kalba.", "lemma": "native", "extended_lemma": "native", "tense": "present"}
-{"pattern": "[X] gimtoji kalba yra [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
-{"pattern": "[X] gimtoji kalba yra [Y] kalba.", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
-{"pattern": "[X] gimtoji kalba yra [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
-{"pattern": "[Y] kalba yra [X] gimtoji kalba.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
-{"pattern": "[Y] yra [X] gimtoji kalba.", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
-{"pattern": "[Y] kalba yra [X] gimtoji kalba.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
-{"pattern": "[Y] yra [X] gimtoji kalba.", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

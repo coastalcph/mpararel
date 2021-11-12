@@ -1,0 +1,11 @@
+{"pattern": "[X] omab kodakondsust [Y]", "checked-by-human": false}
+{"pattern": "[X], kes on [Y] kodanik", "checked-by-human": false}
+{"pattern": "[X] on [Y] kodanik", "checked-by-human": false}
+{"pattern": "[X], kes on kodanik [Y]", "checked-by-human": false}
+{"pattern": "[X], kes omab kodakondsust [Y]", "checked-by-human": false}
+{"pattern": "[X] omab [Y] kodakondsust", "checked-by-human": false}
+{"pattern": "[X], kellel on [Y] kodakondsus", "checked-by-human": false}
+{"pattern": "[X], [Y] kodanik", "checked-by-human": false}
+{"pattern": "[Y] kodanikuna, [X]", "checked-by-human": false}
+{"pattern": "[X], kellel on kodakondsus [Y]", "checked-by-human": false}
+{"pattern": "kui kodanik [Y], [X]", "checked-by-human": false}

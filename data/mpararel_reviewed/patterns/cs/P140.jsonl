@@ -1,0 +1,7 @@
+{"pattern": "[X] je n\u00e1sledovn\u00edk [Y]", "checked-by-human": false}
+{"pattern": "[X] je n\u00e1sledovn\u00edkem [Y]", "checked-by-human": false}
+{"pattern": "[X] je spojen s [Y] n\u00e1bo\u017eenstv\u00edm", "checked-by-human": false}
+{"pattern": "[Y] je [X] ofici\u00e1ln\u00ed n\u00e1bo\u017eenstv\u00ed", "checked-by-human": false}
+{"pattern": "[Y] je ofici\u00e1ln\u00ed n\u00e1bo\u017eenstv\u00ed [X]", "checked-by-human": false}
+{"pattern": "[X] je spojena s n\u00e1bo\u017eenstv\u00edm [Y]", "checked-by-human": false}
+{"pattern": "[X] n\u00e1sleduje n\u00e1bo\u017eenstv\u00ed [Y]", "checked-by-human": false}

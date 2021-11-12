@@ -1,0 +1,5 @@
+{"pattern": "[X] je hr\u00e1\u010d [Y]", "checked-by-human": false}
+{"pattern": "[Y] hr\u00e1\u010d [X]", "checked-by-human": false}
+{"pattern": "[X] hraje [Y]", "checked-by-human": false}
+{"pattern": "[X] p\u0159ehraje [Y]", "checked-by-human": false}
+{"pattern": "[X] je [Y] hr\u00e1\u010d", "checked-by-human": false}

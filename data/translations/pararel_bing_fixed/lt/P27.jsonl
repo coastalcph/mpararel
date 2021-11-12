@@ -1,9 +1,0 @@
-{"pattern": "[X] yra [Y] pilietis.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
-{"pattern": "[X] yra [Y] pilietis.", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
-{"pattern": "[X], [Y] pilietis.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
-{"pattern": "[X], kuris yra [Y] pilietis.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
-{"pattern": "[X] turi [Y] pilietyb\u0119.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X] turi [Y] pilietyb\u0119.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "[X], turintis [Y] pilietyb\u0119.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X], turintis [Y] pilietyb\u0119.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "kaip [Y], [X] pilietis", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

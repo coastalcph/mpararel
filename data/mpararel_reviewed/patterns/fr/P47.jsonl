@@ -1,0 +1,15 @@
+{"pattern": "[X] partage une fronti\u00e8re avec le [Y]", "checked-by-human": true}
+{"pattern": "[X] partage une fronti\u00e8re commune avec la [Y]", "checked-by-human": true}
+{"pattern": "[Y] partage sa fronti\u00e8re avec [X]", "checked-by-human": false}
+{"pattern": "[X] partage la fronti\u00e8re avec [Y]", "checked-by-human": false}
+{"pattern": "[X] fronti\u00e8res avec [Y]", "checked-by-human": false}
+{"pattern": "[X] partage sa fronti\u00e8re avec le [Y]", "checked-by-human": true}
+{"pattern": "[X] partage une fronti\u00e8re avec la [Y]", "checked-by-human": true}
+{"pattern": "[X] partage une fronti\u00e8re commune avec le [Y]", "checked-by-human": true}
+{"pattern": "[Y] partage une fronti\u00e8re commune avec le [X]", "checked-by-human": true}
+{"pattern": "[X] a une fronti\u00e8re commune avec le [Y]", "checked-by-human": true}
+{"pattern": "[X] partage sa fronti\u00e8re avec la [Y]", "checked-by-human": true}
+{"pattern": "[X] a une fronti\u00e8re commune avec la [Y]", "checked-by-human": true}
+{"pattern": "[Y] partage la fronti\u00e8re avec [X]", "checked-by-human": false}
+{"pattern": "[Y] fronti\u00e8res avec [X]", "checked-by-human": false}
+{"pattern": "[Y] partage une fronti\u00e8re commune avec la [X]", "checked-by-human": true}

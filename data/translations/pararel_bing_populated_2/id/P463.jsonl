@@ -1,7 +1,0 @@
-{"pattern": "[X] adalah anggota [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
-{"pattern": "[X] organisasi [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[X] termasuk dalam organisasi [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[X] milik organisasi [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[X] adalah bagian dari organisasi [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "[X] berafiliasi dengan [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "[X] berafiliasi dengan organisasi [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

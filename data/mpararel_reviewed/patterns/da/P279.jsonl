@@ -1,0 +1,6 @@
+{"pattern": "[X], en underklasse af [Y]", "checked-by-human": true}
+{"pattern": "[X], en type [Y]", "checked-by-human": false}
+{"pattern": "[X], en type af [Y]", "checked-by-human": false}
+{"pattern": "[X], som er en underklasse af [Y]", "checked-by-human": true}
+{"pattern": "[X] er en underklasse af [Y]", "checked-by-human": true}
+{"pattern": "[X] er en underklasse p\u00e5 [Y]", "checked-by-human": false}

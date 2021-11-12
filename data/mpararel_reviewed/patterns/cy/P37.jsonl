@@ -1,0 +1,9 @@
+{"pattern": "yn [X], [Y] yw'r iaith swyddogol", "checked-by-human": false}
+{"pattern": "iaith swyddogol [X] yw [Y]", "checked-by-human": false}
+{"pattern": "mae'r gyfraith yn [X] yn datgan [Y] yr iaith swyddogol", "checked-by-human": false}
+{"pattern": "yn swyddogol, [Y] yw iaith [X]", "checked-by-human": false}
+{"pattern": "yr iaith [Y] yw iaith swyddogol [X]", "checked-by-human": false}
+{"pattern": "mae'r gyfraith yn [X] yn diffinio'r iaith [Y] fel yr iaith swyddogol", "checked-by-human": false}
+{"pattern": "[Y] yw iaith swyddogol [X]", "checked-by-human": false}
+{"pattern": "iaith swyddogol [X] yw'r iaith [Y]", "checked-by-human": false}
+{"pattern": "mae'r gyfraith yn [X] yn diffinio [Y] fel yr iaith swyddogol", "checked-by-human": false}

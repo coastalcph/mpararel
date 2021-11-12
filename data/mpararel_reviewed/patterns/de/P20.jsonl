@@ -1,0 +1,7 @@
+{"pattern": "[X] erlag bei [Y]", "checked-by-human": false}
+{"pattern": "[X] ist bei [Y] abgelaufen", "checked-by-human": false}
+{"pattern": "[X] starb bei [Y]", "checked-by-human": false}
+{"pattern": "[X] verlor ihr leben in [Y]", "checked-by-human": true}
+{"pattern": "[X]s leben endete in [Y]", "checked-by-human": true}
+{"pattern": "[X] starb in [Y]", "checked-by-human": true}
+{"pattern": "[X] erlag in [Y]", "checked-by-human": true}

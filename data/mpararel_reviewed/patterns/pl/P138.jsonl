@@ -1,0 +1,16 @@
+{"pattern": "[X], kt\u00f3ry zosta\u0142 nazwany po [Y]", "checked-by-human": true}
+{"pattern": "[X] zosta\u0142 nazwany na cze\u015b\u0107 [Y]", "checked-by-human": true}
+{"pattern": "[X], kt\u00f3ry nazywa si\u0119 po [Y]", "checked-by-human": true}
+{"pattern": "[X], kt\u00f3ry zosta\u0142 nazwany [Y]", "checked-by-human": false}
+{"pattern": "[X], kt\u00f3ry zosta\u0142 nazwany na cze\u015b\u0107 [Y]", "checked-by-human": false}
+{"pattern": "[X], kt\u00f3ry jest nazywany po [Y]", "checked-by-human": true}
+{"pattern": "[X], nazwany po [Y]", "checked-by-human": false}
+{"pattern": "[X], nazwany na cze\u015b\u0107 [Y]", "checked-by-human": false}
+{"pattern": "[X] nazywa si\u0119 po [Y]", "checked-by-human": true}
+{"pattern": "[X], zwany po [Y]", "checked-by-human": false}
+{"pattern": "[X], kt\u00f3rego nazwa pochodzi od [Y]", "checked-by-human": true}
+{"pattern": "[X] ma nazw\u0119 [Y]", "checked-by-human": false}
+{"pattern": "[X], nazwane na cze\u015b\u0107 [Y]", "checked-by-human": false}
+{"pattern": "[X] zosta\u0142 nazwany [Y]", "checked-by-human": false}
+{"pattern": "[X] nosi imi\u0119 [Y]", "checked-by-human": false}
+{"pattern": "[X] zosta\u0142 nazwany po [Y]", "checked-by-human": true}

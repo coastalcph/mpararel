@@ -1,0 +1,17 @@
+{"pattern": "[X]-\u0568 \u0563\u0580\u057e\u0565\u056c \u0567 [Y] \u056c\u0565\u0566\u057e\u0578\u057e", "checked-by-human": false}
+{"pattern": "[X]-\u0568 \u0563\u0580\u057e\u0565\u056c \u0567 [Y] -\u0578\u0582\u0574", "checked-by-human": false}
+{"pattern": "[X] \u0563\u0580\u057e\u0561\u056e \u0567\u0580 [Y] \u0578\u0582\u0574", "checked-by-human": false}
+{"pattern": "[X]-\u0568 \u0563\u0580\u057e\u0561\u056e \u0567 [Y] -\u0578\u0582\u0574", "checked-by-human": false}
+{"pattern": "[Y]-\u056c\u0565\u0566\u057e\u056b \u057d\u057f\u0565\u0572\u056e\u0578\u0582\u0574\u0568 [X]", "checked-by-human": false}
+{"pattern": "[X]-\u0568 [Y]-\u0575\u0561\u0576 \u0561\u0577\u056d\u0561\u057f\u0561\u0576\u0584 \u0567\u0589", "checked-by-human": false}
+{"pattern": "[X]-\u0568 [Y] \u056c\u0565\u0566\u057e\u0578\u057e \u0561\u0577\u056d\u0561\u057f\u0561\u0576\u0584 \u0567\u0580", "checked-by-human": false}
+{"pattern": "[X] \u0563\u0580\u057e\u0561\u056e \u0567 [Y] \u056c\u0565\u0566\u057e\u0578\u057e", "checked-by-human": false}
+{"pattern": "[X]-\u056b \u056c\u0565\u0566\u0578\u0582\u0576 [Y] \u0567\u0589", "checked-by-human": false}
+{"pattern": "[X], [Y]-\u0575\u0561\u0576 \u0561\u0577\u056d\u0561\u057f\u0561\u0576\u0584", "checked-by-human": false}
+{"pattern": "[X]-\u0568 [Y]-\u0575\u0561\u0576 \u0561\u0577\u056d\u0561\u057f\u0561\u0576\u0584 \u0567\u0580\u0589", "checked-by-human": false}
+{"pattern": "[X]-\u0568 [Y] \u056c\u0565\u0566\u057e\u0578\u057e \u0561\u0577\u056d\u0561\u057f\u0561\u0576\u0584 \u0567", "checked-by-human": false}
+{"pattern": "[Y]-\u0568 [X] \u056c\u0565\u0566\u0578\u0582\u0576 \u0567\u0589", "checked-by-human": false}
+{"pattern": "[X], \u0563\u0580\u057e\u0561\u056e [Y] \u056c\u0565\u0566\u057e\u0578\u057e", "checked-by-human": false}
+{"pattern": "[Y]-\u0576 [X] \u056c\u0565\u0566\u0578\u0582\u0576 \u0567\u0580\u0589", "checked-by-human": false}
+{"pattern": "[X] \u056c\u0565\u0566\u0578\u0582\u0576 [Y] \u0567\u0580\u0589", "checked-by-human": false}
+{"pattern": "[X], a [Y]-language work", "checked-by-human": false}

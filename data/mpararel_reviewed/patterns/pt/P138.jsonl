@@ -1,0 +1,25 @@
+{"pattern": "[X], que foi chamado depois [Y]", "checked-by-human": true}
+{"pattern": "[X], com o nome de [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e9 nomeado ap\u00f3s [Y]", "checked-by-human": false}
+{"pattern": "[X], que foi nomeado em honra de [Y]", "checked-by-human": true}
+{"pattern": "[X], chamado depois [Y]", "checked-by-human": false}
+{"pattern": "[X] foi nomeado para [Y]", "checked-by-human": true}
+{"pattern": "[X], que tem o nome de [Y]", "checked-by-human": false}
+{"pattern": "[X] foi chamado depois de [Y]", "checked-by-human": false}
+{"pattern": "[X] foi nomeado em homenagem a [Y]", "checked-by-human": true}
+{"pattern": "[X], que foi chamado depois de [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e9 chamado depois de [Y]", "checked-by-human": true}
+{"pattern": "[X], nomeado em honra de [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e9 nomeado para [Y]", "checked-by-human": false}
+{"pattern": "[X], que foi nomeado em homenagem a [Y]", "checked-by-human": true}
+{"pattern": "[X], que \u00e9 chamado depois de [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e9 chamado depois [Y]", "checked-by-human": false}
+{"pattern": "[X] foi designado depois [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e9 nomeado em honra de [Y]", "checked-by-human": true}
+{"pattern": "[X], que \u00e9 nomeado em honra de [Y]", "checked-by-human": true}
+{"pattern": "[X] foi nomeado em honra de [Y]", "checked-by-human": false}
+{"pattern": "[X] foi chamado depois [Y]", "checked-by-human": true}
+{"pattern": "[X], que \u00e9 chamado depois [Y]", "checked-by-human": false}
+{"pattern": "[X], que foi nomeado para [Y]", "checked-by-human": false}
+{"pattern": "[X], nomeado para [Y]", "checked-by-human": true}
+{"pattern": "[X] tem o nome de [Y]", "checked-by-human": false}

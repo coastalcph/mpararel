@@ -1,0 +1,15 @@
+{"pattern": "[X] fue nombrado en honor a [Y]", "checked-by-human": true}
+{"pattern": "[X], que se llama en honor a [Y]", "checked-by-human": true}
+{"pattern": "[X] fue nombrado por [Y]", "checked-by-human": false}
+{"pattern": "[X] fue nombrado despu\u00e9s de [Y]", "checked-by-human": false}
+{"pattern": "[X], que fue nombrado en honor a [Y]", "checked-by-human": false}
+{"pattern": "[X], que fue nombrado despu\u00e9s de [Y]", "checked-by-human": false}
+{"pattern": "[X], que fue nombrado por [Y]", "checked-by-human": false}
+{"pattern": "[X] lleva el nombre de [Y]", "checked-by-human": false}
+{"pattern": "[X], nombrado en honor a [Y]", "checked-by-human": true}
+{"pattern": "[X], nombrado as\u00ed en honor a [Y]", "checked-by-human": true}
+{"pattern": "[X], que lleva el nombre de [Y]", "checked-by-human": false}
+{"pattern": "[X], que lleva el nombre en honor a [Y]", "checked-by-human": false}
+{"pattern": "[X], llamado despu\u00e9s de [Y]", "checked-by-human": false}
+{"pattern": "[X] lleva el nombre en honor de [Y]", "checked-by-human": false}
+{"pattern": "[Y] da nombre a [X]", "checked-by-human": true}

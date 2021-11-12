@@ -1,6 +1,0 @@
-{"pattern": "Ang [X] ug [Y] maoy kaluhang mga siyudad.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[X] ug [Y] maoy kaluhang mga siyudad.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "Ang [Y] ug [X] maoy kaluhang mga siyudad.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "Ang [Y] maoy kaluhang siyudad sa [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "Ang [X] maoy kaluhang siyudad sa [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] maoy kaluhang siyudad sa [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

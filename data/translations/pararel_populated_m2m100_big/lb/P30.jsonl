@@ -1,8 +1,0 @@
-{"pattern": "[X] l\u00e4it an [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] l\u00e4it am Kontinent [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] l\u00e4it [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] zum Kontinent [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
-{"pattern": "[X] geh\u00e9iert zum [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
-{"pattern": "[X] zum [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
-{"pattern": "[X] ass e Deel vum Kontinent [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}
-{"pattern": "[X] ass en Deel vum [Y] Kontinent.", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

@@ -1,0 +1,8 @@
+{"pattern": "[X], i cili ka kryeqytetin [Y]", "checked-by-human": false}
+{"pattern": "kryeqyteti i [X] \u00ebsht\u00eb [Y]", "checked-by-human": false}
+{"pattern": "[Y] \u00ebsht\u00eb kryeqyteti i [X]", "checked-by-human": false}
+{"pattern": "kryeqyteti i [X], [Y]", "checked-by-human": false}
+{"pattern": "kryeqyteti i [X]\u00ebsht\u00eb [Y]", "checked-by-human": false}
+{"pattern": "[Y], kryeqyteti i [X]", "checked-by-human": false}
+{"pattern": "[X], e cila ka kryeqytetin [Y]", "checked-by-human": false}
+{"pattern": "[Y], ky \u00ebsht\u00eb kryeqyteti i [X]", "checked-by-human": false}

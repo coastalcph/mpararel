@@ -1,0 +1,7 @@
+{"pattern": "[Y] je glavni grad [X]", "checked-by-human": false}
+{"pattern": "[X], koji ima glavni grad [Y]", "checked-by-human": false}
+{"pattern": "[X] glavni grad je [Y]", "checked-by-human": false}
+{"pattern": "[Y], glavni grad [X]", "checked-by-human": false}
+{"pattern": "[Y], to je glavni grad [X]", "checked-by-human": false}
+{"pattern": "glavni grad [X] je [Y]", "checked-by-human": false}
+{"pattern": "glavni grad [X], [Y]", "checked-by-human": false}

@@ -1,7 +1,0 @@
-{"pattern": "[Y] \u0430\u043d\u0445\u043d\u044b [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
-{"pattern": "\"\" [Y] \"\" \u0433\u044d\u0436 [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
-{"pattern": "[Y] \u0430\u043d\u0445 [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
-{"pattern": "\"\" [X] \"\" [Y]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
-{"pattern": "[X] \u0430\u043d\u0445 [Y]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
-{"pattern": "[X] \"\" [Y]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
-{"pattern": "[X] -\u044b\u043d [Y]", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}

@@ -1,0 +1,9 @@
+{"pattern": "[X] ont perdu la vie \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] ont perdu leur vie \u00e0 [Y]", "checked-by-human": false}
+{"pattern": "[X] a expir\u00e9 \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] est mort \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] succomb\u00e9 \u00e0 [Y]", "checked-by-human": false}
+{"pattern": "la vie de [X] s\u2019est termin\u00e9e \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] a succomb\u00e9 \u00e0 [Y]", "checked-by-human": false}
+{"pattern": "[X] est d\u00e9c\u00e9d\u00e9 en [Y]", "checked-by-human": false}
+{"pattern": "[X] est d\u00e9c\u00e9d\u00e9 \u00e0 [Y]", "checked-by-human": true}

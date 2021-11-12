@@ -94,6 +94,8 @@ def get_reviewed_version(existing_templates, templates_answers,
     existing_templates = existing_templates.copy()
     templates_reviewed_by_human = set()
     stats["Existing templates"] += len(existing_templates)
+    stats["Reviewed templates"] += len(templates_answers)
+    stats["Extra templates in sheet"] += len(extra_templates)
     # Remove incorrect ones
     for template, _, is_incorrect, correction in templates_answers:
         if template not in existing_templates:
@@ -123,10 +125,9 @@ def get_reviewed_version(existing_templates, templates_answers,
                 "The correction provided '{}' is not a valid template.".format(
                     cleaned_template))
         if cleaned_template not in existing_templates:
-            stats["Corrections and extra templates"] += len(extra_templates)
+            stats["Corrections and extra templates"] += 1
         existing_templates.add(cleaned_template)
         templates_reviewed_by_human.add(cleaned_template)
-    stats["Reviewed templates"] += len(existing_templates)
     return existing_templates, templates_reviewed_by_human, stats
 
 

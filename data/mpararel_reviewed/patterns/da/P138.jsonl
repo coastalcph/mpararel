@@ -1,0 +1,11 @@
+{"pattern": "[X], som blev opkaldt efter [Y]", "checked-by-human": true}
+{"pattern": "[X], som blev kaldt efter [Y]", "checked-by-human": false}
+{"pattern": "[X], som er opkaldt efter [Y]", "checked-by-human": true}
+{"pattern": "[X] er opkaldt efter [Y]", "checked-by-human": false}
+{"pattern": "[X] kaldes efter [Y]", "checked-by-human": false}
+{"pattern": "[X] er navngivet i [Y]s \u00e6re", "checked-by-human": false}
+{"pattern": "[X] blev kaldt efter [Y]", "checked-by-human": false}
+{"pattern": "[X], navngivet efter [Y]", "checked-by-human": false}
+{"pattern": "[X], kaldet efter [Y]", "checked-by-human": false}
+{"pattern": "[X] blev opkaldt efter [Y]", "checked-by-human": false}
+{"pattern": "[X], opkaldt efter [Y]", "checked-by-human": true}

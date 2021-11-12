@@ -1,0 +1,13 @@
+{"pattern": "[X] i\u0161 prad\u017ei\u0173 buvo transliuojamas [Y]", "checked-by-human": false}
+{"pattern": "[X] premjeros [Y]", "checked-by-human": false}
+{"pattern": "[X] debiutavo [Y]", "checked-by-human": false}
+{"pattern": "[Y] debiutas [X]", "checked-by-human": false}
+{"pattern": "[X] turi debiutuoti [Y]", "checked-by-human": false}
+{"pattern": "[X] yra debiutuoti [Y]", "checked-by-human": false}
+{"pattern": "[Y] turi debiutuoti [X]", "checked-by-human": false}
+{"pattern": "i\u0161 prad\u017ei\u0173 [X] buvo rodomas per [Y]", "checked-by-human": false}
+{"pattern": "[X] premjera [Y]", "checked-by-human": false}
+{"pattern": "[Y] i\u0161leista [X]", "checked-by-human": false}
+{"pattern": "[X] buvo i\u0161leistas [Y]", "checked-by-human": false}
+{"pattern": "[Y] debiutavo [X]", "checked-by-human": false}
+{"pattern": "[Y] [X] i\u0161leidimas", "checked-by-human": false}

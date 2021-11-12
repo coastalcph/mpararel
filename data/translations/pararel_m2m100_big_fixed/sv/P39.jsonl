@@ -1,6 +1,0 @@
-{"pattern": "[X] har en position av [Y].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
-{"pattern": "[X], som har en st\u00e4llning av [Y]", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
-{"pattern": "[X], vars st\u00e4llning \u00e4r den av [Y].", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
-{"pattern": "[X]s st\u00e4llning \u00e4r [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
-{"pattern": "[X], som h\u00e5ller st\u00e4llning av [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
-{"pattern": "[X] h\u00e5ller st\u00e4llningen f\u00f6r [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

@@ -1,0 +1,17 @@
+{"pattern": "[X] ist zu ehren von [Y] benannt", "checked-by-human": false}
+{"pattern": "[X], das zu ehren von [Y] benannt wurde", "checked-by-human": true}
+{"pattern": "[X], das zu ehren von [Y] benannt ist", "checked-by-human": false}
+{"pattern": "[X] ist nach [Y] benannt", "checked-by-human": true}
+{"pattern": "[X] wurde nach [Y] genannt", "checked-by-human": true}
+{"pattern": "[X] wurde nach [Y] benannt", "checked-by-human": true}
+{"pattern": "[X] wurde zu ehren von [Y] benannt", "checked-by-human": true}
+{"pattern": "[X], das nach [Y] benannt wurde", "checked-by-human": true}
+{"pattern": "[X], benannt nach [Y]s ehren", "checked-by-human": false}
+{"pattern": "[X], das nach [Y] genannt wurde", "checked-by-human": false}
+{"pattern": "[X], das nach [Y] genannt wird", "checked-by-human": true}
+{"pattern": "[X], benannt nach [Y]", "checked-by-human": true}
+{"pattern": "[X] wird nach [Y] aufgerufen", "checked-by-human": false}
+{"pattern": "[X] wird nach [Y] genannt", "checked-by-human": true}
+{"pattern": "[X] ist in der ehre von [Y] benannt", "checked-by-human": true}
+{"pattern": "[X], das nach [Y] benannt ist", "checked-by-human": true}
+{"pattern": "[X], nach [Y] aufgerufen", "checked-by-human": false}

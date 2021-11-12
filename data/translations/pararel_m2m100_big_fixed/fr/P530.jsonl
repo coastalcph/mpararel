@@ -1,9 +1,0 @@
-{"pattern": "[X] entretient des relations diplomatiques avec [Y]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] entretient des relations diplomatiques avec [X]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] entretient des relations diplomatiques avec [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "Il entretient des relations diplomatiques avec [X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] a des relations diplomatiques avec [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] a des relations diplomatiques avec [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X], qui entretient des relations diplomatiques avec [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], qui entretient des relations diplomatiques avec [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], qui relie des relations diplomatiques avec [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

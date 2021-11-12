@@ -1,0 +1,4 @@
+{"pattern": "[X], situato in [Y]", "checked-by-human": true}
+{"pattern": "[X], che si trova in [Y]", "checked-by-human": true}
+{"pattern": "[X] si trova in [Y]", "checked-by-human": true}
+{"pattern": "[X] si trova a [Y]", "checked-by-human": false}

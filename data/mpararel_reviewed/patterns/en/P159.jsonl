@@ -1,0 +1,10 @@
+{"pattern": "[X]'s headquarters are in [Y]", "checked-by-human": false}
+{"pattern": "[X] is headquartered in [Y]", "checked-by-human": false}
+{"pattern": "the headquarter of [X] is in [Y]", "checked-by-human": false}
+{"pattern": "the headquarters of [X] is in [Y]", "checked-by-human": false}
+{"pattern": "[Y] has the headquarters of [X]", "checked-by-human": false}
+{"pattern": "[X], whose headquarters are in [Y]", "checked-by-human": false}
+{"pattern": "[Y] is home to [X]", "checked-by-human": false}
+{"pattern": "the headquarter of [X] is located in [Y]", "checked-by-human": false}
+{"pattern": "[X] is based in [Y]", "checked-by-human": false}
+{"pattern": "[Y] contains the headquarters of [X]", "checked-by-human": false}

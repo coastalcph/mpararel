@@ -1,0 +1,15 @@
+{"pattern": "label musik [X] adalah [Y]", "checked-by-human": false}
+{"pattern": "[X] label [Y]", "checked-by-human": false}
+{"pattern": "[X] diwakili oleh label musik [Y]", "checked-by-human": false}
+{"pattern": "label musik yang mewakili [X] adalah [Y]", "checked-by-human": false}
+{"pattern": "[X] diwakili oleh label rekaman [Y]", "checked-by-human": false}
+{"pattern": "label [X] adalah [Y]", "checked-by-human": false}
+{"pattern": "perusahaan rekaman [X] adalah [Y]", "checked-by-human": false}
+{"pattern": "[Y] artis seperti [X]", "checked-by-human": false}
+{"pattern": "[Y] artis rekaman [X]", "checked-by-human": false}
+{"pattern": "label rekaman [X] adalah [Y]", "checked-by-human": false}
+{"pattern": "[Y] artis termasuk [X]", "checked-by-human": false}
+{"pattern": "[X], yang diwakili oleh [Y]", "checked-by-human": false}
+{"pattern": "[X] diwakili oleh [Y]", "checked-by-human": false}
+{"pattern": "[X] direkam untuk [Y]", "checked-by-human": false}
+{"pattern": "[X], dirilis oleh [Y]", "checked-by-human": false}

@@ -1,0 +1,4 @@
+{"pattern": "[Y] er en tvillingeby til [X]", "checked-by-human": true}
+{"pattern": "[Y] og [X] er tvillingebyer", "checked-by-human": false}
+{"pattern": "[X] og [Y] er tvillingebyer", "checked-by-human": false}
+{"pattern": "[X] er [Y]s tvillingeby", "checked-by-human": true}

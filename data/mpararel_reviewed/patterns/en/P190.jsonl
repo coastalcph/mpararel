@@ -1,0 +1,4 @@
+{"pattern": "[X] and [Y] are twin cities", "checked-by-human": false}
+{"pattern": "[Y] and [X] are twin cities", "checked-by-human": false}
+{"pattern": "[X] is a twin city of [Y]", "checked-by-human": false}
+{"pattern": "[Y] is a twin city of [X]", "checked-by-human": false}

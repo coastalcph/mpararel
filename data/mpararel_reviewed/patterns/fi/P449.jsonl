@@ -1,0 +1,13 @@
+{"pattern": "[X] on debyytti [Y]", "checked-by-human": false}
+{"pattern": "[X] debytoi [Y]", "checked-by-human": false}
+{"pattern": "[Y] on debyytti [X]", "checked-by-human": false}
+{"pattern": "[Y] debytoi [X]", "checked-by-human": false}
+{"pattern": "[X] ensi-iltansa [Y]", "checked-by-human": false}
+{"pattern": "[X] esitettiin alun perin [Y] ss\u00e4", "checked-by-human": false}
+{"pattern": "[X] sai ensi-iltansa [Y]", "checked-by-human": false}
+{"pattern": "[X] esitettiin alun perin [Y]", "checked-by-human": false}
+{"pattern": "[X] vapautettiin [Y]", "checked-by-human": false}
+{"pattern": "[X] julkaistiin [Y]", "checked-by-human": false}
+{"pattern": "[Y] julkaistu [X]", "checked-by-human": false}
+{"pattern": "[X]n [Y]-vapautus", "checked-by-human": false}
+{"pattern": "[X]n] [Y]-debyytti", "checked-by-human": false}

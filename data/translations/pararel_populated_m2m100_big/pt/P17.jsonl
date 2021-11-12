@@ -1,8 +1,0 @@
-{"pattern": "[X] est\u00e1 [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
-{"pattern": "[X] est\u00e1 localizado na [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
-{"pattern": "[X] est\u00e1 localizado [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
-{"pattern": "[X] na [Y]", "lemma": "is-located", "extended_lemma": "is-located", "tense": "present"}
-{"pattern": "[X] que est\u00e1 localizado na [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
-{"pattern": "[X] localizado [Y]", "lemma": "which-is-located", "extended_lemma": "which-is-located", "tense": "present"}
-{"pattern": "[X] localizado na [Y]", "lemma": "located", "extended_lemma": "located", "tense": "present"}
-{"pattern": "[X] localizado [Y]", "lemma": "located", "extended_lemma": "located", "tense": "present"}

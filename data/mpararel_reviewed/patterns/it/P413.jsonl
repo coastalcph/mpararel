@@ -1,0 +1,8 @@
+{"pattern": "[X] viene riprodotto in posizione [Y]", "checked-by-human": false}
+{"pattern": "giocando come un [Y], [X]", "checked-by-human": true}
+{"pattern": "[X] gioca in posizione [Y]", "checked-by-human": true}
+{"pattern": "giocando come [Y], [X]", "checked-by-human": false}
+{"pattern": "[X] gioca nella posizione di [Y]", "checked-by-human": true}
+{"pattern": "[X], che gioca in posizione [Y]", "checked-by-human": false}
+{"pattern": "[X] suona come [Y]", "checked-by-human": false}
+{"pattern": "[X] gioca come [Y]", "checked-by-human": true}

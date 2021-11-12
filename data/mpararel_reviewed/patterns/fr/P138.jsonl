@@ -1,0 +1,25 @@
+{"pattern": "[X], qui est nomm\u00e9 d'apr\u00e8s [Y]", "checked-by-human": true}
+{"pattern": "[X], qui est nomm\u00e9 en l\u2019honneur de [Y]", "checked-by-human": true}
+{"pattern": "[X], qui a \u00e9t\u00e9 nomm\u00e9 pour [Y]", "checked-by-human": false}
+{"pattern": "[X] a \u00e9t\u00e9 nomm\u00e9 en l\u2019honneur de [Y]", "checked-by-human": false}
+{"pattern": "[X], qui a \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s [Y]", "checked-by-human": false}
+{"pattern": "[X] est nomm\u00e9 pour [Y]", "checked-by-human": false}
+{"pattern": "[X] a \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s [Y]", "checked-by-human": true}
+{"pattern": "[X], qui a \u00e9t\u00e9 nomm\u00e9 d\u2019apr\u00e8s [Y]", "checked-by-human": false}
+{"pattern": "[X] est appel\u00e9 apr\u00e8s [Y]", "checked-by-human": false}
+{"pattern": "[X] a \u00e9t\u00e9 appel\u00e9 apr\u00e8s [Y]", "checked-by-human": false}
+{"pattern": "[X] porte le nom du [Y]", "checked-by-human": true}
+{"pattern": "[X] est nomm\u00e9 d'apr\u00e8s [Y]", "checked-by-human": false}
+{"pattern": "[X], qui est appel\u00e9 d'apr\u00e8s [Y]", "checked-by-human": true}
+{"pattern": "[X] a \u00e9t\u00e9 nomm\u00e9 d\u2019apr\u00e8s [Y]", "checked-by-human": false}
+{"pattern": "[X], qui est appel\u00e9 d\u2019apr\u00e8s [Y]", "checked-by-human": true}
+{"pattern": "[X], appel\u00e9 d\u2019apr\u00e8s [Y]", "checked-by-human": true}
+{"pattern": "[X], nomm\u00e9 d'apr\u00e8s [Y]", "checked-by-human": true}
+{"pattern": "[X] est nomm\u00e9 d\u2019apr\u00e8s [Y]", "checked-by-human": false}
+{"pattern": "[X], nomm\u00e9 en l\u2019honneur de [Y]", "checked-by-human": false}
+{"pattern": "[X] est nomm\u00e9 en l\u2019honneur de [Y]", "checked-by-human": false}
+{"pattern": "[X], qui a \u00e9t\u00e9 nomm\u00e9 apr\u00e8s [Y]", "checked-by-human": false}
+{"pattern": "[X], qui a \u00e9t\u00e9 nomm\u00e9 en l\u2019honneur de [Y]", "checked-by-human": true}
+{"pattern": "[X], qui porte le nom de [Y]", "checked-by-human": true}
+{"pattern": "[X], qui a \u00e9t\u00e9 appel\u00e9 d\u2019apr\u00e8s [Y]", "checked-by-human": true}
+{"pattern": "[X], nomm\u00e9 d\u2019apr\u00e8s [Y]", "checked-by-human": false}

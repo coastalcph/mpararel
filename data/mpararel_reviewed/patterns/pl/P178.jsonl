@@ -1,0 +1,18 @@
+{"pattern": "[X] zosta\u0142 opracowany przez [Y]", "checked-by-human": true}
+{"pattern": "[X] jest rozwijany przez [Y]", "checked-by-human": true}
+{"pattern": "[X], iloczyn [Y]", "checked-by-human": false}
+{"pattern": "[X], produkt wytwarzany przez [Y]", "checked-by-human": false}
+{"pattern": "[X], utworzony przez [Y]", "checked-by-human": true}
+{"pattern": "[Y], tw\u00f3rca [X]", "checked-by-human": true}
+{"pattern": "[X], produkt stworzony przez [Y]", "checked-by-human": true}
+{"pattern": "[X], produkt opracowany przez [Y]", "checked-by-human": false}
+{"pattern": "[X], produkt wyprodukowany przez [Y]", "checked-by-human": true}
+{"pattern": "[X], produkt [Y]", "checked-by-human": false}
+{"pattern": "[X] jest produktem [Y]", "checked-by-human": false}
+{"pattern": "[Y], kt\u00f3ry rozwin\u0105\u0142 [X]", "checked-by-human": true}
+{"pattern": "[X], opracowany przez [Y]", "checked-by-human": true}
+{"pattern": "[X] jest tworzony przez [Y]", "checked-by-human": false}
+{"pattern": "[Y], kt\u00f3ry stworzy\u0142 [X]", "checked-by-human": true}
+{"pattern": "[Y] i jego produkt [X]", "checked-by-human": false}
+{"pattern": "[X] zosta\u0142 stworzony przez [Y]", "checked-by-human": false}
+{"pattern": "[X] by\u0142 produktem [Y]", "checked-by-human": false}

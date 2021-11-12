@@ -1,0 +1,9 @@
+{"pattern": "[X] travaillait dans [Y]", "checked-by-human": false}
+{"pattern": "[X] a \u00e9t\u00e9 employ\u00e9 \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e9tait employ\u00e9 dans [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e9tait employ\u00e9 \u00e0 [Y]", "checked-by-human": false}
+{"pattern": "[X] a travaill\u00e9 dans [Y]", "checked-by-human": false}
+{"pattern": "[X] a trouv\u00e9 un emploi \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] travaillait en [Y]", "checked-by-human": false}
+{"pattern": "[X] a pris le travail \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] a commenc\u00e9 \u00e0 travailler \u00e0 [Y]", "checked-by-human": true}

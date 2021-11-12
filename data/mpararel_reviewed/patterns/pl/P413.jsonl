@@ -1,0 +1,5 @@
+{"pattern": "graj\u0105c jako [Y], [X]", "checked-by-human": true}
+{"pattern": "[X] gra jako [Y]", "checked-by-human": true}
+{"pattern": "[X] gra na pozycji [Y]", "checked-by-human": true}
+{"pattern": "[X], kt\u00f3ry gra w pozycji [Y]", "checked-by-human": false}
+{"pattern": "[X], kt\u00f3ry gra na pozycji [Y]", "checked-by-human": false}

@@ -1,6 +1,0 @@
-{"pattern": "[X] [Y] posizioa du.", "lemma": "position", "extended_lemma": "position", "tense": "present"}
-{"pattern": "[X], nork du [Y].", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
-{"pattern": "[X], zeinen posizioa da [Y].", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
-{"pattern": "[X] posizioa [Y] da.", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
-{"pattern": "[X], [Y] posizioa dauka.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
-{"pattern": "[X] [Y] posizioa dauka.", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

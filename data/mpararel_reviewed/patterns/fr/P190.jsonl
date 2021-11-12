@@ -1,0 +1,4 @@
+{"pattern": "[X] et [Y] sont des villes jumelles", "checked-by-human": false}
+{"pattern": "[Y] et [X] sont des villes jumelles", "checked-by-human": false}
+{"pattern": "[Y] est une ville jumelle de [X]", "checked-by-human": true}
+{"pattern": "[X] est une ville jumelle de [Y]", "checked-by-human": true}

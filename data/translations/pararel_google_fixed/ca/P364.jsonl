@@ -1,6 +1,0 @@
-{"pattern": "L'idioma original de [X] \u00e9s [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
-{"pattern": "L'idioma original de [X] era [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
-{"pattern": "El llenguatge de [X] \u00e9s [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
-{"pattern": "El llenguatge de [X] era [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
-{"pattern": "[Y] \u00e9s la llengua de [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
-{"pattern": "[Y] era la llengua de [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

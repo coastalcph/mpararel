@@ -1,0 +1,5 @@
+{"pattern": "[X] adalah kota berkembar [Y]", "checked-by-human": false}
+{"pattern": "[Y] adalah bandar berkembar [X]", "checked-by-human": false}
+{"pattern": "[X] dan [Y] adalah bandar berkembar", "checked-by-human": false}
+{"pattern": "[X] dan [Y] adalah bandar-bandar berkembar", "checked-by-human": false}
+{"pattern": "[Y] dan [X] adalah bandar-bandar berkembar", "checked-by-human": false}

@@ -1,0 +1,7 @@
+{"pattern": "[X] est\u00e1 hermanada con [Y]", "checked-by-human": true}
+{"pattern": "[X] es una ciudad gemela de [Y]", "checked-by-human": false}
+{"pattern": "[X] e [Y] son \u200b\u200bciudades gemelas", "checked-by-human": false}
+{"pattern": "[X] y [Y] est\u00e1n hermanadas", "checked-by-human": true}
+{"pattern": "[X] y [Y] son ciudades hermanadas", "checked-by-human": true}
+{"pattern": "[Y] y [X] son ciudades gemelas", "checked-by-human": false}
+{"pattern": "[Y] est\u00e1 hermanada con [X]", "checked-by-human": true}

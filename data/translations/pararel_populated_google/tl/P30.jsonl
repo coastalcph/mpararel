@@ -1,7 +1,0 @@
-{"pattern": "Ang [X] ay matatagpuan sa [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] ay matatagpuan sa [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "Ang [X] ay matatagpuan sa kontinente [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] ay matatagpuan sa kontinente [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "Ang [X] ay kabilang sa kontinente ng [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
-{"pattern": "[X] ay kabilang sa kontinente ng [Y]", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
-{"pattern": "Ang [X] ay bahagi ng kontinente ng [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

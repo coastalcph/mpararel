@@ -1,0 +1,15 @@
+{"pattern": "[X] war in [Y] heimisch", "checked-by-human": true}
+{"pattern": "[X] war eine [Y]-geborene person", "checked-by-human": false}
+{"pattern": "[X] ist eine [Y]-geborene person", "checked-by-human": true}
+{"pattern": "[X] wurde in [Y] geboren", "checked-by-human": true}
+{"pattern": "[X] war urspr\u00fcnglich aus [Y]", "checked-by-human": true}
+{"pattern": "[X] war urspr\u00fcnglich von [Y]", "checked-by-human": false}
+{"pattern": "[X], eine [Y]-geborene person", "checked-by-human": false}
+{"pattern": "[X] stammt aus [Y]", "checked-by-human": true}
+{"pattern": "[X] ist geboren in [Y]", "checked-by-human": true}
+{"pattern": "[X] kommt aus [Y]", "checked-by-human": true}
+{"pattern": "[X], eine in [Y] geb\u00fcrtige person", "checked-by-human": true}
+{"pattern": "[X] stammt urspr\u00fcnglich von [Y]", "checked-by-human": false}
+{"pattern": "[X] ist urspr\u00fcnglich von [Y]", "checked-by-human": true}
+{"pattern": "[X] stammt von [Y]", "checked-by-human": true}
+{"pattern": "[X] ist aus [Y]", "checked-by-human": true}

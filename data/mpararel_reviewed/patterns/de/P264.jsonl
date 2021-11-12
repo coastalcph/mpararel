@@ -1,0 +1,23 @@
+{"pattern": "[X] label [Y]", "checked-by-human": false}
+{"pattern": "[X], ver\u00f6ffentlicht von [Y]", "checked-by-human": false}
+{"pattern": "[Y] aufnahmek\u00fcnstler [X]", "checked-by-human": true}
+{"pattern": "[X] aufgezeichnet f\u00fcr [Y]", "checked-by-human": true}
+{"pattern": "[Y] k\u00fcnstler wie [X]", "checked-by-human": true}
+{"pattern": "[X], das durch [Y] dargestellt wird", "checked-by-human": false}
+{"pattern": "das musiklabel, das [X] repr\u00e4sentiert, ist [Y]", "checked-by-human": true}
+{"pattern": "[X]s musiklabel ist [Y]", "checked-by-human": false}
+{"pattern": "[X] wird vom musiklabel [Y] dargestellt", "checked-by-human": false}
+{"pattern": "das label von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "[X] wird durch [Y] dargestellt", "checked-by-human": false}
+{"pattern": "[X]s plattenfirma ist [Y]", "checked-by-human": true}
+{"pattern": "das plattenlabel von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "[X], das wird durch [Y] dargestellt", "checked-by-human": false}
+{"pattern": "das musiklabel von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "[Y] k\u00fcnstler einschlie\u00dflich [X]", "checked-by-human": true}
+{"pattern": "[X] wird durch das plattenlabel [Y] vertreten", "checked-by-human": true}
+{"pattern": "[X] wird durch das musiklabel [Y] dargestellt", "checked-by-human": true}
+{"pattern": "das musiklabel, das [X] darstellt, ist [Y]", "checked-by-human": false}
+{"pattern": "das etikett von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "[X]s plattenlabel ist [Y]", "checked-by-human": true}
+{"pattern": "[X], freigegeben von [Y]", "checked-by-human": true}
+{"pattern": "[X] wird durch das musiklabel [Y] repr\u00e4sentiert", "checked-by-human": false}

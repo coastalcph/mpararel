@@ -1,0 +1,12 @@
+{"pattern": "[X], der die position von [Y] hat", "checked-by-human": false}
+{"pattern": "[X] hat die position des [Y]", "checked-by-human": true}
+{"pattern": "die position von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "[X], der die position von [Y] innehat", "checked-by-human": false}
+{"pattern": "[X] hat die position [Y]", "checked-by-human": false}
+{"pattern": "[X] h\u00e4lt die position von [Y]", "checked-by-human": false}
+{"pattern": "[X], dessen position die von [Y] ist", "checked-by-human": true}
+{"pattern": "[X] hat die position der [Y]", "checked-by-human": true}
+{"pattern": "[X], der die position von [Y] h\u00e4lt", "checked-by-human": true}
+{"pattern": "[X], dessen position die des [Y] ist", "checked-by-human": true}
+{"pattern": "[X], der die position eines [Y] innehat", "checked-by-human": true}
+{"pattern": "[X] hat die position von [Y]", "checked-by-human": true}

@@ -1,7 +1,0 @@
-{"pattern": "Rodn\u00fdm jazykom [X] je [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
-{"pattern": "Materinsk\u00fdm jazykom [X] je [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
-{"pattern": "[Y] je rodn\u00fdm jazykom [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
-{"pattern": "[Y] je [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
-{"pattern": "[Y] je materinsk\u00fdm jazykom [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
-{"pattern": "[Y] je [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
-{"pattern": "[Y] je materinsk\u00fd [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

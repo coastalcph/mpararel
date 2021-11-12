@@ -1,0 +1,4 @@
+{"pattern": "[X], who is employed by [Y]", "checked-by-human": false}
+{"pattern": "[X] is employed by [Y]", "checked-by-human": false}
+{"pattern": "[X] works for [Y]", "checked-by-human": false}
+{"pattern": "[X], who works for [Y]", "checked-by-human": false}

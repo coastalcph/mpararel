@@ -1,0 +1,7 @@
+{"pattern": "[X], der spiller [Y]", "checked-by-human": true}
+{"pattern": "[X], der spiller [Y]-musik", "checked-by-human": true}
+{"pattern": "[X] afspiller [Y] musik", "checked-by-human": false}
+{"pattern": "[Y]-musiker [X]", "checked-by-human": true}
+{"pattern": "[Y] musikere som [X]", "checked-by-human": false}
+{"pattern": "[X] spiller [Y]-musik", "checked-by-human": true}
+{"pattern": "[X] spiller [Y]", "checked-by-human": false}

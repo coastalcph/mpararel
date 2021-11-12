@@ -1,8 +1,0 @@
-{"pattern": "[X] muri\u00f3 en [Y]", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
-{"pattern": "[X] muri\u00f3 en [Y]", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
-{"pattern": "[X] ha pasado en [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
-{"pattern": "[X] ha pasado en [Y]", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
-{"pattern": "[X] se ha extinguido en [Y]", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
-{"pattern": "[X] perdi\u00f3 su vida en [Y].", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
-{"pattern": "La vida de [X] termin\u00f3 en [Y].", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
-{"pattern": "[X] se subi\u00f3 a [Y]", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

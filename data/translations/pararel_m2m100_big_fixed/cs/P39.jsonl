@@ -1,6 +1,0 @@
-{"pattern": "[X] m\u00e1 na sv\u00e9m m\u00edst\u011b [Y]", "lemma": "position", "extended_lemma": "position", "tense": "present"}
-{"pattern": "A kdo m\u00e1 (a m\u00e1) na sv\u00e9m m\u00edst\u011b?", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
-{"pattern": "[X], jeho\u017e postaven\u00ed je toto\u017en\u00e9 s [Y]", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
-{"pattern": "[X] je na pozici [Y]", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
-{"pattern": "[X], kter\u00fd m\u00e1 na pozici [Y]", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
-{"pattern": "[X] se nach\u00e1z\u00ed na pozici [Y]", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

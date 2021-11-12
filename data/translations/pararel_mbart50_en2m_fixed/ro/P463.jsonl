@@ -1,5 +1,0 @@
-{"pattern": "[X] este membru al [Y].", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
-{"pattern": "[X] apar\u0163ine organiza\u0163iei [Y].", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[X] face parte din organiza\u0163ia [Y].", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "[X] este afiliat la [Y].", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "[X] este afiliat organiza\u0163iei [Y].", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

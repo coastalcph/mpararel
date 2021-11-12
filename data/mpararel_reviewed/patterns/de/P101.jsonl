@@ -1,0 +1,19 @@
+{"pattern": "der arbeitsbereich von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "der aktivit\u00e4tsbereich von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "die dom\u00e4ne der aktivit\u00e4t von [X] ist [Y]", "checked-by-human": false}
+{"pattern": "die expertise von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "[X] ist auf [Y] spezialisiert", "checked-by-human": true}
+{"pattern": "[X]s expertise ist [Y]", "checked-by-human": false}
+{"pattern": "die domain der arbeit von [X] ist [Y]", "checked-by-human": false}
+{"pattern": "[X] arbeitet im bereich [Y]", "checked-by-human": false}
+{"pattern": "die expertise von [X] liegt im [Y]", "checked-by-human": true}
+{"pattern": "[X]s arbeitsgebiet ist [Y]", "checked-by-human": true}
+{"pattern": "[X]s expertise liegt im [Y]", "checked-by-human": true}
+{"pattern": "[X] arbeitet im bereich von [Y]", "checked-by-human": true}
+{"pattern": "[Y] ist der aktivit\u00e4tsbereich von [X]", "checked-by-human": true}
+{"pattern": "die dom\u00e4ne der arbeit von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "der t\u00e4tigkeitsbereich von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "[Y] ist die expertise von [X]", "checked-by-human": false}
+{"pattern": "[X]s arbeitsbereich ist [Y]", "checked-by-human": true}
+{"pattern": "[X] ist spezialisiert auf [Y]", "checked-by-human": true}
+{"pattern": "[Y] ist die spezialisierung von [X]", "checked-by-human": true}

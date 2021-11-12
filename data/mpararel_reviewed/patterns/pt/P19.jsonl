@@ -1,0 +1,8 @@
+{"pattern": "[X] era uma pessoa nascida em [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e9 originalmente de [Y]", "checked-by-human": false}
+{"pattern": "[X] nasceu em [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e9 uma pessoa nascida em [Y]", "checked-by-human": false}
+{"pattern": "[X] era originalmente de [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e9 natural de [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e9 nativo de [Y]", "checked-by-human": true}
+{"pattern": "[X], uma pessoa nascida em [Y]", "checked-by-human": false}

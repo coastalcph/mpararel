@@ -1,7 +1,0 @@
-{"pattern": "[X] \u1000 [Y]", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
-{"pattern": "[X] \u1000 [Y] \u1021\u1010\u103d\u1000\u103a\u1021\u101c\u102f\u1015\u103a\u101c\u102f\u1015\u103a\u1015\u102b\u1010\u101a\u103a\u104b", "lemma": "works-for", "extended_lemma": "works-for", "tense": "present"}
-{"pattern": "[X] \u1000 [Y]", "lemma": "who-works-for", "extended_lemma": "who-works-for", "tense": "present"}
-{"pattern": "[X] \u1000 [Y] \u1019\u103e\u102c\u1021\u101c\u102f\u1015\u103a\u101c\u102f\u1015\u103a\u1001\u1032\u1037\u101e\u100a\u103a\u104b", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
-{"pattern": "[X] \u1000 [Y]", "lemma": "employed-by", "extended_lemma": "employed-by", "tense": "present"}
-{"pattern": "[X] \u1000 [Y]", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}
-{"pattern": "[X] \u1000 [Y] \u104f\u1021\u101c\u102f\u1015\u103a\u101c\u102f\u1015\u103a\u101e\u1030\u1016\u103c\u1005\u103a\u1015\u102b\u1010\u101a\u103a\u104b", "lemma": "who-employed-by", "extended_lemma": "who-employed-by", "tense": "present"}

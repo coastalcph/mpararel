@@ -1,0 +1,21 @@
+{"pattern": "[X], che ha avuto origine in [Y]", "checked-by-human": false}
+{"pattern": "[X], formulato in [Y]", "checked-by-human": false}
+{"pattern": "[X], creato in [Y]", "checked-by-human": false}
+{"pattern": "[X], da [Y]", "checked-by-human": false}
+{"pattern": "[X], che si \u00e8 formato in [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e8 stato formato in [Y]", "checked-by-human": false}
+{"pattern": "[X] si \u00e8 formato in [Y]", "checked-by-human": false}
+{"pattern": "[X] ha avuto origine in [Y]", "checked-by-human": false}
+{"pattern": "[X], sviluppato in [Y]", "checked-by-human": true}
+{"pattern": "[X], che \u00e8 stato formulato in [Y]", "checked-by-human": true}
+{"pattern": "[X], che \u00e8 stato formato in [Y]", "checked-by-human": false}
+{"pattern": "[X], che \u00e8 stato creato in [Y]", "checked-by-human": false}
+{"pattern": "[X], che \u00e8 stato sviluppato in [Y]", "checked-by-human": true}
+{"pattern": "[X] formato in [Y]", "checked-by-human": false}
+{"pattern": "[X] era da [Y]", "checked-by-human": true}
+{"pattern": "[X], che era di [Y]", "checked-by-human": false}
+{"pattern": "[X], che era da [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e8 stato creato in [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e8 stato formulato in [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e8 stato sviluppato in [Y]", "checked-by-human": false}
+{"pattern": "[X] proveniva da [Y]", "checked-by-human": false}

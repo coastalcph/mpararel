@@ -1,0 +1,5 @@
+{"pattern": "[X] eigenaar [Y]", "checked-by-human": false}
+{"pattern": "[X] is eigendom van [Y]", "checked-by-human": false}
+{"pattern": "[Y] bezit [X]", "checked-by-human": false}
+{"pattern": "[Y] is eigenaar van [X]", "checked-by-human": false}
+{"pattern": "het [Y]-eigendom [X]", "checked-by-human": false}

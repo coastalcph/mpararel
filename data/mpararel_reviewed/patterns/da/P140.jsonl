@@ -1,0 +1,5 @@
+{"pattern": "[X] er tilknyttet [Y]s religion", "checked-by-human": true}
+{"pattern": "[Y] er [X]s officielle religion", "checked-by-human": true}
+{"pattern": "[X] f\u00f8lger [Y]", "checked-by-human": false}
+{"pattern": "[X] f\u00f8lger [Y] religion", "checked-by-human": false}
+{"pattern": "[X] er tilknyttet [Y] -religionen", "checked-by-human": false}

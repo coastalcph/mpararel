@@ -1,4 +1,0 @@
-{"pattern": "[X] se nahaja v [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] se nahaja na celini [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] spada v celino [Y].", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
-{"pattern": "[X] je del celine [Y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

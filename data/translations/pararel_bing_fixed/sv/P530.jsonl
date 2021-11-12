@@ -1,9 +1,0 @@
-{"pattern": "[X] uppr\u00e4tth\u00e5ller diplomatiska f\u00f6rbindelser med [Y].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] uppr\u00e4tth\u00e5ller diplomatiska f\u00f6rbindelser med [X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] knyter diplomatiska f\u00f6rbindelser med [Y].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] knyter diplomatiska f\u00f6rbindelser med [X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] har diplomatiska f\u00f6rbindelser med [Y].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] har diplomatiska f\u00f6rbindelser med [X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X], som har diplomatiska f\u00f6rbindelser med [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], som har diplomatiska f\u00f6rbindelser med [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], som knyter diplomatiska f\u00f6rbindelser med [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

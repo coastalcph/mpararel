@@ -1,0 +1,8 @@
+{"pattern": "[X] \u00e8 morto a [Y]", "checked-by-human": true}
+{"pattern": "la vita di [X] \u00e8 terminata a [Y]", "checked-by-human": true}
+{"pattern": "[X] mor\u00ec a [Y]", "checked-by-human": true}
+{"pattern": "la vita di [X] fin\u00ec in [Y]", "checked-by-human": false}
+{"pattern": "[X] ha perso la sua vita a [Y]", "checked-by-human": true}
+{"pattern": "[X] scaduto a [Y]", "checked-by-human": false}
+{"pattern": "[X] ha ceduto a [Y]", "checked-by-human": false}
+{"pattern": "[X] ha perso la vita a [Y]", "checked-by-human": true}

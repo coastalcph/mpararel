@@ -1,9 +1,0 @@
-{"pattern": "[X] teilt die Grenze mit [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] Grenzen mit [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "[X] teilt die Grenze mit [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] teilt seine Grenze mit [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] teilt eine gemeinsame Grenze mit [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
-{"pattern": "Die Grenzen mit [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "Die Grenze ist mit [X] geteilt.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "Und er teilt seine Grenze mit [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] teilt eine gemeinsame Grenze mit [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

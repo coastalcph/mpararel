@@ -1,0 +1,9 @@
+{"pattern": "[X] har diplomatiske forbindelser med [Y]", "checked-by-human": false}
+{"pattern": "[Y] har diplomatiske forbindelser med [X]", "checked-by-human": false}
+{"pattern": "[Y] knytter diplomatiske forbindelser med [X]", "checked-by-human": true}
+{"pattern": "[X] opretholder diplomatiske forbindelser med [Y]", "checked-by-human": true}
+{"pattern": "[X] knytter diplomatiske forbindelser med [Y]", "checked-by-human": true}
+{"pattern": "[Y], som har diplomatiske forbindelser med [X]", "checked-by-human": false}
+{"pattern": "[X], som har diplomatiske forbindelser med [Y]", "checked-by-human": true}
+{"pattern": "[Y], som knytter diplomatiske forbindelser med [X]", "checked-by-human": false}
+{"pattern": "[Y] opretholder diplomatiske forbindelser med [X]", "checked-by-human": true}

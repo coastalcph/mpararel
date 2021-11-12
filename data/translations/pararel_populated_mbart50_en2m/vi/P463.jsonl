@@ -1,8 +1,0 @@
-{"pattern": "[X] l\u00e0 m\u1ed9t th\u00e0nh vi\u00ean c\u1ee7a [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
-{"pattern": "[X] thu\u1ed9c v\u1ec1 t\u1ed5 ch\u1ee9c [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[X] l\u00e0 m\u1ed9t ph\u1ea7n c\u1ee7a t\u1ed5 ch\u1ee9c [Y]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "[X] li\u00ean quan \u0111\u1ebfn [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "[X] h\u1ee3p t\u00e1c v\u1edbi [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "[X] li\u00ean quan \u0111\u1ebfn t\u1ed5 ch\u1ee9c [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
-{"pattern": "[X] t\u1ed5 ch\u1ee9c [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}
-{"pattern": "[X] h\u1ee3p t\u00e1c v\u1edbi t\u1ed5 ch\u1ee9c [Y]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

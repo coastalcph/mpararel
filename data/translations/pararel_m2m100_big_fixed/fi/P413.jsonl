@@ -1,6 +1,0 @@
-{"pattern": "[X] pelaa [Y] asennossa", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
-{"pattern": "[X] pelaa asennossa [Y]", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
-{"pattern": "[X], joka pelaa [Y] asennossa", "lemma": "play", "extended_lemma": "play-in-position", "tense": "present"}
-{"pattern": "Pelaa kuten a [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
-{"pattern": "Pelaa kuin [Y], [X]", "lemma": "play", "extended_lemma": "play-as", "tense": "?"}
-{"pattern": "[X] pelaa kuten [Y]", "lemma": "play", "extended_lemma": "play-as", "tense": "present"}

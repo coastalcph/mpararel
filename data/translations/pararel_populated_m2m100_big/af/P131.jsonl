@@ -1,8 +1,0 @@
-{"pattern": "[X] is gele\u00eb in [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
-{"pattern": "[X] is in [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
-{"pattern": "[X] is in [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
-{"pattern": "[X] is in [Y] gele\u00eb.", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
-{"pattern": "[X] kan in [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
-{"pattern": "[X] kan gevind word in [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
-{"pattern": "[X] kan in [Y] gevind word.", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
-{"pattern": "[X] kan gevind [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}

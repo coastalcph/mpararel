@@ -1,0 +1,13 @@
+{"pattern": "[X], die de hoofdstad heeft [Y]", "checked-by-human": false}
+{"pattern": "[Y], het kapitaal van [X]", "checked-by-human": false}
+{"pattern": "[Y], dat is de hoofdstad van [X]", "checked-by-human": false}
+{"pattern": "[Y] is het kapitaal van [X]", "checked-by-human": false}
+{"pattern": "[X], die het kapitaal [Y] heeft", "checked-by-human": false}
+{"pattern": "het kapitaal van [X] is [Y]", "checked-by-human": false}
+{"pattern": "[X], die de hoofdstad [Y] heeft", "checked-by-human": false}
+{"pattern": "de hoofdstad van [X] is [Y]", "checked-by-human": false}
+{"pattern": "[Y], de hoofdstad van [X]", "checked-by-human": false}
+{"pattern": "[Y] is de hoofdstad van [X]", "checked-by-human": false}
+{"pattern": "[Y], dat is het kapitaal van [X]", "checked-by-human": false}
+{"pattern": "de hoofdstad van [X] [Y]", "checked-by-human": false}
+{"pattern": "het kapitaal van [X] [Y]", "checked-by-human": false}

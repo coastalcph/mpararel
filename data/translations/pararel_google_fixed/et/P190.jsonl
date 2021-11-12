@@ -1,4 +1,0 @@
-{"pattern": "[X] ja [Y] on kaksiklinnad.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] ja [X] on kaksiklinnad.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] on kahekordne linn [X].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] on kahekordne linn [Y].", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

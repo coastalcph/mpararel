@@ -1,9 +1,0 @@
-{"pattern": "[X] Gi\u1edbi h\u1ea1n c\u00f9ng [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] v\u1edbi [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "[X] c\u00f9ng v\u1edbi [Y] gi\u1edbi h\u1ea1n.", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] C\u00f9ng v\u1edbi gi\u1edbi h\u1ea1n c\u1ee7a n\u00f3 v\u1edbi [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] C\u00f9ng m\u1ed9t gi\u1edbi h\u1ea1n chung v\u1edbi [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
-{"pattern": "[Y] v\u1edbi [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "Gi\u1edbi h\u1ea1n [X] v\u1ec1 gi\u1edbi h\u1ea1n [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] c\u00f9ng v\u1edbi gi\u1edbi h\u1ea1n c\u1ee7a n\u00f3 v\u1edbi [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] c\u00f3 gi\u1edbi h\u1ea1n chung v\u1edbi [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

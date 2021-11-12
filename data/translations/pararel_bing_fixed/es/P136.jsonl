@@ -1,6 +1,0 @@
-{"pattern": "[X] reproduce m\u00fasica [Y].", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
-{"pattern": "[X], que toca m\u00fasica [Y]", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
-{"pattern": "[X] juega [Y].", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
-{"pattern": "[X], que interpreta [Y].", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
-{"pattern": "[Y] m\u00fasicos [X].", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
-{"pattern": "[Y] m\u00fasicos como [X].", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

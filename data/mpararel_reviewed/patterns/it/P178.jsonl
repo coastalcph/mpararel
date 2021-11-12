@@ -1,0 +1,17 @@
+{"pattern": "[X], creato da [Y]", "checked-by-human": true}
+{"pattern": "[X], un prodotto fabbricato da [Y]", "checked-by-human": true}
+{"pattern": "[Y], il creatore della [X]", "checked-by-human": true}
+{"pattern": "[X] \u00e8 un prodotto di [Y]", "checked-by-human": false}
+{"pattern": "[X], un prodotto di [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e8 sviluppato da [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e8 stato creato da [Y]", "checked-by-human": false}
+{"pattern": "[X], un prodotto creato da [Y]", "checked-by-human": false}
+{"pattern": "[Y], che ha creato [X]", "checked-by-human": false}
+{"pattern": "[X] era un prodotto di [Y]", "checked-by-human": true}
+{"pattern": "[X], un prodotto sviluppato da [Y]", "checked-by-human": true}
+{"pattern": "[Y] e il suo prodotto [X]", "checked-by-human": false}
+{"pattern": "[X], sviluppato da [Y]", "checked-by-human": false}
+{"pattern": "[X], un prodotto realizzato da [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e8 creato da [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e8 stato sviluppato da [Y]", "checked-by-human": false}
+{"pattern": "[Y], che ha sviluppato [X]", "checked-by-human": true}

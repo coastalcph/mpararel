@@ -1,0 +1,6 @@
+{"pattern": "[X] spielt das [Y]", "checked-by-human": true}
+{"pattern": "[Y] spieler [X]", "checked-by-human": false}
+{"pattern": "[X] ist ein [Y] spieler", "checked-by-human": true}
+{"pattern": "[X] ist ein [Y]-spieler", "checked-by-human": true}
+{"pattern": "[X] spielt [Y]", "checked-by-human": true}
+{"pattern": "[X] spielt die [Y]", "checked-by-human": true}

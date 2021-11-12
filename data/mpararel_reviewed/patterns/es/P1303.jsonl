@@ -1,0 +1,5 @@
+{"pattern": "[X] juega el [Y]", "checked-by-human": false}
+{"pattern": "[X] toca la [Y]", "checked-by-human": false}
+{"pattern": "[X] toca el [Y]", "checked-by-human": true}
+{"pattern": "[X] juega [Y]", "checked-by-human": false}
+{"pattern": "[X] reproduce [Y]", "checked-by-human": false}

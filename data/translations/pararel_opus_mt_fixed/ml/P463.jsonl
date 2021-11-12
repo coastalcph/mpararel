@@ -1,5 +1,0 @@
-{"pattern": "[X] \u0d05\u0d02\u0d17\u0d2e\u0d3e\u0d23\u0d4d.", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
-{"pattern": "[X] [Y]\u0d28\u0d4d\u0d31\u0d46 \u0d38\u0d02\u0d18\u0d1f\u0d28\u0d2f\u0d41\u0d1f\u0d46 \u0d2d\u0d3e\u0d17\u0d2e\u0d3e\u0d23\u0d4d.", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[X] [Y] \u0d38\u0d02\u0d18\u0d1f\u0d28\u0d2f\u0d41\u0d1f\u0d46 \u0d2d\u0d3e\u0d17\u0d2e\u0d3e\u0d23\u0d4d.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "[1][\u0d2a\u0d4d\u0d30\u0d35\u0d7c\u0d24\u0d4d\u0d24\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d24\u0d4d\u0d24 \u0d15\u0d23\u0d4d\u0d23\u0d3f] History of [Y]ear.", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "[X] \u0d38\u0d02\u0d18\u0d1f\u0d28\u0d2f\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d2f\u0d4b\u0d1c\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d32\u0d3e\u0d23\u0d4d.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

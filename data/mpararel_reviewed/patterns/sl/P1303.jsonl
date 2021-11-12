@@ -1,0 +1,5 @@
+{"pattern": "[X] igra [Y]", "checked-by-human": false}
+{"pattern": "[Y] igralec [X]", "checked-by-human": false}
+{"pattern": "[X] predvaja [Y]", "checked-by-human": false}
+{"pattern": "[X] je [Y] igralec", "checked-by-human": false}
+{"pattern": "[X] je igralec [Y]", "checked-by-human": false}

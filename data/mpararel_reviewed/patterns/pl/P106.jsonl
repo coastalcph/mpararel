@@ -1,0 +1,10 @@
+{"pattern": "[X] zaw\u00f3d jest [Y]", "checked-by-human": false}
+{"pattern": "[X], kt\u00f3ry pracuje jako [Y]", "checked-by-human": false}
+{"pattern": "[X] dzia\u0142a jako [Y]", "checked-by-human": true}
+{"pattern": "[X] jest [Y] z zawodu", "checked-by-human": true}
+{"pattern": "zawodem [X] jest [Y]", "checked-by-human": true}
+{"pattern": "[X] jest [Y] z wykszta\u0142cenia", "checked-by-human": false}
+{"pattern": "[X] to [Y] z zawodu", "checked-by-human": false}
+{"pattern": "[X] to [Y] z wykszta\u0142cenia", "checked-by-human": true}
+{"pattern": "zaw\u00f3d [X] to [Y]", "checked-by-human": true}
+{"pattern": "okupacja [X] to [Y]", "checked-by-human": false}

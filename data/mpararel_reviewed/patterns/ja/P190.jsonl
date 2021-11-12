@@ -1,0 +1,4 @@
+{"pattern": "[Y]\u3068[X]\u306f\u53cc\u5b50\u306e\u90fd\u5e02\u3067\u3059", "checked-by-human": false}
+{"pattern": "[X]\u3068[Y]\u306f\u53cc\u5b50\u306e\u90fd\u5e02\u3067\u3059", "checked-by-human": false}
+{"pattern": "[Y]\u306f[X]\u306e\u53cc\u5b50\u306e\u90fd\u5e02\u3067\u3059", "checked-by-human": false}
+{"pattern": "[X]\u306f\u300c[Y]\u300d\u306e\u53cc\u5b50\u306e\u90fd\u5e02\u3067\u3059", "checked-by-human": false}

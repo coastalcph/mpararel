@@ -1,0 +1,17 @@
+{"pattern": "[X], et produkt skabt af [Y]", "checked-by-human": false}
+{"pattern": "[X], et produkt udviklet af [Y]", "checked-by-human": false}
+{"pattern": "[X], et produkt af [Y]", "checked-by-human": true}
+{"pattern": "[X] var et produkt af [Y]", "checked-by-human": true}
+{"pattern": "[Y], der udviklede [X]", "checked-by-human": false}
+{"pattern": "[X] blev skabt af [Y]", "checked-by-human": false}
+{"pattern": "[Y], der skabte [X]", "checked-by-human": true}
+{"pattern": "[Y], skaberen af [X]", "checked-by-human": true}
+{"pattern": "[Y] og dets produkt [X]", "checked-by-human": true}
+{"pattern": "[X] er et produkt af [Y]", "checked-by-human": true}
+{"pattern": "[X] er skabt af [Y]", "checked-by-human": false}
+{"pattern": "[X], udviklet af [Y]", "checked-by-human": false}
+{"pattern": "[X] blev udviklet af [Y]", "checked-by-human": false}
+{"pattern": "[X], et produkt fremstillet af [Y]", "checked-by-human": false}
+{"pattern": "[X], oprettet af [Y]", "checked-by-human": false}
+{"pattern": "[X] er udviklet af [Y]", "checked-by-human": false}
+{"pattern": "[X], et produkt, der er oprettet af [Y]", "checked-by-human": false}

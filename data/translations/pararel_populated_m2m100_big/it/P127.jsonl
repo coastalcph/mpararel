@@ -1,9 +1,0 @@
-{"pattern": "[X] \u00e8 di propriet\u00e0 di [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "[X] \u00e8 di propriet\u00e0 [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "[X] di [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
-{"pattern": "[Y] possiede [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "[Y] possiede il [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "[Y] possiede la [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "[X] di propriet\u00e0 di [Y]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}
-{"pattern": "[X] di [Y]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}
-{"pattern": "[X] di propriet\u00e0 [Y]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

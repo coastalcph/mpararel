@@ -1,0 +1,8 @@
+{"pattern": "[X], che lavora come [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e8 una [Y] di professione", "checked-by-human": true}
+{"pattern": "la professione di [X] \u00e8 [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e8 una [Y] per formazione", "checked-by-human": true}
+{"pattern": "[X] \u00e8 un [Y] per professione", "checked-by-human": false}
+{"pattern": "[X] l'occupazione \u00e8 [Y]", "checked-by-human": false}
+{"pattern": "l'occupazione di [X] \u00e8 [Y]", "checked-by-human": true}
+{"pattern": "[X] lavora come [Y]", "checked-by-human": true}

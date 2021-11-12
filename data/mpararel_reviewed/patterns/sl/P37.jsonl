@@ -1,0 +1,11 @@
+{"pattern": "uradni jezik [X] je jezik [Y]", "checked-by-human": false}
+{"pattern": "[Y] je uradni jezik [X]", "checked-by-human": false}
+{"pattern": "uradni jezik [X] je [Y] jezik", "checked-by-human": false}
+{"pattern": "[Y] jezik je uradni jezik [X]", "checked-by-human": false}
+{"pattern": "zakon v [X] opredeljuje [Y] kot uradni jezik", "checked-by-human": false}
+{"pattern": "zakon v [X] razgla\u0161a [Y] za uradni jezik", "checked-by-human": false}
+{"pattern": "uradno je [Y] jezik [X]", "checked-by-human": false}
+{"pattern": "v [X], [Y] je uradni jezik", "checked-by-human": false}
+{"pattern": "jezik [Y] je uradni jezik [X]", "checked-by-human": false}
+{"pattern": "zakon v [X] opredeljuje [Y] jezik kot uradni jezik", "checked-by-human": false}
+{"pattern": "uradni jezik [X] je [Y]", "checked-by-human": false}

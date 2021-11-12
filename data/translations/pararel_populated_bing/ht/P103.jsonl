@@ -1,7 +1,0 @@
-{"pattern": "Lang natif natal [X] se [Y]", "lemma": "native", "extended_lemma": "native", "tense": "present"}
-{"pattern": "Manman lang [X] se [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
-{"pattern": "Manman [X] se [Y]", "lemma": "mother-tongue", "extended_lemma": "mother-tongue", "tense": "present"}
-{"pattern": "[Y] se lang natif natal [X]", "lemma": "is-native", "extended_lemma": "is-native", "tense": "present"}
-{"pattern": "[Y] se [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
-{"pattern": "[Y] se lang [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}
-{"pattern": "[Y] se lang manman [X]", "lemma": "is-mother-tongue", "extended_lemma": "is-mother-tongue", "tense": "present"}

@@ -1,4 +1,0 @@
-{"pattern": "[X] je v lasti [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "[X] je lastnik", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
-{"pattern": "Torej je lastnik [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "ki je v lasti [X]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

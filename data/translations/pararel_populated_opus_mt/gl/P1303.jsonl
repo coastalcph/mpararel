@@ -1,8 +1,0 @@
-{"pattern": "[X] xoga [Y]", "lemma": "play", "extended_lemma": "play", "tense": "present"}
-{"pattern": "[X] xoga ao [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
-{"pattern": "[X] xoga [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
-{"pattern": "[X] a [Y]", "lemma": "play-the", "extended_lemma": "play-the", "tense": "present"}
-{"pattern": "[X] \u00e9 un reprodutor [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
-{"pattern": "[X] \u00e9 un [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
-{"pattern": "[X] \u00e9 un reprodutor de [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
-{"pattern": "[X] \u00e9 un xogador [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

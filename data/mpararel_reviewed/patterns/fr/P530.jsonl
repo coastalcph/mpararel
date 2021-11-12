@@ -1,0 +1,16 @@
+{"pattern": "[Y] entretient des relations diplomatiques avec [X]", "checked-by-human": false}
+{"pattern": "[X] entretient des relations diplomatiques avec [Y]", "checked-by-human": false}
+{"pattern": "[X] a des relations diplomatiques avec la [Y]", "checked-by-human": true}
+{"pattern": "[Y], qui a des relations diplomatiques avec [X]", "checked-by-human": false}
+{"pattern": "[Y] entretiens des relations diplomatiques avec la [X]", "checked-by-human": true}
+{"pattern": "[Y] a des relations diplomatiques avec le [X]", "checked-by-human": true}
+{"pattern": "[X] a des liens diplomatiques avec le [Y]", "checked-by-human": true}
+{"pattern": "[Y] \u00e9tablit des liens diplomatiques avec [X]", "checked-by-human": false}
+{"pattern": "[X], qui a des relations diplomatiques avec la [Y]", "checked-by-human": true}
+{"pattern": "[X], qui a des relations diplomatiques avec le [Y]", "checked-by-human": true}
+{"pattern": "[Y] entretiens des relations diplomatiques avec le [X]", "checked-by-human": true}
+{"pattern": "[X] a des liens diplomatiques avec la [Y]", "checked-by-human": true}
+{"pattern": "[X] a \u00e9tablit des liens diplomatiques avec [Y]", "checked-by-human": true}
+{"pattern": "[Y] a des relations diplomatiques avec la [X]", "checked-by-human": true}
+{"pattern": "[X] a des relations diplomatiques avec le [Y]", "checked-by-human": true}
+{"pattern": "[Y], qui lie les relations diplomatiques avec [X]", "checked-by-human": false}

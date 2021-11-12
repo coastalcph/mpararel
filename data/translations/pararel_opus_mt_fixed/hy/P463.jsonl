@@ -1,5 +1,0 @@
-{"pattern": "[ \u0544\u0565\u057b\u0562\u0565\u0580\u0578\u0582\u0574]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
-{"pattern": "[ \u0554\u057d\u0565\u0580\u0584\u057d\u0565\u057d\u0568] \u057a\u0561\u057f\u056f\u0561\u0576\u0578\u0582\u0574 \u0567 [\u0545\u0540\u054e\u0540] \u056f\u0561\u0566\u0574\u0561\u056f\u0565\u0580\u057a\u0578\u0582\u0569\u0575\u0561\u0576\u0568:", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[ \u0544\u0565\u057b\u0562\u0565\u0580\u0578\u0582\u0574]", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "[ \u0554\u057d\u0565\u0580\u0584\u057d\u0565\u057d\u0568]", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "[ \u0544\u0565\u057b\u0562\u0565\u0580\u0578\u0582\u0574]", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

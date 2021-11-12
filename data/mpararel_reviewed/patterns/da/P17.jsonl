@@ -1,0 +1,5 @@
+{"pattern": "[X], som er placeret i [Y]", "checked-by-human": false}
+{"pattern": "[X], beliggende i [Y]", "checked-by-human": true}
+{"pattern": "[X] er beliggende i [Y]", "checked-by-human": true}
+{"pattern": "[X] er placeret i [Y]", "checked-by-human": false}
+{"pattern": "[X], der ligger i [Y]", "checked-by-human": true}

@@ -1,8 +1,0 @@
-{"pattern": "[Y] is the specialization of [X]", "lemma": "specialization", "extended_lemma": "is-specialization-of", "tense": "present"}
-{"pattern": "[Y] \u10d0\u10e5\u10e2\u10d8\u10d5\u10dd\u10d1\u10d8\u10e1 [X]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
-{"pattern": "[X]  [Y]", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
-{"pattern": "[X] \u10e1\u10d0\u10db\u10e3\u10e8\u10d0\u10dd  Domein is [Y]", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
-{"pattern": "[X] of work is [Y]", "lemma": "domain-of-work", "extended_lemma": "'s-domain-of-work", "tense": "present"}
-{"pattern": "[X] \u10d0\u10e5\u10e2\u10d8\u10d5\u10dd\u10d1\u10d8\u10e1 [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
-{"pattern": "[X] of activity is [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
-{"pattern": "[X] \u0a8f\u0a95\u0aae [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}

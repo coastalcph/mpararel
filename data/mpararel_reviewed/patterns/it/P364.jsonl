@@ -1,0 +1,6 @@
+{"pattern": "[Y] era la lingua di [X]", "checked-by-human": true}
+{"pattern": "la lingua di [X] \u00e8 [Y]", "checked-by-human": false}
+{"pattern": "la lingua originale di [X] \u00e8 [Y]", "checked-by-human": true}
+{"pattern": "la lingua di [X] era [Y]", "checked-by-human": false}
+{"pattern": "la lingua originale di [X] era [Y]", "checked-by-human": true}
+{"pattern": "[Y] \u00e8 la lingua di [X]", "checked-by-human": false}

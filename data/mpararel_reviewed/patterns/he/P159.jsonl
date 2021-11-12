@@ -1,0 +1,8 @@
+{"pattern": "[Y] \u05de\u05db\u05d9\u05dc \u05d0\u05ea \u05d4\u05de\u05d8\u05d4 \u05e9\u05dc [X]", "checked-by-human": false}
+{"pattern": "[Y] \u05d9\u05e9 \u05d4\u05de\u05d8\u05d4 \u05e9\u05dc [X]", "checked-by-human": false}
+{"pattern": "\u05d4\u05de\u05e4\u05e7\u05d3\u05d4 \u05e9\u05dc [X] \u05e0\u05de\u05e6\u05d0\u05ea \u05d1[Y]", "checked-by-human": true}
+{"pattern": "[Y] \u05d4\u05d5\u05d0 \u05d1\u05d9\u05ea\u05dd \u05e9\u05dc [X]", "checked-by-human": false}
+{"pattern": "\u05d4\u05de\u05d8\u05d4 \u05e9\u05dc [X] \u05e0\u05de\u05e6\u05d0 \u05d1[Y]", "checked-by-human": false}
+{"pattern": "\u05d4\u05de\u05d8\u05d4 \u05e9\u05dc \u200b\u200b[X] \u05e0\u05de\u05e6\u05d0 \u05d1- [Y]", "checked-by-human": false}
+{"pattern": "\u05d4\u05de\u05d8\u05d4 \u05e9\u05dc [X] \u05de\u05de\u05d5\u05e7\u05dd \u05d1[Y]", "checked-by-human": true}
+{"pattern": "[X], \u05e9\u05d4\u05de\u05d8\u05d4 \u05e9\u05dc\u05d5 \u05e0\u05de\u05e6\u05d0 \u05d1[Y]", "checked-by-human": false}

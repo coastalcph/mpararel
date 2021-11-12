@@ -1,8 +1,0 @@
-{"pattern": "Ang [X] nahimutang sa [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "Ang [X] sa [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "[X] sa [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "Ang [X] anaa sa [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "[Y] sa [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "[Y] usa ka [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "Ang [Y] usa ka [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "[Y] mao ang [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}

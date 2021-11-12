@@ -1,5 +1,0 @@
-{"pattern": "[X] jonka valmistaa [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
-{"pattern": "[X] jonka [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
-{"pattern": "[X] jonka on valmistanut [Y]", "lemma": "produce", "extended_lemma": "produce-by", "tense": "?"}
-{"pattern": "[Y] ja sen [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}
-{"pattern": "[Y] ja sen tuote [X]", "lemma": "product", "extended_lemma": "its-product", "tense": "?"}

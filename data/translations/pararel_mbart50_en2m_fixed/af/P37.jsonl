@@ -1,9 +1,0 @@
-{"pattern": "Die offici\u00eble taal van [X] is [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Die offici\u00eble taal van [X] is Die [Y] taal.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] is die offici\u00eble taal van [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Die [Y] taal is Die offici\u00eble taal van [X].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "In [X], [Y] is die offici\u00eble taal.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
-{"pattern": "Wettiglik, [Y] is die taal van [X].", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "Die wet in [X] verklaar [Y] Die offici\u00eble taal.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
-{"pattern": "Die wet in [X] definieer [Y] as die offici\u00eble taal.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
-{"pattern": "Die wet in [X] definieer Die [Y] taal as Die offici\u00eble taal.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

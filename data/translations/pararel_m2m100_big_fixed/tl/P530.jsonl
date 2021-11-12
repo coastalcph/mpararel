@@ -1,9 +1,0 @@
-{"pattern": "[X] ay nagtatrabaho ng mga diplomatikong relasyon sa [Y].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] Magkaroon ng diplomatikong relasyon sa [X].", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] magtatag ng mga diplomatikong relasyon sa [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] magtatag ng mga diplomatikong relasyon sa [X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] ay may diplomatikong relasyon sa [Y].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] ay may diplomatikong relasyon sa [X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X], na may diplomatikong relasyon sa [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], na may diplomatikong relasyon sa [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], na nagtatrabaho ng mga diplomatikong relasyon sa [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

@@ -1,0 +1,5 @@
+{"pattern": "[X]\u306f[Y]\u304c\u6240\u6709\u3057\u3066\u3044\u307e\u3059", "checked-by-human": false}
+{"pattern": "[X] \u6240\u6709\u8005 [Y]", "checked-by-human": false}
+{"pattern": "[Y]\u6240\u6709[X]", "checked-by-human": false}
+{"pattern": "[X] \u306f [Y] \u304c\u6240\u6709\u3057\u3066\u3044\u307e\u3059", "checked-by-human": false}
+{"pattern": "[Y] \u306f [X] \u3092\u6240\u6709\u3057\u3066\u3044\u307e\u3059", "checked-by-human": false}

@@ -1,0 +1,16 @@
+{"pattern": "[X], proizvod koji proizvodi [Y]", "checked-by-human": false}
+{"pattern": "[X], proizvod koji je razvio [Y]", "checked-by-human": false}
+{"pattern": "[X], stvorio [Y]", "checked-by-human": false}
+{"pattern": "[X] je bio proizvod [Y]", "checked-by-human": false}
+{"pattern": "[X] je proizvod [Y]", "checked-by-human": false}
+{"pattern": "[X], proizvod koji je stvorio [Y]", "checked-by-human": false}
+{"pattern": "[Y], tvorac [X]", "checked-by-human": false}
+{"pattern": "[Y], koji je stvorio [X]", "checked-by-human": false}
+{"pattern": "[Y], koji se razvio [X]", "checked-by-human": false}
+{"pattern": "[X], proizvod [Y]", "checked-by-human": false}
+{"pattern": "[X] je stvorio [Y]", "checked-by-human": false}
+{"pattern": "[Y], koji je razvio [X]", "checked-by-human": false}
+{"pattern": "[X], koji je razvio [Y]", "checked-by-human": false}
+{"pattern": "[X] je razvio [Y]", "checked-by-human": false}
+{"pattern": "[Y] i njegov proizvod [X]", "checked-by-human": false}
+{"pattern": "[X] je razvijen od strane [Y]", "checked-by-human": false}

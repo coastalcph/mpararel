@@ -1,0 +1,8 @@
+{"pattern": "[X] joue le instrument [Y]", "checked-by-human": true}
+{"pattern": "[X] joue le [Y]", "checked-by-human": false}
+{"pattern": "[X] joue du [Y]", "checked-by-human": true}
+{"pattern": "[X] joue [Y]", "checked-by-human": false}
+{"pattern": "[X] lit [Y]", "checked-by-human": false}
+{"pattern": "[X] est un joueur de [Y]", "checked-by-human": true}
+{"pattern": "[X] joue de la [Y]", "checked-by-human": true}
+{"pattern": "[X] a jou\u00e9 le instrument [Y]", "checked-by-human": true}

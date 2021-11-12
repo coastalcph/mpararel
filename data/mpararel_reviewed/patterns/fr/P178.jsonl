@@ -1,0 +1,16 @@
+{"pattern": "[X] est d\u00e9velopp\u00e9 par [Y]", "checked-by-human": true}
+{"pattern": "[X] a \u00e9t\u00e9 d\u00e9velopp\u00e9 par [Y]", "checked-by-human": false}
+{"pattern": "[Y] et son produit [X]", "checked-by-human": false}
+{"pattern": "[Y], qui a d\u00e9velopp\u00e9 [X]", "checked-by-human": false}
+{"pattern": "[X], d\u00e9velopp\u00e9 par [Y]", "checked-by-human": false}
+{"pattern": "[X], cr\u00e9\u00e9 par [Y]", "checked-by-human": false}
+{"pattern": "[X], un produit de [Y]", "checked-by-human": true}
+{"pattern": "[X], un produit cr\u00e9\u00e9 par [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e9tait un produit de [Y]", "checked-by-human": false}
+{"pattern": "[X] est cr\u00e9\u00e9 par [Y]", "checked-by-human": true}
+{"pattern": "[X], un produit d\u00e9velopp\u00e9 par [Y]", "checked-by-human": true}
+{"pattern": "[X] a \u00e9t\u00e9 cr\u00e9\u00e9 par [Y]", "checked-by-human": true}
+{"pattern": "[Y], qui a cr\u00e9\u00e9 [X]", "checked-by-human": false}
+{"pattern": "[Y], le cr\u00e9ateur du [X]", "checked-by-human": true}
+{"pattern": "[X] est un produit de [Y]", "checked-by-human": false}
+{"pattern": "[X], un produit fabriqu\u00e9 par [Y]", "checked-by-human": true}

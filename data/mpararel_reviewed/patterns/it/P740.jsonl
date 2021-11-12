@@ -1,0 +1,19 @@
+{"pattern": "[X], che ha avuto origine in [Y]", "checked-by-human": false}
+{"pattern": "[X] che \u00e8 stato fondato in [Y]", "checked-by-human": false}
+{"pattern": "[X] iniziato a [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e8 stata fondata a [Y]", "checked-by-human": true}
+{"pattern": "[X] ha avuto origine in [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e8 stato formato a [Y]", "checked-by-human": true}
+{"pattern": "[X] si \u00e8 formato a [Y]", "checked-by-human": true}
+{"pattern": "[X], che si \u00e8 formato a [Y]", "checked-by-human": true}
+{"pattern": "[X], che \u00e8 stato formato in [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e8 stato avviato in [Y]", "checked-by-human": false}
+{"pattern": "[X], che \u00e8 stato creato a [Y]", "checked-by-human": true}
+{"pattern": "[X], fondato in [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e8 iniziato a [Y]", "checked-by-human": true}
+{"pattern": "[X] formato in [Y]", "checked-by-human": false}
+{"pattern": "[X] che \u00e8 stata fondata a [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e8 stato creato in [Y]", "checked-by-human": false}
+{"pattern": "[X], creato a [Y]", "checked-by-human": true}
+{"pattern": "[X], che \u00e8 stato avviato a [Y]", "checked-by-human": true}
+{"pattern": "[X], fondata in [Y]", "checked-by-human": false}

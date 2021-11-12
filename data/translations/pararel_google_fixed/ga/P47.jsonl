@@ -1,9 +1,0 @@
-{"pattern": "[X] scaireanna teorann le [Y].", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] Teorainneacha le [Y].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "[X] Roinneann s\u00e9 an teorainn le [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "Roinneann [X] a theorainn le [Y].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] Roinneann s\u00e9 teorainn choiteann le [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
-{"pattern": "[Y] Teorainneacha le [X].", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "[Y] roinneann s\u00e9 an teorainn le [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "Roinneann [Y] a theorainn le [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "Roinneann [Y] teorainn choiteann le [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

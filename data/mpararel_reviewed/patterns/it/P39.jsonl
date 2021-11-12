@@ -1,0 +1,6 @@
+{"pattern": "[X], che detiene la posizione di [Y]", "checked-by-human": true}
+{"pattern": "[X] ha la posizione di [Y]", "checked-by-human": true}
+{"pattern": "la posizione di [X] \u00e8 [Y]", "checked-by-human": false}
+{"pattern": "[X], la cui posizione \u00e8 quella di [Y]", "checked-by-human": false}
+{"pattern": "[X], che ha la posizione di [Y]", "checked-by-human": false}
+{"pattern": "[X] detiene la posizione di [Y]", "checked-by-human": true}

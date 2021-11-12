@@ -1,0 +1,4 @@
+{"pattern": "az [X] anyanyelve az [Y]", "checked-by-human": false}
+{"pattern": "az [X] anyanyelve [Y]", "checked-by-human": false}
+{"pattern": "[X] anyanyelve [Y]", "checked-by-human": false}
+{"pattern": "[Y] [X] anyanyelve", "checked-by-human": false}

@@ -1,5 +1,0 @@
-{"pattern": "[X] \u00e9 uma subclasse de [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
-{"pattern": "[X] \u00e9 uma subclasse [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
-{"pattern": "[X] que \u00e9 uma subclasse de [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
-{"pattern": "[X] uma subclasse de [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
-{"pattern": "[X] um tipo de [Y]", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}

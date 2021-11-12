@@ -1,0 +1,5 @@
+{"pattern": "[X] riproduce [Y]", "checked-by-human": false}
+{"pattern": "[X] suona la [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e8 un giocatore [Y]", "checked-by-human": false}
+{"pattern": "[X] gioca [Y]", "checked-by-human": false}
+{"pattern": "[Y] suonata da [X]", "checked-by-human": true}

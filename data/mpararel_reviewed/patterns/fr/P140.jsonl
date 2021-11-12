@@ -1,0 +1,7 @@
+{"pattern": "[X] est le suivant de [Y]", "checked-by-human": false}
+{"pattern": "[X] suit la religion [Y]", "checked-by-human": true}
+{"pattern": "[X] est adepte du [Y]", "checked-by-human": true}
+{"pattern": "[X] est affili\u00e9 \u00e0 la religion [Y]", "checked-by-human": true}
+{"pattern": "[Y] est la religion officielle de [X]", "checked-by-human": false}
+{"pattern": "[X] est adepte de la [Y]", "checked-by-human": true}
+{"pattern": "[X] est adepte de [Y]", "checked-by-human": true}

@@ -1,0 +1,5 @@
+{"pattern": "[X] nale\u017cy do organizacji [Y]", "checked-by-human": true}
+{"pattern": "[X] jest cz\u0142onkiem [Y]", "checked-by-human": true}
+{"pattern": "[X] jest powi\u0105zany z [Y]", "checked-by-human": false}
+{"pattern": "[X] jest cz\u0119\u015bci\u0105 organizacji [Y]", "checked-by-human": false}
+{"pattern": "[X] jest powi\u0105zany z organizacj\u0105 [Y]", "checked-by-human": true}

@@ -1,0 +1,14 @@
+{"pattern": "the capital of [X] is [Y]", "checked-by-human": false}
+{"pattern": "[X], which has the capital city [Y]", "checked-by-human": false}
+{"pattern": "[X]'s capital city is [Y]", "checked-by-human": false}
+{"pattern": "the capital city of [X] is [Y]", "checked-by-human": false}
+{"pattern": "[Y], the capital city of [X]", "checked-by-human": false}
+{"pattern": "[Y] is the capital city of [X]", "checked-by-human": false}
+{"pattern": "[X]'s capital, [Y]", "checked-by-human": false}
+{"pattern": "[Y] is the capital of [X]", "checked-by-human": false}
+{"pattern": "[X]'s capital is [Y]", "checked-by-human": false}
+{"pattern": "[Y], the capital of [X]", "checked-by-human": false}
+{"pattern": "[X], which has the capital [Y]", "checked-by-human": false}
+{"pattern": "[Y], that is the capital of [X]", "checked-by-human": false}
+{"pattern": "[X]'s capital city, [Y]", "checked-by-human": false}
+{"pattern": "[Y], that is the capital city of [X]", "checked-by-human": false}

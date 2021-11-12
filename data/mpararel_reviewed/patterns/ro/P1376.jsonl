@@ -1,0 +1,10 @@
+{"pattern": "[X] este capitala ora\u0219ului [Y]", "checked-by-human": false}
+{"pattern": "capitala [Y] este [X]", "checked-by-human": false}
+{"pattern": "capitala [Y], [X]", "checked-by-human": false}
+{"pattern": "re\u0219edin\u021ba sa este de la [Y] este [X]", "checked-by-human": false}
+{"pattern": "[X], capitala [Y]", "checked-by-human": false}
+{"pattern": "[X], aceasta este capitala [Y]", "checked-by-human": false}
+{"pattern": "capitalul [Y], [X]", "checked-by-human": false}
+{"pattern": "[X] este capitala [Y]", "checked-by-human": false}
+{"pattern": "[Y], care are capitala [X]", "checked-by-human": false}
+{"pattern": "[X] este capitala lui [Y]", "checked-by-human": false}

@@ -1,0 +1,9 @@
+{"pattern": "[X] brugte typisk [Y] til at kommunikere", "checked-by-human": false}
+{"pattern": "[Y] er det sprog, der typisk bruges af [X]", "checked-by-human": false}
+{"pattern": "[X] brugte [Y]", "checked-by-human": true}
+{"pattern": "[Y] er det sprog, der bruges af [X]", "checked-by-human": true}
+{"pattern": "[X] brugte [Y] til at kommunikere", "checked-by-human": true}
+{"pattern": "[X] bruges typisk [Y] til at kommunikere", "checked-by-human": false}
+{"pattern": "[Y] er det sprog, der typisk anvendes af [X]", "checked-by-human": false}
+{"pattern": "[X] brugte [Y] sproget", "checked-by-human": false}
+{"pattern": "[Y] var et sprog, der blev brugt af [X]", "checked-by-human": true}

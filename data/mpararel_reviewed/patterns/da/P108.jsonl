@@ -1,0 +1,5 @@
+{"pattern": "[X] arbejder for [Y]", "checked-by-human": false}
+{"pattern": "[X], som er ansat hos [Y]", "checked-by-human": true}
+{"pattern": "[X], der arbejder for [Y]", "checked-by-human": false}
+{"pattern": "[X], som er ansat af [Y]", "checked-by-human": false}
+{"pattern": "[X] er ansat af [Y]", "checked-by-human": true}

@@ -1,0 +1,11 @@
+{"pattern": "[X] pochodzi od [Y]", "checked-by-human": false}
+{"pattern": "[X] jest osob\u0105 urodzon\u0105 [Y]", "checked-by-human": false}
+{"pattern": "[X], osoba urodzona w [Y]", "checked-by-human": false}
+{"pattern": "[X] jest pierwotnie z [Y]", "checked-by-human": true}
+{"pattern": "[X] by\u0142 osob\u0105 urodzon\u0105 [Y]", "checked-by-human": false}
+{"pattern": "[X] jest osob\u0105 urodzon\u0105 w [Y]", "checked-by-human": true}
+{"pattern": "[X] by\u0142 pierwotnie z [Y]", "checked-by-human": true}
+{"pattern": "[X] pochodzi\u0142 z [Y]", "checked-by-human": true}
+{"pattern": "[X] pochodzi z [Y]", "checked-by-human": true}
+{"pattern": "[X] by\u0142 osob\u0105 urodzon\u0105 w [Y]", "checked-by-human": true}
+{"pattern": "[X] urodzi\u0142 si\u0119 w [Y]", "checked-by-human": true}

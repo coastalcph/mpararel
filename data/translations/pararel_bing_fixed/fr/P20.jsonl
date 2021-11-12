@@ -1,8 +1,0 @@
-{"pattern": "[X] est mort en [Y].", "lemma": "die", "extended_lemma": "die-in", "tense": "past"}
-{"pattern": "[X] est mort \u00e0 [Y].", "lemma": "die", "extended_lemma": "die-at", "tense": "past"}
-{"pattern": "[X] est d\u00e9c\u00e9d\u00e9 en [Y].", "lemma": "pass-away", "extended_lemma": "pass-away-in", "tense": "past"}
-{"pattern": "[X] est d\u00e9c\u00e9d\u00e9 \u00e0 [Y].", "lemma": "pass-away", "extended_lemma": "pass-away-at", "tense": "past"}
-{"pattern": "[X] a expir\u00e9 \u00e0 [Y].", "lemma": "expire", "extended_lemma": "expire-at", "tense": "past"}
-{"pattern": "[X] ont perdu la vie \u00e0 [Y].", "lemma": "lose-one's-life", "extended_lemma": "lose-one's-life-at", "tense": "past"}
-{"pattern": "La vie de [X] s\u2019est termin\u00e9e en [Y].", "lemma": "life-ended", "extended_lemma": "'s-life-ended-in", "tense": "past"}
-{"pattern": "[X] a succomb\u00e9 \u00e0 [Y].", "lemma": "succumbe", "extended_lemma": "succumbe-at", "tense": "past"}

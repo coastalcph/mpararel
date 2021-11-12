@@ -1,0 +1,10 @@
+{"pattern": "[X], hovedstaden af [Y]", "checked-by-human": false}
+{"pattern": "hovedstaden i [Y] er [X]", "checked-by-human": false}
+{"pattern": "[X], det vil sige hovedstaden i [Y]", "checked-by-human": true}
+{"pattern": "[X] er hovedstaden i [Y]", "checked-by-human": true}
+{"pattern": "[Y], som har hovedstaden [X]", "checked-by-human": true}
+{"pattern": "[Y]s hovedstad, [X]", "checked-by-human": false}
+{"pattern": "[Y], som har stort [X]", "checked-by-human": false}
+{"pattern": "[X], der er hovedstaden i [Y]", "checked-by-human": true}
+{"pattern": "[Y]s hovedstad er [X]", "checked-by-human": true}
+{"pattern": "[X], hovedstaden i [Y]", "checked-by-human": false}

@@ -1,0 +1,9 @@
+{"pattern": "az [X] nyelve az [Y]", "checked-by-human": false}
+{"pattern": "az [X] eredeti nyelve az [Y]", "checked-by-human": false}
+{"pattern": "az [X] nyelve [Y] volt", "checked-by-human": false}
+{"pattern": "az [X] eredeti nyelve [Y]", "checked-by-human": false}
+{"pattern": "[Y] az [X] nyelve", "checked-by-human": false}
+{"pattern": "[Y] volt az [X] nyelve", "checked-by-human": false}
+{"pattern": "[Y] volt a [X] nyelve", "checked-by-human": false}
+{"pattern": "[X] eredeti nyelve [Y]", "checked-by-human": false}
+{"pattern": "az [X] eredeti nyelve [Y] volt", "checked-by-human": false}

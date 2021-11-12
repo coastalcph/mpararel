@@ -1,6 +1,0 @@
-{"pattern": "Det opprinnelige spr\u00e5ket for [X] er [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
-{"pattern": "Det opprinnelige spr\u00e5ket av [X] var [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
-{"pattern": "Spr\u00e5ket er det samme som spr\u00e5ket.", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
-{"pattern": "Spr\u00e5ket er det samme som spr\u00e5ket.", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
-{"pattern": "Det er spr\u00e5ket som er til stede.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
-{"pattern": "Dette er spr\u00e5ket som er til stede.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

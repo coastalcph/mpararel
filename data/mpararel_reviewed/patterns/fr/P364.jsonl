@@ -1,0 +1,8 @@
+{"pattern": "la langue de [X] \u00e9tait [Y]", "checked-by-human": false}
+{"pattern": "[Y] est la langue de [X]", "checked-by-human": true}
+{"pattern": "la langue originale de [X] est [Y]", "checked-by-human": true}
+{"pattern": "[Y] \u00e9tait la langue de [X]", "checked-by-human": false}
+{"pattern": "la langue de [X] est [Y]", "checked-by-human": true}
+{"pattern": "la langue d'origine de [X] est [Y]", "checked-by-human": false}
+{"pattern": "la langue originale de [X] \u00e9tait [Y]", "checked-by-human": true}
+{"pattern": "la version original de [X] est en [Y]", "checked-by-human": true}

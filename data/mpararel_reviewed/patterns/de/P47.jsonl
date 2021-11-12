@@ -1,0 +1,14 @@
+{"pattern": "[Y] teilt sich den rand mit [X]", "checked-by-human": false}
+{"pattern": "[X] teilt die grenze mit [Y]", "checked-by-human": true}
+{"pattern": "[X] teilt seine grenze mit [Y]", "checked-by-human": false}
+{"pattern": "[X] teilt eine gemeinsame grenze mit [Y]", "checked-by-human": false}
+{"pattern": "[Y] teilt die grenze mit [X]", "checked-by-human": false}
+{"pattern": "[Y] grenzt an [X]", "checked-by-human": true}
+{"pattern": "[X] teilt den rand mit [Y]", "checked-by-human": false}
+{"pattern": "[X] hat eine grenze mit [Y]", "checked-by-human": true}
+{"pattern": "[Y] teilt eine gemeinsame grenze mit [X]", "checked-by-human": false}
+{"pattern": "[X] hat eine gemeinsame grenze mit [Y]", "checked-by-human": true}
+{"pattern": "[Y] teilt seine grenze mit [X]", "checked-by-human": true}
+{"pattern": "[X] grenzt an [Y]", "checked-by-human": true}
+{"pattern": "[Y] hat eine gemeinsame grenze mit [X]", "checked-by-human": false}
+{"pattern": "[Y] hat eine grenze mit [X]", "checked-by-human": true}

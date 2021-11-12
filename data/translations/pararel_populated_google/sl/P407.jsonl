@@ -1,7 +1,0 @@
-{"pattern": "[X] je napisan v [Y] jeziku.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
-{"pattern": "[X] je napisan v [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "present"}
-{"pattern": "[X] v [Y] jeziku.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
-{"pattern": "[X] v [Y]", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
-{"pattern": "[X] napisana v [Y] jeziku.", "lemma": "write", "extended_lemma": "write-in-language", "tense": "?"}
-{"pattern": "[Y] je jezik [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
-{"pattern": "[Y] je bil jezik [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

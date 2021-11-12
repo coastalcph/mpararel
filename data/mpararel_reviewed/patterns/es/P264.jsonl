@@ -1,0 +1,17 @@
+{"pattern": "[X] est\u00e1 representado por el sello discogr\u00e1fico [Y]", "checked-by-human": false}
+{"pattern": "[X] grab\u00f3 para [Y]", "checked-by-human": true}
+{"pattern": "[X], que es representado por [Y]", "checked-by-human": true}
+{"pattern": "[X], que est\u00e1 representado por [Y]", "checked-by-human": false}
+{"pattern": "[X] es representado por [Y]", "checked-by-human": true}
+{"pattern": "[X], publicado por [Y]", "checked-by-human": false}
+{"pattern": "[Y] artista de grabaci\u00f3n [X]", "checked-by-human": false}
+{"pattern": "el sello musical de [X] es [Y]", "checked-by-human": true}
+{"pattern": "la etiqueta musical de [X] es [Y]", "checked-by-human": false}
+{"pattern": "[X] est\u00e1 representado por [Y]", "checked-by-human": true}
+{"pattern": "[Y] tiene artistas como [X]", "checked-by-human": true}
+{"pattern": "el sello discogr\u00e1fico de [X] es [Y]", "checked-by-human": false}
+{"pattern": "la compa\u00f1\u00eda discogr\u00e1fica de [X] es [Y]", "checked-by-human": false}
+{"pattern": "[X] est\u00e1 representado por el sello musical [Y]", "checked-by-human": false}
+{"pattern": "[X] etiqueta [Y]", "checked-by-human": false}
+{"pattern": "la etiqueta de m\u00fasica que representa [X] es [Y]", "checked-by-human": false}
+{"pattern": "la etiqueta musical que representa a [X] es [Y]", "checked-by-human": true}

@@ -1,9 +1,0 @@
-{"pattern": "[X] ir [Y] pilsonis.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
-{"pattern": "[X] ir [Y] pilsonis.", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
-{"pattern": "[X], [Y] pilsonis.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
-{"pattern": "[X], kur\u0161 ir [Y] pilsonis.", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
-{"pattern": "[X] ir [Y] pilson\u012bba.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X] ir [Y] pilson\u012bba.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "[X], kuram ir [Y] pilson\u012bba.", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X], kuram ir [Y] pilson\u012bba.", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "k\u0101 [Y], [X] pilsonis", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

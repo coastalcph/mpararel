@@ -1,0 +1,13 @@
+{"pattern": "[X] comparte frontera con [Y]", "checked-by-human": false}
+{"pattern": "[X] comparte su frontera con [Y]", "checked-by-human": false}
+{"pattern": "[Y] limita con [X]", "checked-by-human": false}
+{"pattern": "[X] comparte una frontera con [Y]", "checked-by-human": true}
+{"pattern": "[Y] comparte su frontera con [X]", "checked-by-human": true}
+{"pattern": "[Y] bordea con [X]", "checked-by-human": true}
+{"pattern": "[X] limita con [Y]", "checked-by-human": false}
+{"pattern": "[Y] comparte una frontera con [X]", "checked-by-human": true}
+{"pattern": "[X] delimita con [Y]", "checked-by-human": true}
+{"pattern": "[X] comparte la frontera con [Y]", "checked-by-human": false}
+{"pattern": "[Y] delimita con [X]", "checked-by-human": true}
+{"pattern": "[X] bordea con [Y]", "checked-by-human": true}
+{"pattern": "[Y] comparte la frontera con [X]", "checked-by-human": true}

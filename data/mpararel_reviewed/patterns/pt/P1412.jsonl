@@ -1,0 +1,10 @@
+{"pattern": "[X] usou a linguagem [Y]", "checked-by-human": false}
+{"pattern": "[X] costumava se comunicar em [Y]", "checked-by-human": false}
+{"pattern": "[X] fala [Y]", "checked-by-human": true}
+{"pattern": "[Y] \u00e9 a linguagem usada por [X]", "checked-by-human": false}
+{"pattern": "[X] normalmente fala [Y] para se comunicar", "checked-by-human": true}
+{"pattern": "[X] usou [Y] para comunicar", "checked-by-human": true}
+{"pattern": "[Y] \u00e9 a linguagem tipicamente falada por [X]", "checked-by-human": true}
+{"pattern": "[Y] foi uma l\u00edngua usada por [X]", "checked-by-human": false}
+{"pattern": "[X] comunica em [Y]", "checked-by-human": true}
+{"pattern": "[X] usado [Y] para se comunicar", "checked-by-human": false}

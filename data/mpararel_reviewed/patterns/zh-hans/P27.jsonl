@@ -1,0 +1,10 @@
+{"pattern": "\u4f5c\u4e3a [Y] \u7684\u516c\u6c11\uff0c [X]", "checked-by-human": false}
+{"pattern": "[X] \u662f [Y] \u7684\u516c\u6c11", "checked-by-human": false}
+{"pattern": "[X]\u662f[Y]\u7684\u516c\u6c11", "checked-by-human": true}
+{"pattern": "[X]\uff0c[Y]\u7684\u516c\u6c11", "checked-by-human": false}
+{"pattern": "[X] \u5177\u6709 [Y] \u516c\u6c11\u8eab\u4efd", "checked-by-human": false}
+{"pattern": "[X]\uff0c\u62e5\u6709[Y]\u516c\u6c11\u8eab\u4efd", "checked-by-human": true}
+{"pattern": "[X]\uff0c\u662f[Y]\u7684\u516c\u6c11", "checked-by-human": true}
+{"pattern": "[X] \u62e5\u6709 [Y] \u516c\u6c11\u8eab\u4efd", "checked-by-human": false}
+{"pattern": "[X]\u662f[Y]\u516c\u6c11", "checked-by-human": true}
+{"pattern": "[X] \u662f [Y] \u516c\u6c11", "checked-by-human": true}

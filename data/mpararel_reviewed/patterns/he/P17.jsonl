@@ -1,0 +1,5 @@
+{"pattern": "[X] \u05e0\u05de\u05e6\u05d0 \u05d1- [Y]", "checked-by-human": false}
+{"pattern": "[X] \u05de\u05de\u05d5\u05e7\u05dd \u05d1- [Y]", "checked-by-human": false}
+{"pattern": "[X] \u05de\u05de\u05d5\u05e7\u05dd \u05d1[Y]", "checked-by-human": true}
+{"pattern": "[X], \u05d4\u05de\u05de\u05d5\u05e7\u05dd \u05d1-[Y]", "checked-by-human": true}
+{"pattern": "[X], \u05d0\u05e9\u05e8 \u05de\u05de\u05d5\u05e7\u05dd \u05d1[Y]", "checked-by-human": true}

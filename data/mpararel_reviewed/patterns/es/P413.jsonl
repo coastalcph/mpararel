@@ -1,0 +1,8 @@
+{"pattern": "jugando de [Y], [X]", "checked-by-human": true}
+{"pattern": "[X] juega como [Y]", "checked-by-human": true}
+{"pattern": "[X] juega de [Y]", "checked-by-human": true}
+{"pattern": "jugando como [Y], [X]", "checked-by-human": false}
+{"pattern": "[X] juega en la posici\u00f3n de [Y]", "checked-by-human": false}
+{"pattern": "[X] juega en la posici\u00f3n [Y]", "checked-by-human": true}
+{"pattern": "jugando como una [Y], [X]", "checked-by-human": false}
+{"pattern": "[X], que juega en la posici\u00f3n [Y]", "checked-by-human": true}

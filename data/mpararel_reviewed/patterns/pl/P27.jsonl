@@ -1,0 +1,8 @@
+{"pattern": "[X] jest [Y] obywatelem", "checked-by-human": true}
+{"pattern": "[X], kt\u00f3ry posiada obywatelstwo [Y]", "checked-by-human": true}
+{"pattern": "jako obywatel [Y], [X]", "checked-by-human": true}
+{"pattern": "[X], obywatel [Y]", "checked-by-human": false}
+{"pattern": "[X] ma obywatelstwo [Y]", "checked-by-human": false}
+{"pattern": "[X], kt\u00f3ry jest obywatelem [Y]", "checked-by-human": true}
+{"pattern": "[X] jest obywatelem [Y]", "checked-by-human": false}
+{"pattern": "[X] posiada obywatelstwo [Y]", "checked-by-human": false}

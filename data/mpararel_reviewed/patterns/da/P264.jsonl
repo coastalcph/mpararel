@@ -1,0 +1,16 @@
+{"pattern": "[Y] optagelse af kunstner [X]", "checked-by-human": false}
+{"pattern": "[X]s pladeselskab er [Y]", "checked-by-human": false}
+{"pattern": "[X], som repr\u00e6senteres af [Y]", "checked-by-human": true}
+{"pattern": "[Y] musiker [X]", "checked-by-human": false}
+{"pattern": "[Y]-kunstnere som [X]", "checked-by-human": true}
+{"pattern": "[X], der repr\u00e6senteres af [Y]", "checked-by-human": false}
+{"pattern": "[X], som er repr\u00e6senteret af [Y]", "checked-by-human": true}
+{"pattern": "[X] er repr\u00e6senteret ved musiketiket [Y]", "checked-by-human": false}
+{"pattern": "[X] er repr\u00e6senteret af [Y]", "checked-by-human": false}
+{"pattern": "[X], udgivet af [Y]", "checked-by-human": false}
+{"pattern": "[X] repr\u00e6senteres af [Y]", "checked-by-human": false}
+{"pattern": "[Y] kunstnere, herunder [X]", "checked-by-human": false}
+{"pattern": "det musiketiket, der repr\u00e6senterer [X], er [Y]", "checked-by-human": false}
+{"pattern": "musikm\u00e6rket, der repr\u00e6senterer [X], er [Y]", "checked-by-human": true}
+{"pattern": "[X] repr\u00e6senteres af pladeselskabet [Y]", "checked-by-human": true}
+{"pattern": "[X] etiket [Y]", "checked-by-human": false}

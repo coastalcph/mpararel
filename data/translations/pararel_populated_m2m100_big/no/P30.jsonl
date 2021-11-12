@@ -1,5 +1,0 @@
-{"pattern": "[X] ligger i [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] ligger [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] ligger p\u00e5 kontinentet [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] ligger p\u00e5 [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] er en del av kontinentet [Y]", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

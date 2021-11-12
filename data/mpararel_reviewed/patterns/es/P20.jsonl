@@ -1,0 +1,8 @@
+{"pattern": "[X] muri\u00f3 en [Y]", "checked-by-human": true}
+{"pattern": "[X] falleci\u00f3 en [Y]", "checked-by-human": true}
+{"pattern": "[X], fallecido en [Y]", "checked-by-human": true}
+{"pattern": "[X] perdi\u00f3 la vida en [Y]", "checked-by-human": true}
+{"pattern": "[X] expir\u00f3 en [Y]", "checked-by-human": false}
+{"pattern": "la vida de [X] termin\u00f3 en [Y]", "checked-by-human": true}
+{"pattern": "[X] perdi\u00f3 su vida en [Y]", "checked-by-human": false}
+{"pattern": "[X] sucumbi\u00f3 en [Y]", "checked-by-human": false}

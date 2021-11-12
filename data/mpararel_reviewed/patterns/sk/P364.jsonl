@@ -1,0 +1,6 @@
+{"pattern": "jazyk [X] bol [Y]", "checked-by-human": false}
+{"pattern": "[Y] je jazyk [X]", "checked-by-human": false}
+{"pattern": "[Y] bol jazyk [X]", "checked-by-human": false}
+{"pattern": "p\u00f4vodn\u00fd jazyk [X] je [Y]", "checked-by-human": false}
+{"pattern": "jazyk [X] je [Y]", "checked-by-human": false}
+{"pattern": "p\u00f4vodn\u00fd jazyk [X] bol [Y]", "checked-by-human": false}

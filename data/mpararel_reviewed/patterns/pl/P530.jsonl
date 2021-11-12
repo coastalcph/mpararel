@@ -1,0 +1,10 @@
+{"pattern": "[X], kt\u00f3ry ma stosunki dyplomatyczne z [Y]", "checked-by-human": false}
+{"pattern": "[Y] ma stosunki dyplomatyczne z [X]", "checked-by-human": false}
+{"pattern": "[X] wi\u0105\u017ce stosunki dyplomatyczne z [Y]", "checked-by-human": true}
+{"pattern": "[Y], kt\u00f3ra wi\u0105\u017ce stosunki dyplomatyczne z [X]", "checked-by-human": false}
+{"pattern": "[Y], kt\u00f3ry ma stosunki dyplomatyczne z [X]", "checked-by-human": true}
+{"pattern": "[Y] wi\u0105\u017ce stosunki dyplomatyczne z [X]", "checked-by-human": true}
+{"pattern": "[X] ma stosunki dyplomatyczne z [Y]", "checked-by-human": true}
+{"pattern": "[Y] utrzymuje stosunki dyplomatyczne z [X]", "checked-by-human": false}
+{"pattern": "[X] utrzymuje stosunki dyplomatyczne z [Y]", "checked-by-human": false}
+{"pattern": "[X], kt\u00f3ra ma stosunki dyplomatyczne z [Y]", "checked-by-human": true}

@@ -1,0 +1,9 @@
+{"pattern": "la capitale di [X], [Y]", "checked-by-human": true}
+{"pattern": "la capitale di [X] \u00e8 [Y]", "checked-by-human": true}
+{"pattern": "[Y], questa \u00e8 la capitale di [X]", "checked-by-human": true}
+{"pattern": "[X], che ha la capitale [Y]", "checked-by-human": false}
+{"pattern": "[Y], la capitale di [X]", "checked-by-human": false}
+{"pattern": "[X], che ha la [Y] maiuscola", "checked-by-human": false}
+{"pattern": "[Y], che \u00e8 la capitale di [X]", "checked-by-human": false}
+{"pattern": "la citt\u00e0 capitale di [X] \u00e8 [Y]", "checked-by-human": true}
+{"pattern": "[Y] \u00e8 la capitale di [X]", "checked-by-human": false}

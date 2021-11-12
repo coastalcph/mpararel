@@ -1,0 +1,7 @@
+{"pattern": "[X] tilh\u00f8rer organisationen af [Y]", "checked-by-human": false}
+{"pattern": "[X] er en del af [Y] organisationen", "checked-by-human": true}
+{"pattern": "[X] er medlem af [Y]", "checked-by-human": false}
+{"pattern": "[X] er tilknyttet [Y]", "checked-by-human": true}
+{"pattern": "[X] er tilknyttet [Y] organisationen", "checked-by-human": true}
+{"pattern": "[X] er tilknyttet [Y]-organisationen", "checked-by-human": true}
+{"pattern": "[X] er en del af [Y]-organisationen", "checked-by-human": false}

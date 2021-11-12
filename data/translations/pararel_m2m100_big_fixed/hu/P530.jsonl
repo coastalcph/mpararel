@@ -1,9 +1,0 @@
-{"pattern": "[X] diplom\u00e1ciai kapcsolatokat tart fenn [Y]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] diplom\u00e1ciai kapcsolatokat tart fenn [X]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] diplom\u00e1ciai kapcsolatokat tart fenn [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "diplom\u00e1ciai kapcsolatokat \u00e1pol az [X].", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] diplom\u00e1ciai kapcsolatokkal rendelkezik a [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "diplom\u00e1ciai kapcsolatokat \u00e1pol a [X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X], amely diplom\u00e1ciai kapcsolatokkal rendelkezik [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], amely diplom\u00e1ciai kapcsolatokkal rendelkezik [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], amely \u00f6sszek\u00f6ti a diplom\u00e1ciai kapcsolatokat [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

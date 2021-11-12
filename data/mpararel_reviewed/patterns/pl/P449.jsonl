@@ -1,0 +1,10 @@
+{"pattern": "[X] premiery na [Y]", "checked-by-human": false}
+{"pattern": "[X] zosta\u0142 wydany na [Y]", "checked-by-human": false}
+{"pattern": "[X] premiera na [Y]", "checked-by-human": true}
+{"pattern": "[X] ma zadebiutowa\u0107 na [Y]", "checked-by-human": true}
+{"pattern": "[Y] ma zadebiutowa\u0107 [X]", "checked-by-human": false}
+{"pattern": "[Y] debiut [X]", "checked-by-human": false}
+{"pattern": "[X] zosta\u0142 pierwotnie wyemitowany w [Y]", "checked-by-human": false}
+{"pattern": "[X] by\u0142 pierwotnie emitowany na [Y]", "checked-by-human": false}
+{"pattern": "[X] zadebiutowa\u0142 na [Y]", "checked-by-human": false}
+{"pattern": "[X] mia\u0142 swoj\u0105 premier\u0119 na [Y]", "checked-by-human": true}

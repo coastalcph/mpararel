@@ -1,0 +1,13 @@
+{"pattern": "[X] \u00e8 chiamato in onore di [Y]", "checked-by-human": false}
+{"pattern": "[X], che prende il nome in onore di [Y]", "checked-by-human": true}
+{"pattern": "[X], che \u00e8 stato chiamato in onore di [Y]", "checked-by-human": true}
+{"pattern": "[X], che viene chiamato dopo [Y]", "checked-by-human": false}
+{"pattern": "[X], che ha preso il nome da [Y]", "checked-by-human": true}
+{"pattern": "[X], che prende il nome da [Y]", "checked-by-human": true}
+{"pattern": "[X], chiamato in onore di [Y]", "checked-by-human": false}
+{"pattern": "[X], dal nome di [Y]", "checked-by-human": false}
+{"pattern": "[X] ha preso il nome da [Y]", "checked-by-human": true}
+{"pattern": "[X] prende il nome da [Y]", "checked-by-human": true}
+{"pattern": "[X], chiamato dopo [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e8 stato chiamato per [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e8 stato chiamato in onore di [Y]", "checked-by-human": false}

@@ -1,0 +1,515 @@
+{"sub_uri": "Q771405", "obj_uri": "Q48", "obj_label": "Asia", "sub_label": "Asia de Sud", "lineid": 0}
+{"sub_uri": "Q11205", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "Aritmetic\u0103", "lineid": 1}
+{"sub_uri": "Q431", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "zoologie", "lineid": 3}
+{"sub_uri": "Q843900", "obj_uri": "Q514", "obj_label": "anatomie", "sub_label": "Anatomie comparat\u0103", "lineid": 4}
+{"sub_uri": "Q48", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "Asia", "lineid": 5}
+{"sub_uri": "Q8366", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "algoritm", "lineid": 6}
+{"sub_uri": "Q27275", "obj_uri": "Q48", "obj_label": "Asia", "sub_label": "Asia Central\u0103", "lineid": 7}
+{"sub_uri": "Q192625", "obj_uri": "Q8162", "obj_label": "lingvistic\u0103", "sub_label": "tipologie lingvistic\u0103", "lineid": 8}
+{"sub_uri": "Q822050", "obj_uri": "Q1073", "obj_label": "creier", "sub_label": "Substan\u021b\u0103 alb\u0103", "lineid": 9}
+{"sub_uri": "Q18813", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Noul Testament", "lineid": 10}
+{"sub_uri": "Q3238261", "obj_uri": "Q34740", "obj_label": "gen", "sub_label": "subgen", "lineid": 11}
+{"sub_uri": "Q246672", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "obiect matematic", "lineid": 13}
+{"sub_uri": "Q207011", "obj_uri": "Q9418", "obj_label": "psihologie", "sub_label": "neuro\u0219tiin\u021b\u0103", "lineid": 14}
+{"sub_uri": "Q83296", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "litosfer\u0103", "lineid": 15}
+{"sub_uri": "Q188444", "obj_uri": "Q8087", "obj_label": "geometrie", "sub_label": "geometrie diferen\u021bial\u0103", "lineid": 16}
+{"sub_uri": "Q9441", "obj_uri": "Q748", "obj_label": "Budism", "sub_label": "Gautama Siddhartha", "lineid": 17}
+{"sub_uri": "Q1555938", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "Antarctica", "lineid": 18}
+{"sub_uri": "Q41228", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "Emisfera sudic\u0103", "lineid": 19}
+{"sub_uri": "Q14081", "obj_uri": "Q5456", "obj_label": "Anzii Cordilieri", "sub_label": "Chimborazo", "lineid": 20}
+{"sub_uri": "Q233836", "obj_uri": "Q5456", "obj_label": "Anzii Cordilieri", "sub_label": "Ojos del Salado", "lineid": 21}
+{"sub_uri": "Q263686", "obj_uri": "Q46", "obj_label": "Europa", "sub_label": "Europa de Sud-est", "lineid": 22}
+{"sub_uri": "Q338199", "obj_uri": "Q44626", "obj_label": "Cretacic", "sub_label": "Cretacicul Superior", "lineid": 23}
+{"sub_uri": "Q13989", "obj_uri": "Q17", "obj_label": "Japonia", "sub_label": "Honsh\u016b", "lineid": 24}
+{"sub_uri": "Q41490", "obj_uri": "Q34990", "obj_label": "Tora", "sub_label": "Levitic", "lineid": 25}
+{"sub_uri": "Q42614", "obj_uri": "Q34990", "obj_label": "Tora", "sub_label": "Deuteronom", "lineid": 26}
+{"sub_uri": "Q15", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "Africa", "lineid": 27}
+{"sub_uri": "Q156495", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "fizic\u0103 matematic\u0103", "lineid": 28}
+{"sub_uri": "Q42989", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "topologie", "lineid": 29}
+{"sub_uri": "Q12479", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "teoria numerelor", "lineid": 30}
+{"sub_uri": "Q186350", "obj_uri": "Q37090", "obj_label": "Sf\u00e2nta Treime", "sub_label": "Dumnezeu tat\u0103l", "lineid": 31}
+{"sub_uri": "Q35323", "obj_uri": "Q62928", "obj_label": "Semi\u021bi", "sub_label": "Arabi", "lineid": 32}
+{"sub_uri": "Q7202", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "biologie molecular\u0103", "lineid": 37}
+{"sub_uri": "Q7150", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "ecologie", "lineid": 38}
+{"sub_uri": "Q8087", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "geometrie", "lineid": 39}
+{"sub_uri": "Q159943", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "algebr\u0103 abstract\u0103", "lineid": 40}
+{"sub_uri": "Q56003", "obj_uri": "Q9465", "obj_label": "etic\u0103", "sub_label": "metaetic\u0103", "lineid": 42}
+{"sub_uri": "Q183", "obj_uri": "Q46", "obj_label": "Europa", "sub_label": "Germania", "lineid": 43}
+{"sub_uri": "Q265868", "obj_uri": "Q7881", "obj_label": "schelet", "sub_label": "Os", "lineid": 44}
+{"sub_uri": "Q132959", "obj_uri": "Q15", "obj_label": "Africa", "sub_label": "Africa Subsaharian\u0103", "lineid": 45}
+{"sub_uri": "Q30185", "obj_uri": "Q15284", "obj_label": "municipiu", "sub_label": "primar", "lineid": 46}
+{"sub_uri": "Q614304", "obj_uri": "Q11190", "obj_label": "medicin\u0103", "sub_label": "Farmacie", "lineid": 48}
+{"sub_uri": "Q7094", "obj_uri": "Q2329", "obj_label": "chimie", "sub_label": "biochimie", "lineid": 49}
+{"sub_uri": "Q7094", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "biochimie", "lineid": 50}
+{"sub_uri": "Q27496", "obj_uri": "Q46", "obj_label": "Europa", "sub_label": "Europa de Vest", "lineid": 51}
+{"sub_uri": "Q131476", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "teoria grafurilor", "lineid": 52}
+{"sub_uri": "Q48803", "obj_uri": "Q11451", "obj_label": "Agricultur\u0103", "sub_label": "horticultur\u0103", "lineid": 53}
+{"sub_uri": "Q7430", "obj_uri": "Q7020", "obj_label": "Genom", "sub_label": "ADN", "lineid": 54}
+{"sub_uri": "Q188641", "obj_uri": "Q9103", "obj_label": "s\u00e2n", "sub_label": "mamelon", "lineid": 55}
+{"sub_uri": "Q161272", "obj_uri": "Q21201", "obj_label": "sociologie", "sub_label": "psihologie social\u0103", "lineid": 56}
+{"sub_uri": "Q161953", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Cartea \u00eent\u00e2i Paralipomena", "lineid": 57}
+{"sub_uri": "Q68947", "obj_uri": "Q7432", "obj_label": "specie", "sub_label": "subspecie", "lineid": 58}
+{"sub_uri": "Q131068", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Estera", "lineid": 59}
+{"sub_uri": "Q81240", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Judec\u0103tori", "lineid": 60}
+{"sub_uri": "Q178819", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Cartea lui Iona", "lineid": 61}
+{"sub_uri": "Q19786", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Vechiul Testament", "lineid": 62}
+{"sub_uri": "Q185387", "obj_uri": "Q7174", "obj_label": "democra\u021bie", "sub_label": "drept de vot", "lineid": 64}
+{"sub_uri": "Q12134", "obj_uri": "Q333", "obj_label": "astronomie", "sub_label": "Sfer\u0103 cereasc\u0103", "lineid": 65}
+{"sub_uri": "Q1432908", "obj_uri": "Q7184", "obj_label": "Organiza\u021bia Tratatului Atlanticului de Nord", "sub_label": "Sediul Central al For\u021belor Aliate din Europa", "lineid": 67}
+{"sub_uri": "Q93259", "obj_uri": "Q664609", "obj_label": "Caraibe", "sub_label": "Antilele Mici", "lineid": 68}
+{"sub_uri": "Q217413", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "teoria categoriilor", "lineid": 69}
+{"sub_uri": "Q8201", "obj_uri": "Q7850", "obj_label": "limba chinez\u0103", "sub_label": "caractere chineze", "lineid": 70}
+{"sub_uri": "Q7141", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "biologie celular\u0103", "lineid": 71}
+{"sub_uri": "Q185009", "obj_uri": "Q8495", "obj_label": "lapte", "sub_label": "zer", "lineid": 72}
+{"sub_uri": "Q18", "obj_uri": "Q828", "obj_label": "America", "sub_label": "America de Sud", "lineid": 74}
+{"sub_uri": "Q18346", "obj_uri": "Q333", "obj_label": "astronomie", "sub_label": "Cosmologie fizic\u0103", "lineid": 75}
+{"sub_uri": "Q243545", "obj_uri": "Q2329", "obj_label": "chimie", "sub_label": "Chimie nuclear\u0103", "lineid": 76}
+{"sub_uri": "Q81103", "obj_uri": "Q64418", "obj_label": "artilerie", "sub_label": "tun", "lineid": 77}
+{"sub_uri": "Q3203", "obj_uri": "Q319", "obj_label": "Jupiter", "sub_label": "Sateli\u021bii galileeni", "lineid": 78}
+{"sub_uri": "Q18362", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "fizic\u0103 teoretic\u0103", "lineid": 81}
+{"sub_uri": "Q27827", "obj_uri": "Q5043", "obj_label": "cre\u0219tinism", "sub_label": "Christadelfieni", "lineid": 82}
+{"sub_uri": "Q105402", "obj_uri": "Q1073", "obj_label": "creier", "sub_label": "Sistemul ventriculelor cerebrale", "lineid": 83}
+{"sub_uri": "Q9184", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Geneza", "lineid": 84}
+{"sub_uri": "Q624758", "obj_uri": "Q9418", "obj_label": "psihologie", "sub_label": "Psihopatologie", "lineid": 85}
+{"sub_uri": "Q284451", "obj_uri": "Q131036", "obj_label": "scientologie", "sub_label": "Dianetic\u0103", "lineid": 86}
+{"sub_uri": "Q179289", "obj_uri": "Q8078", "obj_label": "logic\u0103", "sub_label": "cauzalitate", "lineid": 87}
+{"sub_uri": "Q3673891", "obj_uri": "Q11190", "obj_label": "medicin\u0103", "sub_label": "Stomatologie", "lineid": 88}
+{"sub_uri": "Q128011", "obj_uri": "Q664609", "obj_label": "Caraibe", "sub_label": "Antilele Mari", "lineid": 89}
+{"sub_uri": "Q9184", "obj_uri": "Q34990", "obj_label": "Tora", "sub_label": "Geneza", "lineid": 91}
+{"sub_uri": "Q15281614", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Xbox", "lineid": 92}
+{"sub_uri": "Q49", "obj_uri": "Q828", "obj_label": "America", "sub_label": "America de Nord", "lineid": 93}
+{"sub_uri": "Q948", "obj_uri": "Q15", "obj_label": "Africa", "sub_label": "Tunisia", "lineid": 94}
+{"sub_uri": "Q14579", "obj_uri": "Q388", "obj_label": "Linux", "sub_label": "Nucleul Linux", "lineid": 95}
+{"sub_uri": "Q840400", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "evolu\u021bionism", "lineid": 98}
+{"sub_uri": "Q179528", "obj_uri": "Q3392", "obj_label": "Fluviul Nil", "sub_label": "Delta Nilului", "lineid": 99}
+{"sub_uri": "Q162886", "obj_uri": "Q8087", "obj_label": "geometrie", "sub_label": "geometrie euclidian\u0103", "lineid": 100}
+{"sub_uri": "Q83169", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "hidrosfer\u0103", "lineid": 101}
+{"sub_uri": "Q1166618", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "logic\u0103 matematic\u0103", "lineid": 102}
+{"sub_uri": "Q207551", "obj_uri": "Q7187", "obj_label": "gen\u0103", "sub_label": "intron", "lineid": 103}
+{"sub_uri": "Q207011", "obj_uri": "Q11190", "obj_label": "medicin\u0103", "sub_label": "neuro\u0219tiin\u021b\u0103", "lineid": 104}
+{"sub_uri": "Q16990", "obj_uri": "Q1460", "obj_label": "Sicilia", "sub_label": "Etna", "lineid": 105}
+{"sub_uri": "Q110079", "obj_uri": "Q718", "obj_label": "\u0219ah", "sub_label": "tabl\u0103 de \u0219ah", "lineid": 106}
+{"sub_uri": "Q35", "obj_uri": "Q46", "obj_label": "Europa", "sub_label": "Danemarca", "lineid": 107}
+{"sub_uri": "Q37437", "obj_uri": "Q8162", "obj_label": "lingvistic\u0103", "sub_label": "Sintax\u0103", "lineid": 108}
+{"sub_uri": "Q37302", "obj_uri": "Q37090", "obj_label": "Sf\u00e2nta Treime", "sub_label": "Duhul Sf\u00e2nt", "lineid": 109}
+{"sub_uri": "Q185925", "obj_uri": "Q11024", "obj_label": "comunicare", "sub_label": "Design graphic", "lineid": 110}
+{"sub_uri": "Q150907", "obj_uri": "Q1199", "obj_label": "Hessa", "sub_label": "Franconia", "lineid": 111}
+{"sub_uri": "Q183", "obj_uri": "Q7184", "obj_label": "Organiza\u021bia Tratatului Atlanticului de Nord", "sub_label": "Germania", "lineid": 112}
+{"sub_uri": "Q35", "obj_uri": "Q21195", "obj_label": "Scandinavia", "sub_label": "Danemarca", "lineid": 113}
+{"sub_uri": "Q134783", "obj_uri": "Q1069", "obj_label": "geologie", "sub_label": "stratigrafie", "lineid": 114}
+{"sub_uri": "Q8091", "obj_uri": "Q8162", "obj_label": "lingvistic\u0103", "sub_label": "gramatic\u0103", "lineid": 115}
+{"sub_uri": "Q106016", "obj_uri": "Q7239", "obj_label": "organism", "sub_label": "Genotip", "lineid": 116}
+{"sub_uri": "Q234262", "obj_uri": "Q428", "obj_label": "Coran", "sub_label": "Sura", "lineid": 117}
+{"sub_uri": "Q80083", "obj_uri": "Q336", "obj_label": "\u0219tiin\u021b\u0103", "sub_label": "\u0219tiin\u021be umaniste", "lineid": 118}
+{"sub_uri": "Q52107", "obj_uri": "Q1071", "obj_label": "geografie", "sub_label": "geografie fizic\u0103", "lineid": 119}
+{"sub_uri": "Q27509", "obj_uri": "Q46", "obj_label": "Europa", "sub_label": "Europa Central\u0103", "lineid": 120}
+{"sub_uri": "Q145903", "obj_uri": "Q23498", "obj_label": "arheologie", "sub_label": "egiptologie", "lineid": 121}
+{"sub_uri": "Q234953", "obj_uri": "Q9089", "obj_label": "hinduism", "sub_label": "\u0218ivaism", "lineid": 122}
+{"sub_uri": "Q132265", "obj_uri": "Q748", "obj_label": "Budism", "sub_label": "Theravada", "lineid": 123}
+{"sub_uri": "Q23373", "obj_uri": "Q9418", "obj_label": "psihologie", "sub_label": "psihologie cognitiv\u0103", "lineid": 124}
+{"sub_uri": "Q841645", "obj_uri": "Q75", "obj_label": "Internet", "sub_label": "Televiziune pe internet", "lineid": 126}
+{"sub_uri": "Q794", "obj_uri": "Q48", "obj_label": "Asia", "sub_label": "Iran", "lineid": 127}
+{"sub_uri": "Q623", "obj_uri": "Q11427", "obj_label": "o\u021bel", "sub_label": "carbon", "lineid": 130}
+{"sub_uri": "Q11708", "obj_uri": "Q48", "obj_label": "Asia", "sub_label": "Asia de Sud-Est", "lineid": 131}
+{"sub_uri": "Q156495", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "fizic\u0103 matematic\u0103", "lineid": 132}
+{"sub_uri": "Q11351", "obj_uri": "Q2329", "obj_label": "chimie", "sub_label": "chimie organic\u0103", "lineid": 133}
+{"sub_uri": "Q265424", "obj_uri": "Q9268", "obj_label": "iudaism", "sub_label": "Mi\u021bvot", "lineid": 134}
+{"sub_uri": "Q145780", "obj_uri": "Q9268", "obj_label": "iudaism", "sub_label": "Manuscrisele de la Marea Moart\u0103", "lineid": 135}
+{"sub_uri": "Q212938", "obj_uri": "Q1218", "obj_label": "Ierusalim", "sub_label": "Ierusalimul de est", "lineid": 136}
+{"sub_uri": "Q660910", "obj_uri": "Q521", "obj_label": "fiziologie", "sub_label": "Neuropsihologie", "lineid": 137}
+{"sub_uri": "Q151701", "obj_uri": "Q128781", "obj_label": "Wehrmacht", "sub_label": "Kriegsmarine", "lineid": 139}
+{"sub_uri": "Q735602", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "optic\u0103 cuantic\u0103", "lineid": 141}
+{"sub_uri": "Q2564009", "obj_uri": "Q128781", "obj_label": "Wehrmacht", "sub_label": "Luftwaffe", "lineid": 142}
+{"sub_uri": "Q41490", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Levitic", "lineid": 143}
+{"sub_uri": "Q34990", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Tora", "lineid": 144}
+{"sub_uri": "Q538733", "obj_uri": "Q9465", "obj_label": "etic\u0103", "sub_label": "Etic\u0103 aplicat\u0103", "lineid": 146}
+{"sub_uri": "Q83353", "obj_uri": "Q2329", "obj_label": "chimie", "sub_label": "mineralogie", "lineid": 148}
+{"sub_uri": "Q83353", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "mineralogie", "lineid": 149}
+{"sub_uri": "Q765822", "obj_uri": "Q23498", "obj_label": "arheologie", "sub_label": "Arheologie subacvatic\u0103", "lineid": 151}
+{"sub_uri": "Q183257", "obj_uri": "Q9418", "obj_label": "psihologie", "sub_label": "psihoterapie", "lineid": 152}
+{"sub_uri": "Q190057", "obj_uri": "Q1057", "obj_label": "metabolism", "sub_label": "Catabolism", "lineid": 153}
+{"sub_uri": "Q184681", "obj_uri": "Q1057", "obj_label": "metabolism", "sub_label": "Anabolism", "lineid": 154}
+{"sub_uri": "Q661093", "obj_uri": "Q8162", "obj_label": "lingvistic\u0103", "sub_label": "Morfofonologie", "lineid": 155}
+{"sub_uri": "Q40998", "obj_uri": "Q8162", "obj_label": "lingvistic\u0103", "sub_label": "fonologie", "lineid": 156}
+{"sub_uri": "Q35395", "obj_uri": "Q8162", "obj_label": "lingvistic\u0103", "sub_label": "fonetic\u0103", "lineid": 157}
+{"sub_uri": "Q327358", "obj_uri": "Q8162", "obj_label": "lingvistic\u0103", "sub_label": "Formare de cuvinte", "lineid": 158}
+{"sub_uri": "Q7218", "obj_uri": "Q2329", "obj_label": "chimie", "sub_label": "toxicologie", "lineid": 159}
+{"sub_uri": "Q614304", "obj_uri": "Q2329", "obj_label": "chimie", "sub_label": "Farmacie", "lineid": 163}
+{"sub_uri": "Q321150", "obj_uri": "Q2329", "obj_label": "chimie", "sub_label": "Chimie teoretic\u0103", "lineid": 165}
+{"sub_uri": "Q879146", "obj_uri": "Q5043", "obj_label": "cre\u0219tinism", "sub_label": "cult cre\u0219tin", "lineid": 166}
+{"sub_uri": "Q84133", "obj_uri": "Q1072", "obj_label": "inim\u0103", "sub_label": "miocard", "lineid": 167}
+{"sub_uri": "Q175002", "obj_uri": "Q9418", "obj_label": "psihologie", "sub_label": "psihologia dezvolt\u0103rii", "lineid": 168}
+{"sub_uri": "Q150907", "obj_uri": "Q980", "obj_label": "Bavaria", "sub_label": "Franconia", "lineid": 171}
+{"sub_uri": "Q499312", "obj_uri": "Q45805", "obj_label": "Jurasic", "sub_label": "Jurasic t\u00e2rziu", "lineid": 172}
+{"sub_uri": "Q752187", "obj_uri": "Q44626", "obj_label": "Cretacic", "sub_label": "Cretacicul timpuriu", "lineid": 174}
+{"sub_uri": "Q48362", "obj_uri": "Q748", "obj_label": "Budism", "sub_label": "Mahayana", "lineid": 176}
+{"sub_uri": "Q373069", "obj_uri": "Q5043", "obj_label": "cre\u0219tinism", "sub_label": "evanghelizare", "lineid": 177}
+{"sub_uri": "Q49", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "America de Nord", "lineid": 178}
+{"sub_uri": "Q203415", "obj_uri": "Q6097", "obj_label": "ceai", "sub_label": "ceai negru", "lineid": 179}
+{"sub_uri": "Q44424", "obj_uri": "Q11369", "obj_label": "molecul\u0103", "sub_label": "leg\u0103tur\u0103 chimic\u0103", "lineid": 183}
+{"sub_uri": "Q213156", "obj_uri": "Q735", "obj_label": "art\u0103", "sub_label": "art\u0103 interpretativ\u0103", "lineid": 184}
+{"sub_uri": "Q179805", "obj_uri": "Q5891", "obj_label": "filozofie", "sub_label": "filozofie politic\u0103", "lineid": 186}
+{"sub_uri": "Q1342914", "obj_uri": "Q23090", "obj_label": "Lincolnshire", "sub_label": "North East Lincolnshire", "lineid": 187}
+{"sub_uri": "Q209534", "obj_uri": "Q9734", "obj_label": "simfonie", "sub_label": "Scherzo", "lineid": 188}
+{"sub_uri": "Q7953", "obj_uri": "Q748", "obj_label": "Budism", "sub_label": "Zen", "lineid": 189}
+{"sub_uri": "Q3178731", "obj_uri": "Q5113", "obj_label": "pas\u0103re", "sub_label": "Supracodale", "lineid": 191}
+{"sub_uri": "Q3303665", "obj_uri": "Q5113", "obj_label": "pas\u0103re", "sub_label": "penaj", "lineid": 192}
+{"sub_uri": "Q749400", "obj_uri": "Q11022", "obj_label": "\u0218urub", "sub_label": "Filet", "lineid": 193}
+{"sub_uri": "Q257418", "obj_uri": "Q41207", "obj_label": "Moned\u0103", "sub_label": "Avers", "lineid": 195}
+{"sub_uri": "Q560583", "obj_uri": "Q1860", "obj_label": "limba englez\u0103", "sub_label": "gramatica limbii engleze", "lineid": 197}
+{"sub_uri": "Q83481", "obj_uri": "Q4130", "obj_label": "Orbit\u0103", "sub_label": "Apsid\u0103", "lineid": 198}
+{"sub_uri": "Q75855", "obj_uri": "Q1073", "obj_label": "creier", "sub_label": "Telencefal", "lineid": 199}
+{"sub_uri": "Q1120908", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "Fizic\u0103 medical\u0103", "lineid": 201}
+{"sub_uri": "Q1120908", "obj_uri": "Q11190", "obj_label": "medicin\u0103", "sub_label": "Fizic\u0103 medical\u0103", "lineid": 202}
+{"sub_uri": "Q29171", "obj_uri": "Q37726", "obj_label": "armat\u0103 terestr\u0103", "sub_label": "infanterie", "lineid": 203}
+{"sub_uri": "Q514", "obj_uri": "Q11190", "obj_label": "medicin\u0103", "sub_label": "anatomie", "lineid": 204}
+{"sub_uri": "Q11282", "obj_uri": "Q318", "obj_label": "galaxie", "sub_label": "Regiune H II", "lineid": 205}
+{"sub_uri": "Q847618", "obj_uri": "Q748", "obj_label": "Budism", "sub_label": "Budismul \u00een China", "lineid": 206}
+{"sub_uri": "Q81392", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "fractal", "lineid": 208}
+{"sub_uri": "Q1357677", "obj_uri": "Q41425", "obj_label": "balet", "sub_label": "Academia de balet Vaganova", "lineid": 209}
+{"sub_uri": "Q16295", "obj_uri": "Q13147", "obj_label": "craniu", "sub_label": "Os frontal", "lineid": 210}
+{"sub_uri": "Q326900", "obj_uri": "Q10943", "obj_label": "b\u00e2nz\u0103", "sub_label": "Cheag", "lineid": 211}
+{"sub_uri": "Q504930", "obj_uri": "Q506", "obj_label": "floare", "sub_label": "Periant", "lineid": 212}
+{"sub_uri": "Q207011", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "neuro\u0219tiin\u021b\u0103", "lineid": 214}
+{"sub_uri": "Q81197", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "fizic\u0103 nuclear\u0103", "lineid": 215}
+{"sub_uri": "Q1472399", "obj_uri": "Q75", "obj_label": "Internet", "sub_label": "Acces la Internet", "lineid": 216}
+{"sub_uri": "Q193793", "obj_uri": "Q9121", "obj_label": "atom", "sub_label": "\u00eenveli\u0219 electronic", "lineid": 217}
+{"sub_uri": "Q2090", "obj_uri": "Q980", "obj_label": "Bavaria", "sub_label": "N\u00fcrnberg", "lineid": 218}
+{"sub_uri": "Q178999", "obj_uri": "Q9620", "obj_label": "Nerv", "sub_label": "Axon", "lineid": 219}
+{"sub_uri": "Q82042", "obj_uri": "Q8162", "obj_label": "lingvistic\u0103", "sub_label": "parte de vorbire", "lineid": 220}
+{"sub_uri": "Q181476", "obj_uri": "Q5456", "obj_label": "Anzii Cordilieri", "sub_label": "Cotopaxi", "lineid": 222}
+{"sub_uri": "Q178076", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Mica", "lineid": 224}
+{"sub_uri": "Q39061", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "Emisfera nordic\u0103", "lineid": 225}
+{"sub_uri": "Q14620", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "optic\u0103", "lineid": 226}
+{"sub_uri": "Q8183", "obj_uri": "Q8162", "obj_label": "lingvistic\u0103", "sub_label": "fonem", "lineid": 228}
+{"sub_uri": "Q7100", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "biofizic\u0103", "lineid": 229}
+{"sub_uri": "Q7205", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "paleontologie", "lineid": 230}
+{"sub_uri": "Q186115", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Montmartre", "lineid": 231}
+{"sub_uri": "Q4579", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Proverbele \u0219i pildele lui Solomon", "lineid": 232}
+{"sub_uri": "Q188403", "obj_uri": "Q2329", "obj_label": "chimie", "sub_label": "Chimie cuantic\u0103", "lineid": 233}
+{"sub_uri": "Q317557", "obj_uri": "Q102496", "obj_label": "Parohie", "sub_label": "biseric\u0103 parohial\u0103", "lineid": 234}
+{"sub_uri": "Q171184", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "Filogenie", "lineid": 236}
+{"sub_uri": "Q41064", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Psalmi", "lineid": 237}
+{"sub_uri": "Q27449", "obj_uri": "Q46", "obj_label": "Europa", "sub_label": "Europa de Sud", "lineid": 239}
+{"sub_uri": "Q11475", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "Vid", "lineid": 240}
+{"sub_uri": "Q39645", "obj_uri": "Q8162", "obj_label": "lingvistic\u0103", "sub_label": "semantic\u0103", "lineid": 241}
+{"sub_uri": "Q161272", "obj_uri": "Q9418", "obj_label": "psihologie", "sub_label": "psihologie social\u0103", "lineid": 242}
+{"sub_uri": "Q160453", "obj_uri": "Q9158", "obj_label": "E-mail", "sub_label": "SMTP", "lineid": 243}
+{"sub_uri": "Q1855669", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "Teoria invarian\u021bilor", "lineid": 245}
+{"sub_uri": "Q18599", "obj_uri": "Q492", "obj_label": "memorie", "sub_label": "Memorie de scurt\u0103 durat\u0103", "lineid": 246}
+{"sub_uri": "Q4620674", "obj_uri": "Q7239", "obj_label": "organism", "sub_label": "organ sexual", "lineid": 247}
+{"sub_uri": "Q7218", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "toxicologie", "lineid": 249}
+{"sub_uri": "Q83944", "obj_uri": "Q23404", "obj_label": "antropologie", "sub_label": "Antropogenez\u0103", "lineid": 253}
+{"sub_uri": "Q36192", "obj_uri": "Q309", "obj_label": "istorie", "sub_label": "folclor", "lineid": 254}
+{"sub_uri": "Q131683", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "embriologie", "lineid": 255}
+{"sub_uri": "Q27293", "obj_uri": "Q48", "obj_label": "Asia", "sub_label": "Asia de Sud-Vest", "lineid": 256}
+{"sub_uri": "Q182228", "obj_uri": "Q1073", "obj_label": "creier", "sub_label": "Trunchi cerebral", "lineid": 257}
+{"sub_uri": "Q109391", "obj_uri": "Q8072", "obj_label": "Vulcan", "sub_label": "Crater vulcanic", "lineid": 259}
+{"sub_uri": "Q166530", "obj_uri": "Q40218", "obj_label": "nav\u0103 spa\u021bial\u0103", "sub_label": "vitez\u0103 cosmic\u0103", "lineid": 261}
+{"sub_uri": "Q212803", "obj_uri": "Q42989", "obj_label": "topologie", "sub_label": "Topologie algebric\u0103", "lineid": 262}
+{"sub_uri": "Q663546", "obj_uri": "Q584", "obj_label": "Rin", "sub_label": "Cursul superior al Rinului", "lineid": 263}
+{"sub_uri": "Q484761", "obj_uri": "Q5891", "obj_label": "filozofie", "sub_label": "filozofia limbajului", "lineid": 264}
+{"sub_uri": "Q13632", "obj_uri": "Q318", "obj_label": "galaxie", "sub_label": "Nebuloas\u0103 planetar\u0103", "lineid": 265}
+{"sub_uri": "Q166936", "obj_uri": "Q9158", "obj_label": "E-mail", "sub_label": "IMAP", "lineid": 267}
+{"sub_uri": "Q48324", "obj_uri": "Q9465", "obj_label": "etic\u0103", "sub_label": "moral\u0103", "lineid": 269}
+{"sub_uri": "Q48091", "obj_uri": "Q21", "obj_label": "Anglia", "sub_label": "regiune", "lineid": 270}
+{"sub_uri": "Q650521", "obj_uri": "Q584", "obj_label": "Rin", "sub_label": "Hochrhein", "lineid": 274}
+{"sub_uri": "Q81851", "obj_uri": "Q57821", "obj_label": "Fortifica\u021bie", "sub_label": "Bastion", "lineid": 276}
+{"sub_uri": "Q80290", "obj_uri": "Q956", "obj_label": "Beijing", "sub_label": "Palatul Imperial Chinezesc", "lineid": 277}
+{"sub_uri": "Q88480", "obj_uri": "Q57821", "obj_label": "Fortifica\u021bie", "sub_label": "\u0218an\u021b", "lineid": 278}
+{"sub_uri": "Q514", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "anatomie", "lineid": 283}
+{"sub_uri": "Q7100", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "biofizic\u0103", "lineid": 284}
+{"sub_uri": "Q63817", "obj_uri": "Q1286", "obj_label": "Alpi", "sub_label": "Alpii R\u0103s\u0103riteni", "lineid": 286}
+{"sub_uri": "Q180987", "obj_uri": "Q748", "obj_label": "Budism", "sub_label": "Chedi", "lineid": 288}
+{"sub_uri": "Q7214750", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "Opera\u021bie matematic\u0103", "lineid": 290}
+{"sub_uri": "Q912807", "obj_uri": "Q12140", "obj_label": "medicament", "sub_label": "Principiu activ", "lineid": 291}
+{"sub_uri": "Q9585", "obj_uri": "Q432", "obj_label": "islam", "sub_label": "\u0219iism", "lineid": 292}
+{"sub_uri": "Q50641", "obj_uri": "Q735", "obj_label": "art\u0103", "sub_label": "istoria artei", "lineid": 293}
+{"sub_uri": "Q2001305", "obj_uri": "Q289", "obj_label": "televiziune", "sub_label": "canal de televiziune", "lineid": 294}
+{"sub_uri": "Q673203", "obj_uri": "Q58", "obj_label": "penis", "sub_label": "Prepu\u021b", "lineid": 297}
+{"sub_uri": "Q422666", "obj_uri": "Q4421", "obj_label": "p\u0103dure", "sub_label": "Subarboret", "lineid": 299}
+{"sub_uri": "Q51670", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "C\u00e2ntarea C\u00e2nt\u0103rilor", "lineid": 301}
+{"sub_uri": "Q349084", "obj_uri": "Q21", "obj_label": "Anglia", "sub_label": "Districtul Angliei", "lineid": 302}
+{"sub_uri": "Q48356", "obj_uri": "Q32815", "obj_label": "moschee", "sub_label": "Minaret", "lineid": 303}
+{"sub_uri": "Q7600677", "obj_uri": "Q735", "obj_label": "art\u0103", "sub_label": "Grafic\u0103 digital\u0103", "lineid": 305}
+{"sub_uri": "Q500096", "obj_uri": "Q9418", "obj_label": "psihologie", "sub_label": "Psihofizic\u0103", "lineid": 306}
+{"sub_uri": "Q185080", "obj_uri": "Q1073", "obj_label": "creier", "sub_label": "Mezencefal", "lineid": 307}
+{"sub_uri": "Q227936", "obj_uri": "Q2455704", "obj_label": "subfamilie", "sub_label": "trib", "lineid": 308}
+{"sub_uri": "Q181059", "obj_uri": "Q8785", "obj_label": "limba armean\u0103", "sub_label": "armeana oriental\u0103", "lineid": 309}
+{"sub_uri": "Q80115", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Daniel", "lineid": 310}
+{"sub_uri": "Q1578310", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "paleobiologie", "lineid": 311}
+{"sub_uri": "Q180937", "obj_uri": "Q8748", "obj_label": "Limba albanez\u0103", "sub_label": "Dialectul Tosk", "lineid": 313}
+{"sub_uri": "Q18366", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "Fizic\u0103 experimental\u0103", "lineid": 315}
+{"sub_uri": "Q27433", "obj_uri": "Q15", "obj_label": "Africa", "sub_label": "Africa Central\u0103", "lineid": 316}
+{"sub_uri": "Q83090", "obj_uri": "Q9089", "obj_label": "hinduism", "sub_label": "Avatar", "lineid": 317}
+{"sub_uri": "Q11165", "obj_uri": "Q2329", "obj_label": "chimie", "sub_label": "chimie anorganic\u0103", "lineid": 318}
+{"sub_uri": "Q40056", "obj_uri": "Q7397", "obj_label": "software", "sub_label": "program informatic", "lineid": 321}
+{"sub_uri": "Q839954", "obj_uri": "Q23498", "obj_label": "arheologie", "sub_label": "sit arheologic", "lineid": 322}
+{"sub_uri": "Q408", "obj_uri": "Q3960", "obj_label": "Australia", "sub_label": "Australia", "lineid": 324}
+{"sub_uri": "Q184274", "obj_uri": "Q333", "obj_label": "astronomie", "sub_label": "Mecanic\u0103 cereasc\u0103", "lineid": 329}
+{"sub_uri": "Q51662", "obj_uri": "Q12546", "obj_label": "Cruciad\u0103", "sub_label": "Cruciadele Nordice", "lineid": 330}
+{"sub_uri": "Q58184", "obj_uri": "Q9377", "obj_label": "rinichi", "sub_label": "Nefron", "lineid": 337}
+{"sub_uri": "Q323461", "obj_uri": "Q131746", "obj_label": "parfum", "sub_label": "Mosc", "lineid": 339}
+{"sub_uri": "Q42250", "obj_uri": "Q7150", "obj_label": "ecologie", "sub_label": "Hidrologie", "lineid": 344}
+{"sub_uri": "Q1073", "obj_uri": "Q23640", "obj_label": "cap", "sub_label": "creier", "lineid": 345}
+{"sub_uri": "Q6500960", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "c\u00e2mpul magnetic al P\u0103m\u00e2ntului", "lineid": 346}
+{"sub_uri": "Q188193", "obj_uri": "Q7239", "obj_label": "organism", "sub_label": "sistem de organe", "lineid": 348}
+{"sub_uri": "Q191657", "obj_uri": "Q192249", "obj_label": "\u0219a", "sub_label": "Sc\u0103ri\u021b\u0103", "lineid": 349}
+{"sub_uri": "Q180969", "obj_uri": "Q8087", "obj_label": "geometrie", "sub_label": "geometrie algebric\u0103", "lineid": 350}
+{"sub_uri": "Q233858", "obj_uri": "Q8087", "obj_label": "geometrie", "sub_label": "geometrii neeuclidiene", "lineid": 351}
+{"sub_uri": "Q190581", "obj_uri": "Q4116214", "obj_label": "Contabilitate", "sub_label": "Factur\u0103", "lineid": 354}
+{"sub_uri": "Q521", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "fiziologie", "lineid": 356}
+{"sub_uri": "Q29182", "obj_uri": "Q177826", "obj_label": "cler", "sub_label": "episcop", "lineid": 360}
+{"sub_uri": "Q39739", "obj_uri": "Q5456", "obj_label": "Anzii Cordilieri", "sub_label": "Aconcagua", "lineid": 361}
+{"sub_uri": "Q1137982", "obj_uri": "Q34374", "obj_label": "Creta", "sub_label": "Lefka Ori", "lineid": 364}
+{"sub_uri": "Q133080", "obj_uri": "Q11024", "obj_label": "comunicare", "sub_label": "Rela\u021bii publice", "lineid": 366}
+{"sub_uri": "Q631379", "obj_uri": "Q318", "obj_label": "galaxie", "sub_label": "Halou galactic", "lineid": 367}
+{"sub_uri": "Q609753", "obj_uri": "Q7362", "obj_label": "Ureche", "sub_label": "Ureche extern\u0103", "lineid": 368}
+{"sub_uri": "Q52106", "obj_uri": "Q1071", "obj_label": "geografie", "sub_label": "biogeografie", "lineid": 369}
+{"sub_uri": "Q321249", "obj_uri": "Q8162", "obj_label": "lingvistic\u0103", "sub_label": "lingvistic\u0103 aplicat\u0103", "lineid": 370}
+{"sub_uri": "Q212721", "obj_uri": "Q13147", "obj_label": "craniu", "sub_label": "Osul lacrimal", "lineid": 371}
+{"sub_uri": "Q206732", "obj_uri": "Q152", "obj_label": "pe\u0219te", "sub_label": "Vezic\u0103 \u00eenot\u0103toare", "lineid": 372}
+{"sub_uri": "Q60195", "obj_uri": "Q5891", "obj_label": "filozofie", "sub_label": "semiotic\u0103", "lineid": 373}
+{"sub_uri": "Q131072", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Ecleziast", "lineid": 374}
+{"sub_uri": "Q27468", "obj_uri": "Q46", "obj_label": "Europa", "sub_label": "Europa de Est", "lineid": 376}
+{"sub_uri": "Q175945", "obj_uri": "Q23090", "obj_label": "Lincolnshire", "sub_label": "North Lincolnshire", "lineid": 377}
+{"sub_uri": "Q1450662", "obj_uri": "Q142", "obj_label": "Fran\u021ba", "sub_label": "Guvernul Fran\u021bei", "lineid": 378}
+{"sub_uri": "Q4224666", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "C\u0103r\u021bile Regilor", "lineid": 379}
+{"sub_uri": "Q19014", "obj_uri": "Q3363340", "obj_label": "Rai", "sub_label": "Gr\u0103dina Edenului", "lineid": 381}
+{"sub_uri": "Q4834855", "obj_uri": "Q9531", "obj_label": "British Broadcasting Corporation", "sub_label": "BBC Music", "lineid": 382}
+{"sub_uri": "Q272447", "obj_uri": "Q318", "obj_label": "galaxie", "sub_label": "Nor molecular", "lineid": 386}
+{"sub_uri": "Q126842", "obj_uri": "Q5891", "obj_label": "filozofie", "sub_label": "filozofia dreptului", "lineid": 387}
+{"sub_uri": "Q1898464", "obj_uri": "Q4508", "obj_label": "Marin\u0103", "sub_label": "Avia\u021bie naval\u0103", "lineid": 389}
+{"sub_uri": "Q3968", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "algebr\u0103", "lineid": 392}
+{"sub_uri": "Q27172", "obj_uri": "Q23404", "obj_label": "antropologie", "sub_label": "antropologia fizic\u0103", "lineid": 393}
+{"sub_uri": "Q843533", "obj_uri": "Q9103", "obj_label": "s\u00e2n", "sub_label": "areol\u0103", "lineid": 395}
+{"sub_uri": "Q840773", "obj_uri": "Q12796", "obj_label": "arm\u0103 de foc", "sub_label": "Fr\u00e2n\u0103 de gur\u0103", "lineid": 396}
+{"sub_uri": "Q49447", "obj_uri": "Q5891", "obj_label": "filozofie", "sub_label": "concep\u021bie asupra lumii", "lineid": 400}
+{"sub_uri": "Q188449", "obj_uri": "Q40821", "obj_label": "chirurgie", "sub_label": "neurochirurgie", "lineid": 405}
+{"sub_uri": "Q4027615", "obj_uri": "Q336", "obj_label": "\u0219tiin\u021b\u0103", "sub_label": "\u0219tiin\u021ba informa\u021biei", "lineid": 406}
+{"sub_uri": "Q11423", "obj_uri": "Q11402", "obj_label": "For\u021b\u0103", "sub_label": "mas\u0103", "lineid": 407}
+{"sub_uri": "Q1955326", "obj_uri": "Q35986", "obj_label": "estetic\u0103", "sub_label": "Estetic\u0103 muzical\u0103", "lineid": 409}
+{"sub_uri": "Q177409", "obj_uri": "Q8087", "obj_label": "geometrie", "sub_label": "geometrie proiectiv\u0103", "lineid": 412}
+{"sub_uri": "Q190312", "obj_uri": "Q130760", "obj_label": "Turbin\u0103", "sub_label": "Stator", "lineid": 414}
+{"sub_uri": "Q5840", "obj_uri": "Q7857", "obj_label": "Closet", "sub_label": "h\u00e2rtie igienic\u0103", "lineid": 416}
+{"sub_uri": "Q455963", "obj_uri": "Q124873", "obj_label": "Mindanao", "sub_label": "Muntele Apo", "lineid": 418}
+{"sub_uri": "Q345194", "obj_uri": "Q9091", "obj_label": "limba belarus\u0103", "sub_label": "alfabet \u0141acinka", "lineid": 419}
+{"sub_uri": "Q624580", "obj_uri": "Q141488", "obj_label": "graf", "sub_label": "drum eulerian", "lineid": 420}
+{"sub_uri": "Q185057", "obj_uri": "Q37748", "obj_label": "cromozom", "sub_label": "Telomer", "lineid": 422}
+{"sub_uri": "Q4834844", "obj_uri": "Q9531", "obj_label": "British Broadcasting Corporation", "sub_label": "BBC Manchester", "lineid": 424}
+{"sub_uri": "Q174647", "obj_uri": "Q15807", "obj_label": "picior", "sub_label": "C\u0103lc\u00e2i", "lineid": 431}
+{"sub_uri": "Q51", "obj_uri": "Q1555938", "obj_label": "Antarctica", "sub_label": "Antarctida", "lineid": 432}
+{"sub_uri": "Q163393", "obj_uri": "Q9158", "obj_label": "E-mail", "sub_label": "POP3", "lineid": 435}
+{"sub_uri": "Q463923", "obj_uri": "Q333", "obj_label": "astronomie", "sub_label": "Arheoastronomie", "lineid": 437}
+{"sub_uri": "Q840829", "obj_uri": "Q37853", "obj_label": "baroc", "sub_label": "arhitectur\u0103 baroc\u0103", "lineid": 440}
+{"sub_uri": "Q715269", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "Oceanul planetar", "lineid": 441}
+{"sub_uri": "Q180592", "obj_uri": "Q5891", "obj_label": "filozofie", "sub_label": "filozofie social\u0103", "lineid": 442}
+{"sub_uri": "Q284787", "obj_uri": "Q45805", "obj_label": "Jurasic", "sub_label": "Jurasic timpuriu", "lineid": 443}
+{"sub_uri": "Q188913", "obj_uri": "Q11451", "obj_label": "Agricultur\u0103", "sub_label": "Planta\u021bie", "lineid": 444}
+{"sub_uri": "Q82811", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "acustic\u0103", "lineid": 451}
+{"sub_uri": "Q1071239", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "Stohastic", "lineid": 454}
+{"sub_uri": "Q120976", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "factorial", "lineid": 455}
+{"sub_uri": "Q37736", "obj_uri": "Q18869", "obj_label": "Caucaz", "sub_label": "Caucazul de Nord", "lineid": 460}
+{"sub_uri": "Q14290107", "obj_uri": "Q58", "obj_label": "penis", "sub_label": "Gland", "lineid": 461}
+{"sub_uri": "Q18", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "America de Sud", "lineid": 464}
+{"sub_uri": "Q379079", "obj_uri": "Q43450", "obj_label": "gimnastic\u0103", "sub_label": "Federa\u021bia Interna\u021bional\u0103 de Gimnastic\u0103", "lineid": 471}
+{"sub_uri": "Q614304", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "Farmacie", "lineid": 474}
+{"sub_uri": "Q11276", "obj_uri": "Q318", "obj_label": "galaxie", "sub_label": "roi globular", "lineid": 477}
+{"sub_uri": "Q131683", "obj_uri": "Q11190", "obj_label": "medicin\u0103", "sub_label": "embriologie", "lineid": 478}
+{"sub_uri": "Q2625243", "obj_uri": "Q132311", "obj_label": "fantezie", "sub_label": "Fantezie eroic\u0103", "lineid": 479}
+{"sub_uri": "Q492264", "obj_uri": "Q11424", "obj_label": "film", "sub_label": "Muzic\u0103 de film", "lineid": 482}
+{"sub_uri": "Q81915", "obj_uri": "Q2329", "obj_label": "chimie", "sub_label": "alotropie", "lineid": 483}
+{"sub_uri": "Q174583", "obj_uri": "Q37144", "obj_label": "Cartu\u0219", "sub_label": "Glon\u021b", "lineid": 484}
+{"sub_uri": "Q46961", "obj_uri": "Q275186", "obj_label": "band\u0103", "sub_label": "Gangster", "lineid": 492}
+{"sub_uri": "Q162908", "obj_uri": "Q267298", "obj_label": "Baterie electric\u0103", "sub_label": "Electrolit", "lineid": 493}
+{"sub_uri": "Q3375", "obj_uri": "Q1286", "obj_label": "Alpi", "sub_label": "Zugspitze", "lineid": 494}
+{"sub_uri": "Q181982", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "Emisfera vestic\u0103", "lineid": 495}
+{"sub_uri": "Q186198", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "Emisfer\u0103 estic\u0103", "lineid": 496}
+{"sub_uri": "Q270158", "obj_uri": "Q3757", "obj_label": "Insula Java", "sub_label": "Semeru", "lineid": 497}
+{"sub_uri": "Q545981", "obj_uri": "Q11633", "obj_label": "fotografie", "sub_label": "Editarea fotografiilor", "lineid": 498}
+{"sub_uri": "Q83659", "obj_uri": "Q34374", "obj_label": "Creta", "sub_label": "Muntele Ida", "lineid": 499}
+{"sub_uri": "Q1151257", "obj_uri": "Q15777", "obj_label": "C", "sub_label": "C99", "lineid": 500}
+{"sub_uri": "Q211439", "obj_uri": "Q11451", "obj_label": "Agricultur\u0103", "sub_label": "Nutre\u021b", "lineid": 502}
+{"sub_uri": "Q186380", "obj_uri": "Q7020", "obj_label": "Genom", "sub_label": "Autozom", "lineid": 505}
+{"sub_uri": "Q1323122", "obj_uri": "Q1490", "obj_label": "T\u014dky\u014d", "sub_label": "Tokyoul de Vest", "lineid": 506}
+{"sub_uri": "Q41291", "obj_uri": "Q40218", "obj_label": "nav\u0103 spa\u021bial\u0103", "sub_label": "Rachet\u0103", "lineid": 508}
+{"sub_uri": "Q79749", "obj_uri": "Q7873", "obj_label": "s\u00e2nge", "sub_label": "Plasm\u0103", "lineid": 509}
+{"sub_uri": "Q108543", "obj_uri": "Q1990792", "obj_label": "Alien", "sub_label": "Alien 3", "lineid": 510}
+{"sub_uri": "Q26383", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "fizic\u0103 atomic\u0103", "lineid": 511}
+{"sub_uri": "Q1763948", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "tabel matematic", "lineid": 512}
+{"sub_uri": "Q42614", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Deuteronom", "lineid": 515}
+{"sub_uri": "Q1140046", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "nota\u021bie matematic\u0103", "lineid": 517}
+{"sub_uri": "Q380344", "obj_uri": "Q12483", "obj_label": "statistic\u0103", "sub_label": "Statistic\u0103 descriptiv\u0103", "lineid": 519}
+{"sub_uri": "Q15580856", "obj_uri": "Q7252", "obj_label": "feminism", "sub_label": "mi\u015fcarea feminist\u0103", "lineid": 520}
+{"sub_uri": "Q51656", "obj_uri": "Q12546", "obj_label": "Cruciad\u0103", "sub_label": "Cruciada a patra", "lineid": 524}
+{"sub_uri": "Q178390", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Ezechiel", "lineid": 528}
+{"sub_uri": "Q52139", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "climatologie", "lineid": 530}
+{"sub_uri": "Q276183", "obj_uri": "Q34178", "obj_label": "teologie", "sub_label": "teodicee", "lineid": 532}
+{"sub_uri": "Q4577", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Iov", "lineid": 534}
+{"sub_uri": "Q26336", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "Electrostatic\u0103", "lineid": 537}
+{"sub_uri": "Q774", "obj_uri": "Q828", "obj_label": "America", "sub_label": "Guatemala", "lineid": 539}
+{"sub_uri": "Q81009", "obj_uri": "Q11024", "obj_label": "comunicare", "sub_label": "retoric\u0103", "lineid": 542}
+{"sub_uri": "Q165838", "obj_uri": "Q2329", "obj_label": "chimie", "sub_label": "limnologie", "lineid": 548}
+{"sub_uri": "Q165838", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "limnologie", "lineid": 549}
+{"sub_uri": "Q628967", "obj_uri": "Q7748", "obj_label": "drept", "sub_label": "Dreptul muncii", "lineid": 552}
+{"sub_uri": "Q10387", "obj_uri": "Q21201", "obj_label": "sociologie", "sub_label": "gerontologie", "lineid": 556}
+{"sub_uri": "Q657881", "obj_uri": "Q75", "obj_label": "Internet", "sub_label": "grup de \u0219tiri", "lineid": 557}
+{"sub_uri": "Q7922", "obj_uri": "Q8434", "obj_label": "educa\u021bie", "sub_label": "pedagogie", "lineid": 558}
+{"sub_uri": "Q131635", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Ezra", "lineid": 559}
+{"sub_uri": "Q32635", "obj_uri": "Q75", "obj_label": "Internet", "sub_label": "Domeniu Internet", "lineid": 560}
+{"sub_uri": "Q1145106", "obj_uri": "Q309", "obj_label": "istorie", "sub_label": "Istoria \u00eenregistrat\u0103", "lineid": 561}
+{"sub_uri": "Q26728", "obj_uri": "Q5456", "obj_label": "Anzii Cordilieri", "sub_label": "Sierra Nevada de Santa Marta", "lineid": 564}
+{"sub_uri": "Q174769", "obj_uri": "Q46970", "obj_label": "Companie aerian\u0103", "sub_label": "United Airlines", "lineid": 565}
+{"sub_uri": "Q156075", "obj_uri": "Q13147", "obj_label": "craniu", "sub_label": "Orbita", "lineid": 566}
+{"sub_uri": "Q323996", "obj_uri": "Q34178", "obj_label": "teologie", "sub_label": "Demonologie", "lineid": 567}
+{"sub_uri": "Q58908", "obj_uri": "Q333", "obj_label": "astronomie", "sub_label": "Astronomie galactic\u0103", "lineid": 568}
+{"sub_uri": "Q213283", "obj_uri": "Q1889", "obj_label": "diploma\u021bie", "sub_label": "misiune diplomatic\u0103", "lineid": 569}
+{"sub_uri": "Q47680", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Iosua", "lineid": 570}
+{"sub_uri": "Q52106", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "biogeografie", "lineid": 571}
+{"sub_uri": "Q650875", "obj_uri": "Q5043", "obj_label": "cre\u0219tinism", "sub_label": "cre\u0219tinismul \u00een Irak", "lineid": 573}
+{"sub_uri": "Q715396", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "Fizica st\u0103rii solide", "lineid": 575}
+{"sub_uri": "Q25624", "obj_uri": "Q40763", "obj_label": "s\u0103m\u00e2n\u021b\u0103", "sub_label": "Endosperm", "lineid": 576}
+{"sub_uri": "Q280817", "obj_uri": "Q432", "obj_label": "islam", "sub_label": "Kalam", "lineid": 579}
+{"sub_uri": "Q11661", "obj_uri": "Q7075", "obj_label": "bibliotec\u0103", "sub_label": "tehnologia informa\u021biei", "lineid": 580}
+{"sub_uri": "Q326835", "obj_uri": "Q366791", "obj_label": "Curiozitate", "sub_label": "Call Me Maybe", "lineid": 582}
+{"sub_uri": "Q189445", "obj_uri": "Q7174", "obj_label": "democra\u021bie", "sub_label": "Bicameralism", "lineid": 588}
+{"sub_uri": "Q26", "obj_uri": "Q22890", "obj_label": "Irlanda", "sub_label": "Irlanda de Nord", "lineid": 593}
+{"sub_uri": "Q2337514", "obj_uri": "Q184", "obj_label": "Belarus", "sub_label": "Belarusul de Vest", "lineid": 594}
+{"sub_uri": "Q178593", "obj_uri": "Q7868", "obj_label": "Celul\u0103", "sub_label": "Macromolecul\u0103", "lineid": 598}
+{"sub_uri": "Q146491", "obj_uri": "Q7748", "obj_label": "drept", "sub_label": "drept penal", "lineid": 600}
+{"sub_uri": "Q83286", "obj_uri": "Q36704", "obj_label": "Iugoslavia", "sub_label": "Republica Socialist\u0103 Federativ\u0103 Iugoslavia", "lineid": 605}
+{"sub_uri": "Q1161370", "obj_uri": "Q183061", "obj_label": "Fa\u021bad\u0103", "sub_label": "fronton", "lineid": 607}
+{"sub_uri": "Q5460512", "obj_uri": "Q19660", "obj_label": "Bucure\u0219ti", "sub_label": "Floreasca", "lineid": 608}
+{"sub_uri": "Q177719", "obj_uri": "Q9418", "obj_label": "psihologie", "sub_label": "diagnostic medical", "lineid": 612}
+{"sub_uri": "Q1772910", "obj_uri": "Q8461", "obj_label": "rasism", "sub_label": "rasism \u0219tiin\u021bific", "lineid": 616}
+{"sub_uri": "Q2359213", "obj_uri": "Q3884", "obj_label": "Amazon.com", "sub_label": "Goodreads", "lineid": 620}
+{"sub_uri": "Q864952", "obj_uri": "Q318", "obj_label": "galaxie", "sub_label": "Halou al materiei \u00eentunecate", "lineid": 621}
+{"sub_uri": "Q184663", "obj_uri": "Q5891", "obj_label": "filozofie", "sub_label": "Filozofie chinez\u0103", "lineid": 625}
+{"sub_uri": "Q205084", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "teoria complexit\u0103\u021bii", "lineid": 626}
+{"sub_uri": "Q25220", "obj_uri": "Q1286", "obj_label": "Alpi", "sub_label": "Alpii Elve\u021bieni", "lineid": 627}
+{"sub_uri": "Q202771", "obj_uri": "Q7020", "obj_label": "Genom", "sub_label": "cromozomul Y", "lineid": 631}
+{"sub_uri": "Q751404", "obj_uri": "Q333", "obj_label": "astronomie", "sub_label": "Astronomie geodezic\u0103", "lineid": 632}
+{"sub_uri": "Q165838", "obj_uri": "Q7150", "obj_label": "ecologie", "sub_label": "limnologie", "lineid": 633}
+{"sub_uri": "Q170980", "obj_uri": "Q4989906", "obj_label": "monument", "sub_label": "Obelisc", "lineid": 637}
+{"sub_uri": "Q407784", "obj_uri": "Q9418", "obj_label": "psihologie", "sub_label": "Psihologia copilului", "lineid": 640}
+{"sub_uri": "Q165838", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "limnologie", "lineid": 646}
+{"sub_uri": "Q12483", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "statistic\u0103", "lineid": 649}
+{"sub_uri": "Q1412461", "obj_uri": "Q21201", "obj_label": "sociologie", "sub_label": "Psefologie", "lineid": 651}
+{"sub_uri": "Q1991965", "obj_uri": "Q33946", "obj_label": "Cehoslovacia", "sub_label": "Republica Socialist\u0103 Ceh\u0103", "lineid": 655}
+{"sub_uri": "Q101965", "obj_uri": "Q336", "obj_label": "\u0219tiin\u021b\u0103", "sub_label": "experiment", "lineid": 656}
+{"sub_uri": "Q485537", "obj_uri": "Q1541064", "obj_label": "perceperea mirosului", "sub_label": "miros", "lineid": 657}
+{"sub_uri": "Q518261", "obj_uri": "Q23498", "obj_label": "arheologie", "sub_label": "Spa\u021biu cultural", "lineid": 658}
+{"sub_uri": "Q1467740", "obj_uri": "Q539051", "obj_label": "Greci", "sub_label": "greci otomani", "lineid": 660}
+{"sub_uri": "Q1575434", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Metaweb", "lineid": 661}
+{"sub_uri": "Q212919", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "palinologie", "lineid": 663}
+{"sub_uri": "Q184395", "obj_uri": "Q165", "obj_label": "mare", "sub_label": "Ap\u0103 de mare", "lineid": 664}
+{"sub_uri": "Q297672", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "Oenologie", "lineid": 666}
+{"sub_uri": "Q4398", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "Pangeea", "lineid": 667}
+{"sub_uri": "Q11387", "obj_uri": "Q318", "obj_label": "galaxie", "sub_label": "roi deschis", "lineid": 668}
+{"sub_uri": "Q2539", "obj_uri": "Q12483", "obj_label": "statistic\u0103", "sub_label": "\u00eenv\u0103\u021bare automat\u0103", "lineid": 672}
+{"sub_uri": "Q291004", "obj_uri": "Q189", "obj_label": "Islanda", "sub_label": "Platoul Islandez", "lineid": 673}
+{"sub_uri": "Q917374", "obj_uri": "Q20", "obj_label": "Norvegia", "sub_label": "Ap\u0103rarea Norvegiei", "lineid": 675}
+{"sub_uri": "Q204194", "obj_uri": "Q318", "obj_label": "galaxie", "sub_label": "Nebuloas\u0103 obscur\u0103", "lineid": 679}
+{"sub_uri": "Q185264", "obj_uri": "Q309", "obj_label": "istorie", "sub_label": "istoria matematicii", "lineid": 680}
+{"sub_uri": "Q158260", "obj_uri": "Q128781", "obj_label": "Wehrmacht", "sub_label": "Grupul de Armate Centru", "lineid": 681}
+{"sub_uri": "Q193870", "obj_uri": "Q2329", "obj_label": "chimie", "sub_label": "Tribologie", "lineid": 683}
+{"sub_uri": "Q193870", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "Tribologie", "lineid": 684}
+{"sub_uri": "Q326710", "obj_uri": "Q7364", "obj_label": "ochi", "sub_label": "Umoare apoas\u0103", "lineid": 687}
+{"sub_uri": "Q169342", "obj_uri": "Q7364", "obj_label": "ochi", "sub_label": "Retin\u0103", "lineid": 688}
+{"sub_uri": "Q182895", "obj_uri": "Q13147", "obj_label": "craniu", "sub_label": "Maxil\u0103", "lineid": 691}
+{"sub_uri": "Q201410", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "C\u0103r\u021bi deuterocanonice", "lineid": 694}
+{"sub_uri": "Q486839", "obj_uri": "Q35749", "obj_label": "parlament", "sub_label": "parlamentar", "lineid": 699}
+{"sub_uri": "Q2334061", "obj_uri": "Q12483", "obj_label": "statistic\u0103", "sub_label": "Proiectare experimental\u0103", "lineid": 700}
+{"sub_uri": "Q4886", "obj_uri": "Q68947", "obj_label": "subspecie", "sub_label": "soi", "lineid": 702}
+{"sub_uri": "Q482853", "obj_uri": "Q7881", "obj_label": "schelet", "sub_label": "Coloan\u0103 vertebral\u0103", "lineid": 704}
+{"sub_uri": "Q41217", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "mecanic\u0103", "lineid": 708}
+{"sub_uri": "Q1475112", "obj_uri": "Q38799", "obj_label": "Hamas", "sub_label": "Brig\u0103zile Ezzedin Al-Qassam", "lineid": 715}
+{"sub_uri": "Q166530", "obj_uri": "Q11412", "obj_label": "gravita\u021bie", "sub_label": "vitez\u0103 cosmic\u0103", "lineid": 723}
+{"sub_uri": "Q280969", "obj_uri": "Q152", "obj_label": "pe\u0219te", "sub_label": "Linie lateral\u0103", "lineid": 726}
+{"sub_uri": "Q49718", "obj_uri": "Q44167", "obj_label": "Motor", "sub_label": "Arbore cotit", "lineid": 727}
+{"sub_uri": "Q42372", "obj_uri": "Q318", "obj_label": "galaxie", "sub_label": "Nebuloas\u0103", "lineid": 735}
+{"sub_uri": "Q859557", "obj_uri": "Q5043", "obj_label": "cre\u0219tinism", "sub_label": "Cre\u0219tinism liberal", "lineid": 738}
+{"sub_uri": "Q9121", "obj_uri": "Q11369", "obj_label": "molecul\u0103", "sub_label": "atom", "lineid": 741}
+{"sub_uri": "Q364881", "obj_uri": "Q184386", "obj_label": "Yes", "sub_label": "Trevor Rabin", "lineid": 743}
+{"sub_uri": "Q179760", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Habacuc", "lineid": 745}
+{"sub_uri": "Q131640", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Neemia", "lineid": 749}
+{"sub_uri": "Q223557", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "obiect fizic", "lineid": 751}
+{"sub_uri": "Q1364934", "obj_uri": "Q318028", "obj_label": "Obuz", "sub_label": "Material propulsant", "lineid": 753}
+{"sub_uri": "Q16648", "obj_uri": "Q1286", "obj_label": "Alpi", "sub_label": "Monte San Giorgio", "lineid": 754}
+{"sub_uri": "Q165192", "obj_uri": "Q21195", "obj_label": "Scandinavia", "sub_label": "Suedezi", "lineid": 755}
+{"sub_uri": "Q131737", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Cartea lui Tobit", "lineid": 759}
+{"sub_uri": "Q5589338", "obj_uri": "Q881", "obj_label": "Vietnam", "sub_label": "Guvernul Vietnamului", "lineid": 760}
+{"sub_uri": "Q179807", "obj_uri": "Q5891", "obj_label": "filozofie", "sub_label": "Ascez\u0103", "lineid": 761}
+{"sub_uri": "Q679590", "obj_uri": "Q3757", "obj_label": "Insula Java", "sub_label": "Bromo", "lineid": 762}
+{"sub_uri": "Q835986", "obj_uri": "Q58", "obj_label": "penis", "sub_label": "Os penian", "lineid": 766}
+{"sub_uri": "Q13426339", "obj_uri": "Q48493", "obj_label": "iOS", "sub_label": "iOS 7", "lineid": 767}
+{"sub_uri": "Q1196371", "obj_uri": "Q8087", "obj_label": "geometrie", "sub_label": "transformare", "lineid": 768}
+{"sub_uri": "Q297672", "obj_uri": "Q2329", "obj_label": "chimie", "sub_label": "Oenologie", "lineid": 769}
+{"sub_uri": "Q131230", "obj_uri": "Q68740", "obj_label": "Hawaii", "sub_label": "Mauna Kea", "lineid": 770}
+{"sub_uri": "Q131458", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Isaia", "lineid": 772}
+{"sub_uri": "Q250", "obj_uri": "Q68", "obj_label": "calculator", "sub_label": "tastatur\u0103", "lineid": 773}
+{"sub_uri": "Q18335", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "Radia\u021bie", "lineid": 775}
+{"sub_uri": "Q213649", "obj_uri": "Q309", "obj_label": "istorie", "sub_label": "Epoca vikingilor", "lineid": 776}
+{"sub_uri": "Q83353", "obj_uri": "Q1069", "obj_label": "geologie", "sub_label": "mineralogie", "lineid": 777}
+{"sub_uri": "Q3230", "obj_uri": "Q2", "obj_label": "P\u0103m\u00e2nt", "sub_label": "Atmosfera P\u0103m\u00e2ntului", "lineid": 779}
+{"sub_uri": "Q37172", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "Und\u0103", "lineid": 781}
+{"sub_uri": "Q2065207", "obj_uri": "Q19660", "obj_label": "Bucure\u0219ti", "sub_label": "Drumul Taberei", "lineid": 782}
+{"sub_uri": "Q930752", "obj_uri": "Q11190", "obj_label": "medicin\u0103", "sub_label": "specialitate medical\u0103", "lineid": 783}
+{"sub_uri": "Q207857", "obj_uri": "Q38311", "obj_label": "morfologie", "sub_label": "flexiune", "lineid": 786}
+{"sub_uri": "Q1127214", "obj_uri": "Q45227", "obj_label": "Piston", "sub_label": "Segment", "lineid": 787}
+{"sub_uri": "Q131590", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Ieremia", "lineid": 788}
+{"sub_uri": "Q207961", "obj_uri": "Q8087", "obj_label": "geometrie", "sub_label": "form\u0103", "lineid": 792}
+{"sub_uri": "Q168845", "obj_uri": "Q318", "obj_label": "galaxie", "sub_label": "roi stelar", "lineid": 793}
+{"sub_uri": "Q518261", "obj_uri": "Q309", "obj_label": "istorie", "sub_label": "Spa\u021biu cultural", "lineid": 796}
+{"sub_uri": "Q2964004", "obj_uri": "Q40821", "obj_label": "chirurgie", "sub_label": "chirurgie toracic\u0103", "lineid": 797}
+{"sub_uri": "Q723587", "obj_uri": "Q309", "obj_label": "istorie", "sub_label": "Imperiul Neo-Sumerian", "lineid": 798}
+{"sub_uri": "Q237632", "obj_uri": "Q13147", "obj_label": "craniu", "sub_label": "Osul palatin", "lineid": 801}
+{"sub_uri": "Q932510", "obj_uri": "Q40821", "obj_label": "chirurgie", "sub_label": "Chirurgie general\u0103", "lineid": 806}
+{"sub_uri": "Q177719", "obj_uri": "Q11190", "obj_label": "medicin\u0103", "sub_label": "diagnostic medical", "lineid": 807}
+{"sub_uri": "Q323936", "obj_uri": "Q614304", "obj_label": "Farmacie", "sub_label": "Farmacocinetic\u0103", "lineid": 808}
+{"sub_uri": "Q214924", "obj_uri": "Q584", "obj_label": "Rin", "sub_label": "Cascada Rinului", "lineid": 810}
+{"sub_uri": "Q190769", "obj_uri": "Q37748", "obj_label": "cromozom", "sub_label": "centrozom", "lineid": 812}
+{"sub_uri": "Q911907", "obj_uri": "Q8087", "obj_label": "geometrie", "sub_label": "Unghi diedru", "lineid": 813}
+{"sub_uri": "Q948008", "obj_uri": "Q57821", "obj_label": "Fortifica\u021bie", "sub_label": "Glacis", "lineid": 814}
+{"sub_uri": "Q4116214", "obj_uri": "Q43015", "obj_label": "Finan\u021be", "sub_label": "Contabilitate", "lineid": 815}
+{"sub_uri": "Q181620", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Cartea \u00eent\u00e2i a Regilor", "lineid": 823}
+{"sub_uri": "Q15922520", "obj_uri": "Q482", "obj_label": "poezie", "sub_label": "Distih", "lineid": 827}
+{"sub_uri": "Q35395", "obj_uri": "Q420", "obj_label": "biologie", "sub_label": "fonetic\u0103", "lineid": 834}
+{"sub_uri": "Q51617", "obj_uri": "Q5043", "obj_label": "cre\u0219tinism", "sub_label": "Anul bisericesc", "lineid": 836}
+{"sub_uri": "Q266893", "obj_uri": "Q128781", "obj_label": "Wehrmacht", "sub_label": "Grupul de Armate Sud", "lineid": 839}
+{"sub_uri": "Q243684", "obj_uri": "Q12546", "obj_label": "Cruciad\u0103", "sub_label": "Cruciada a opta", "lineid": 841}
+{"sub_uri": "Q745328", "obj_uri": "Q12483", "obj_label": "statistic\u0103", "sub_label": "Statistic\u0103 matematic\u0103", "lineid": 843}
+{"sub_uri": "Q74259", "obj_uri": "Q1286", "obj_label": "Alpi", "sub_label": "Alpii Apuseni", "lineid": 844}
+{"sub_uri": "Q42240", "obj_uri": "Q336", "obj_label": "\u0219tiin\u021b\u0103", "sub_label": "cercetare", "lineid": 853}
+{"sub_uri": "Q808561", "obj_uri": "Q37853", "obj_label": "baroc", "sub_label": "pictur\u0103 baroc\u0103", "lineid": 855}
+{"sub_uri": "Q164587", "obj_uri": "Q128781", "obj_label": "Wehrmacht", "sub_label": "Armata Rus\u0103 de Eliberare", "lineid": 860}
+{"sub_uri": "Q185325", "obj_uri": "Q11190", "obj_label": "medicin\u0103", "sub_label": "Suport Vital de Baz\u0103", "lineid": 861}
+{"sub_uri": "Q651480", "obj_uri": "Q44337", "obj_label": "Matrice", "sub_label": "Diagonal\u0103 principal\u0103", "lineid": 864}
+{"sub_uri": "Q1498222", "obj_uri": "Q40821", "obj_label": "chirurgie", "sub_label": "chirurgie vascular\u0103", "lineid": 867}
+{"sub_uri": "Q312930", "obj_uri": "Q5456", "obj_label": "Anzii Cordilieri", "sub_label": "Copahue", "lineid": 869}
+{"sub_uri": "Q504033", "obj_uri": "Q40821", "obj_label": "chirurgie", "sub_label": "Chirurgie oromaxilofacial\u0103", "lineid": 873}
+{"sub_uri": "Q43099", "obj_uri": "Q34990", "obj_label": "Tora", "sub_label": "Cartea Numeri", "lineid": 877}
+{"sub_uri": "Q205768", "obj_uri": "Q1069", "obj_label": "geologie", "sub_label": "sedimentologie", "lineid": 878}
+{"sub_uri": "Q772938", "obj_uri": "Q284860", "obj_label": "Janet.", "sub_label": "Any Time, Any Place", "lineid": 883}
+{"sub_uri": "Q898127", "obj_uri": "Q284860", "obj_label": "Janet.", "sub_label": "You Want This", "lineid": 884}
+{"sub_uri": "Q665000", "obj_uri": "Q1286", "obj_label": "Alpi", "sub_label": "Grauspitz", "lineid": 886}
+{"sub_uri": "Q168291", "obj_uri": "Q7364", "obj_label": "ochi", "sub_label": "cornee", "lineid": 889}
+{"sub_uri": "Q51675", "obj_uri": "Q1845", "obj_label": "Biblia", "sub_label": "Maleahi", "lineid": 890}
+{"sub_uri": "Q374727", "obj_uri": "Q9633", "obj_label": "g\u00e2t", "sub_label": "Ceaf\u0103", "lineid": 892}
+{"sub_uri": "Q1944497", "obj_uri": "Q11451", "obj_label": "Agricultur\u0103", "sub_label": "protec\u021bia plantelor", "lineid": 895}
+{"sub_uri": "Q181497", "obj_uri": "Q290", "obj_label": "sex", "sub_label": "Dimorfism sexual", "lineid": 897}
+{"sub_uri": "Q486986", "obj_uri": "Q18869", "obj_label": "Caucaz", "sub_label": "Caucazul Mare", "lineid": 899}
+{"sub_uri": "Q216593", "obj_uri": "Q18869", "obj_label": "Caucaz", "sub_label": "Caucazul Mic", "lineid": 900}
+{"sub_uri": "Q300951", "obj_uri": "Q2329", "obj_label": "chimie", "sub_label": "Indicator de culoare", "lineid": 901}
+{"sub_uri": "Q128593", "obj_uri": "Q5891", "obj_label": "filozofie", "sub_label": "reincarnare", "lineid": 903}
+{"sub_uri": "Q131222", "obj_uri": "Q395", "obj_label": "matematic\u0103", "sub_label": "Teoria informa\u021biei", "lineid": 906}
+{"sub_uri": "Q37187", "obj_uri": "Q7873", "obj_label": "s\u00e2nge", "sub_label": "Eritrocit", "lineid": 912}
+{"sub_uri": "Q2142347", "obj_uri": "Q37813", "obj_label": "Ecosistem", "sub_label": "Factor de mediu", "lineid": 914}
+{"sub_uri": "Q11306265", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "zgomot (electronic\u0103)", "lineid": 915}
+{"sub_uri": "Q184876", "obj_uri": "Q413", "obj_label": "fizic\u0103", "sub_label": "sistem de referin\u021b\u0103", "lineid": 917}
+{"sub_uri": "Q948022", "obj_uri": "Q37813", "obj_label": "Ecosistem", "sub_label": "Piramid\u0103 trofic\u0103", "lineid": 918}
+{"sub_uri": "Q724", "obj_uri": "Q771", "obj_label": "Massachusetts", "sub_label": "Maine", "lineid": 920}
+{"sub_uri": "Q42250", "obj_uri": "Q1069", "obj_label": "geologie", "sub_label": "Hidrologie", "lineid": 922}
+{"sub_uri": "Q12130", "obj_uri": "Q327", "obj_label": "Bretania", "sub_label": "Bretania", "lineid": 923}
+{"sub_uri": "Q183257", "obj_uri": "Q179661", "obj_label": "tratament medical", "sub_label": "psihoterapie", "lineid": 924}
+{"sub_uri": "Q1364934", "obj_uri": "Q37144", "obj_label": "Cartu\u0219", "sub_label": "Material propulsant", "lineid": 928}

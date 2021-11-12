@@ -1,9 +1,0 @@
-{"pattern": "[X] udr\u017euje diplomatick\u00e9 vztahy s [Y]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] udr\u017euje diplomatick\u00e9 vztahy s [X]", "lemma": "maintains", "extended_lemma": "maintains-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] navazuje diplomatick\u00e9 vztahy s [Y]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y] navazuje diplomatick\u00e9 vztahy s [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}
-{"pattern": "[X] m\u00e1 diplomatick\u00e9 vztahy s [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "M\u00e1 diplomatick\u00e9 vztahy s [X].", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[X], kter\u00fd m\u00e1 diplomatick\u00e9 vztahy s [Y]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], kter\u00fd m\u00e1 diplomatick\u00e9 vztahy s [X]", "lemma": "have", "extended_lemma": "have-diplomatic-relations", "tense": "present"}
-{"pattern": "[Y], kter\u00e9 spojuje diplomatick\u00e9 vztahy s [X]", "lemma": "tie", "extended_lemma": "tie-diplomatic-relations", "tense": "present"}

@@ -1,6 +1,0 @@
-{"pattern": "[X] \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 [Y] \u0b87\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd.", "lemma": "position", "extended_lemma": "position", "tense": "present"}
-{"pattern": "[X] \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1, [Y] \u0b87\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd.", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
-{"pattern": "([X]) \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 ([Y]) \u0b87\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9\u0ba4\u0bc1.", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
-{"pattern": "[X] \u0b87\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8 [Y].", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
-{"pattern": "([X]) \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 ([Y]) \u0b87\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd.", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
-{"pattern": "[X] \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bc1 [Y] \u0b87\u0ba9\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bc8\u0b95\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}

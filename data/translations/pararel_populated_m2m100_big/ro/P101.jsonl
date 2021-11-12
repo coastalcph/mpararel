@@ -1,8 +1,0 @@
-{"pattern": "[X] se specializeaz\u0103 \u00een [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
-{"pattern": "[X] \u00een [Y]", "lemma": "specialize", "extended_lemma": "specialize-in", "tense": "present"}
-{"pattern": "Expertiza lui [X] este [Y]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
-{"pattern": "[Y] este expertiza lui [X]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
-{"pattern": "[Y] lui [X]", "lemma": "expertise", "extended_lemma": "expertise", "tense": "present"}
-{"pattern": "Domeniul de activitate al lui [X] este [Y]", "lemma": "domain-of-activity", "extended_lemma": "domain-of-activity", "tense": "present"}
-{"pattern": "Domeniul de activitate al lui [X] este [Y]", "lemma": "domain-of-activity", "extended_lemma": "'s-domain-of-activity", "tense": "present"}
-{"pattern": "Expertiza lui [X] este [Y]", "lemma": "speciality", "extended_lemma": "'s-expertise", "tense": "present"}

@@ -1,0 +1,12 @@
+{"pattern": "hovedkvarteret for [X] er i [Y]", "checked-by-human": true}
+{"pattern": "[X]s hovedkvarter ligger i [Y]", "checked-by-human": true}
+{"pattern": "[Y] er hjemsted for [X]", "checked-by-human": true}
+{"pattern": "[X], hvis hovedkvarter ligger i [Y]", "checked-by-human": false}
+{"pattern": "[Y] har hovedkvarter for [X]", "checked-by-human": false}
+{"pattern": "hovedkvarteret for [X] er placeret i [Y]", "checked-by-human": false}
+{"pattern": "hovedkvarteret for [X] ligger i [Y]", "checked-by-human": false}
+{"pattern": "[X] er baseret i [Y]", "checked-by-human": false}
+{"pattern": "[Y] indeholder hovedkvarteret for [X]", "checked-by-human": false}
+{"pattern": "[X] har hovedkvarter i [Y]", "checked-by-human": true}
+{"pattern": "[X], hvis hovedkvarter er i [Y]", "checked-by-human": true}
+{"pattern": "[Y] har hovedkvarteret for [X]", "checked-by-human": true}

@@ -1,0 +1,9 @@
+{"pattern": "is \u00e9 [X] pr\u00edomhchathair [Y]", "checked-by-human": false}
+{"pattern": "[Y], a bhfuil an phr\u00edomhchathair [X] aige", "checked-by-human": false}
+{"pattern": "[Y], a bhfuil an phr\u00edomhchathair [X]", "checked-by-human": false}
+{"pattern": "pr\u00edomhchathair [Y], [X]", "checked-by-human": false}
+{"pattern": "[Y], a bhfuil an caipiteal [X]", "checked-by-human": false}
+{"pattern": "[X], pr\u00edomhchathair [Y]", "checked-by-human": false}
+{"pattern": "[X], is \u00e9 sin pr\u00edomhchathair [Y]", "checked-by-human": false}
+{"pattern": "caipiteal [Y], [X]", "checked-by-human": false}
+{"pattern": "is \u00ed pr\u00edomhchathair [Y] [X]", "checked-by-human": false}

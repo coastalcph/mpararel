@@ -1,0 +1,8 @@
+{"pattern": "[X] ma siedzib\u0119 w [Y]", "checked-by-human": false}
+{"pattern": "[Y] ma siedzib\u0119 [X]", "checked-by-human": false}
+{"pattern": "[Y] z siedzib\u0105 w [X]", "checked-by-human": true}
+{"pattern": "[X], kt\u00f3rego siedziba znajduje si\u0119 w [Y]", "checked-by-human": true}
+{"pattern": "[Y] ma siedzib\u0119 w [X]", "checked-by-human": true}
+{"pattern": "siedziba [X] znajduje si\u0119 w [Y]", "checked-by-human": false}
+{"pattern": "[Y] jest domem [X]", "checked-by-human": true}
+{"pattern": "[Y] jest domem dla [X]", "checked-by-human": true}

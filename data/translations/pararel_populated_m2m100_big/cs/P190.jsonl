@@ -1,6 +1,0 @@
-{"pattern": "[X] a [Y] jsou dvoj\u010data.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] a [X] jsou dvoj\u010data.", "lemma": "twin-city", "extended_lemma": "is-twin-city", "tense": "present"}
-{"pattern": "[Y] dvoj\u00ed m\u011bsto [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[Y] je dvoj\u00ed m\u011bsto [X]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] je dvoj\u00ed m\u011bsto [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}
-{"pattern": "[X] je [Y]", "lemma": "twin-city", "extended_lemma": "is-twin-city-of", "tense": "present"}

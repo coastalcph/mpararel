@@ -1,0 +1,14 @@
+{"pattern": "die besch\u00e4ftigung von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "[X] ist von beruf ein [Y]", "checked-by-human": false}
+{"pattern": "[X] ist ein [Y] nach beruf", "checked-by-human": false}
+{"pattern": "der beruf von [X] ist ein [Y]", "checked-by-human": false}
+{"pattern": "[X], der als [Y] arbeitet", "checked-by-human": true}
+{"pattern": "[X] funktioniert als [Y]", "checked-by-human": false}
+{"pattern": "[X] arbeitet als [Y]", "checked-by-human": true}
+{"pattern": "[X]s beruf ist ein [Y]", "checked-by-human": false}
+{"pattern": "[X] ist [Y] von beruf", "checked-by-human": true}
+{"pattern": "[X] ist ein [Y] durch training", "checked-by-human": true}
+{"pattern": "[X] ist ein [Y] von beruf", "checked-by-human": true}
+{"pattern": "der beruf von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "die besetzung von [X] ist [Y]", "checked-by-human": true}
+{"pattern": "[X]s beruf ist [Y]", "checked-by-human": true}

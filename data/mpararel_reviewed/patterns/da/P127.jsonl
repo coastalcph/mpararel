@@ -1,0 +1,4 @@
+{"pattern": "det [Y]-ejede [X]", "checked-by-human": true}
+{"pattern": "[X] ejer [Y]", "checked-by-human": true}
+{"pattern": "[Y] ejer [X]", "checked-by-human": false}
+{"pattern": "[X] ejes af [Y]", "checked-by-human": false}

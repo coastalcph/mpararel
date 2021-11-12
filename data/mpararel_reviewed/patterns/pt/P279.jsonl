@@ -1,0 +1,4 @@
+{"pattern": "[X], que \u00e9 uma subclasse de [Y]", "checked-by-human": false}
+{"pattern": "[X], uma subclasse de [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e9 uma subclasse de [Y]", "checked-by-human": false}
+{"pattern": "[X], um tipo de [Y]", "checked-by-human": true}

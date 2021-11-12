@@ -1,0 +1,10 @@
+{"pattern": "[X] grenzen met [Y]", "checked-by-human": false}
+{"pattern": "[X] deelt zijn grens met [Y]", "checked-by-human": false}
+{"pattern": "[X] deelt een gemeenschappelijke grens met [Y]", "checked-by-human": false}
+{"pattern": "[Y] deelt zijn grens met [X]", "checked-by-human": false}
+{"pattern": "[Y] deelt een gemeenschappelijke grens met [X]", "checked-by-human": false}
+{"pattern": "[X] deelt grens met [Y]", "checked-by-human": false}
+{"pattern": "[Y] grenst aan [X]", "checked-by-human": false}
+{"pattern": "[X] deelt de grens met [Y]", "checked-by-human": false}
+{"pattern": "[X] grenst aan [Y]", "checked-by-human": false}
+{"pattern": "[Y] deelt de grens met [X]", "checked-by-human": false}

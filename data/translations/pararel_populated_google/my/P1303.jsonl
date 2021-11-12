@@ -1,5 +1,0 @@
-{"pattern": "[X] \u101e\u100a\u103a [Y] \u1000\u1005\u102c\u1038\u101e\u100a\u103a\u104b", "lemma": "play", "extended_lemma": "play", "tense": "present"}
-{"pattern": "[Y] Player [X]", "lemma": "player", "extended_lemma": "player", "tense": "present"}
-{"pattern": "[X] \u101e\u100a\u103a [Y]", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
-{"pattern": "[X] \u101e\u100a\u103a [Y] Player \u1016\u103c\u1005\u103a\u101e\u100a\u103a\u104b", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}
-{"pattern": "[X] \u101e\u100a\u103a [Y] \u1016\u103c\u1005\u103a\u101e\u100a\u103a\u104b", "lemma": "is-a-player", "extended_lemma": "is-a-player", "tense": "present"}

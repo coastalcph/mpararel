@@ -1,0 +1,5 @@
+{"pattern": "[X] spiller som [Y]", "checked-by-human": false}
+{"pattern": "[X], som spiller i [Y]-position", "checked-by-human": true}
+{"pattern": "[X] spiller i positionen [Y]", "checked-by-human": false}
+{"pattern": "[X], der spiller i [Y] position", "checked-by-human": false}
+{"pattern": "[X] spiller i [Y]-position", "checked-by-human": true}

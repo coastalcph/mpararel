@@ -1,0 +1,10 @@
+{"pattern": "[Y] dzieli granic\u0119 z [X]", "checked-by-human": false}
+{"pattern": "[Y] dzieli swoj\u0105 granic\u0119 z [X]", "checked-by-human": true}
+{"pattern": "[Y] ma wsp\u00f3ln\u0105 granic\u0119 z [X]", "checked-by-human": true}
+{"pattern": "[Y] graniczy z [X]", "checked-by-human": true}
+{"pattern": "[X] dzieli swoj\u0105 granic\u0119 z [Y]", "checked-by-human": false}
+{"pattern": "[X] dzieli wsp\u00f3ln\u0105 granic\u0119 z [Y]", "checked-by-human": true}
+{"pattern": "[X] dzieli granic\u0119 z [Y]", "checked-by-human": false}
+{"pattern": "[X] graniczy z [Y]", "checked-by-human": false}
+{"pattern": "[Y] dzieli wsp\u00f3ln\u0105 granic\u0119 z [X]", "checked-by-human": false}
+{"pattern": "[X] ma wsp\u00f3ln\u0105 granic\u0119 z [Y]", "checked-by-human": true}

@@ -1,0 +1,9 @@
+{"pattern": "[X] fait partie de l'organisation [Y]", "checked-by-human": true}
+{"pattern": "[X] appartient \u00e0 l\u2019organisation de [Y]", "checked-by-human": false}
+{"pattern": "[X] est affili\u00e9 \u00e0 l\u2019organisation [Y]", "checked-by-human": false}
+{"pattern": "[X] est membre de [Y]", "checked-by-human": false}
+{"pattern": "[X] appartient \u00e0 l'organisation de [Y]", "checked-by-human": true}
+{"pattern": "[X] fait partie de l\u2019organisation [Y]", "checked-by-human": true}
+{"pattern": "[X] est affili\u00e9 \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] est un membre de [Y]", "checked-by-human": false}
+{"pattern": "[X] est affili\u00e9 \u00e0 l'organisation [Y]", "checked-by-human": true}

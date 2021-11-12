@@ -1,0 +1,14 @@
+{"pattern": "[X], napisane w j\u0119zyku [Y]", "checked-by-human": true}
+{"pattern": "[Y] w j\u0119zyku [X]", "checked-by-human": true}
+{"pattern": "[X] zosta\u0142 napisany w j\u0119zyku [Y]", "checked-by-human": true}
+{"pattern": "j\u0119zykiem [X] jest [Y]", "checked-by-human": true}
+{"pattern": "[X] jest dzie\u0142em w j\u0119zyku [Y]", "checked-by-human": true}
+{"pattern": "[Y] by\u0142 j\u0119zykiem [X]", "checked-by-human": true}
+{"pattern": "[X] by\u0142o dzie\u0142em w j\u0119zyku [Y]", "checked-by-human": false}
+{"pattern": "j\u0119zykiem [X] by\u0142o [Y]", "checked-by-human": true}
+{"pattern": "[X], praca w j\u0119zyku [Y]", "checked-by-human": true}
+{"pattern": "[X] by\u0142 dzie\u0142em w j\u0119zyku [Y]", "checked-by-human": false}
+{"pattern": "[X] jest napisane w [Y]", "checked-by-human": false}
+{"pattern": "[X] jest napisane w j\u0119zyku [Y]", "checked-by-human": false}
+{"pattern": "[X] zosta\u0142 napisany w [Y]", "checked-by-human": true}
+{"pattern": "j\u0119zyk [X] by\u0142 [Y]", "checked-by-human": false}

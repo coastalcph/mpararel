@@ -1,9 +1,0 @@
-{"pattern": "[X] resmi dilidir [Y].", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[X] resmi dili, [Y] dilidir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] [X] resmi dilidir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[Y] dili, [X] 'nin resmi dilidir.", "lemma": "official-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[X] 'de, [Y] resmi dildir.", "lemma": "is-official-language", "extended_lemma": "is-the-official-language", "tense": "present"}
-{"pattern": "Resmi olarak, [Y] [X] dilidir.", "lemma": "is-language", "extended_lemma": "the-official-language", "tense": "present"}
-{"pattern": "[X] 'nin yasas\u0131, resmi dili [Y] ilan eder.", "lemma": "declare-the-official-language", "extended_lemma": "declare-the-official-language", "tense": "present"}
-{"pattern": "[X] i\u00e7indeki kanun, resmi dil olarak [Y] tan\u0131mlar.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}
-{"pattern": "[X]'deki kanun, [Y] dilini resmi dil olarak tan\u0131mlar.", "lemma": "define-official-language", "extended_lemma": "define-the-official-language", "tense": "present"}

@@ -1,0 +1,11 @@
+{"pattern": "[X] tiene vinculaciones diplom\u00e1ticas con [Y]", "checked-by-human": true}
+{"pattern": "[X] tiene relaciones diplom\u00e1ticas con [Y]", "checked-by-human": false}
+{"pattern": "[Y] mantiene relaciones diplom\u00e1ticas con [X]", "checked-by-human": true}
+{"pattern": "[Y] tiene relaciones diplom\u00e1ticas con [X]", "checked-by-human": false}
+{"pattern": "[X] vincula las relaciones diplom\u00e1ticas con [Y]", "checked-by-human": true}
+{"pattern": "[X], que tiene relaciones diplom\u00e1ticas con [Y]", "checked-by-human": false}
+{"pattern": "[Y] vincula las relaciones diplom\u00e1ticas con [X]", "checked-by-human": true}
+{"pattern": "[Y], que tiene relaciones diplom\u00e1ticas con [X]", "checked-by-human": true}
+{"pattern": "[Y], que vincula las relaciones diplom\u00e1ticas con [X]", "checked-by-human": false}
+{"pattern": "[X] mantiene relaciones diplom\u00e1ticas con [Y]", "checked-by-human": true}
+{"pattern": "[Y] tiene vinculaciones diplom\u00e1ticas con [X]", "checked-by-human": true}

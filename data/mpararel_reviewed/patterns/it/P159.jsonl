@@ -1,0 +1,13 @@
+{"pattern": "la sede centrale di [X] \u00e8 in [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e8 basato su [Y]", "checked-by-human": false}
+{"pattern": "il quartier generale di [X] \u00e8 in [Y]", "checked-by-human": true}
+{"pattern": "[X], la cui sede \u00e8 in [Y]", "checked-by-human": true}
+{"pattern": "[Y] ha il quartier generale di [X]", "checked-by-human": false}
+{"pattern": "[X], il cui quartier generale \u00e8 in [Y]", "checked-by-human": true}
+{"pattern": "[X] ha sede in [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e8 sede in [Y]", "checked-by-human": false}
+{"pattern": "[Y] \u00e8 la casa di [X]", "checked-by-human": false}
+{"pattern": "la sede di [X] si trova in [Y]", "checked-by-human": false}
+{"pattern": "[Y] contiene la sede di [X]", "checked-by-human": false}
+{"pattern": "[Y] \u00e8 la sede di [X]", "checked-by-human": true}
+{"pattern": "la sede di [X] \u00e8 in [Y]", "checked-by-human": true}

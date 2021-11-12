@@ -1,0 +1,8 @@
+{"pattern": "[X], que interpreta [Y]", "checked-by-human": true}
+{"pattern": "[X] juega [Y]", "checked-by-human": false}
+{"pattern": "[X] reproduce m\u00fasica [Y]", "checked-by-human": false}
+{"pattern": "[X], que toca [Y]", "checked-by-human": true}
+{"pattern": "[X] toca [Y]", "checked-by-human": true}
+{"pattern": "[X], que toca m\u00fasica [Y]", "checked-by-human": true}
+{"pattern": "[X] toca m\u00fasica [Y]", "checked-by-human": false}
+{"pattern": "[X], quien toca [Y] m\u00fasica", "checked-by-human": false}

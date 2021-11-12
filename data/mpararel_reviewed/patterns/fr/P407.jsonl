@@ -1,0 +1,13 @@
+{"pattern": "[X], \u00e9crit dans la langue [Y]", "checked-by-human": false}
+{"pattern": "la langue de [X] \u00e9tait [Y]", "checked-by-human": false}
+{"pattern": "[Y] est la langue de [X]", "checked-by-human": true}
+{"pattern": "[Y] \u00e9tait la langue de [X]", "checked-by-human": false}
+{"pattern": "[X] est une \u0153uvre en langue [Y]", "checked-by-human": false}
+{"pattern": "[X] a \u00e9t\u00e9 \u00e9crit en [Y]", "checked-by-human": true}
+{"pattern": "[X] est une \u0153uvre dans la langue [Y]", "checked-by-human": false}
+{"pattern": "la langue de [X] est [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e9tait un ouvrage en la langue [Y]", "checked-by-human": true}
+{"pattern": "[X] \u00e9tait une \u0153uvre en langue [Y]", "checked-by-human": false}
+{"pattern": "[X] est \u00e9crit dans la langue [Y]", "checked-by-human": false}
+{"pattern": "[X], une \u0153uvre en langue [Y]", "checked-by-human": true}
+{"pattern": "[X] a \u00e9t\u00e9 \u00e9crit dans la langue [Y]", "checked-by-human": false}

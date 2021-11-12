@@ -1,9 +1,0 @@
-{"pattern": "[X] gyda [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "[X] ffin [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] rhannu ei ffin [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] rhannu [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] ffin [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] rhannu [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] rhannu ei ffin [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] ei [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] rhannu ffin [X]", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

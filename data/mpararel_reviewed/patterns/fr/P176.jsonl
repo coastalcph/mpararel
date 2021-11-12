@@ -1,0 +1,13 @@
+{"pattern": "[X] est d\u00e9velopp\u00e9 par [Y]", "checked-by-human": true}
+{"pattern": "[X] est cr\u00e9\u00e9 par [Y]", "checked-by-human": true}
+{"pattern": "[Y] et son produit [X]", "checked-by-human": false}
+{"pattern": "[X], un produit de [Y],", "checked-by-human": false}
+{"pattern": "[X] est produit par [Y]", "checked-by-human": true}
+{"pattern": "[Y], le cr\u00e9ateur du [X]", "checked-by-human": true}
+{"pattern": "[X], d\u00e9velopp\u00e9 par [Y]", "checked-by-human": false}
+{"pattern": "[X], produit par [Y]", "checked-by-human": false}
+{"pattern": "[X], cr\u00e9\u00e9 par [Y]", "checked-by-human": false}
+{"pattern": "[Y] est le cr\u00e9ateur du [X]", "checked-by-human": true}
+{"pattern": "[X] est un produit de [Y]", "checked-by-human": false}
+{"pattern": "[X], un produit cr\u00e9\u00e9 par [Y],", "checked-by-human": true}
+{"pattern": "[X], un produit d\u00e9velopp\u00e9 par [Y],", "checked-by-human": true}

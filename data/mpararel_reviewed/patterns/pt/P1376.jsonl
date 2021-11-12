@@ -1,0 +1,8 @@
+{"pattern": "a capital de [Y] \u00e9 [X]", "checked-by-human": true}
+{"pattern": "[X], essa \u00e9 a capital de [Y]", "checked-by-human": false}
+{"pattern": "[X], a capital de [Y]", "checked-by-human": true}
+{"pattern": "[X], que \u00e9 a capital de [Y]", "checked-by-human": true}
+{"pattern": "[Y], que tem a capital [X]", "checked-by-human": false}
+{"pattern": "[Y], capital, [X]", "checked-by-human": false}
+{"pattern": "a capital do [Y] \u00e9 [X]", "checked-by-human": false}
+{"pattern": "[X] \u00e9 a capital de [Y]", "checked-by-human": false}

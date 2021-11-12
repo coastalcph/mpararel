@@ -1,7 +1,0 @@
-{"pattern": "[Y] tartalmazza a [X] sz\u00e9khely\u00e9t.", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
-{"pattern": "[Y] tartalmazza [X] sz\u00e9khely\u00e9t.", "lemma": "contains-headquarters", "extended_lemma": "contains-headquarters", "tense": "present"}
-{"pattern": "[X] sz\u00e9khelye [Y]", "lemma": "is-headquarter", "extended_lemma": "is-headquarter", "tense": "present"}
-{"pattern": "[Y] a [X] sz\u00e9khelye.", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
-{"pattern": "[Y] a [X]", "lemma": "has-headquarter", "extended_lemma": "has-headquarter", "tense": "present"}
-{"pattern": "[Y] otthona [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}
-{"pattern": "[Y] otthoni [X]", "lemma": "home", "extended_lemma": "home-to", "tense": "present"}

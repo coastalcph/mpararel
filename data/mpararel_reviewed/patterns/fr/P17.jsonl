@@ -1,0 +1,9 @@
+{"pattern": "[X] est situ\u00e9 en [Y]", "checked-by-human": true}
+{"pattern": "[X], qui est situ\u00e9 au [Y]", "checked-by-human": true}
+{"pattern": "[X] est situ\u00e9 au [Y]", "checked-by-human": true}
+{"pattern": "[X], qui se trouve en [Y]", "checked-by-human": true}
+{"pattern": "[X] est situ\u00e9 dans [Y]", "checked-by-human": false}
+{"pattern": "[X], qui est situ\u00e9 en [Y]", "checked-by-human": true}
+{"pattern": "[X], situ\u00e9 dans [Y]", "checked-by-human": false}
+{"pattern": "[X], qui se trouve au [Y]", "checked-by-human": true}
+{"pattern": "[X] se trouve dans [Y]", "checked-by-human": false}

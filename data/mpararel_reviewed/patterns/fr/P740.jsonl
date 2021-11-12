@@ -1,0 +1,25 @@
+{"pattern": "[X] a \u00e9t\u00e9 cr\u00e9\u00e9 dans [Y]", "checked-by-human": false}
+{"pattern": "[X], qui a \u00e9t\u00e9 form\u00e9 dans [Y]", "checked-by-human": false}
+{"pattern": "[X], fond\u00e9e en [Y]", "checked-by-human": false}
+{"pattern": "[X], qui a \u00e9t\u00e9 cr\u00e9\u00e9 \u00e1 [Y]", "checked-by-human": true}
+{"pattern": "[X], cr\u00e9\u00e9 en [Y]", "checked-by-human": false}
+{"pattern": "[X] a \u00e9t\u00e9 form\u00e9 dans [Y]", "checked-by-human": false}
+{"pattern": "[X] form\u00e9 dans [Y]", "checked-by-human": false}
+{"pattern": "[X], qui a commenc\u00e9 \u00e1 [Y]", "checked-by-human": true}
+{"pattern": "[X], fond\u00e9 \u00e1 [Y]", "checked-by-human": true}
+{"pattern": "[X] a \u00e9t\u00e9 fond\u00e9e dans [Y]", "checked-by-human": false}
+{"pattern": "[X], cr\u00e9\u00e9 \u00e1 [Y]", "checked-by-human": true}
+{"pattern": "[X] a \u00e9t\u00e9 constitu\u00e9e \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] a \u00e9t\u00e9 d\u00e9marr\u00e9 \u00e1 [Y]", "checked-by-human": true}
+{"pattern": "la [X] est n\u00e9e \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] a d\u00e9marr\u00e9 \u00e1 [Y]", "checked-by-human": true}
+{"pattern": "[X] est originaire \u00e1 [Y]", "checked-by-human": true}
+{"pattern": "le [X] est n\u00e9e \u00e0 [Y]", "checked-by-human": true}
+{"pattern": "[X] a \u00e9t\u00e9 lanc\u00e9 \u00e1 [Y]", "checked-by-human": true}
+{"pattern": "[X] a \u00e9t\u00e9 cr\u00e9\u00e9 en [Y]", "checked-by-human": false}
+{"pattern": "[X] a \u00e9t\u00e9 fond\u00e9e \u00e1 [Y]", "checked-by-human": true}
+{"pattern": "[X] qui a \u00e9t\u00e9 fond\u00e9e en [Y]", "checked-by-human": false}
+{"pattern": "[X] a commenc\u00e9 \u00e1 [Y]", "checked-by-human": true}
+{"pattern": "[X], qui s\u2019est form\u00e9 en [Y]", "checked-by-human": false}
+{"pattern": "[X], qui provient de [Y]", "checked-by-human": false}
+{"pattern": "[X] est originaire de [Y]", "checked-by-human": true}

@@ -1,6 +1,0 @@
-{"pattern": "[X] speelt [Y] muziek .", "lemma": "plays-music", "extended_lemma": "plays-music", "tense": "present"}
-{"pattern": "[X], die [Y] muziek speelt", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
-{"pattern": "[X] speelt [Y].", "lemma": "plays", "extended_lemma": "plays", "tense": "present"}
-{"pattern": "[X], die [Y] speelt.", "lemma": "who-plays", "extended_lemma": "who-plays", "tense": "present"}
-{"pattern": "[Y] musici [X].", "lemma": "musicians", "extended_lemma": "musicians", "tense": "present"}
-{"pattern": "[Y] musici zoals [X].", "lemma": "musicians-such", "extended_lemma": "musicians-such", "tense": "present"}

@@ -1,0 +1,14 @@
+{"pattern": "[X] blev oprettet i [Y]", "checked-by-human": false}
+{"pattern": "[X], der blev dannet i [Y]", "checked-by-human": false}
+{"pattern": "[X], der blev startet i [Y]", "checked-by-human": false}
+{"pattern": "[X] dannet i [Y]", "checked-by-human": false}
+{"pattern": "[X] opstod i [Y]", "checked-by-human": true}
+{"pattern": "[X] blev startet i [Y]", "checked-by-human": false}
+{"pattern": "[X], der blev grundlagt i [Y]", "checked-by-human": true}
+{"pattern": "[X] blev grundlagt i [Y]", "checked-by-human": true}
+{"pattern": "[X], der stammer fra [Y]", "checked-by-human": true}
+{"pattern": "[X] startede i [Y]", "checked-by-human": true}
+{"pattern": "[X] blev dannet i [Y]", "checked-by-human": true}
+{"pattern": "[X], grundlagt i [Y]", "checked-by-human": false}
+{"pattern": "[X], der blev oprettet i [Y]", "checked-by-human": true}
+{"pattern": "[X], oprettet i [Y]", "checked-by-human": false}

@@ -1,0 +1,5 @@
+{"pattern": "[Y] je [X] mate\u0159sk\u00fd jazyk", "checked-by-human": false}
+{"pattern": "[Y] je [X] rodn\u00fd jazyk", "checked-by-human": false}
+{"pattern": "rodn\u00fd jazyk [X] je [Y]", "checked-by-human": false}
+{"pattern": "mate\u0159sk\u00fd jazyk [X] je [Y]", "checked-by-human": false}
+{"pattern": "[Y] je mate\u0159sk\u00fd jazyk [X]", "checked-by-human": false}

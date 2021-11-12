@@ -1,7 +1,0 @@
-{"pattern": "J\u0119zyk [X] jest [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
-{"pattern": "J\u0119zyk [X] by\u0142 [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
-{"pattern": "[X] by\u0142 [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
-{"pattern": "J\u0119zykiem [X] by\u0142 [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
-{"pattern": "[Y] jest j\u0119zykiem [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
-{"pattern": "[Y] jest [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
-{"pattern": "[Y] by\u0142 j\u0119zykiem [X]", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

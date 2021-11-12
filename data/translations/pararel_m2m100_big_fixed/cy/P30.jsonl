@@ -1,4 +1,0 @@
-{"pattern": "[X] yn cael ei leoli yn [Y]", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] yn cael ei leoli yn y byd [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] yn bennaf i'r continent o [Y].", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
-{"pattern": "[X] yn rhan o'r Continent o [Y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

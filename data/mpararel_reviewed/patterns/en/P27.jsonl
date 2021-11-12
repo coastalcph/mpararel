@@ -1,0 +1,9 @@
+{"pattern": "[X], who holds a citizenship of [Y]", "checked-by-human": false}
+{"pattern": "[X], who is a citizen of [Y]", "checked-by-human": false}
+{"pattern": "[X], who has a citizenship of [Y]", "checked-by-human": false}
+{"pattern": "as a citizen of [Y], [X]", "checked-by-human": false}
+{"pattern": "[X] holds a citizenship of [Y]", "checked-by-human": false}
+{"pattern": "[X] is a citizen of [Y]", "checked-by-human": false}
+{"pattern": "[X], a citizen of [Y]", "checked-by-human": false}
+{"pattern": "[X] has a citizenship of [Y]", "checked-by-human": false}
+{"pattern": "[X] is [Y] citizen", "checked-by-human": false}

@@ -1,6 +1,0 @@
-{"pattern": "Die Originalsprache von [X] ist [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
-{"pattern": "Die Originalsprache von [X] war [Y].", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
-{"pattern": "Die Sprache von [X] ist [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
-{"pattern": "Die Sprache von [X] war [Y].", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
-{"pattern": "[Y] ist die Sprache von [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
-{"pattern": "[Y] war die Sprache von [X].", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

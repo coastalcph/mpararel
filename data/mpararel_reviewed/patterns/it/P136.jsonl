@@ -1,0 +1,7 @@
+{"pattern": "[X], che interpreta [Y]", "checked-by-human": false}
+{"pattern": "[X] riproduce [Y] musica", "checked-by-human": false}
+{"pattern": "[X], che suona musica [Y]", "checked-by-human": false}
+{"pattern": "[X] riproduce la musica [Y]", "checked-by-human": false}
+{"pattern": "musicisti [Y] come [X]", "checked-by-human": true}
+{"pattern": "[X], che suona [Y]", "checked-by-human": true}
+{"pattern": "[X] suona [Y]", "checked-by-human": true}

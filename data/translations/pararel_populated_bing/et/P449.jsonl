@@ -1,8 +1,0 @@
-{"pattern": "[X] algselt eetris [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
-{"pattern": "[X] oli algselt eetris [Y]", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
-{"pattern": "[Y] deb\u00fcteerib [X]", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
-{"pattern": "[Y] deb\u00fcteeris [X]", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
-{"pattern": "[Y] vabastamine [X]", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
-{"pattern": "[X] vabastati [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
-{"pattern": "[X] ilmus [Y]", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
-{"pattern": "[Y] vabastas [X]", "lemma": "release", "extended_lemma": "release", "tense": "past"}

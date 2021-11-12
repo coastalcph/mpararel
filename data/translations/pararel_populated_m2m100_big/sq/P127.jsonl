@@ -1,7 +1,0 @@
-{"pattern": "[X] \u00ebsht\u00eb n\u00eb pron\u00ebsi t\u00eb [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "[X] i [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
-{"pattern": "[X] n\u00eb pron\u00ebsi t\u00eb [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
-{"pattern": "[X] n\u00eb [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
-{"pattern": "[Y] \u00ebsht\u00eb pronar i [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "[Y] \u00ebsht\u00eb [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "[Y] \u00ebsht\u00eb pronari i [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}

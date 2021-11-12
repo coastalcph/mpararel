@@ -1,0 +1,6 @@
+{"pattern": "[Y] je lastnik [X]", "checked-by-human": false}
+{"pattern": "[X] lastnik [Y]", "checked-by-human": false}
+{"pattern": "[X] je v lasti [Y]", "checked-by-human": false}
+{"pattern": "[X] je last [Y]", "checked-by-human": false}
+{"pattern": "[Y] ima [X]", "checked-by-human": false}
+{"pattern": "[Y] v lasti [X]", "checked-by-human": false}

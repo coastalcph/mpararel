@@ -1,4 +1,0 @@
-{"pattern": "[X] se afl\u0103 \u00een [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in", "tense": "present"}
-{"pattern": "[X] se afl\u0103 pe continentul [Y].", "lemma": "is-locate", "extended_lemma": "is-locate-in-continent", "tense": "present"}
-{"pattern": "[X] apar\u0163ine continentului [Y].", "lemma": "belong", "extended_lemma": "belong-to-continent", "tense": "present"}
-{"pattern": "[X] face parte din continentul [Y].", "lemma": "part", "extended_lemma": "part-of-continent", "tense": "present"}

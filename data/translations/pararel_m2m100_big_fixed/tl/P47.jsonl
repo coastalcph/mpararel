@@ -1,9 +1,0 @@
-{"pattern": "[X] ay naglalaman ng mga border sa [Y]", "lemma": "border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] Mga limitasyon sa [Y]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "[X] ay binubuo ng border sa [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] ay naglalaman ng kanyang limitasyon sa [Y]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[X] ay binubuo ng isang common border na may [Y].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}
-{"pattern": "Ang mga limitasyon ay may [X]", "lemma": "border", "extended_lemma": "border-with", "tense": "present"}
-{"pattern": "[Y] ay binubuo ng border sa [X]", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] ay naglalaman ng kanyang limitasyon sa [X].", "lemma": "share-border", "extended_lemma": "share-border", "tense": "present"}
-{"pattern": "[Y] ay binubuo ng isang common border na may [X].", "lemma": "share-common-border", "extended_lemma": "share-common-border", "tense": "present"}

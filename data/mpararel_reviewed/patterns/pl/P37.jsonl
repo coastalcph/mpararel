@@ -1,0 +1,11 @@
+{"pattern": "oficjalnym j\u0119zykiem [X] jest [Y]", "checked-by-human": false}
+{"pattern": "j\u0119zykiem urz\u0119dowym [X] jest j\u0119zyk [Y]", "checked-by-human": false}
+{"pattern": "j\u0119zyk [Y] jest j\u0119zykiem urz\u0119dowym [X]", "checked-by-human": true}
+{"pattern": "[Y] jest j\u0119zykiem urz\u0119dowym [X]", "checked-by-human": true}
+{"pattern": "prawo w [X] definiuje j\u0119zyk [Y] jako j\u0119zyk urz\u0119dowy", "checked-by-human": false}
+{"pattern": "j\u0119zykiem urz\u0119dowym [X] jest [Y]", "checked-by-human": true}
+{"pattern": "prawo w [X] definiuje [Y] jako j\u0119zyk urz\u0119dowy", "checked-by-human": true}
+{"pattern": "w [X] [Y] jest j\u0119zykiem urz\u0119dowym", "checked-by-human": false}
+{"pattern": "prawo w [X] okre\u015bla [Y] jako j\u0119zyk urz\u0119dowy", "checked-by-human": false}
+{"pattern": "oficjalnie [Y] jest j\u0119zykiem [X]", "checked-by-human": false}
+{"pattern": "w [X], [Y] jest j\u0119zykiem urz\u0119dowym", "checked-by-human": true}

@@ -1,0 +1,11 @@
+{"pattern": "[Y], ibu kota [X]", "checked-by-human": false}
+{"pattern": "[X], yang memiliki ibu kota [Y]", "checked-by-human": false}
+{"pattern": "ibu kota [X]adalah [Y]", "checked-by-human": false}
+{"pattern": "[X], yang mempunyai ibu kota [Y]", "checked-by-human": false}
+{"pattern": "[X]'s capital, [Y]", "checked-by-human": false}
+{"pattern": "[Y], itu adalah ibu kota [X]", "checked-by-human": false}
+{"pattern": "modal [X] ialah [Y]", "checked-by-human": false}
+{"pattern": "[X], yang mempunyai modal [Y]", "checked-by-human": false}
+{"pattern": "[Y] adalah ibu kota [X]", "checked-by-human": false}
+{"pattern": "[X]ibu kota, [Y]", "checked-by-human": false}
+{"pattern": "ibu kota [X] adalah [Y]", "checked-by-human": false}

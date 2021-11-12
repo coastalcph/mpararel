@@ -1,0 +1,9 @@
+{"pattern": "[X] spielt als [Y]", "checked-by-human": true}
+{"pattern": "spielt als [Y], [X]", "checked-by-human": true}
+{"pattern": "[X] spielt in der position [Y]", "checked-by-human": false}
+{"pattern": "[X] spielt in der position als [Y]", "checked-by-human": true}
+{"pattern": "[X], der in [Y]-position spielt", "checked-by-human": true}
+{"pattern": "[X] spielt in [Y]-position", "checked-by-human": true}
+{"pattern": "[X], der in [Y] position spielt", "checked-by-human": false}
+{"pattern": "[X] spielt in [Y] position", "checked-by-human": false}
+{"pattern": "[X] spielt in der position von [Y]", "checked-by-human": true}

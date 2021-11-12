@@ -1,0 +1,7 @@
+{"pattern": "sproget i [X] er [Y]", "checked-by-human": false}
+{"pattern": "[Y] er sproget i [X]", "checked-by-human": false}
+{"pattern": "originalsproget p\u00e5 [X] er [Y]", "checked-by-human": false}
+{"pattern": "originalsproget for [X] er [Y]", "checked-by-human": true}
+{"pattern": "[Y] var sproget i [X]", "checked-by-human": false}
+{"pattern": "[X]s oprindelige sprog var [Y]", "checked-by-human": true}
+{"pattern": "[X] sprog var [Y]", "checked-by-human": false}

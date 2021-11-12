@@ -1,0 +1,8 @@
+{"pattern": "[Y] und [X] sind zwillingsst\u00e4dte", "checked-by-human": true}
+{"pattern": "[Y] ist eine partnerstadt von [X]", "checked-by-human": true}
+{"pattern": "[X] ist eine zwillingsstadt von [Y]", "checked-by-human": true}
+{"pattern": "[Y] und [X] sind partnerst\u00e4dte", "checked-by-human": true}
+{"pattern": "[X] ist eine partnerstadt von [Y]", "checked-by-human": true}
+{"pattern": "[Y] ist eine zwillingsstadt von [X]", "checked-by-human": true}
+{"pattern": "[X] und [Y] sind zwillingsst\u00e4dte", "checked-by-human": false}
+{"pattern": "[X] und [Y] sind partnerst\u00e4dte", "checked-by-human": false}

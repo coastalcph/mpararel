@@ -1,9 +1,0 @@
-{"pattern": "[X] es situada [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
-{"pattern": "[X] es [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
-{"pattern": "[X] es situat [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
-{"pattern": "[X] es [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
-{"pattern": "[X] es a [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
-{"pattern": "[X] de [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
-{"pattern": "[X] se p\u00f2t trobar [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
-{"pattern": "[X] se p\u00f2t trobar a [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}
-{"pattern": "[X] se p\u00f2t trobar en [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}

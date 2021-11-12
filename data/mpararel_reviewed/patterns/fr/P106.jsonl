@@ -1,0 +1,10 @@
+{"pattern": "l'occupation de [X] est [Y]", "checked-by-human": false}
+{"pattern": "[X] fonctionne comme [Y]", "checked-by-human": false}
+{"pattern": "[X] travaille comme [Y]", "checked-by-human": true}
+{"pattern": "la profession de [X] est [Y]", "checked-by-human": true}
+{"pattern": "[X] est un [Y] de profession", "checked-by-human": true}
+{"pattern": "la profession de [X] est un [Y]", "checked-by-human": true}
+{"pattern": "le m\u00e9tier de [X] est [Y]", "checked-by-human": true}
+{"pattern": "l\u2019occupation de [X] est [Y]", "checked-by-human": false}
+{"pattern": "[X], qui travaille comme [Y]", "checked-by-human": true}
+{"pattern": "[X] est un [Y] par formation", "checked-by-human": false}

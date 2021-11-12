@@ -1,9 +1,0 @@
-{"pattern": "[X] kalba yra [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
-{"pattern": "Originali [X] kalba yra [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
-{"pattern": "Originalo kalba [X] yra [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "present"}
-{"pattern": "[X] kalba buvo [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
-{"pattern": "Originalo kalba [X] buvo [Y]", "lemma": "language", "extended_lemma": "original-language-is", "tense": "past"}
-{"pattern": "[X] kalba yra [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "present"}
-{"pattern": "[X] kalba buvo [Y]", "lemma": "language", "extended_lemma": "language-is", "tense": "past"}
-{"pattern": "[Y] kalba yra [X] kalba.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "present"}
-{"pattern": "[Y] kalba buvo [X] kalba.", "lemma": "language", "extended_lemma": "is-language-of", "tense": "past"}

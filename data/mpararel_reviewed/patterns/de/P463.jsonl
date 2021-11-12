@@ -1,0 +1,8 @@
+{"pattern": "[X] ist ein teil der [Y] organisation", "checked-by-human": true}
+{"pattern": "[X] geh\u00f6rt zur organisation [Y]", "checked-by-human": true}
+{"pattern": "[X] ist mit der [Y]-organisation verbunden", "checked-by-human": true}
+{"pattern": "[X] ist ein mitglied von [Y]", "checked-by-human": true}
+{"pattern": "[X] ist mit [Y] verbunden", "checked-by-human": false}
+{"pattern": "[X] ist mitglied von [Y]", "checked-by-human": false}
+{"pattern": "[X] ist ein teil der [Y]-organisation", "checked-by-human": true}
+{"pattern": "[X] geh\u00f6rt zur organisation von [Y]", "checked-by-human": false}

@@ -1,5 +1,0 @@
-{"pattern": "[X] ist ein Mitglied von [Y]", "lemma": "member", "extended_lemma": "is-member-of", "tense": "present"}
-{"pattern": "[X] geh\u00f6rt zur Organisation von [Y]", "lemma": "belong", "extended_lemma": "belong-to-organization", "tense": "present"}
-{"pattern": "[X] ist ein Teil der [Y] Organisation.", "lemma": "part", "extended_lemma": "is-part-of-organization", "tense": "present"}
-{"pattern": "[X] ist mit [Y] verbunden", "lemma": "affiliate", "extended_lemma": "affiliate-with", "tense": "present"}
-{"pattern": "[X] ist mit der [Y] Organisation verbunden.", "lemma": "affiliate", "extended_lemma": "affiliate-with-organization", "tense": "present"}

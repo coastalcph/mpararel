@@ -1,0 +1,14 @@
+{"pattern": "als b\u00fcrger von [Y], [X]", "checked-by-human": true}
+{"pattern": "[X] hat eine staatsb\u00fcrgerschaft von [Y]", "checked-by-human": true}
+{"pattern": "[X], der b\u00fcrger von [Y] ist", "checked-by-human": true}
+{"pattern": "[X] ist [Y] buerger", "checked-by-human": true}
+{"pattern": "[X] besitzt die staatsb\u00fcrgerschaft von [Y]", "checked-by-human": true}
+{"pattern": "[X], ein b\u00fcrger von [Y]", "checked-by-human": true}
+{"pattern": "[X], der eine staatsb\u00fcrgerschaft von [Y] besitzt", "checked-by-human": true}
+{"pattern": "[X], der ein b\u00fcrger von [Y] ist", "checked-by-human": false}
+{"pattern": "[X] ist [Y] b\u00fcrger", "checked-by-human": false}
+{"pattern": "[X], der die staatsb\u00fcrgerschaft von [Y] besitzt", "checked-by-human": false}
+{"pattern": "[X], der eine staatsb\u00fcrgerschaft von [Y] h\u00e4lt", "checked-by-human": true}
+{"pattern": "[X] hat die staatsb\u00fcrgerschaft von [Y]", "checked-by-human": true}
+{"pattern": "[X] ist ein b\u00fcrger von [Y]", "checked-by-human": true}
+{"pattern": "[X], der eine staatsb\u00fcrgerschaft von [Y] hat", "checked-by-human": false}

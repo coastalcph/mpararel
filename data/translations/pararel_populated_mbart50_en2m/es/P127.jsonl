@@ -1,5 +1,0 @@
-{"pattern": "[X] es propiedad de [Y]", "lemma": "owned-by", "extended_lemma": "owned-by", "tense": "present"}
-{"pattern": "[X] propietario [Y]", "lemma": "owner", "extended_lemma": "owner", "tense": "present"}
-{"pattern": "[Y] posee [X]", "lemma": "own", "extended_lemma": "own", "tense": "present"}
-{"pattern": "[X] de [Y]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}
-{"pattern": "La [X] de [Y]", "lemma": "owned-by", "extended_lemma": "owned", "tense": "present"}

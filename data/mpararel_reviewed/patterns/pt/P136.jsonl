@@ -1,0 +1,7 @@
+{"pattern": "[X] toca [Y]", "checked-by-human": true}
+{"pattern": "[X], que joga [Y]", "checked-by-human": false}
+{"pattern": "[X], que toca [Y] m\u00fasica", "checked-by-human": false}
+{"pattern": "[X] toca m\u00fasica [Y]", "checked-by-human": false}
+{"pattern": "m\u00fasicos de [Y] como [X]", "checked-by-human": true}
+{"pattern": "[X] joga [Y]", "checked-by-human": false}
+{"pattern": "[X] \u00e9 m\u00fasico de [Y]", "checked-by-human": true}

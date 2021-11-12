@@ -1,8 +1,0 @@
-{"pattern": "Mae [X] wedi'i lleoli yn [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
-{"pattern": "Mae [X] yn [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
-{"pattern": "Mae [X] wedi'i [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
-{"pattern": "Mae [X] leoli yn [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
-{"pattern": "Mae [X] wedi'i leoli yn [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
-{"pattern": "Mae [X] wedi'i leoli [Y]", "lemma": "located-in", "extended_lemma": "located-in", "tense": "present"}
-{"pattern": "Mae [X] yn [Y]", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}
-{"pattern": "Gellir dod o hyd i [X] yn [Y]", "lemma": "found-in", "extended_lemma": "found-in", "tense": "present"}

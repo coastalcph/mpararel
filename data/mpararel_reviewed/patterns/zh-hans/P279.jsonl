@@ -1,0 +1,4 @@
+{"pattern": "[X]\uff0c[Y]\u7684\u5b50\u7c7b", "checked-by-human": true}
+{"pattern": "[X]\uff0c\u8fd9\u662f[Y]\u7684\u5b50\u7c7b", "checked-by-human": false}
+{"pattern": "[X]\uff0c\u4e00\u79cd[Y]", "checked-by-human": true}
+{"pattern": "[X] \u662f [Y] \u7684\u5b50\u7c7b", "checked-by-human": false}

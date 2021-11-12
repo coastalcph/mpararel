@@ -1,9 +1,0 @@
-{"pattern": "[X] ang [Y] Citizen.", "lemma": "citizen", "extended_lemma": "is-citizen", "tense": "present"}
-{"pattern": "[X] usa ka lungsuranon sa [Y].", "lemma": "citizen", "extended_lemma": "is-citizen-of", "tense": "present"}
-{"pattern": "[X], usa ka lungsuranon sa [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "?"}
-{"pattern": "[X], kinsa usa ka lungsuranon sa [Y].", "lemma": "citizen", "extended_lemma": "citizen-of", "tense": "present"}
-{"pattern": "[X] naghupot sa usa ka pagkalungsuranon sa [Y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X] adunay usa ka pagkalungsoranon sa [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "[X], kinsa ang naghupot sa usa ka pagkalungsuranon sa [Y].", "lemma": "hold", "extended_lemma": "hold-citizenship-of", "tense": "present"}
-{"pattern": "[X], kinsa adunay usa ka pagkalungsuranon sa [Y].", "lemma": "have", "extended_lemma": "have-citizenship-of", "tense": "present"}
-{"pattern": "Ingon usa ka lungsuranon sa [Y], [X]", "lemma": "citizen", "extended_lemma": "as-citizen-of", "tense": "?"}

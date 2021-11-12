@@ -1,0 +1,5 @@
+{"pattern": "[X] est\u00e1 en el continente de [Y]", "checked-by-human": true}
+{"pattern": "[X] se encuentra en el continente [Y]", "checked-by-human": true}
+{"pattern": "[X] pertenece al continente de [Y]", "checked-by-human": true}
+{"pattern": "[X] es una parte del continente de [Y]", "checked-by-human": false}
+{"pattern": "[X] se encuentra en [Y]", "checked-by-human": false}

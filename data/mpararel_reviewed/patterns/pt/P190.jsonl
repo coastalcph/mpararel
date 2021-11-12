@@ -1,0 +1,4 @@
+{"pattern": "[Y] e [X] s\u00e3o cidades g\u00eameas", "checked-by-human": true}
+{"pattern": "[Y] \u00e9 uma cidade g\u00eamea de [X]", "checked-by-human": true}
+{"pattern": "[X] e [Y] s\u00e3o cidades g\u00eameas", "checked-by-human": false}
+{"pattern": "[X] \u00e9 uma cidade g\u00eamea de [Y]", "checked-by-human": false}

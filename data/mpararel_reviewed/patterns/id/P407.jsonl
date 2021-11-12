@@ -1,0 +1,11 @@
+{"pattern": "[X] adalah karya dalam bahasa [Y]", "checked-by-human": false}
+{"pattern": "[Y] adalah bahasa [X]", "checked-by-human": false}
+{"pattern": "bahasa [X] adalah [Y]", "checked-by-human": false}
+{"pattern": "kreasi [Y]-bahasa [X]", "checked-by-human": false}
+{"pattern": "[X], sebuah karya [Y]-bahasa", "checked-by-human": false}
+{"pattern": "[X] adalah karya [Y]-bahasa", "checked-by-human": false}
+{"pattern": "[X] adalah sebuah karya [Y]-bahasa", "checked-by-human": false}
+{"pattern": "[X], ditulis dalam bahasa [Y]", "checked-by-human": false}
+{"pattern": "[X] ditulis dalam [Y]", "checked-by-human": false}
+{"pattern": "[X] adalah sebuah karya dalam bahasa [Y]", "checked-by-human": false}
+{"pattern": "[X] ditulis dalam bahasa [Y]", "checked-by-human": false}

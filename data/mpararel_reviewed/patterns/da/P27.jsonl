@@ -1,0 +1,10 @@
+{"pattern": "som borger af [Y], [X]", "checked-by-human": true}
+{"pattern": "[X] har statsborgerskab i [Y]", "checked-by-human": true}
+{"pattern": "[X], en borger af [Y]", "checked-by-human": false}
+{"pattern": "[X], som har statsborgerskab i [Y]", "checked-by-human": false}
+{"pattern": "[X], en borger i [Y]", "checked-by-human": true}
+{"pattern": "[X], som er statsborger i [Y]", "checked-by-human": true}
+{"pattern": "[X] er [Y] borger", "checked-by-human": false}
+{"pattern": "[X] er en borger af [Y]", "checked-by-human": true}
+{"pattern": "som borger i [Y], [X]", "checked-by-human": false}
+{"pattern": "[X] er statsborger i [Y]", "checked-by-human": false}

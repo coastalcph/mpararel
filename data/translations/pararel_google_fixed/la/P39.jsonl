@@ -1,6 +1,0 @@
-{"pattern": "[X] habet locum [Y].", "lemma": "position", "extended_lemma": "position", "tense": "present"}
-{"pattern": "[X], qui habet locum [Y].", "lemma": "who-position", "extended_lemma": "who-position", "tense": "present"}
-{"pattern": "[X], cuius situ est quod [Y].", "lemma": "whose-position", "extended_lemma": "whose-position", "tense": "present"}
-{"pattern": "[X] 's positus est [Y].", "lemma": "s-position", "extended_lemma": "s-position", "tense": "present"}
-{"pattern": "[X], qui tenet locum [Y].", "lemma": "who-holds", "extended_lemma": "who-holds", "tense": "present"}
-{"pattern": "[X] tenet positionem [Y].", "lemma": "holds", "extended_lemma": "holds", "tense": "present"}
