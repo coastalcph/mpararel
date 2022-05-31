@@ -1,11 +1,10 @@
 """Queries the model and saves the predictions.
 
 python evaluate_consistency/get_model_predictions.py \
-    --mpararel_folder=$WORKDIR/data/mpararel_with_mlama \
+    --mpararel_folder=$WORKDIR/data/mpararel_reviewed \
     --model_name="bert-base-multilingual-cased" --batch_size=32 \
-    --output_folder=$WORKDIR/data/mpararel_predictions/mbert_cased_with_mlama_2 \
-    --path_to_existing_predictions=$WORKDIR/data/mpararel_predictions/mbert_cased \
-    --cpus 10
+    --output_folder=$WORKDIR/data/mpararel_predictions/mbert_cased_eval \
+    --cpus 10 --only_languages en
 """
 import argparse
 import json
@@ -302,6 +301,7 @@ def main(args):
     processes_pool = mp.Pool(processes=args.cpus)
 
     model, tokenizer = build_model_by_name(args.model_name, args.device)
+    model.eval()
     tuples_predictions = defaultdict(
         lambda: defaultdict(lambda: defaultdict(list)))
     (languages, relations, get_candidates, get_templates,

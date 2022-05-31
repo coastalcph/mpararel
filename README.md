@@ -9,6 +9,8 @@ The repository was forked from https://github.com/norakassner/mlama from where w
 
 You can find the reviewed templates and the subject-object tuples in the folder [`data/mpararel_reviewed`](https://github.com/coastalcph/mpararel/tree/master/data).
 
+Note that we did not report any numbers in Hindi (even though the data is available) since during the human review it was pointed out that the data looked really noisy.
+
 ## Reproduce the results
 
 ### Create an environment and install the requirements
@@ -46,6 +48,22 @@ You can also add the flags `--only_languages zh-hans` if you want don't want to 
 ## Recreate the dataset
 
 To recreate the generation of the dataset follow the steps in [`dataset/mpararel.sh`](https://github.com/coastalcph/mpararel/blob/master/dataset/mpararel.sh)
+
+## Reference
+```
+@inproceedings{fierro-sogaard-2022-factual,
+    title = "Factual Consistency of Multilingual Pretrained Language Models",
+    author = "Fierro, Constanza  and
+      S{\o}gaard, Anders",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-acl.240",
+    pages = "3046--3052",
+}
+```
 
 ## Acknowledgements
 
