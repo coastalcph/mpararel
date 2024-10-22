@@ -7,6 +7,10 @@ The repository was forked from https://github.com/norakassner/mlama from where w
 
 ## Dataset
 
+**Update:** You can now find the dataset also in HugginFace Datasets 🤗:
+- [coastalcph/mpararel](https://huggingface.co/datasets/coastalcph/mpararel)
+- [coastalcph/mpararel_autorr](https://huggingface.co/datasets/coastalcph/mpararel_autorr)
+
 You can find the reviewed templates and the subject-object tuples in the folder [`data/mpararel_reviewed`](https://github.com/coastalcph/mpararel/tree/master/data).
 
 Note that we did not report any numbers in Hindi (even though the data is available) since during the human review it was pointed out that the data looked really noisy.
