@@ -1,7 +1,6 @@
 # mParaRel
 
-This repository contains the code for the paper `"Factual Consistency of Multilingual Pretrained Language Models"`.
-It extends the original [ParaRel 🤘](https://github.com/yanaiela/pararel) dataset to a multilingual setting.
+This repository contains the code for the paper [`"Factual Consistency of Multilingual Pretrained Language Models"`](https://aclanthology.org/2022.findings-acl.240/). It extends the original [ParaRel 🤘](https://github.com/yanaiela/pararel) dataset to a multilingual setting, by using mutliple machine translation systems to translate the templates to 45 languages.
 
 The repository was forked from https://github.com/norakassner/mlama from where we used the translations scripts. 
 
